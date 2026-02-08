@@ -1,0 +1,29 @@
+# Binary
+bin/google-maps-scraper
+
+# Results (may contain sensitive business data)
+results/
+
+# Temp files
+.temp_queries*.txt
+.temp_gym_queries*.txt
+
+# Environment / secrets
+.env
+
+# Python virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Completed city tracking (local state)
+completed_cities.txt
+completed_gym_cities.txt
