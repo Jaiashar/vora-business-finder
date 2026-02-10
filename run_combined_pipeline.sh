@@ -189,32 +189,36 @@ run_worker() {
     echo "[W${worker_id}] WORKER COMPLETE: $done done, $failed failed"
 }
 
-# ── Assign 15 remaining cities to 3 workers ───────────────────
-
-# Remaining 6 cities
+# ── Los Angeles Wave 2 - Central LA / Hollywood ────────────────
 
 WORKER1_CITIES=(
-    "Placentia, CA"
-    "San Clemente, CA"
-    "San Juan Capistrano, CA"
+    "Hollywood, Los Angeles, CA"
+    "Silver Lake, Los Angeles, CA"
+    "Los Feliz, Los Angeles, CA"
+    "Echo Park, Los Angeles, CA"
+    "Downtown Los Angeles, CA"
 )
 
 WORKER2_CITIES=(
-    "Villa Park, CA"
-    "Westminster, CA"
-    "Yorba Linda, CA"
+    "Koreatown, Los Angeles, CA"
+    "Mid-Wilshire, Los Angeles, CA"
+    "Hancock Park, Los Angeles, CA"
+    "Larchmont, Los Angeles, CA"
+    "Atwater Village, Los Angeles, CA"
 )
 
-TOTAL_CITIES=6
+TOTAL_CITIES=10
+W1_COUNT=${#WORKER1_CITIES[@]}
+W2_COUNT=${#WORKER2_CITIES[@]}
 
 echo ""
 print_msg "$MAGENTA" "╔══════════════════════════════════════════════════════════╗"
-print_msg "$MAGENTA" "║    VORA COMBINED PIPELINE - Clinics + Gyms              ║"
-print_msg "$MAGENTA" "║    $TOTAL_CITIES cities | 2 parallel workers                        ║"
+print_msg "$MAGENTA" "║    VORA COMBINED PIPELINE - LA Wave 2 (Central LA)     ║"
+print_msg "$MAGENTA" "║    $TOTAL_CITIES neighborhoods | 2 parallel workers               ║"
 print_msg "$MAGENTA" "╚══════════════════════════════════════════════════════════╝"
 echo ""
-print_msg "$CYAN" "  Worker 1: Placentia, San Clemente, San Juan Capistrano"
-print_msg "$CYAN" "  Worker 2: Villa Park, Westminster, Yorba Linda"
+print_msg "$CYAN" "  Worker 1 (5): Hollywood, Silver Lake, Los Feliz, Echo Park, DTLA"
+print_msg "$CYAN" "  Worker 2 (5): Koreatown, Mid-Wilshire, Hancock Park, Larchmont, Atwater Village"
 echo ""
 
 START_TIME=$(date +%s)
@@ -250,7 +254,7 @@ while true; do
     W1_CURRENT=$(grep "Starting:" "$LOG_DIR/worker1.log" 2>/dev/null | tail -1 | sed 's/.*Starting: //' | sed 's/ =.*//' || echo "---")
     W2_CURRENT=$(grep "Starting:" "$LOG_DIR/worker2.log" 2>/dev/null | tail -1 | sed 's/.*Starting: //' | sed 's/ =.*//' || echo "---")
 
-    echo "[${ELAPSED_MIN}m] Workers: $ALIVE/2 | Done: $TOTAL_DONE/$TOTAL_CITIES | W1: $W1_CURRENT ($W1_DONE/3) | W2: $W2_CURRENT ($W2_DONE/3)"
+    echo "[${ELAPSED_MIN}m] Workers: $ALIVE/2 | Done: $TOTAL_DONE/$TOTAL_CITIES | W1: $W1_CURRENT ($W1_DONE/$W1_COUNT) | W2: $W2_CURRENT ($W2_DONE/$W2_COUNT)"
 
     if [[ $ALIVE -eq 0 ]]; then
         break

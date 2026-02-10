@@ -1,0 +1,333 @@
+{
+  "test_date": "2026-02-09T21:33:50.582827",
+  "accounts_tested": [
+    "kayla_itsines",
+    "jeff_nippard",
+    "whitneyysimmons",
+    "ucaborec",
+    "ucloarec",
+    "chloeting",
+    "bretcontreras1",
+    "drjohnrusin",
+    "soheefit",
+    "mindpumpmedia"
+  ],
+  "tool_a_instaloader": {
+    "tool": "Instaloader",
+    "emails_found": 1,
+    "errors": 3,
+    "elapsed_seconds": 55.6,
+    "results": [
+      {
+        "username": "kayla_itsines",
+        "bio": "Founder @SWEAT \ud83e\ude77\nMum & wife \ud83d\udc8d\ud83d\udc76\ud83c\udffb\ud83d\udc67\ud83c\udffb\u2028I\u2019ve helped over 12 million women transform their lives\nI can help you too for less than 40 cents a day \ud83d\ude01\u2b07\ufe0f",
+        "emails": [],
+        "external_url": "http://sweat.com/k/7dayfreetrial",
+        "followers": 15638346,
+        "is_business": true,
+        "error": null
+      },
+      {
+        "username": "jeff_nippard",
+        "bio": null,
+        "emails": [],
+        "external_url": null,
+        "followers": null,
+        "is_business": null,
+        "error": "connection error: JSON Query to web/search/topsearch/: 401 Unauthorized - \"fail\" status, message \""
+      },
+      {
+        "username": "whitneyysimmons",
+        "bio": "It\u2019s a beautiful day to be ALIVE \ud83c\udf6d\ud83d\udefc\ud83e\uded0\ud83e\udee7\ud83e\ude75\nTrain with me on @thealiveapp\n\u2063\u2063\u2063\nGymshark & Alani Nu Athlete | code: whitney10\n\ud83d\udc8c teamwhitney@smithsaint.com",
+        "emails": [
+          "teamwhitney@smithsaint.com"
+        ],
+        "external_url": "https://linktr.ee/Whitneyysimmons",
+        "followers": 4026577,
+        "is_business": false,
+        "error": null
+      },
+      {
+        "username": "ucaborec",
+        "bio": null,
+        "emails": [],
+        "external_url": null,
+        "followers": null,
+        "is_business": null,
+        "error": "connection error: JSON Query to web/search/topsearch/: 401 Unauthorized - \"fail\" status, message \""
+      },
+      {
+        "username": "ucloarec",
+        "bio": null,
+        "emails": [],
+        "external_url": null,
+        "followers": null,
+        "is_business": null,
+        "error": "connection error: JSON Query to web/search/topsearch/: 401 Unauthorized - \"fail\" status, message \""
+      },
+      {
+        "username": "chloeting",
+        "bio": "",
+        "emails": [],
+        "external_url": null,
+        "followers": 72,
+        "is_business": false,
+        "error": null
+      },
+      {
+        "username": "bretcontreras1",
+        "bio": "PhD, Biomechanics, CSCS,*D\nInventor of Barbell Hip Thrust\nTrainer for 30 Years\n@bootybybretofficial\n@bcstrengthofficial\nClick\ud83d\udc47\ud83c\udffd for Programs/Equipment",
+        "emails": [],
+        "external_url": "https://linktr.ee/bretcontreras",
+        "followers": 1751011,
+        "is_business": false,
+        "error": null
+      },
+      {
+        "username": "drjohnrusin",
+        "bio": "\ud83c\udfc5America\u2019s Top 50 Health & Fitness Expert\n\ud83d\udcc3Founder/CEO Pain-Free Performance\n\ud83d\udc47Get My Book, Join My App, Apply For Coaching",
+        "emails": [],
+        "external_url": "http://train.becomeunbreakable.com/",
+        "followers": 370482,
+        "is_business": true,
+        "error": null
+      },
+      {
+        "username": "soheefit",
+        "bio": "Realistic health and fitness \ud83d\udcaa\ud83e\udd70\u2028\ud83d\udc93@momentumbysohee app \n\ud83d\udc93@allorsomethingpodcast\u2028\ud83d\udc93@pescience\u00a0@runna soheefit\n\ud83d\udc97@adidas athlete",
+        "emails": [],
+        "external_url": "https://linktr.ee/SoheeFit",
+        "followers": 670274,
+        "is_business": true,
+        "error": null
+      },
+      {
+        "username": "mindpumpmedia",
+        "bio": "\ud83c\udf99\ufe0f Top Fitness Podcast | 100M+ Downloads\n\ud83d\udd25 Real fitness advice that actually works\n\ud83c\udfa7 Listen on Spotify, Apple, YouTube\n\ud83d\udc47 Free workout programs & tools",
+        "emails": [],
+        "external_url": "https://mindpump.komi.io/",
+        "followers": 370671,
+        "is_business": true,
+        "error": null
+      }
+    ]
+  },
+  "tool_b_web_scraping": {
+    "tool": "Web Scraping",
+    "emails_found": 0,
+    "errors": 0,
+    "elapsed_seconds": 24.4,
+    "results": [
+      {
+        "username": "kayla_itsines",
+        "bio": null,
+        "emails": [],
+        "external_url": null,
+        "followers": null,
+        "error": null
+      },
+      {
+        "username": "jeff_nippard",
+        "bio": null,
+        "emails": [],
+        "external_url": null,
+        "followers": null,
+        "error": null
+      },
+      {
+        "username": "whitneyysimmons",
+        "bio": null,
+        "emails": [],
+        "external_url": null,
+        "followers": null,
+        "error": null
+      },
+      {
+        "username": "ucaborec",
+        "bio": null,
+        "emails": [],
+        "external_url": null,
+        "followers": null,
+        "error": null
+      },
+      {
+        "username": "ucloarec",
+        "bio": null,
+        "emails": [],
+        "external_url": null,
+        "followers": null,
+        "error": null
+      },
+      {
+        "username": "chloeting",
+        "bio": null,
+        "emails": [],
+        "external_url": null,
+        "followers": null,
+        "error": null
+      },
+      {
+        "username": "bretcontreras1",
+        "bio": null,
+        "emails": [],
+        "external_url": null,
+        "followers": null,
+        "error": null
+      },
+      {
+        "username": "drjohnrusin",
+        "bio": null,
+        "emails": [],
+        "external_url": null,
+        "followers": null,
+        "error": null
+      },
+      {
+        "username": "soheefit",
+        "bio": null,
+        "emails": [],
+        "external_url": null,
+        "followers": null,
+        "error": null
+      },
+      {
+        "username": "mindpumpmedia",
+        "bio": null,
+        "emails": [],
+        "external_url": null,
+        "followers": null,
+        "error": null
+      }
+    ]
+  },
+  "tool_c_graphql_api": {
+    "tool": "GraphQL API",
+    "emails_found": 1,
+    "errors": 3,
+    "elapsed_seconds": 30.1,
+    "results": [
+      {
+        "username": "kayla_itsines",
+        "bio": "Founder @SWEAT \ud83e\ude77\nMum & wife \ud83d\udc8d\ud83d\udc76\ud83c\udffb\ud83d\udc67\ud83c\udffb\u2028I\u2019ve helped over 12 million women transform their lives\nI can help you too for less than 40 cents a day \ud83d\ude01\u2b07\ufe0f",
+        "emails": [],
+        "external_url": "http://sweat.com/k/7dayfreetrial",
+        "followers": 15638344,
+        "is_business": true,
+        "business_email": null,
+        "business_phone": null,
+        "category": null,
+        "error": null
+      },
+      {
+        "username": "jeff_nippard",
+        "bio": null,
+        "emails": [],
+        "external_url": null,
+        "followers": null,
+        "is_business": null,
+        "business_email": null,
+        "business_phone": null,
+        "category": null,
+        "error": "user object empty"
+      },
+      {
+        "username": "whitneyysimmons",
+        "bio": "It\u2019s a beautiful day to be ALIVE \ud83c\udf6d\ud83d\udefc\ud83e\uded0\ud83e\udee7\ud83e\ude75\nTrain with me on @thealiveapp\n\u2063\u2063\u2063\nGymshark & Alani Nu Athlete | code: whitney10\n\ud83d\udc8c teamwhitney@smithsaint.com",
+        "emails": [
+          "teamwhitney@smithsaint.com"
+        ],
+        "external_url": "https://linktr.ee/Whitneyysimmons",
+        "followers": 4026578,
+        "is_business": false,
+        "business_email": null,
+        "business_phone": null,
+        "category": null,
+        "error": null
+      },
+      {
+        "username": "ucaborec",
+        "bio": null,
+        "emails": [],
+        "external_url": null,
+        "followers": null,
+        "is_business": null,
+        "business_email": null,
+        "business_phone": null,
+        "category": null,
+        "error": "HTTP 404: <!DOCTYPE html>\n<html lang=\"en\" class=\"no-js not-logged-in \">\n    <head>\n        <meta charset=\"utf-"
+      },
+      {
+        "username": "ucloarec",
+        "bio": null,
+        "emails": [],
+        "external_url": null,
+        "followers": null,
+        "is_business": null,
+        "business_email": null,
+        "business_phone": null,
+        "category": null,
+        "error": "HTTP 404: <!DOCTYPE html>\n<html lang=\"en\" class=\"no-js not-logged-in \">\n    <head>\n        <meta charset=\"utf-"
+      },
+      {
+        "username": "chloeting",
+        "bio": "",
+        "emails": [],
+        "external_url": null,
+        "followers": 72,
+        "is_business": false,
+        "business_email": null,
+        "business_phone": null,
+        "category": null,
+        "error": null
+      },
+      {
+        "username": "bretcontreras1",
+        "bio": "PhD, Biomechanics, CSCS,*D\nInventor of Barbell Hip Thrust\nTrainer for 30 Years\n@bootybybretofficial\n@bcstrengthofficial\nClick\ud83d\udc47\ud83c\udffd for Programs/Equipment",
+        "emails": [],
+        "external_url": "https://linktr.ee/bretcontreras",
+        "followers": 1751011,
+        "is_business": false,
+        "business_email": null,
+        "business_phone": null,
+        "category": "Fitness Trainer",
+        "error": null
+      },
+      {
+        "username": "drjohnrusin",
+        "bio": "\ud83c\udfc5America\u2019s Top 50 Health & Fitness Expert\n\ud83d\udcc3Founder/CEO Pain-Free Performance\n\ud83d\udc47Get My Book, Join My App, Apply For Coaching",
+        "emails": [],
+        "external_url": "http://train.becomeunbreakable.com/",
+        "followers": 370482,
+        "is_business": true,
+        "business_email": null,
+        "business_phone": null,
+        "category": null,
+        "error": null
+      },
+      {
+        "username": "soheefit",
+        "bio": "Realistic health and fitness \ud83d\udcaa\ud83e\udd70\u2028\ud83d\udc93@momentumbysohee app \n\ud83d\udc93@allorsomethingpodcast\u2028\ud83d\udc93@pescience\u00a0@runna soheefit\n\ud83d\udc97@adidas athlete",
+        "emails": [],
+        "external_url": "https://linktr.ee/SoheeFit",
+        "followers": 670274,
+        "is_business": true,
+        "business_email": null,
+        "business_phone": null,
+        "category": "Entrepreneur",
+        "error": null
+      },
+      {
+        "username": "mindpumpmedia",
+        "bio": "\ud83c\udf99\ufe0f Top Fitness Podcast | 100M+ Downloads\n\ud83d\udd25 Real fitness advice that actually works\n\ud83c\udfa7 Listen on Spotify, Apple, YouTube\n\ud83d\udc47 Free workout programs & tools",
+        "emails": [],
+        "external_url": "https://mindpump.komi.io/",
+        "followers": 370671,
+        "is_business": true,
+        "business_email": null,
+        "business_phone": null,
+        "category": "Product/service",
+        "error": null
+      }
+    ]
+  }
+}
