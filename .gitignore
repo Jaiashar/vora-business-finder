@@ -24,6 +24,10 @@ __pycache__/
 # Logs
 *.log
 
-# Completed city tracking (local state)
+# Completed city/zip tracking (local state)
 completed_cities.txt
 completed_gym_cities.txt
+completed_zips.txt
+
+# Sent email tracking (local state)
+sent_emails.json
