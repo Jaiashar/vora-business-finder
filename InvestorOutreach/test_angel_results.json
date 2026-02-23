@@ -1,0 +1,209 @@
+{
+  "AngelList / Wellfound Browse": {
+    "category": "Angel Directories & Lists",
+    "emails": [],
+    "email_count": 0,
+    "notes": "Major angel investor directory",
+    "urls_tested": [
+      "https://wellfound.com/investors",
+      "https://angel.co/investors"
+    ]
+  },
+  "Crunchbase Angel Investors": {
+    "category": "Angel Directories & Lists",
+    "emails": [],
+    "email_count": 0,
+    "notes": "Crunchbase investor listings",
+    "urls_tested": [
+      "https://www.crunchbase.com/discover/people/angel-investors",
+      "https://www.crunchbase.com/lists/active-angel-investors"
+    ]
+  },
+  "Signal by NFX": {
+    "category": "Angel Directories & Lists",
+    "emails": [
+      "qed@nfx.com"
+    ],
+    "email_count": 1,
+    "notes": "Investor search platform",
+    "urls_tested": [
+      "https://signal.nfx.com/investors"
+    ]
+  },
+  "Tech Coast Angels": {
+    "category": "Angel Networks & Groups",
+    "emails": [],
+    "email_count": 0,
+    "notes": "Large SoCal angel group",
+    "urls_tested": [
+      "https://www.techcoastangels.com/members/",
+      "https://www.techcoastangels.com/about/"
+    ]
+  },
+  "Golden Seeds": {
+    "category": "Angel Networks & Groups",
+    "emails": [],
+    "email_count": 0,
+    "notes": "Angel network",
+    "urls_tested": [
+      "https://goldenseeds.com/team/",
+      "https://goldenseeds.com/about/"
+    ]
+  },
+  "Band of Angels": {
+    "category": "Angel Networks & Groups",
+    "emails": [
+      "user@domain.com",
+      "llcbandhq@bandangels.com",
+      "bandhq@bandangels.com"
+    ],
+    "email_count": 3,
+    "notes": "Silicon Valley angel group",
+    "urls_tested": [
+      "https://www.bandangels.com/members",
+      "https://www.bandangels.com/about"
+    ]
+  },
+  "New York Angels": {
+    "category": "Angel Networks & Groups",
+    "emails": [
+      "dev@cloudred.com",
+      "user@domain.com"
+    ],
+    "email_count": 2,
+    "notes": "NYC angel group",
+    "urls_tested": [
+      "https://www.newyorkangels.com/members",
+      "https://www.newyorkangels.com/about"
+    ]
+  },
+  "Hustle Fund": {
+    "category": "Angel Networks & Groups",
+    "emails": [
+      "smartypants@vc.com"
+    ],
+    "email_count": 1,
+    "notes": "Pre-seed fund, angel-like",
+    "urls_tested": [
+      "https://www.hustlefund.vc/team",
+      "https://www.hustlefund.vc/about"
+    ]
+  },
+  "Precursor Ventures": {
+    "category": "Angel Networks & Groups",
+    "emails": [],
+    "email_count": 0,
+    "notes": "Pre-seed fund",
+    "urls_tested": [
+      "https://precursorvc.com/team/",
+      "https://precursorvc.com/about/"
+    ]
+  },
+  "Y Combinator Partners": {
+    "category": "Accelerator Team Pages",
+    "emails": [],
+    "email_count": 0,
+    "notes": "YC partners and team",
+    "urls_tested": [
+      "https://www.ycombinator.com/people"
+    ]
+  },
+  "Techstars": {
+    "category": "Accelerator Team Pages",
+    "emails": [],
+    "email_count": 0,
+    "notes": "Major accelerator",
+    "urls_tested": [
+      "https://www.techstars.com/the-line/team",
+      "https://www.techstars.com/about"
+    ]
+  },
+  "500 Global": {
+    "category": "Accelerator Team Pages",
+    "emails": [],
+    "email_count": 0,
+    "notes": "Global accelerator",
+    "urls_tested": [
+      "https://500.co/team",
+      "https://500.co/about"
+    ]
+  },
+  "Founders Inc": {
+    "category": "Accelerator Team Pages",
+    "emails": [
+      "lab@f.inc",
+      "hubert@f.inc"
+    ],
+    "email_count": 2,
+    "notes": "Already have Ruslan from here",
+    "urls_tested": [
+      "https://f.inc/team",
+      "https://f.inc/about",
+      "https://f.inc/"
+    ]
+  },
+  "General Catalyst (health focus)": {
+    "category": "Health/AI Focused Investors",
+    "emails": [],
+    "email_count": 0,
+    "notes": "Has health practice",
+    "urls_tested": [
+      "https://www.generalcatalyst.com/team",
+      "https://www.generalcatalyst.com/about"
+    ]
+  },
+  "Andreessen Bio Fund": {
+    "category": "Health/AI Focused Investors",
+    "emails": [],
+    "email_count": 0,
+    "notes": "a16z bio/health team",
+    "urls_tested": [
+      "https://a16z.com/bio-health/"
+    ]
+  },
+  "Rock Health": {
+    "category": "Health/AI Focused Investors",
+    "emails": [
+      "advisory@rockhealth.com"
+    ],
+    "email_count": 1,
+    "notes": "Digital health focused VC",
+    "urls_tested": [
+      "https://rockhealth.com/about/",
+      "https://rockhealth.com/team/"
+    ]
+  },
+  "Maveron": {
+    "category": "Health/AI Focused Investors",
+    "emails": [
+      "maveron@maveron.com"
+    ],
+    "email_count": 1,
+    "notes": "Consumer focused, has health",
+    "urls_tested": [
+      "https://www.maveron.com/team/",
+      "https://www.maveron.com/about/"
+    ]
+  },
+  "7wireVentures": {
+    "category": "Health/AI Focused Investors",
+    "emails": [],
+    "email_count": 0,
+    "notes": "Health tech focused",
+    "urls_tested": [
+      "https://7wireventures.com/team/",
+      "https://7wireventures.com/about/"
+    ]
+  },
+  "Hunter.io (homepage test)": {
+    "category": "Email Pattern Discovery",
+    "emails": [
+      "851b54d7fc0841a4b64fad1f07004dfc@o36448.ingest.us.sentry.io"
+    ],
+    "email_count": 1,
+    "notes": "Testing if we can access Hunter without API key",
+    "urls_tested": [
+      "https://hunter.io/"
+    ]
+  }
+}

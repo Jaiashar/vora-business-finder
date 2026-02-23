@@ -1,0 +1,101 @@
+[
+  {
+    "email": "raj@msisurfaces.com",
+    "first_name": "Raj",
+    "last_name": "Shah",
+    "company": "MSI Surfaces",
+    "title": null,
+    "investor_type": "angel",
+    "relationship_stage": "intro",
+    "referred_by": "Jai",
+    "notes": "Jai's contact"
+  },
+  {
+    "email": "mattlevine1@gmail.com",
+    "first_name": "Matt",
+    "last_name": "Levine",
+    "company": null,
+    "title": null,
+    "investor_type": "angel",
+    "relationship_stage": "intro",
+    "referred_by": "RIP",
+    "notes": "RIP's contact"
+  },
+  {
+    "email": "esteinman@a16z.com",
+    "first_name": "Eva",
+    "last_name": "Steinman",
+    "company": "a16z",
+    "title": null,
+    "investor_type": "vc",
+    "relationship_stage": "intro",
+    "referred_by": null,
+    "notes": null
+  },
+  {
+    "email": "rguo@a16z.com",
+    "first_name": "Robin",
+    "last_name": "Guo",
+    "company": "a16z",
+    "title": null,
+    "investor_type": "vc",
+    "relationship_stage": "intro",
+    "referred_by": null,
+    "notes": null
+  },
+  {
+    "email": "andrew@a16z.com",
+    "first_name": "Andrew",
+    "last_name": "Chen",
+    "company": "a16z",
+    "title": null,
+    "investor_type": "vc",
+    "relationship_stage": "intro",
+    "referred_by": null,
+    "notes": null
+  },
+  {
+    "email": "andrewlee@a16z.com",
+    "first_name": "Andrew",
+    "last_name": "Lee",
+    "company": "a16z",
+    "title": null,
+    "investor_type": "vc",
+    "relationship_stage": "intro",
+    "referred_by": null,
+    "notes": null
+  },
+  {
+    "email": "ruslan@f.inc",
+    "first_name": "Ruslan",
+    "last_name": "AlJabari",
+    "company": "Founders Inc",
+    "title": null,
+    "investor_type": "accelerator",
+    "relationship_stage": "intro",
+    "referred_by": null,
+    "notes": null
+  },
+  {
+    "email": "ayo@refract.vc",
+    "first_name": "Ayo",
+    "last_name": "Omojola",
+    "company": "Refract VC",
+    "title": "Founder",
+    "investor_type": "vc",
+    "relationship_stage": "intro",
+    "referred_by": "RIP",
+    "notes": "Founder, potential investor"
+  },
+  {
+    "email": "ripankadakia@gmail.com",
+    "first_name": "Ripan",
+    "last_name": "Kadakia",
+    "company": null,
+    "title": "Advisor",
+    "investor_type": "angel",
+    "relationship_stage": "intro",
+    "referred_by": null,
+    "notes": "Advisor"
+  }
+]

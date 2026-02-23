@@ -1,0 +1,3128 @@
+[
+  {
+    "email": "stat.admin@austin.utexas.edu",
+    "name": "Stat Admin",
+    "department": "Statistics (CNS)",
+    "source_url": "https://stat.utexas.edu/people"
+  },
+  {
+    "email": "oea@cs.utexas.edu",
+    "name": "",
+    "department": "Computer Science (Cockrell)",
+    "source_url": "https://www.cs.utexas.edu/people"
+  },
+  {
+    "email": "csadmis@cs.utexas.edu",
+    "name": "",
+    "department": "Computer Science (Cockrell)",
+    "source_url": "https://www.cs.utexas.edu/people"
+  },
+  {
+    "email": "under-info@cs.utexas.edu",
+    "name": "",
+    "department": "Computer Science (Cockrell)",
+    "source_url": "https://www.cs.utexas.edu/people"
+  },
+  {
+    "email": "marcomm@cs.utexas.edu",
+    "name": "Karen Davidson",
+    "department": "Computer Science (Cockrell)",
+    "source_url": "https://www.cs.utexas.edu/people/offices"
+  },
+  {
+    "email": "accounting@cs.utexas.edu",
+    "name": "Business Office",
+    "department": "Computer Science (Cockrell)",
+    "source_url": "https://www.cs.utexas.edu/people/offices"
+  },
+  {
+    "email": "msonline@cs.utexas.edu",
+    "name": "Gabrielle Bouzigard",
+    "department": "Computer Science (Cockrell)",
+    "source_url": "https://www.cs.utexas.edu/people/offices"
+  },
+  {
+    "email": "klink@cs.utexas.edu",
+    "name": "",
+    "department": "Computer Science (Cockrell)",
+    "source_url": "https://www.cs.utexas.edu/people/staff"
+  },
+  {
+    "email": "hannah.young@austin.utexas.edu",
+    "name": "Hannah Young",
+    "department": "Computer Science (Cockrell)",
+    "source_url": "https://www.cs.utexas.edu/people/staff"
+  },
+  {
+    "email": "farial1@cs.utexas.edu",
+    "name": "",
+    "department": "Computer Science (Cockrell)",
+    "source_url": "https://www.cs.utexas.edu/people/staff"
+  },
+  {
+    "email": "junger@cs.utexas.edu",
+    "name": "",
+    "department": "Computer Science (Cockrell)",
+    "source_url": "https://www.cs.utexas.edu/people/staff"
+  },
+  {
+    "email": "hollie@cs.utexas.edu",
+    "name": "",
+    "department": "Computer Science (Cockrell)",
+    "source_url": "https://www.cs.utexas.edu/people/staff"
+  },
+  {
+    "email": "chavez@cs.utexas.edu",
+    "name": "",
+    "department": "Computer Science (Cockrell)",
+    "source_url": "https://www.cs.utexas.edu/people/staff"
+  },
+  {
+    "email": "blw@cs.utexas.edu",
+    "name": "",
+    "department": "Computer Science (Cockrell)",
+    "source_url": "https://www.cs.utexas.edu/people/staff"
+  },
+  {
+    "email": "clairew@cs.utexas.edu",
+    "name": "",
+    "department": "Computer Science (Cockrell)",
+    "source_url": "https://www.cs.utexas.edu/people/staff"
+  },
+  {
+    "email": "machold@cs.utexas.edu",
+    "name": "",
+    "department": "Computer Science (Cockrell)",
+    "source_url": "https://www.cs.utexas.edu/people/staff"
+  },
+  {
+    "email": "amorenoa@utexas.edu",
+    "name": "",
+    "department": "Computer Science (Cockrell)",
+    "source_url": "https://www.cs.utexas.edu/people/staff"
+  },
+  {
+    "email": "robotics@utexas.edu",
+    "name": "",
+    "department": "Computer Science (Cockrell)",
+    "source_url": "https://www.cs.utexas.edu/people/staff"
+  },
+  {
+    "email": "srn@cs.utexas.edu",
+    "name": "",
+    "department": "Computer Science (Cockrell)",
+    "source_url": "https://www.cs.utexas.edu/people/staff"
+  },
+  {
+    "email": "jwhorley@cs.utexas.edu",
+    "name": "",
+    "department": "Computer Science (Cockrell)",
+    "source_url": "https://www.cs.utexas.edu/people/staff"
+  },
+  {
+    "email": "msidimou@cs.utexas.edu",
+    "name": "",
+    "department": "Computer Science (Cockrell)",
+    "source_url": "https://www.cs.utexas.edu/people/staff"
+  },
+  {
+    "email": "dturner@cs.utexas.edu",
+    "name": "",
+    "department": "Computer Science (Cockrell)",
+    "source_url": "https://www.cs.utexas.edu/people/staff"
+  },
+  {
+    "email": "trevkamm@cs.utexas.edu",
+    "name": "",
+    "department": "Computer Science (Cockrell)",
+    "source_url": "https://www.cs.utexas.edu/people/staff"
+  },
+  {
+    "email": "megan93@cs.utexas.edu",
+    "name": "",
+    "department": "Computer Science (Cockrell)",
+    "source_url": "https://www.cs.utexas.edu/people/staff"
+  },
+  {
+    "email": "droberts@cs.utexas.edu",
+    "name": "",
+    "department": "Computer Science (Cockrell)",
+    "source_url": "https://www.cs.utexas.edu/people/staff"
+  },
+  {
+    "email": "arizzolo@utexas.edu",
+    "name": "",
+    "department": "Computer Science (Cockrell)",
+    "source_url": "https://www.cs.utexas.edu/people/staff"
+  },
+  {
+    "email": "agrindle@cs.utexas.edu",
+    "name": "",
+    "department": "Computer Science (Cockrell)",
+    "source_url": "https://www.cs.utexas.edu/people/staff"
+  },
+  {
+    "email": "msaigradcoordinator@utexas.edu",
+    "name": "",
+    "department": "Computer Science (Cockrell)",
+    "source_url": "https://www.cs.utexas.edu/people/staff"
+  },
+  {
+    "email": "carmen.cruz@utexas.edu",
+    "name": "Carmen Cruz",
+    "department": "Computer Science (Cockrell)",
+    "source_url": "https://www.cs.utexas.edu/people/staff"
+  },
+  {
+    "email": "cdsoadmin@austin.utexas.edu",
+    "name": "",
+    "department": "Computer Science (Cockrell)",
+    "source_url": "https://www.cs.utexas.edu/people/staff"
+  },
+  {
+    "email": "sagaille@cs.utexas.edu",
+    "name": "",
+    "department": "Computer Science (Cockrell)",
+    "source_url": "https://www.cs.utexas.edu/people/staff"
+  },
+  {
+    "email": "margo75@cs.utexas.edu",
+    "name": "",
+    "department": "Computer Science (Cockrell)",
+    "source_url": "https://www.cs.utexas.edu/people/staff"
+  },
+  {
+    "email": "kolson@cs.utexas.edu",
+    "name": "",
+    "department": "Computer Science (Cockrell)",
+    "source_url": "https://www.cs.utexas.edu/people/staff"
+  },
+  {
+    "email": "karen_davidson@utexas.edu",
+    "name": "Karen Davidson",
+    "department": "Computer Science (Cockrell)",
+    "source_url": "https://www.cs.utexas.edu/people/staff"
+  },
+  {
+    "email": "brandiw@cs.utexas.edu",
+    "name": "",
+    "department": "Computer Science (Cockrell)",
+    "source_url": "https://www.cs.utexas.edu/people/staff"
+  },
+  {
+    "email": "bbarry@cs.utexas.edu",
+    "name": "",
+    "department": "Computer Science (Cockrell)",
+    "source_url": "https://www.cs.utexas.edu/people/staff"
+  },
+  {
+    "email": "sskrip@cs.utexas.edu",
+    "name": "",
+    "department": "Computer Science (Cockrell)",
+    "source_url": "https://www.cs.utexas.edu/people/staff"
+  },
+  {
+    "email": "buschet@cs.utexas.edu",
+    "name": "",
+    "department": "Computer Science (Cockrell)",
+    "source_url": "https://www.cs.utexas.edu/people/staff"
+  },
+  {
+    "email": "yyz@cs.utexas.edu",
+    "name": "",
+    "department": "Computer Science (Cockrell)",
+    "source_url": "https://www.cs.utexas.edu/people/staff"
+  },
+  {
+    "email": "mcicero@cs.utexas.edu",
+    "name": "",
+    "department": "Computer Science (Cockrell)",
+    "source_url": "https://www.cs.utexas.edu/people/staff"
+  },
+  {
+    "email": "madeleine.lange@austin.utexas.edu",
+    "name": "Madeleine Lange",
+    "department": "Computer Science (Cockrell)",
+    "source_url": "https://www.cs.utexas.edu/people/staff"
+  },
+  {
+    "email": "bernal@cs.utexas.edu",
+    "name": "",
+    "department": "Computer Science (Cockrell)",
+    "source_url": "https://www.cs.utexas.edu/people/staff"
+  },
+  {
+    "email": "ecantor@cs.utexas.edu",
+    "name": "",
+    "department": "Computer Science (Cockrell)",
+    "source_url": "https://www.cs.utexas.edu/people/staff"
+  },
+  {
+    "email": "paulamar@cs.utexas.edu",
+    "name": "",
+    "department": "Computer Science (Cockrell)",
+    "source_url": "https://www.cs.utexas.edu/people/staff"
+  },
+  {
+    "email": "canderss@cs.utexas.edu",
+    "name": "",
+    "department": "Computer Science (Cockrell)",
+    "source_url": "https://www.cs.utexas.edu/people/staff"
+  },
+  {
+    "email": "rrice@utexas.edu",
+    "name": "",
+    "department": "Computer Science (Cockrell)",
+    "source_url": "https://www.cs.utexas.edu/people/staff"
+  },
+  {
+    "email": "meganb@cs.utexas.edu",
+    "name": "",
+    "department": "Computer Science (Cockrell)",
+    "source_url": "https://www.cs.utexas.edu/people/staff"
+  },
+  {
+    "email": "hwegner@cs.utexas.edu",
+    "name": "",
+    "department": "Computer Science (Cockrell)",
+    "source_url": "https://www.cs.utexas.edu/people/staff"
+  },
+  {
+    "email": "jpatel@cs.utexas.edu",
+    "name": "",
+    "department": "Computer Science (Cockrell)",
+    "source_url": "https://www.cs.utexas.edu/people/staff"
+  },
+  {
+    "email": "ctrevino@cs.utexas.edu",
+    "name": "",
+    "department": "Computer Science (Cockrell)",
+    "source_url": "https://www.cs.utexas.edu/people/staff"
+  },
+  {
+    "email": "mscsonlinegradcoordinator@utexas.edu",
+    "name": "",
+    "department": "Computer Science (Cockrell)",
+    "source_url": "https://www.cs.utexas.edu/people/staff"
+  },
+  {
+    "email": "jory@cs.utexas.edu",
+    "name": "",
+    "department": "Computer Science (Cockrell)",
+    "source_url": "https://www.cs.utexas.edu/people/staff"
+  },
+  {
+    "email": "tls2022@cs.utexas.edu",
+    "name": "",
+    "department": "Computer Science (Cockrell)",
+    "source_url": "https://www.cs.utexas.edu/people/staff"
+  },
+  {
+    "email": "zach.cohenford@austin.utexas.edu",
+    "name": "Zach Cohenford",
+    "department": "Computer Science (Cockrell)",
+    "source_url": "https://www.cs.utexas.edu/people/staff"
+  },
+  {
+    "email": "tiffanyg@cs.utexas.edu",
+    "name": "",
+    "department": "Computer Science (Cockrell)",
+    "source_url": "https://www.cs.utexas.edu/people/staff"
+  },
+  {
+    "email": "kimcano@cs.utexas.edu",
+    "name": "",
+    "department": "Computer Science (Cockrell)",
+    "source_url": "https://www.cs.utexas.edu/people/staff"
+  },
+  {
+    "email": "jiaminquan@utexas.edu",
+    "name": "Jiamin Quan",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/researchers"
+  },
+  {
+    "email": "zach.hernandez@utexas.edu",
+    "name": "Zach Hernandez",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/researchers"
+  },
+  {
+    "email": "yhseo@utexas.edu",
+    "name": "Yoonho Seo",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/researchers"
+  },
+  {
+    "email": "dvial@utexas.edu",
+    "name": "Daniel Vial",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/researchers"
+  },
+  {
+    "email": "sarmita@utexas.edu",
+    "name": "Sarmita Majumder",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/researchers"
+  },
+  {
+    "email": "bo.li@austin.utexas.edu",
+    "name": "Bo Li",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/researchers"
+  },
+  {
+    "email": "vaidyanathan@utexas.edu",
+    "name": "Vaidyanathan Krishnamurthy",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/researchers"
+  },
+  {
+    "email": "praveen@engr.utexas.edu",
+    "name": "Praveen Pasupathy",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/researchers"
+  },
+  {
+    "email": "erenbalevi@utexas.edu",
+    "name": "Eren Balevi",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/researchers"
+  },
+  {
+    "email": "sabanhus@utexas.edu",
+    "name": "Saban Hus",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/researchers"
+  },
+  {
+    "email": "am.espinoza@utexas.edu",
+    "name": "Antonio Espinoza",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/researchers"
+  },
+  {
+    "email": "aaron.muhowski@utexas.edu",
+    "name": "Aaron Muhowski",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/researchers"
+  },
+  {
+    "email": "anupam@austin.utexas.edu",
+    "name": "Anupam Roy",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/researchers"
+  },
+  {
+    "email": "xitang@utexas.edu",
+    "name": "Xiyuan Tang",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/researchers"
+  },
+  {
+    "email": "bin.fang@austin.utexas.edu",
+    "name": "Bin Fang",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/researchers"
+  },
+  {
+    "email": "d.kireev@utexas.edu",
+    "name": "Dmitry Kireev",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/researchers"
+  },
+  {
+    "email": "jennifer.gallant@austin.utexas.edu",
+    "name": "Jennifer Gallant",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/staff"
+  },
+  {
+    "email": "bheine@austin.utexas.edu",
+    "name": "Barbara Heine",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/staff"
+  },
+  {
+    "email": "amy.fisk@austin.utexas.edu",
+    "name": "Amy Fisk",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/staff"
+  },
+  {
+    "email": "msaldivar@austin.utexas.edu",
+    "name": "Maria Saldivar",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/staff"
+  },
+  {
+    "email": "belinda.howell@austin.utexas.edu",
+    "name": "Belle Howell",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/staff"
+  },
+  {
+    "email": "lisa.contes@austin.utexas.edu",
+    "name": "Lisa Contes",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/staff"
+  },
+  {
+    "email": "melody.villarreal@austin.utexas.edu",
+    "name": "Melody Villarreal",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/staff"
+  },
+  {
+    "email": "rick.gomez@austin.utexas.edu",
+    "name": "Rick Gomez",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/staff"
+  },
+  {
+    "email": "pmallon@utexas.edu",
+    "name": "Patrick Mallon",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/staff"
+  },
+  {
+    "email": "gabriel.hernandez@mail.utexas.edu",
+    "name": "Gabriel Hernandez",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/staff"
+  },
+  {
+    "email": "colton.lathram@austin.utexas.edu",
+    "name": "Colton Lathram",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/staff"
+  },
+  {
+    "email": "stephaine.lane@austin.utexas.edu",
+    "name": "Stephaine Lane",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/staff"
+  },
+  {
+    "email": "letylira@mail.utexas.edu",
+    "name": "Leticia Lira",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/staff"
+  },
+  {
+    "email": "allison.hinojosa@austin.utexas.edu",
+    "name": "Allison Hinojosa",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/staff"
+  },
+  {
+    "email": "blevittch@mail.utexas.edu",
+    "name": "Barry Levitch",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/staff"
+  },
+  {
+    "email": "alora.jones@austin.utexas.edu",
+    "name": "Alora Raich",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/staff"
+  },
+  {
+    "email": "mark.innmon@austin.utexas.edu",
+    "name": "Mark Innmon",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/staff"
+  },
+  {
+    "email": "melanie.gulick@mail.utexas.edu",
+    "name": "Melanie Gulick",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/staff"
+  },
+  {
+    "email": "laura.armour@austin.utexas.edu",
+    "name": "Laura Armour",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/staff"
+  },
+  {
+    "email": "b.outlaw@austin.utexas.edu",
+    "name": "Brittney Outlaw",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/staff"
+  },
+  {
+    "email": "stacy.pederson@austin.utexas.edu",
+    "name": "Stacy Pederson",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/staff"
+  },
+  {
+    "email": "madison.poppe@austin.utexas.edu",
+    "name": "Madison Poppe",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/staff"
+  },
+  {
+    "email": "jackie.srnensky@austin.utexas.edu",
+    "name": "Jackie Srnensky",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/staff"
+  },
+  {
+    "email": "andrewk@mail.utexas.edu",
+    "name": "Andrew Kieschnick",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/staff"
+  },
+  {
+    "email": "tom.atchity@austin.utexas.edu",
+    "name": "Tom Atchity",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/staff"
+  },
+  {
+    "email": "dkorts@austin.utexas.edu",
+    "name": "David Korts",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/staff"
+  },
+  {
+    "email": "shollifield@austin.utexas.edu",
+    "name": "Steven Hollifield",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/staff"
+  },
+  {
+    "email": "msoliswheeler@utexas.edu",
+    "name": "Mychael Solis-Wheeler",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/staff"
+  },
+  {
+    "email": "leland.mangrum@austin.utexas.edu",
+    "name": "Leland Mangrum",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/staff"
+  },
+  {
+    "email": "desiree.ledet@austin.utexas.edu",
+    "name": "Desiree Ledet",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/staff"
+  },
+  {
+    "email": "cay@austin.utexas.edu",
+    "name": "Cay Garcia",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/staff"
+  },
+  {
+    "email": "brian.shaw@austin.utexas.edu",
+    "name": "Brian Shaw",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/staff"
+  },
+  {
+    "email": "acarr@mail.utexas.edu",
+    "name": "Andrew Carr",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/staff"
+  },
+  {
+    "email": "christine.wood@austin.utexas.edu",
+    "name": "Christine Wood",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/staff"
+  },
+  {
+    "email": "joyce@mer.utexas.edu",
+    "name": "Joyce Kokes",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/staff"
+  },
+  {
+    "email": "karenlittle@austin.utexas.edu",
+    "name": "Karen Little",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/staff"
+  },
+  {
+    "email": "denise.furman@austin.utexas.edu",
+    "name": "Denise Furman",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/staff"
+  },
+  {
+    "email": "book@utexas.edu",
+    "name": "Dan Book",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/staff"
+  },
+  {
+    "email": "daniel.murray@austin.utexas.edu",
+    "name": "Daniel Murray",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/staff"
+  },
+  {
+    "email": "luisiflandes@austin.utexas.edu",
+    "name": "Luis Flandes",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/staff"
+  },
+  {
+    "email": "yjia@austin.utexas.edu",
+    "name": "Fellow of Silicon Laboratories Endowed Chair in Ele",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "shwetadwip.chowdhury@utexas.edu",
+    "name": "Fellow of the Jack Kilby",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "ljohn@ece.utexas.edu",
+    "name": "Lizy John",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "pstone@cs.utexas.edu",
+    "name": "Peter Stone",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "chengguo@utexas.edu",
+    "name": "Cheng Guo",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "b.johnson@utexas.edu",
+    "name": "Fellow of the Jack Kilby",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "bfagelson@mail.utexas.edu",
+    "name": "William Fagelson",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "david.soloveichik@utexas.edu",
+    "name": "David Soloveichik",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "kaushik@utexas.edu",
+    "name": "Chandra Family Endowed Distinguished Professorship",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "banerjee@ece.utexas.edu",
+    "name": "Sanjay Banerjee",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "telang@ece.utexas.edu",
+    "name": "Fellow of the Jack Kilby",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "dw@utexas.edu",
+    "name": "Cullen Trust for Higher Education Endowed Professor",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "hunt@cs.utexas.edu",
+    "name": "Warren Hunt Jr",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "javadm@utexas.edu",
+    "name": "Maseeh Department of Civil",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "utopcu@utexas.edu",
+    "name": "Department of Aerospace Engineering and Engineering",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "sbarber@identity.utexas.edu",
+    "name": "Suzanne Barber",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "jaydeep@austin.utexas.edu",
+    "name": "Fellow of Silicon Laboratories Endowed Chair in Ele",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "bovik@ece.utexas.edu",
+    "name": "Cockrell Family Regents Endowed Chair in Engineerin",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "michael.cullinan@austin.utexas.edu",
+    "name": "Michael Cullinan",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "alfonso.cuevas@utexas.edu",
+    "name": "Alfonso Cuevas",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "eswartzla@utexas.edu",
+    "name": "Earl Swartzlander",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "ltchin@utexas.edu",
+    "name": "Lillian Chin",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "vivek.telang@austin.utexas.edu",
+    "name": "Vivek Telang",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "touba@ece.utexas.edu",
+    "name": "General Motors Foundation Centennial Teaching Fello",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "dimakis@austin.utexas.edu",
+    "name": "Alex Dimakis",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "poulami.das@utexas.edu",
+    "name": "Fellow of the Advanced Micro Devices",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "zheng@austin.utexas.edu",
+    "name": "Department of Mechanical Engineering",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "jun.wang@austin.utexas.edu",
+    "name": "Jun Wang",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "saad.saleh@austin.utexas.edu",
+    "name": "Saad Saleh",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "august@utexas.edu",
+    "name": "August Shi",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "burghoff@utexas.edu",
+    "name": "David Burghoff",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "constantine@utexas.edu",
+    "name": "Chandra Family Endowed Distinguished Professorship",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "etutuc@mail.utexas.edu",
+    "name": "Emanuel Tutuc",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "yczhu@utexas.edu",
+    "name": "Yicheng Zhu",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "radum@utexas.edu",
+    "name": "Radu Marculescu",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "ayilmaz@mail.utexas.edu",
+    "name": "Ali Yilmaz",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "ethomaz@utexas.edu",
+    "name": "Edison Thomaz",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "c.julien@mail.utexas.edu",
+    "name": "Christine Julien",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "ananth@mail.utexas.edu",
+    "name": "Motorola Regents Chair in Electrical and Computer E",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "sandeepc@utexas.edu",
+    "name": "Fellow of the Jack Kilby",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "ramesh@mail.utexas.edu",
+    "name": "Ramesh Yerraballi",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "ruochen@utexas.edu",
+    "name": "Ruochen Lu",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "tiwari@austin.utexas.edu",
+    "name": "Mohit Tiwari",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "shyam.shankar@utexas.edu",
+    "name": "Shyam Shankar",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "jose.millan@austin.utexas.edu",
+    "name": "Linda Steen Norris",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "xiuling.li@utexas.edu",
+    "name": "Truchard Foundation Endowed Chair",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "atlaswang@utexas.edu",
+    "name": "Atlas Wang",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "jonathan.baker@austin.utexas.edu",
+    "name": "Fellow of the Advanced Micro Devices Chair in Compu",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "register@austin.utexas.edu",
+    "name": "Leonard Frank Register",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "deji@ece.utexas.edu",
+    "name": "Deji Akinwande",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "jtamir@utexas.edu",
+    "name": "Fellow of the Jack Kilby",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "khurshid@ece.utexas.edu",
+    "name": "Sarfraz Khurshid",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "inderjit@cs.utexas.edu",
+    "name": "Inderjit Dhillon",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "ety@ece.utexas.edu",
+    "name": "Edward Yu",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "srsantacruz@utexas.edu",
+    "name": "Samantha Santacruz",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "ben-yakar@mail.utexas.edu",
+    "name": "Cockrell Family Chair in Engineering",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "jghosh@utexas.edu",
+    "name": "Joydeep Ghosh",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "jandrews@ece.utexas.edu",
+    "name": "Jeffrey Andrews",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "adunn@utexas.edu",
+    "name": "Andrew Dunn",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "sanghavi@mail.utexas.edu",
+    "name": "Sujay Sanghavi",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "mingyuan.zhou@mccombs.utexas.edu",
+    "name": "Mingyuan Zhou",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "emily.porter@austin.utexas.edu",
+    "name": "Emily Porter",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "aqhuang@utexas.edu",
+    "name": "Dula D. Cockrell Centennial Chair in Engineering",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "bevans@ece.utexas.edu",
+    "name": "Brian Evans",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "orshansky@mail.utexas.edu",
+    "name": "Michael Orshansky",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "haozhu@utexas.edu",
+    "name": "Texas Atomic Energy Research Foundation Centennial",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "jtunnell@mail.utexas.edu",
+    "name": "James Tunnell",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "nahall@mail.utexas.edu",
+    "name": "Neal Hall",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "garg@ece.utexas.edu",
+    "name": "Vijay Garg",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "pedro.santacruz@utexas.edu",
+    "name": "Pedro Santacruz",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "patt@ece.utexas.edu",
+    "name": "Yale Patt",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "sanjay.shakkottai@utexas.edu",
+    "name": "Sanjay Shakkottai",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "gligoric@utexas.edu",
+    "name": "Milos Gligoric",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "sensen.li@austin.utexas.edu",
+    "name": "Sensen Li",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "evan.speight@austin.utexas.edu",
+    "name": "Evan Speight",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "nanshulu@utexas.edu",
+    "name": "Carol Cockrell Curran Chair in Engineering",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "linran.fan@utexas.edu",
+    "name": "Linran Fan",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "dpan@mail.utexas.edu",
+    "name": "David Z. Pan",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "aholmes@austin.utexas.edu",
+    "name": "Archie L. Holmes Jr.",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "mcdermot@ece.utexas.edu",
+    "name": "Mark McDermott",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "sbank@ece.utexas.edu",
+    "name": "Seth Bank",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "hvikalo@ece.utexas.edu",
+    "name": "Haris Vikalo",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "lili@cs.utexas.edu",
+    "name": "Lili Qiu",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "dfan@austin.utexas.edu",
+    "name": "Department of Mechanical Engineering",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "abhay.samant@utexas.edu",
+    "name": "Abhay Samant",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "chen@ece.utexas.edu",
+    "name": "Ray Chen",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "sriram@ece.utexas.edu",
+    "name": "Sriram Vishwanath",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "deveciana@utexas.edu",
+    "name": "Cockrell Family Chair in Engineering",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "hyeji.kim@austin.utexas.edu",
+    "name": "Fellow of the Advanced Micro Devices",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "mokhtari@austin.utexas.edu",
+    "name": "Fellow of the Jack Kilby",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "dianam@utexas.edu",
+    "name": "Motorola Regents Chair in Electrical and Computer E",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "ajhanson@utexas.edu",
+    "name": "Fellow of the Jack Kilby",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "gerstl@ece.utexas.edu",
+    "name": "Cullen Trust for Higher Education Endowed Professor",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "hamilton@mail.utexas.edu",
+    "name": "Mark F Hamilton",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "valvano@mail.utexas.edu",
+    "name": "Engineering Foundation Centennial Teaching Fellow i",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "lucas.holt@utexas.edu",
+    "name": "Lucas Holt",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "incorvia@austin.utexas.edu",
+    "name": "Engineering Foundation Endowed Faculty Fellowship i",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "mattan.erez@utexas.edu",
+    "name": "Mattan Erez",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "lin@cs.utexas.edu",
+    "name": "Calvin Lin",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "ssantoso@mail.utexas.edu",
+    "name": "Engineering Foundation Centennial Teaching Fellowsh",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "fussell@cs.utexas.edu",
+    "name": "Don Fussell",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "pingali@cs.utexas.edu",
+    "name": "Keshav Pingali",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "grauman@cs.utexas.edu",
+    "name": "Kristen Grauman",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "todd.humphreys@utexas.edu",
+    "name": "Ernest Dashiell Cockrell II Chair in Engineering",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "pswilson@mail.utexas.edu",
+    "name": "Preston Wilson",
+    "department": "Electrical & Computer Engineering (Cockrell)",
+    "source_url": "https://www.ece.utexas.edu/people/faculty"
+  },
+  {
+    "email": "jbard@utexas.edu",
+    "name": "Jonathan Bard",
+    "department": "Mechanical Engineering (Cockrell)",
+    "source_url": "https://www.me.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "mjhall@mail.utexas.edu",
+    "name": "Matthew Hall",
+    "department": "Mechanical Engineering (Cockrell)",
+    "source_url": "https://www.me.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "venkat.subramanian@utexas.edu",
+    "name": "Venkat Subramanian",
+    "department": "Mechanical Engineering (Cockrell)",
+    "source_url": "https://www.me.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "tanya.hutter@utexas.edu",
+    "name": "Tanya Hutter",
+    "department": "Mechanical Engineering (Cockrell)",
+    "source_url": "https://www.me.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "jamie.warner@austin.utexas.edu",
+    "name": "Jamie Warner",
+    "department": "Mechanical Engineering (Cockrell)",
+    "source_url": "https://www.me.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "maura.borrego@austin.utexas.edu",
+    "name": "Maura Borrego",
+    "department": "Mechanical Engineering (Cockrell)",
+    "source_url": "https://www.me.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "yijin.liu@austin.utexas.edu",
+    "name": "Yijin Liu",
+    "department": "Mechanical Engineering (Cockrell)",
+    "source_url": "https://www.me.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "webber@mail.utexas.edu",
+    "name": "Michael Webber",
+    "department": "Mechanical Engineering (Cockrell)",
+    "source_url": "https://www.me.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "ashish@austin.utexas.edu",
+    "name": "Ashish Deshpande",
+    "department": "Mechanical Engineering (Cockrell)",
+    "source_url": "https://www.me.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "leah.chong@austin.utexas.edu",
+    "name": "Leah Chong",
+    "department": "Mechanical Engineering (Cockrell)",
+    "source_url": "https://www.me.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "dmchen@me.utexas.edu",
+    "name": "J. Mike Walker Professorship in Mechanical Engineer",
+    "department": "Mechanical Engineering (Cockrell)",
+    "source_url": "https://www.me.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "haberman@utexas.edu",
+    "name": "Michael Haberman",
+    "department": "Mechanical Engineering (Cockrell)",
+    "source_url": "https://www.me.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "vb@austin.utexas.edu",
+    "name": "Vaibhav Bahadur",
+    "department": "Mechanical Engineering (Cockrell)",
+    "source_url": "https://www.me.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "wcharlton@austin.utexas.edu",
+    "name": "William Charlton",
+    "department": "Mechanical Engineering (Cockrell)",
+    "source_url": "https://www.me.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "ebickel@mail.utexas.edu",
+    "name": "J. Eric Bickel",
+    "department": "Mechanical Engineering (Cockrell)",
+    "source_url": "https://www.me.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "darcyr@utexas.edu",
+    "name": "D'Arcy Randall",
+    "department": "Mechanical Engineering (Cockrell)",
+    "source_url": "https://www.me.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "nfey@utexas.edu",
+    "name": "Nick Fey",
+    "department": "Mechanical Engineering (Cockrell)",
+    "source_url": "https://www.me.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "jhas@mail.utexas.edu",
+    "name": "John Hasenbein",
+    "department": "Mechanical Engineering (Cockrell)",
+    "source_url": "https://www.me.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "bleibowicz@utexas.edu",
+    "name": "Benjamin Leibowicz",
+    "department": "Mechanical Engineering (Cockrell)",
+    "source_url": "https://www.me.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "cgr@austin.utexas.edu",
+    "name": "Chris Rylander",
+    "department": "Mechanical Engineering (Cockrell)",
+    "source_url": "https://www.me.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "jwang@austin.utexas.edu",
+    "name": "Junmin Wang",
+    "department": "Mechanical Engineering (Cockrell)",
+    "source_url": "https://www.me.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "jszhou@mail.utexas.edu",
+    "name": "Jianshi Zhou",
+    "department": "Mechanical Engineering (Cockrell)",
+    "source_url": "https://www.me.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "dezekoye@mail.utexas.edu",
+    "name": "Ofodike Ezekoye",
+    "department": "Mechanical Engineering (Cockrell)",
+    "source_url": "https://www.me.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "aluru@utexas.edu",
+    "name": "Narayana Aluru",
+    "department": "Mechanical Engineering (Cockrell)",
+    "source_url": "https://www.me.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "joshua.keena@austin.utexas.edu",
+    "name": "Joshua Keena",
+    "department": "Mechanical Engineering (Cockrell)",
+    "source_url": "https://www.me.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "s.landsberger@mail.utexas.edu",
+    "name": "Sheldon Landsberger",
+    "department": "Mechanical Engineering (Cockrell)",
+    "source_url": "https://www.me.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "kevin.clarno@austin.utexas.edu",
+    "name": "Kevin Clarno",
+    "department": "Mechanical Engineering (Cockrell)",
+    "source_url": "https://www.me.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "jellzey@mail.utexas.edu",
+    "name": "Janet Ellzey",
+    "department": "Mechanical Engineering (Cockrell)",
+    "source_url": "https://www.me.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "weiwli@austin.utexas.edu",
+    "name": "Wei Li",
+    "department": "Mechanical Engineering (Cockrell)",
+    "source_url": "https://www.me.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "donald.siegel@austin.utexas.edu",
+    "name": "Donald Siegel",
+    "department": "Mechanical Engineering (Cockrell)",
+    "source_url": "https://www.me.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "rmanth@mail.utexas.edu",
+    "name": "Arumugam Manthiram",
+    "department": "Mechanical Engineering (Cockrell)",
+    "source_url": "https://www.me.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "rneptune@mail.utexas.edu",
+    "name": "Richard Neptune",
+    "department": "Mechanical Engineering (Cockrell)",
+    "source_url": "https://www.me.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "r.longoria@mail.utexas.edu",
+    "name": "Raul Longoria",
+    "department": "Mechanical Engineering (Cockrell)",
+    "source_url": "https://www.me.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "dragan.djurdjanovic@mail.utexas.edu",
+    "name": "Dragan Djurdjanovic",
+    "department": "Mechanical Engineering (Cockrell)",
+    "source_url": "https://www.me.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "mpryor@utexas.edu",
+    "name": "Mitchell Pryor",
+    "department": "Mechanical Engineering (Cockrell)",
+    "source_url": "https://www.me.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "jbeaman@mail.utexas.edu",
+    "name": "Joseph Beaman",
+    "department": "Mechanical Engineering (Cockrell)",
+    "source_url": "https://www.me.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "maryam.tilton@austin.utexas.edu",
+    "name": "Maryam Tilton",
+    "department": "Mechanical Engineering (Cockrell)",
+    "source_url": "https://www.me.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "hadi.khani@austin.utexas.edu",
+    "name": "Hadi Khani",
+    "department": "Mechanical Engineering (Cockrell)",
+    "source_url": "https://www.me.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "ann.majewiczfey@utexas.edu",
+    "name": "Ann Majewicz Fey",
+    "department": "Mechanical Engineering (Cockrell)",
+    "source_url": "https://www.me.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "derekhaas@utexas.edu",
+    "name": "Derek Haas",
+    "department": "Mechanical Engineering (Cockrell)",
+    "source_url": "https://www.me.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "elena.zannoni@austin.utexas.edu",
+    "name": "Elena Zannoni",
+    "department": "Mechanical Engineering (Cockrell)",
+    "source_url": "https://www.me.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "andrea.pickel@austin.utexas.edu",
+    "name": "Andrea Pickel",
+    "department": "Mechanical Engineering (Cockrell)",
+    "source_url": "https://www.me.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "sv.sreeni@mail.utexas.edu",
+    "name": "S.V. Sreenivasan",
+    "department": "Mechanical Engineering (Cockrell)",
+    "source_url": "https://www.me.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "dbogard@mail.utexas.edu",
+    "name": "David Bogard",
+    "department": "Mechanical Engineering (Cockrell)",
+    "source_url": "https://www.me.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "anastasia.schauer@austin.utexas.edu",
+    "name": "Anastasia Schauer",
+    "department": "Mechanical Engineering (Cockrell)",
+    "source_url": "https://www.me.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "ghyu@austin.utexas.edu",
+    "name": "Guihua Yu",
+    "department": "Mechanical Engineering (Cockrell)",
+    "source_url": "https://www.me.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "epfahren@mail.utexas.edu",
+    "name": "Eric Fahrenthold",
+    "department": "Mechanical Engineering (Cockrell)",
+    "source_url": "https://www.me.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "david.mitlin@austin.utexas.edu",
+    "name": "David Mitlin",
+    "department": "Mechanical Engineering (Cockrell)",
+    "source_url": "https://www.me.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "fangzhou.xia@austin.utexas.edu",
+    "name": "Fangzhou Xia",
+    "department": "Mechanical Engineering (Cockrell)",
+    "source_url": "https://www.me.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "raghu.bollapragada@utexas.edu",
+    "name": "Raghavendra Bollapragada",
+    "department": "Mechanical Engineering (Cockrell)",
+    "source_url": "https://www.me.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "filippo.mangolini@austin.utexas.edu",
+    "name": "Filippo Mangolini",
+    "department": "Mechanical Engineering (Cockrell)",
+    "source_url": "https://www.me.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "gregory.rulifson@austin.utexas.edu",
+    "name": "Gregory Rulifson",
+    "department": "Mechanical Engineering (Cockrell)",
+    "source_url": "https://www.me.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "lishi@mail.utexas.edu",
+    "name": "Li Shi",
+    "department": "Mechanical Engineering (Cockrell)",
+    "source_url": "https://www.me.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "chichang@utexas.edu",
+    "name": "Chih-Hao Chang",
+    "department": "Mechanical Engineering (Cockrell)",
+    "source_url": "https://www.me.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "mnr@austin.utexas.edu",
+    "name": "M. Nichole Rylander",
+    "department": "Mechanical Engineering (Cockrell)",
+    "source_url": "https://www.me.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "tjconn@austin.utexas.edu",
+    "name": "Tom Connolly",
+    "department": "Mechanical Engineering (Cockrell)",
+    "source_url": "https://www.me.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "dekovar@austin.utexas.edu",
+    "name": "Desiderio Kovar",
+    "department": "Mechanical Engineering (Cockrell)",
+    "source_url": "https://www.me.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "amarras@utexas.edu",
+    "name": "Alexander Marras",
+    "department": "Mechanical Engineering (Cockrell)",
+    "source_url": "https://www.me.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "hairong.wang@austin.utexas.edu",
+    "name": "Hairong Wang",
+    "department": "Mechanical Engineering (Cockrell)",
+    "source_url": "https://www.me.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "farshid.alambeigi@austin.utexas.edu",
+    "name": "Farshid Alambeigi",
+    "department": "Mechanical Engineering (Cockrell)",
+    "source_url": "https://www.me.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "zhantao@austin.utexas.edu",
+    "name": "Zhantao Chen",
+    "department": "Mechanical Engineering (Cockrell)",
+    "source_url": "https://www.me.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "erhank@mail.utexas.edu",
+    "name": "Erhan Kutanoglu",
+    "department": "Mechanical Engineering (Cockrell)",
+    "source_url": "https://www.me.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "yaguo.wang@austin.utexas.edu",
+    "name": "Yaguo Wang",
+    "department": "Mechanical Engineering (Cockrell)",
+    "source_url": "https://www.me.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "yuanyue.liu@austin.utexas.edu",
+    "name": "Yuanyue Liu",
+    "department": "Mechanical Engineering (Cockrell)",
+    "source_url": "https://www.me.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "omar@ices.utexas.edu",
+    "name": "Omar Ghattas",
+    "department": "Mechanical Engineering (Cockrell)",
+    "source_url": "https://www.me.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "zsha@austin.utexas.edu",
+    "name": "Zhenghui Sha",
+    "department": "Mechanical Engineering (Cockrell)",
+    "source_url": "https://www.me.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "rmoser@mail.utexas.edu",
+    "name": "Robert Moser",
+    "department": "Mechanical Engineering (Cockrell)",
+    "source_url": "https://www.me.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "taleff@mail.utexas.edu",
+    "name": "Eric Taleff",
+    "department": "Mechanical Engineering (Cockrell)",
+    "source_url": "https://www.me.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "todd.cooley@austin.utexas.edu",
+    "name": "Todd Cooley",
+    "department": "Mechanical Engineering (Cockrell)",
+    "source_url": "https://www.me.utexas.edu/people/staff-directory"
+  },
+  {
+    "email": "webteam@bme.utexas.edu",
+    "name": "",
+    "department": "Biomedical Engineering (Cockrell)",
+    "source_url": "https://www.bme.utexas.edu/people/graduate-students"
+  },
+  {
+    "email": "bme-fellowships@utexas.edu",
+    "name": "STAFF EMAIL DIRECTORY",
+    "department": "Biomedical Engineering (Cockrell)",
+    "source_url": "https://www.bme.utexas.edu/people/directory"
+  },
+  {
+    "email": "randall.lopez@austin.utexas.edu",
+    "name": "Laura Jefferies",
+    "department": "Biomedical Engineering (Cockrell)",
+    "source_url": "https://www.bme.utexas.edu/people/directory"
+  },
+  {
+    "email": "bme-building-reservations@utexas.edu",
+    "name": "SHARED RESOURCES EMAIL DIRECTORY",
+    "department": "Biomedical Engineering (Cockrell)",
+    "source_url": "https://www.bme.utexas.edu/people/directory"
+  },
+  {
+    "email": "bme-travel-entertainment@utexas.edu",
+    "name": "Research grant and faculty endowment account needs",
+    "department": "Biomedical Engineering (Cockrell)",
+    "source_url": "https://www.bme.utexas.edu/people/directory"
+  },
+  {
+    "email": "tondalaya.mitchell@austin.utexas.edu",
+    "name": "Senior Academic Advisor",
+    "department": "Biomedical Engineering (Cockrell)",
+    "source_url": "https://www.bme.utexas.edu/people/directory"
+  },
+  {
+    "email": "dennis.campa@austin.utexas.edu",
+    "name": "Name",
+    "department": "Biomedical Engineering (Cockrell)",
+    "source_url": "https://www.bme.utexas.edu/people/directory"
+  },
+  {
+    "email": "carlos.alonso@utexas.edu",
+    "name": "STAFF EMAIL DIRECTORY",
+    "department": "Biomedical Engineering (Cockrell)",
+    "source_url": "https://www.bme.utexas.edu/people/directory"
+  },
+  {
+    "email": "bme-hr@utexas.edu",
+    "name": "Inquiries regarding room reservations in BME",
+    "department": "Biomedical Engineering (Cockrell)",
+    "source_url": "https://www.bme.utexas.edu/people/directory"
+  },
+  {
+    "email": "c.dawkins@austin.utexas.edu",
+    "name": "Dennis Campa",
+    "department": "Biomedical Engineering (Cockrell)",
+    "source_url": "https://www.bme.utexas.edu/people/directory"
+  },
+  {
+    "email": "trecs-help@austin.utexas.edu",
+    "name": "Accounts Payable Coordinator",
+    "department": "Biomedical Engineering (Cockrell)",
+    "source_url": "https://www.bme.utexas.edu/people/directory"
+  },
+  {
+    "email": "george.mcsweeney@austin.utexas.edu",
+    "name": "Jenny Kondo",
+    "department": "Biomedical Engineering (Cockrell)",
+    "source_url": "https://www.bme.utexas.edu/people/directory"
+  },
+  {
+    "email": "bme-purchasing@utexas.edu",
+    "name": "BME Human Resources",
+    "department": "Biomedical Engineering (Cockrell)",
+    "source_url": "https://www.bme.utexas.edu/people/directory"
+  },
+  {
+    "email": "bme-ap@utexas.edu",
+    "name": "BME Accounts Payable",
+    "department": "Biomedical Engineering (Cockrell)",
+    "source_url": "https://www.bme.utexas.edu/people/directory"
+  },
+  {
+    "email": "bme-building-management@utexas.edu",
+    "name": "STAFF EMAIL DIRECTORY",
+    "department": "Biomedical Engineering (Cockrell)",
+    "source_url": "https://www.bme.utexas.edu/people/directory"
+  },
+  {
+    "email": "bme-faculty-accounts@utexas.edu",
+    "name": "BME Communications",
+    "department": "Biomedical Engineering (Cockrell)",
+    "source_url": "https://www.bme.utexas.edu/people/directory"
+  },
+  {
+    "email": "eric.zilligen@austin.utexas.edu",
+    "name": "Brittain Sobey",
+    "department": "Biomedical Engineering (Cockrell)",
+    "source_url": "https://www.bme.utexas.edu/people/directory"
+  },
+  {
+    "email": "victoriacarter@austin.utexas.edu",
+    "name": "Carlos Alonso",
+    "department": "Biomedical Engineering (Cockrell)",
+    "source_url": "https://www.bme.utexas.edu/people/directory"
+  },
+  {
+    "email": "samantha.deskins@austin.utexas.edu",
+    "name": "Victoria Carter",
+    "department": "Biomedical Engineering (Cockrell)",
+    "source_url": "https://www.bme.utexas.edu/people/directory"
+  },
+  {
+    "email": "jenny.kondo@austin.utexas.edu",
+    "name": "Samantha Deskins",
+    "department": "Biomedical Engineering (Cockrell)",
+    "source_url": "https://www.bme.utexas.edu/people/directory"
+  },
+  {
+    "email": "bme-events@utexas.edu",
+    "name": "BME Accounts Payable",
+    "department": "Biomedical Engineering (Cockrell)",
+    "source_url": "https://www.bme.utexas.edu/people/directory"
+  },
+  {
+    "email": "bme-comms@utexas.edu",
+    "name": "SHARED RESOURCES EMAIL DIRECTORY",
+    "department": "Biomedical Engineering (Cockrell)",
+    "source_url": "https://www.bme.utexas.edu/people/directory"
+  },
+  {
+    "email": "laura.jefferies@utexas.edu",
+    "name": "Chase Dawkins",
+    "department": "Biomedical Engineering (Cockrell)",
+    "source_url": "https://www.bme.utexas.edu/people/directory"
+  },
+  {
+    "email": "b.sobey@utexas.edu",
+    "name": "Tonda Mitchell",
+    "department": "Biomedical Engineering (Cockrell)",
+    "source_url": "https://www.bme.utexas.edu/people/directory"
+  },
+  {
+    "email": "evanwang@utexas.edu",
+    "name": "",
+    "department": "Biomedical Engineering (Cockrell)",
+    "source_url": "https://www.bme.utexas.edu/people/community-and-culture-committee"
+  },
+  {
+    "email": "cosgriff.hernandez@utexas.edu",
+    "name": "Cosgriff Hernandez",
+    "department": "Biomedical Engineering (Cockrell)",
+    "source_url": "https://www.bme.utexas.edu/people/community-and-culture-committee"
+  },
+  {
+    "email": "ggp443@my.utexas.edu",
+    "name": "Staff and Student Committee Members",
+    "department": "Biomedical Engineering (Cockrell)",
+    "source_url": "https://www.bme.utexas.edu/people/community-and-culture-committee"
+  },
+  {
+    "email": "katelyn.miller@utexas.edu",
+    "name": "Katelyn Miller",
+    "department": "Biomedical Engineering (Cockrell)",
+    "source_url": "https://www.bme.utexas.edu/people/community-and-culture-committee"
+  },
+  {
+    "email": "nuttada.panpradist@austin.utexas.edu",
+    "name": "Nuttada Panpradist",
+    "department": "Biomedical Engineering (Cockrell)",
+    "source_url": "https://www.bme.utexas.edu/people/community-and-culture-committee"
+  },
+  {
+    "email": "bv6222@my.utexas.edu",
+    "name": "Staff and Student Committee Members",
+    "department": "Biomedical Engineering (Cockrell)",
+    "source_url": "https://www.bme.utexas.edu/people/community-and-culture-committee"
+  },
+  {
+    "email": "mnbaker@utexas.edu",
+    "name": "Staff and Student Committee Members",
+    "department": "Biomedical Engineering (Cockrell)",
+    "source_url": "https://www.bme.utexas.edu/people/community-and-culture-committee"
+  },
+  {
+    "email": "adambush@utexas.edu",
+    "name": "Faculty Committee Members",
+    "department": "Biomedical Engineering (Cockrell)",
+    "source_url": "https://www.bme.utexas.edu/people/community-and-culture-committee"
+  },
+  {
+    "email": "alex.haynes@austin.utexas.edu",
+    "name": "Alex Haynes",
+    "department": "Biomedical Engineering (Cockrell)",
+    "source_url": "https://www.bme.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "uvilla@austin.utexas.edu",
+    "name": "Umberto Villa",
+    "department": "Biomedical Engineering (Cockrell)",
+    "source_url": "https://www.bme.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "qian.yin@austin.utexas.edu",
+    "name": "Qian Yin",
+    "department": "Biomedical Engineering (Cockrell)",
+    "source_url": "https://www.bme.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "zjanet@austin.utexas.edu",
+    "name": "Janet Zoldan",
+    "department": "Biomedical Engineering (Cockrell)",
+    "source_url": "https://www.bme.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "rylander@mail.utexas.edu",
+    "name": "H. Grady Rylander III",
+    "department": "Biomedical Engineering (Cockrell)",
+    "source_url": "https://www.bme.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "manuel.rausch@utexas.edu",
+    "name": "Manuel Rausch",
+    "department": "Biomedical Engineering (Cockrell)",
+    "source_url": "https://www.bme.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "gg@che.utexas.edu",
+    "name": "George Georgiou",
+    "department": "Biomedical Engineering (Cockrell)",
+    "source_url": "https://www.bme.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "linda.noble@austin.utexas.edu",
+    "name": "Linda Noble-Haeusslein",
+    "department": "Biomedical Engineering (Cockrell)",
+    "source_url": "https://www.bme.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "lief.fenno@austin.utexas.edu",
+    "name": "Lief Fenno",
+    "department": "Biomedical Engineering (Cockrell)",
+    "source_url": "https://www.bme.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "theodore.ho@austin.utexas.edu",
+    "name": "Theodore T. Ho",
+    "department": "Biomedical Engineering (Cockrell)",
+    "source_url": "https://www.bme.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "nuttadap@utexas.edu",
+    "name": "Nuttada Panpradist",
+    "department": "Biomedical Engineering (Cockrell)",
+    "source_url": "https://www.bme.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "pren@mail.utexas.edu",
+    "name": "Pengyu Ren",
+    "department": "Biomedical Engineering (Cockrell)",
+    "source_url": "https://www.bme.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "seidlits@utexas.edu",
+    "name": "Stephanie Seidlits",
+    "department": "Biomedical Engineering (Cockrell)",
+    "source_url": "https://www.bme.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "jcstach@austin.utexas.edu",
+    "name": "Jeanne Stachowiak",
+    "department": "Biomedical Engineering (Cockrell)",
+    "source_url": "https://www.bme.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "laura.suggs@mail.utexas.edu",
+    "name": "Laura Suggs",
+    "department": "Biomedical Engineering (Cockrell)",
+    "source_url": "https://www.bme.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "danpuperi@utexas.edu",
+    "name": "Dan Puperi",
+    "department": "Biomedical Engineering (Cockrell)",
+    "source_url": "https://www.bme.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "mia.markey@utexas.edu",
+    "name": "Mia K. Markey",
+    "department": "Biomedical Engineering (Cockrell)",
+    "source_url": "https://www.bme.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "tim.yeh@austin.utexas.edu",
+    "name": "Tim Yeh",
+    "department": "Biomedical Engineering (Cockrell)",
+    "source_url": "https://www.bme.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "abbaker@austin.utexas.edu",
+    "name": "Aaron Baker",
+    "department": "Biomedical Engineering (Cockrell)",
+    "source_url": "https://www.bme.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "kdiller@mail.utexas.edu",
+    "name": "Kenneth Diller",
+    "department": "Biomedical Engineering (Cockrell)",
+    "source_url": "https://www.bme.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "maynard@che.utexas.edu",
+    "name": "Jennifer Maynard",
+    "department": "Biomedical Engineering (Cockrell)",
+    "source_url": "https://www.bme.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "msacks@oden.utexas.edu",
+    "name": "Michael S. Sacks",
+    "department": "Biomedical Engineering (Cockrell)",
+    "source_url": "https://www.bme.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "amy.brock@utexas.edu",
+    "name": "Amy Brock",
+    "department": "Biomedical Engineering (Cockrell)",
+    "source_url": "https://www.bme.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "tmp6@utexas.edu",
+    "name": "Tyrone Porter",
+    "department": "Biomedical Engineering (Cockrell)",
+    "source_url": "https://www.bme.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "taylorca@utexas.edu",
+    "name": "Charles Taylor",
+    "department": "Biomedical Engineering (Cockrell)",
+    "source_url": "https://www.bme.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "kristen.adams@austin.utexas.edu",
+    "name": "Kristen Adams",
+    "department": "Biomedical Engineering (Cockrell)",
+    "source_url": "https://www.bme.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "sparekh@utexas.edu",
+    "name": "Sapun Parekh",
+    "department": "Biomedical Engineering (Cockrell)",
+    "source_url": "https://www.bme.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "peppas@che.utexas.edu",
+    "name": "Nicholas A. Peppas",
+    "department": "Biomedical Engineering (Cockrell)",
+    "source_url": "https://www.bme.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "sabrams@austin.utexas.edu",
+    "name": "Steven Abrams",
+    "department": "Biomedical Engineering (Cockrell)",
+    "source_url": "https://www.bme.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "edward.castillo@utexas.edu",
+    "name": "Edward Castillo",
+    "department": "Biomedical Engineering (Cockrell)",
+    "source_url": "https://www.bme.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "thomas.yankeelov@utexas.edu",
+    "name": "Thomas Yankeelov",
+    "department": "Biomedical Engineering (Cockrell)",
+    "source_url": "https://www.bme.utexas.edu/people/faculty-directory"
+  },
+  {
+    "email": "ase-web@utexas.edu",
+    "name": "",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/graduate-students"
+  },
+  {
+    "email": "traci@utexas.edu",
+    "name": "Chad Landis",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/department-leadership"
+  },
+  {
+    "email": "mark.m@utexas.edu",
+    "name": "Mark Maughmer II",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/staff-directory"
+  },
+  {
+    "email": "andrea.tinning@utexas.edu",
+    "name": "Andrea Tinning",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/staff-directory"
+  },
+  {
+    "email": "jesse@utexas.edu",
+    "name": "William Jesse James",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/staff-directory"
+  },
+  {
+    "email": "receiving@ae.utexas.edu",
+    "name": "Devynn Alvarado",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/staff-directory"
+  },
+  {
+    "email": "r.babcock@austin.utexas.edu",
+    "name": "Renee Babcock",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/staff-directory"
+  },
+  {
+    "email": "rpesquivel@austin.utexas.edu",
+    "name": "Rosina Esquivel",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/staff-directory"
+  },
+  {
+    "email": "rafael.alvarez@utexas.edu",
+    "name": "Rafael Alvarez",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/staff-directory"
+  },
+  {
+    "email": "salamanca@utexas.edu",
+    "name": "Karla Salamanca",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/staff-directory"
+  },
+  {
+    "email": "j.pokluda@austin.utexas.edu",
+    "name": "Joseph Pokluda",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/staff-directory"
+  },
+  {
+    "email": "tov@utexas.edu",
+    "name": "Tamara Ospina-Vega",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/staff-directory"
+  },
+  {
+    "email": "chante@utexas.edu",
+    "name": "Chante Moreland",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/staff-directory"
+  },
+  {
+    "email": "jags@mail.utexas.edu",
+    "name": "Jeremy Jagodzinski",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/staff-directory"
+  },
+  {
+    "email": "clifford.bibbs@utexas.edu",
+    "name": "Clifford Bibbs",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/staff-directory"
+  },
+  {
+    "email": "holly.bhasin@austin.utexas.edu",
+    "name": "Holly Bhasin",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/staff-directory"
+  },
+  {
+    "email": "kenneth.thomas@utexas.edu",
+    "name": "Kenneth Thomas",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/staff-directory"
+  },
+  {
+    "email": "stephanie.berry@utexas.edu",
+    "name": "Stephanie Berry",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/staff-directory"
+  },
+  {
+    "email": "messec@mail.utexas.edu",
+    "name": "Scott Messec",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/staff-directory"
+  },
+  {
+    "email": "yasmin@utexas.edu",
+    "name": "Yasmin Deosaran Welch",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/staff-directory"
+  },
+  {
+    "email": "brooks.ford@utexas.edu",
+    "name": "Brooks Ford",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/staff-directory"
+  },
+  {
+    "email": "makella@mail.utexas.edu",
+    "name": "Maruthi R. Akella",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/faculty"
+  },
+  {
+    "email": "tanbui@oden.utexas.edu",
+    "name": "Tan Bui-Thanh",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/faculty"
+  },
+  {
+    "email": "bakolas@austin.utexas.edu",
+    "name": "Efstathios Bakolas",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/faculty"
+  },
+  {
+    "email": "skk@mail.utexas.edu",
+    "name": "Stelios Kyriakides",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/faculty"
+  },
+  {
+    "email": "jin.yang@austin.utexas.edu",
+    "name": "Jin Yang",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/faculty"
+  },
+  {
+    "email": "brandon.jones@utexas.edu",
+    "name": "Brandon Jones",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/faculty"
+  },
+  {
+    "email": "adamnokes@utexas.edu",
+    "name": "Adam Nokes",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/faculty"
+  },
+  {
+    "email": "wallace.fowler@austin.utexas.edu",
+    "name": "Wallace T. Fowler",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/faculty"
+  },
+  {
+    "email": "mear@mail.utexas.edu",
+    "name": "Mark E. Mear",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/faculty"
+  },
+  {
+    "email": "johnpaul@utexas.edu",
+    "name": "John-Paul Clarke",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/faculty"
+  },
+  {
+    "email": "fbisetti@utexas.edu",
+    "name": "Fabrizio Bisetti",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/faculty"
+  },
+  {
+    "email": "ryan.russell@austin.utexas.edu",
+    "name": "Ryan Russell",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/faculty"
+  },
+  {
+    "email": "landis@utexas.edu",
+    "name": "Chad M. Landis",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/faculty"
+  },
+  {
+    "email": "clemens@mail.utexas.edu",
+    "name": "Noel T. Clemens",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/faculty"
+  },
+  {
+    "email": "kwillcox@oden.utexas.edu",
+    "name": "Karen E. Willcox",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/faculty"
+  },
+  {
+    "email": "david@oden.utexas.edu",
+    "name": "",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/faculty"
+  },
+  {
+    "email": "hughes@oden.utexas.edu",
+    "name": "Thomas J. Hughes",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/faculty"
+  },
+  {
+    "email": "jesse.chan@oden.utexas.edu",
+    "name": "Jesse Chan",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/faculty"
+  },
+  {
+    "email": "moriba@utexas.edu",
+    "name": "Moriba K. Jah",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/faculty"
+  },
+  {
+    "email": "srinivas@csr.utexas.edu",
+    "name": "Srinivas V. Bettadpur",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/faculty"
+  },
+  {
+    "email": "hannah.lu@austin.utexas.edu",
+    "name": "Hannah Lu",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/faculty"
+  },
+  {
+    "email": "lraja@mail.utexas.edu",
+    "name": "Laxminarayan L. Raja",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/faculty"
+  },
+  {
+    "email": "lsentis@austin.utexas.edu",
+    "name": "Luis Sentis",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/faculty"
+  },
+  {
+    "email": "ltp@utexas.edu",
+    "name": "Luke Peterson",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/faculty"
+  },
+  {
+    "email": "kevin.sagis@austin.utexas.edu",
+    "name": "Kevin Sagis",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/faculty"
+  },
+  {
+    "email": "jingyi.ann.chen@utexas.edu",
+    "name": "Mr. N. Doug Williams Memorial Centennial Fellowship",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/faculty"
+  },
+  {
+    "email": "dfk@utexas.edu",
+    "name": "David Fridovich-Keil",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/faculty"
+  },
+  {
+    "email": "sirohi@utexas.edu",
+    "name": "Jayant Sirohi",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/faculty"
+  },
+  {
+    "email": "clint.dawson@austin.utexas.edu",
+    "name": "Clint N. Dawson",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/faculty"
+  },
+  {
+    "email": "renato@utexas.edu",
+    "name": "Renato Zanetti",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/faculty"
+  },
+  {
+    "email": "jfoster@austin.utexas.edu",
+    "name": "John Foster",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/faculty"
+  },
+  {
+    "email": "thinhdoan@utexas.edu",
+    "name": "Thinh Doan",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/faculty"
+  },
+  {
+    "email": "leszek@oden.utexas.edu",
+    "name": "Leszek F. Demkowicz",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/faculty"
+  },
+  {
+    "email": "mstern@mail.utexas.edu",
+    "name": "Morris Stern",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/faculty"
+  },
+  {
+    "email": "mfw@oden.utexas.edu",
+    "name": "Mary F. Wheeler",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/faculty"
+  },
+  {
+    "email": "bennighof@mail.utexas.edu",
+    "name": "Jeffrey K. Bennighof",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/faculty"
+  },
+  {
+    "email": "jan.fuhg@utexas.edu",
+    "name": "Jan Fuhg",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/faculty"
+  },
+  {
+    "email": "gjr@oden.utexas.edu",
+    "name": "Gregory J. Rodin",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/faculty"
+  },
+  {
+    "email": "ravi@utexas.edu",
+    "name": "K. Ravi-Chandar",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/faculty"
+  },
+  {
+    "email": "ruihuang@mail.utexas.edu",
+    "name": "Rui Huang",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/faculty"
+  },
+  {
+    "email": "kml@mail.utexas.edu",
+    "name": "Kenneth M. Liechti",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/faculty"
+  },
+  {
+    "email": "abedford@mail.utexas.edu",
+    "name": "Anthony Bedford",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/faculty"
+  },
+  {
+    "email": "varghese@mail.utexas.edu",
+    "name": "Philip L. Varghese",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/faculty"
+  },
+  {
+    "email": "nnelsen@oden.utexas.edu",
+    "name": "Nicholas H. Nelsen",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/faculty"
+  },
+  {
+    "email": "raghavmahalingam@austin.utexas.edu",
+    "name": "Raghav Mahalingam",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/faculty"
+  },
+  {
+    "email": "lori.magruder@austin.utexas.edu",
+    "name": "Lori Magruder",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/faculty"
+  },
+  {
+    "email": "tapley@csr.utexas.edu",
+    "name": "Byron D. Tapley",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/faculty"
+  },
+  {
+    "email": "ethan.burnett@utexas.edu",
+    "name": "Ethan Burnett",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/faculty"
+  },
+  {
+    "email": "dghull@mail.utexas.edu",
+    "name": "David Hull",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/faculty"
+  },
+  {
+    "email": "thomas.underwood@utexas.edu",
+    "name": "Thomas Underwood",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/faculty"
+  },
+  {
+    "email": "greg.zwernemann@austin.utexas.edu",
+    "name": "Greg Zwernemann",
+    "department": "Aerospace Engineering (Cockrell)",
+    "source_url": "https://www.ae.utexas.edu/people/faculty"
+  },
+  {
+    "email": "webupdates@che.utexas.edu",
+    "name": "",
+    "department": "Chemical Engineering (Cockrell)",
+    "source_url": "https://che.utexas.edu/people/graduate-students"
+  },
+  {
+    "email": "512-475-7842allen@che.utexas.edu",
+    "name": "",
+    "department": "Chemical Engineering (Cockrell)",
+    "source_url": "https://che.utexas.edu/people/department-leadership"
+  },
+  {
+    "email": "keitz@utexas.edu",
+    "name": "Undergraduate Advisor",
+    "department": "Chemical Engineering (Cockrell)",
+    "source_url": "https://che.utexas.edu/people/department-leadership"
+  },
+  {
+    "email": "bfloyd@che.utexas.edu",
+    "name": "",
+    "department": "Chemical Engineering (Cockrell)",
+    "source_url": "https://che.utexas.edu/people/staff"
+  },
+  {
+    "email": "bfris@che.utexas.edu",
+    "name": "",
+    "department": "Chemical Engineering (Cockrell)",
+    "source_url": "https://che.utexas.edu/people/staff"
+  },
+  {
+    "email": "swinnea@che.utexas.edu",
+    "name": "J. Steven Swinnea",
+    "department": "Chemical Engineering (Cockrell)",
+    "source_url": "https://che.utexas.edu/people/faculty"
+  },
+  {
+    "email": "venkat@che.utexas.edu",
+    "name": "Venkat Ganesan",
+    "department": "Chemical Engineering (Cockrell)",
+    "source_url": "https://che.utexas.edu/people/faculty"
+  },
+  {
+    "email": "yi.lu@utexas.edu",
+    "name": "Yi Lu",
+    "department": "Chemical Engineering (Cockrell)",
+    "source_url": "https://che.utexas.edu/people/faculty"
+  },
+  {
+    "email": "resasco@utexas.edu",
+    "name": "Joaquin Resasco",
+    "department": "Chemical Engineering (Cockrell)",
+    "source_url": "https://che.utexas.edu/people/faculty"
+  },
+  {
+    "email": "tbadgwell@che.utexas.edu",
+    "name": "Thomas Badgwell",
+    "department": "Chemical Engineering (Cockrell)",
+    "source_url": "https://che.utexas.edu/people/faculty"
+  },
+  {
+    "email": "markst@che.utexas.edu",
+    "name": "Mark A. Stadtherr",
+    "department": "Chemical Engineering (Cockrell)",
+    "source_url": "https://che.utexas.edu/people/faculty"
+  },
+  {
+    "email": "carlos@che.utexas.edu",
+    "name": "Carlos Landaverde-Alvarado",
+    "department": "Chemical Engineering (Cockrell)",
+    "source_url": "https://che.utexas.edu/people/faculty"
+  },
+  {
+    "email": "mullins@che.utexas.edu",
+    "name": "C. Buddie Mullins",
+    "department": "Chemical Engineering (Cockrell)",
+    "source_url": "https://che.utexas.edu/people/faculty"
+  },
+  {
+    "email": "dtd@che.utexas.edu",
+    "name": "David T. Dalle Molle",
+    "department": "Chemical Engineering (Cockrell)",
+    "source_url": "https://che.utexas.edu/people/faculty"
+  },
+  {
+    "email": "sanchez@che.utexas.edu",
+    "name": "Isaac Sanchez",
+    "department": "Chemical Engineering (Cockrell)",
+    "source_url": "https://che.utexas.edu/people/faculty"
+  },
+  {
+    "email": "manish.kumar@utexas.edu",
+    "name": "Manish Kumar",
+    "department": "Chemical Engineering (Cockrell)",
+    "source_url": "https://che.utexas.edu/people/faculty"
+  },
+  {
+    "email": "mbaldea@che.utexas.edu",
+    "name": "Michael Baldea",
+    "department": "Chemical Engineering (Cockrell)",
+    "source_url": "https://che.utexas.edu/people/faculty"
+  },
+  {
+    "email": "rdunia@che.utexas.edu",
+    "name": "Ricardo Dunia",
+    "department": "Chemical Engineering (Cockrell)",
+    "source_url": "https://che.utexas.edu/people/faculty"
+  },
+  {
+    "email": "zpage@cm.utexas.edu",
+    "name": "Zachariah A. Page",
+    "department": "Chemical Engineering (Cockrell)",
+    "source_url": "https://che.utexas.edu/people/faculty"
+  },
+  {
+    "email": "lynd@che.utexas.edu",
+    "name": "Nathaniel Lynd",
+    "department": "Chemical Engineering (Cockrell)",
+    "source_url": "https://che.utexas.edu/people/faculty"
+  },
+  {
+    "email": "lhr@che.utexas.edu",
+    "name": "Lea Hildebrandt Ruiz",
+    "department": "Chemical Engineering (Cockrell)",
+    "source_url": "https://che.utexas.edu/people/faculty"
+  },
+  {
+    "email": "gshwang@che.utexas.edu",
+    "name": "Gyeong Hwang",
+    "department": "Chemical Engineering (Cockrell)",
+    "source_url": "https://che.utexas.edu/people/faculty"
+  },
+  {
+    "email": "edgar@mail.utexas.edu",
+    "name": "Thomas Edgar",
+    "department": "Chemical Engineering (Cockrell)",
+    "source_url": "https://che.utexas.edu/people/faculty"
+  },
+  {
+    "email": "freeman@che.utexas.edu",
+    "name": "Benny Freeman",
+    "department": "Chemical Engineering (Cockrell)",
+    "source_url": "https://che.utexas.edu/people/faculty"
+  },
+  {
+    "email": "korgel@che.utexas.edu",
+    "name": "Brian Korgel",
+    "department": "Chemical Engineering (Cockrell)",
+    "source_url": "https://che.utexas.edu/people/faculty"
+  },
+  {
+    "email": "etullos@che.utexas.edu",
+    "name": "Erin Tullos",
+    "department": "Chemical Engineering (Cockrell)",
+    "source_url": "https://che.utexas.edu/people/faculty"
+  },
+  {
+    "email": "ilias.mitrai@austin.utexas.edu",
+    "name": "Ilias Mitrai",
+    "department": "Chemical Engineering (Cockrell)",
+    "source_url": "https://che.utexas.edu/people/faculty"
+  },
+  {
+    "email": "wwwennie@austin.utexas.edu",
+    "name": "Wennie Wang",
+    "department": "Chemical Engineering (Cockrell)",
+    "source_url": "https://che.utexas.edu/people/faculty"
+  },
+  {
+    "email": "fbeach@energy.utexas.edu",
+    "name": "Fred Beach",
+    "department": "Chemical Engineering (Cockrell)",
+    "source_url": "https://che.utexas.edu/people/faculty"
+  },
+  {
+    "email": "jruiz@che.utexas.edu",
+    "name": "Juan Ruiz",
+    "department": "Chemical Engineering (Cockrell)",
+    "source_url": "https://che.utexas.edu/people/faculty"
+  },
+  {
+    "email": "rochelle@che.utexas.edu",
+    "name": "Gary Rochelle",
+    "department": "Chemical Engineering (Cockrell)",
+    "source_url": "https://che.utexas.edu/people/faculty"
+  },
+  {
+    "email": "msharma@mail.utexas.edu",
+    "name": "Mukul Sharma",
+    "department": "Chemical Engineering (Cockrell)",
+    "source_url": "https://che.utexas.edu/people/faculty"
+  },
+  {
+    "email": "rtb@che.utexas.edu",
+    "name": "Roger Bonnecaze",
+    "department": "Chemical Engineering (Cockrell)",
+    "source_url": "https://che.utexas.edu/people/faculty"
+  },
+  {
+    "email": "bdb@che.utexas.edu",
+    "name": "Brian Belardi",
+    "department": "Chemical Engineering (Cockrell)",
+    "source_url": "https://che.utexas.edu/people/faculty"
+  },
+  {
+    "email": "jlavinder@utexas.edu",
+    "name": "Jason Lavinder",
+    "department": "Chemical Engineering (Cockrell)",
+    "source_url": "https://che.utexas.edu/people/faculty"
+  },
+  {
+    "email": "willson@che.utexas.edu",
+    "name": "C. Grant Willson",
+    "department": "Chemical Engineering (Cockrell)",
+    "source_url": "https://che.utexas.edu/people/faculty"
+  },
+  {
+    "email": "drp@che.utexas.edu",
+    "name": "Donald Paul",
+    "department": "Chemical Engineering (Cockrell)",
+    "source_url": "https://che.utexas.edu/people/faculty"
+  },
+  {
+    "email": "lcontrer@che.utexas.edu",
+    "name": "Lydia Contreras",
+    "department": "Chemical Engineering (Cockrell)",
+    "source_url": "https://che.utexas.edu/people/faculty"
+  },
+  {
+    "email": "lloyd@che.utexas.edu",
+    "name": "Douglas R. Lloyd",
+    "department": "Chemical Engineering (Cockrell)",
+    "source_url": "https://che.utexas.edu/people/faculty"
+  },
+  {
+    "email": "cmei@che.utexas.edu",
+    "name": "Christine Mei",
+    "department": "Chemical Engineering (Cockrell)",
+    "source_url": "https://che.utexas.edu/people/faculty"
+  },
+  {
+    "email": "ekerdt@utexas.edu",
+    "name": "John Ekerdt",
+    "department": "Chemical Engineering (Cockrell)",
+    "source_url": "https://che.utexas.edu/people/faculty"
+  },
+  {
+    "email": "nguyen@che.utexas.edu",
+    "name": "Annalee Nguyen",
+    "department": "Chemical Engineering (Cockrell)",
+    "source_url": "https://che.utexas.edu/people/faculty"
+  },
+  {
+    "email": "hchamoun@che.utexas.edu",
+    "name": "Habib Chamoun",
+    "department": "Chemical Engineering (Cockrell)",
+    "source_url": "https://che.utexas.edu/people/faculty"
+  },
+  {
+    "email": "halper@che.utexas.edu",
+    "name": "Hal Alper",
+    "department": "Chemical Engineering (Cockrell)",
+    "source_url": "https://che.utexas.edu/people/faculty"
+  },
+  {
+    "email": "arosales@che.utexas.edu",
+    "name": "Adrianne Rosales",
+    "department": "Chemical Engineering (Cockrell)",
+    "source_url": "https://che.utexas.edu/people/faculty"
+  },
+  {
+    "email": "tedison@che.utexas.edu",
+    "name": "Thomas A. Edison",
+    "department": "Chemical Engineering (Cockrell)",
+    "source_url": "https://che.utexas.edu/people/faculty"
+  },
+  {
+    "email": "gesanoja@che.utexas.edu",
+    "name": "Gabriel Sanoja",
+    "department": "Chemical Engineering (Cockrell)",
+    "source_url": "https://che.utexas.edu/people/faculty"
+  },
+  {
+    "email": "kentz@utexas.edu",
+    "name": "Kent Zheng",
+    "department": "Chemical Engineering (Cockrell)",
+    "source_url": "https://che.utexas.edu/people/faculty"
+  },
+  {
+    "email": "jfb@che.utexas.edu",
+    "name": "Joan Brennecke",
+    "department": "Chemical Engineering (Cockrell)",
+    "source_url": "https://che.utexas.edu/people/faculty"
+  },
+  {
+    "email": "whoward@che.utexas.edu",
+    "name": "William Howard",
+    "department": "Chemical Engineering (Cockrell)",
+    "source_url": "https://che.utexas.edu/people/faculty"
+  },
+  {
+    "email": "allen@che.utexas.edu",
+    "name": "David Allen",
+    "department": "Chemical Engineering (Cockrell)",
+    "source_url": "https://che.utexas.edu/people/faculty"
+  },
+  {
+    "email": "kpj@che.utexas.edu",
+    "name": "Keith Johnston",
+    "department": "Chemical Engineering (Cockrell)",
+    "source_url": "https://che.utexas.edu/people/faculty"
+  },
+  {
+    "email": "jrc@ices.utexas.edu",
+    "name": "James Chelikowsky",
+    "department": "Chemical Engineering (Cockrell)",
+    "source_url": "https://che.utexas.edu/people/faculty"
+  },
+  {
+    "email": "asahu@che.utexas.edu",
+    "name": "Amaresh Sahu",
+    "department": "Chemical Engineering (Cockrell)",
+    "source_url": "https://che.utexas.edu/people/faculty"
+  },
+  {
+    "email": "msb-cgb@mccombs.utexas.edu",
+    "name": "",
+    "department": "McCombs Business School (PhD)",
+    "source_url": "https://www.mccombs.utexas.edu/phd/students/"
+  },
+  {
+    "email": "entminor@utexas.edu",
+    "name": "I'm a graduating senior. Can I expedite adding the",
+    "department": "McCombs Business School (PhD)",
+    "source_url": "https://www.mccombs.utexas.edu/phd/current-students/"
+  },
+  {
+    "email": "barbara.a@mail.utexas.edu",
+    "name": "Barbara Anderson",
+    "department": "School of Social Work",
+    "source_url": "https://socialwork.utexas.edu/directory/"
+  },
+  {
+    "email": "akram.alturk@austin.utexas.edu",
+    "name": "Research Associate",
+    "department": "School of Social Work",
+    "source_url": "https://socialwork.utexas.edu/directory/"
+  },
+  {
+    "email": "alejandra.moreno@austin.utexas.edu",
+    "name": "Alejandra Moreno",
+    "department": "School of Social Work",
+    "source_url": "https://socialwork.utexas.edu/directory/"
+  },
+  {
+    "email": "peter.arellano@austin.utexas.edu",
+    "name": "Peter Arellano",
+    "department": "School of Social Work",
+    "source_url": "https://socialwork.utexas.edu/directory/"
+  },
+  {
+    "email": "rarocket@eid.utexas.edu",
+    "name": "Assistant Professor of Instruction",
+    "department": "School of Social Work",
+    "source_url": "https://socialwork.utexas.edu/directory/"
+  },
+  {
+    "email": "marmour@utexas.edu",
+    "name": "Emeritus Professor and University Distinguished Tea",
+    "department": "School of Social Work",
+    "source_url": "https://socialwork.utexas.edu/directory/"
+  },
+  {
+    "email": "jess.ambiee@austin.utexas.edu",
+    "name": "Assistant Professor of Practice",
+    "department": "School of Social Work",
+    "source_url": "https://socialwork.utexas.edu/directory/"
+  },
+  {
+    "email": "alyssa.aguirre@austin.utexas.edu",
+    "name": "Alyssa Aguirre",
+    "department": "School of Social Work",
+    "source_url": "https://socialwork.utexas.edu/directory/"
+  },
+  {
+    "email": "jasseff@utexas.edu",
+    "name": "",
+    "department": "School of Social Work",
+    "source_url": "https://socialwork.utexas.edu/directory/page/2/"
+  },
+  {
+    "email": "jennifer.baranprall@austin.utexas.edu",
+    "name": "Jennifer Baranprall",
+    "department": "School of Social Work",
+    "source_url": "https://socialwork.utexas.edu/directory/page/2/"
+  },
+  {
+    "email": "christopher.ayala@austin.utexas.edu",
+    "name": "Christopher Ayala",
+    "department": "School of Social Work",
+    "source_url": "https://socialwork.utexas.edu/directory/page/2/"
+  },
+  {
+    "email": "flor.avellaneda@austin.utexas.edu",
+    "name": "Postdoctoral Fellow",
+    "department": "School of Social Work",
+    "source_url": "https://socialwork.utexas.edu/directory/page/2/"
+  },
+  {
+    "email": "susanal@mail.utexas.edu",
+    "name": "Co-Principal Investigator",
+    "department": "School of Social Work",
+    "source_url": "https://socialwork.utexas.edu/directory/page/2/"
+  },
+  {
+    "email": "jenny.baldwin@austin.utexas.edu",
+    "name": "Jenny Baldwin",
+    "department": "School of Social Work",
+    "source_url": "https://socialwork.utexas.edu/directory/page/2/"
+  },
+  {
+    "email": "j.banister@austin.utexas.edu",
+    "name": "",
+    "department": "School of Social Work",
+    "source_url": "https://socialwork.utexas.edu/directory/page/2/"
+  },
+  {
+    "email": "barbara.ball@austin.utexas.edu",
+    "name": "Research Scientist",
+    "department": "School of Social Work",
+    "source_url": "https://socialwork.utexas.edu/directory/page/2/"
+  },
+  {
+    "email": "galvarado@austin.utexas.edu",
+    "name": "Contact Information",
+    "department": "College of Pharmacy",
+    "source_url": "https://pharmacy.utexas.edu/directory/guillermo-alvarado"
+  },
+  {
+    "email": "jeffbecker@austin.utexas.edu",
+    "name": "Contact Information",
+    "department": "College of Pharmacy",
+    "source_url": "https://pharmacy.utexas.edu/directory/jeff-becker"
+  },
+  {
+    "email": "antonlv@austin.utexas.edu",
+    "name": "Contact Information",
+    "department": "College of Pharmacy",
+    "source_url": "https://pharmacy.utexas.edu/directory/anton-avancena"
+  },
+  {
+    "email": "jessica.bloodgood@austin.utexas.edu",
+    "name": "Contact Information",
+    "department": "College of Pharmacy",
+    "source_url": "https://pharmacy.utexas.edu/directory/jessica-bloodgood"
+  },
+  {
+    "email": "jbosworth@austin.utexas.edu",
+    "name": "Contact Information",
+    "department": "College of Pharmacy",
+    "source_url": "https://pharmacy.utexas.edu/directory/jennifer-bosworth"
+  },
+  {
+    "email": "brian.becker@austin.utexas.edu",
+    "name": "Contact Information",
+    "department": "College of Pharmacy",
+    "source_url": "https://pharmacy.utexas.edu/directory/brian-becker"
+  },
+  {
+    "email": "cene.abroms@austin.utexas.edu",
+    "name": "Contact Information",
+    "department": "College of Pharmacy",
+    "source_url": "https://pharmacy.utexas.edu/directory/cene-abroms"
+  },
+  {
+    "email": "mirnab@austin.utexas.edu",
+    "name": "Contact Information",
+    "department": "College of Pharmacy",
+    "source_url": "https://pharmacy.utexas.edu/directory/mirna-benhamou"
+  },
+  {
+    "email": "latresa.billings@austin.utexas.edu",
+    "name": "Contact Information",
+    "department": "College of Pharmacy",
+    "source_url": "https://pharmacy.utexas.edu/directory/latresa-billings"
+  },
+  {
+    "email": "renee.acosta@austin.utexas.edu",
+    "name": "Contact Information",
+    "department": "College of Pharmacy",
+    "source_url": "https://pharmacy.utexas.edu/directory/renee-acosta"
+  },
+  {
+    "email": "jbarner@austin.utexas.edu",
+    "name": "Contact Information",
+    "department": "College of Pharmacy",
+    "source_url": "https://pharmacy.utexas.edu/directory/jamie-barner"
+  },
+  {
+    "email": "s.bendele@austin.utexas.edu",
+    "name": "Contact Information",
+    "department": "College of Pharmacy",
+    "source_url": "https://pharmacy.utexas.edu/directory/sherrie-bendele"
+  },
+  {
+    "email": "iris.bae@austin.utexas.edu",
+    "name": "Contact Information",
+    "department": "College of Pharmacy",
+    "source_url": "https://pharmacy.utexas.edu/directory/iris-bae"
+  },
+  {
+    "email": "rucha.bond@austin.utexas.edu",
+    "name": "Contact Information",
+    "department": "College of Pharmacy",
+    "source_url": "https://pharmacy.utexas.edu/directory/rucha-bond"
+  },
+  {
+    "email": "cmbrown@austin.utexas.edu",
+    "name": "Contact Information",
+    "department": "College of Pharmacy",
+    "source_url": "https://pharmacy.utexas.edu/directory/carolyn-brown"
+  },
+  {
+    "email": "miroslav.barylskiy@austin.utexas.edu",
+    "name": "Contact Information",
+    "department": "College of Pharmacy",
+    "source_url": "https://pharmacy.utexas.edu/directory/slava-barylskiy"
+  },
+  {
+    "email": "gbaumgart@austin.utexas.edu",
+    "name": "Contact Information",
+    "department": "College of Pharmacy",
+    "source_url": "https://pharmacy.utexas.edu/directory/glen-baumgart"
+  },
+  {
+    "email": "tickets@athletics.utexas.edu",
+    "name": "",
+    "department": "Longhorns Athletics",
+    "source_url": "https://texassports.com/staff-directory"
+  },
+  {
+    "email": "texasmbb@athletics.utexas.edu",
+    "name": "",
+    "department": "Longhorns Athletics - Basketball",
+    "source_url": "https://texassports.com/sports/mens-basketball/coaches"
+  },
+  {
+    "email": "blair.schaefer@athletics.utexas.edu",
+    "name": "Blair Schaefer",
+    "department": "Longhorns Athletics - Basketball",
+    "source_url": "https://texassports.com/sports/womens-basketball/coaches"
+  },
+  {
+    "email": "lindsaywh@utexas.edu",
+    "name": "",
+    "department": "Longhorns Athletics - Basketball",
+    "source_url": "https://texassports.com/sports/womens-basketball/coaches"
+  },
+  {
+    "email": "elena.lovato@athletics.utexas.edu",
+    "name": "Elena Lovato",
+    "department": "Longhorns Athletics - Basketball",
+    "source_url": "https://texassports.com/sports/womens-basketball/coaches"
+  },
+  {
+    "email": "tory.teykl@athletics.utexas.edu",
+    "name": "Tory Teykl",
+    "department": "Longhorns Athletics - Basketball",
+    "source_url": "https://texassports.com/sports/womens-basketball/coaches"
+  },
+  {
+    "email": "jeremy.rosenthal@athletics.utexas.edu",
+    "name": "Jeremy Rosenthal",
+    "department": "Longhorns Athletics - Basketball",
+    "source_url": "https://texassports.com/sports/womens-basketball/coaches"
+  },
+  {
+    "email": "connor.hixon@athletics.utexas.edu",
+    "name": "Connor Hixon",
+    "department": "Longhorns Athletics - Basketball",
+    "source_url": "https://texassports.com/sports/womens-basketball/coaches"
+  },
+  {
+    "email": "erikapernis@utexas.edu",
+    "name": "",
+    "department": "The Daily Texan (Student Newspaper)",
+    "source_url": "https://thedailytexan.com/contact/"
+  },
+  {
+    "email": "comm@engr.utexas.edu",
+    "name": "",
+    "department": "Cockrell School of Engineering",
+    "source_url": "https://cockrell.utexas.edu/"
+  },
+  {
+    "email": "cola-web-support@utlists.utexas.edu",
+    "name": "",
+    "department": "College of Liberal Arts",
+    "source_url": "https://liberalarts.utexas.edu/"
+  }
+]

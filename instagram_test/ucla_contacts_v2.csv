@@ -1,0 +1,716 @@
+name,email,title,department,role,source_url
+,helmer1@g.ucla.edu,,Virus Group (Chem),student,https://virus.chem.ucla.edu/lab-members
+,taylordk@g.ucla.edu,,Virus Group (Chem),student,https://virus.chem.ucla.edu/lab-members
+,davidsilverio@chem.ucla.edu,,Virus Group (Chem),faculty,https://virus.chem.ucla.edu/lab-members
+,nharpell@ucla.edu,,Virus Group (Chem),faculty,https://virus.chem.ucla.edu/lab-members
+,sjuang@g.ucla.edu,,Virus Group (Chem),student,https://virus.chem.ucla.edu/lab-members
+,matthewtsai12@g.ucla.edu,,Virus Group (Chem),student,https://virus.chem.ucla.edu/lab-members
+,gelbart@chem.ucla.edu,,Virus Group (Chem),faculty,https://virus.chem.ucla.edu/lab-members
+,odisse@chem.ucla.edu,,Virus Group (Chem),faculty,https://virus.chem.ucla.edu/lab-members
+,noerod1317@g.ucla.edu,,Virus Group (Chem),student,https://virus.chem.ucla.edu/lab-members
+,knobler@chem.ucla.edu,,Virus Group (Chem),faculty,https://virus.chem.ucla.edu/lab-members
+Members,jop@ucla.edu,,Park Lab,faculty,https://parklab.ucla.edu/members
+,tnguyen01@g.ucla.edu,,Park Lab,student,https://parklab.ucla.edu/members
+,elizabethhan4@g.ucla.edu,,Park Lab,student,https://parklab.ucla.edu/members
+,xiangtj@g.ucla.edu,,Park Lab,student,https://parklab.ucla.edu/members
+,darlenenguyen@g.ucla.edu,,Park Lab,student,https://parklab.ucla.edu/members
+,gouravjsaha@g.ucla.edu,,Park Lab,student,https://parklab.ucla.edu/members
+,bill.chuang0624@ucla.edu,,Park Lab,faculty,https://parklab.ucla.edu/members
+,almunaifia@g.ucla.edu,,Park Lab,student,https://parklab.ucla.edu/members
+,dexterlai@g.ucla.edu,,Park Lab,student,https://parklab.ucla.edu/members
+,nurwono@ucla.edu,,Park Lab,faculty,https://parklab.ucla.edu/members
+,nhaines2@g.ucla.edu,,Park Lab,student,https://parklab.ucla.edu/members
+,kencab@g.ucla.edu,,Park Lab,student,https://parklab.ucla.edu/members
+,ariannaz@g.ucla.edu,,Park Lab,student,https://parklab.ucla.edu/members
+,mbmcshane@ucla.edu,,Park Lab,faculty,https://parklab.ucla.edu/members
+,tinntine2@ucla.edu,,Park Lab,faculty,https://parklab.ucla.edu/members
+,ahalf001@g.ucla.edu,,Park Lab,student,https://parklab.ucla.edu/members
+,emmahanson@g.ucla.edu,,Park Lab,student,https://parklab.ucla.edu/members
+,hanssw@g.ucla.edu,,Park Lab,student,https://parklab.ucla.edu/members
+,dmfitzgerald@g.ucla.edu,,Park Lab,student,https://parklab.ucla.edu/members
+,nini0831@g.ucla.edu,,Park Lab,student,https://parklab.ucla.edu/members
+,bhaikabirsingh@g.ucla.edu,,Park Lab,student,https://parklab.ucla.edu/members
+,ellemccue@g.ucla.edu,,Park Lab,student,https://parklab.ucla.edu/members
+,jxu11@g.ucla.edu,,Park Lab,student,https://parklab.ucla.edu/members
+,tinaattar@g.ucla.edu,,Park Lab,student,https://parklab.ucla.edu/members
+,parklab@ucla.edu,,Park Lab,faculty,https://parklab.ucla.edu/members
+,hanadik05@g.ucla.edu,,Park Lab,student,https://parklab.ucla.edu/members
+,sevcanersan@ucla.edu,,Park Lab,faculty,https://parklab.ucla.edu/members
+,kierstenruss@g.ucla.edu,,Park Lab,student,https://parklab.ucla.edu/members
+,dtjanaka@g.ucla.edu,,Park Lab,student,https://parklab.ucla.edu/members
+,rachelki@g.ucla.edu,,Park Lab,student,https://parklab.ucla.edu/members
+,hannahyip@g.ucla.edu,,Park Lab,student,https://parklab.ucla.edu/members
+,lillygarcia@g.ucla.edu,,Park Lab,student,https://parklab.ucla.edu/members
+,tanlee101@g.ucla.edu,,Park Lab,student,https://parklab.ucla.edu/members
+,ifisc01@g.ucla.edu,,Park Lab,student,https://parklab.ucla.edu/members
+,harinsim@g.ucla.edu,,Park Lab,student,https://parklab.ucla.edu/members
+,kpande@g.ucla.edu,,Park Lab,student,https://parklab.ucla.edu/members
+,kixstrla1@g.ucla.edu,,Park Lab,student,https://parklab.ucla.edu/members
+,kgulia@ucla.edu,,Park Lab,faculty,https://parklab.ucla.edu/members
+,samokeeffe@g.ucla.edu,,Park Lab,student,https://parklab.ucla.edu/members
+,apullin17@g.ucla.edu,,Park Lab,student,https://parklab.ucla.edu/members
+,ecesuerdim@g.ucla.edu,,Park Lab,student,https://parklab.ucla.edu/members
+,aliyalakhani@g.ucla.edu,,Park Lab,student,https://parklab.ucla.edu/members
+,richardlaw@g.ucla.edu,,Park Lab,student,https://parklab.ucla.edu/members
+,keithchiu@g.ucla.edu,,Park Lab,student,https://parklab.ucla.edu/members
+,emmadickinson@g.ucla.edu,,Park Lab,student,https://parklab.ucla.edu/members
+,aml21@g.ucla.edu,,Park Lab,student,https://parklab.ucla.edu/members
+,hsearles2@g.ucla.edu,,Kraft Lab (EEB),student,https://sites.lifesci.ucla.edu/eeb-kraft/lab-members/
+,msupple@g.ucla.edu,,Kraft Lab (EEB),student,https://sites.lifesci.ucla.edu/eeb-kraft/lab-members/
+,msagarin@g.ucla.edu,,Kraft Lab (EEB),student,https://sites.lifesci.ucla.edu/eeb-kraft/lab-members/
+,lglevanik@g.ucla.edu,,Kraft Lab (EEB),student,https://sites.lifesci.ucla.edu/eeb-kraft/lab-members/
+,kmschneider@g.ucla.edu,,Kraft Lab (EEB),student,https://sites.lifesci.ucla.edu/eeb-kraft/lab-members/
+,alcisneroscarey@g.ucla.edu,,Kraft Lab (EEB),student,https://sites.lifesci.ucla.edu/eeb-kraft/lab-members/
+,nkraft@ucla.edu,,Kraft Lab (EEB),faculty,https://sites.lifesci.ucla.edu/eeb-kraft/lab-members/
+,chenweiyu@g.ucla.edu,,EPSS Grad Students,student,https://epss.ucla.edu/tag/graduate-student
+,aovazquez@ucla.edu,,EPSS Grad Students,faculty,https://epss.ucla.edu/tag/graduate-student
+,mengfeiqi05@ucla.edu,,EPSS Grad Students,faculty,https://epss.ucla.edu/tag/graduate-student
+,sophye@g.ucla.edu,,EPSS Grad Students,student,https://epss.ucla.edu/tag/graduate-student
+,aolitt23@g.ucla.edu,,EPSS Grad Students,student,https://epss.ucla.edu/tag/graduate-student
+,benjaminqtan@g.ucla.edu,,EPSS Grad Students,student,https://epss.ucla.edu/tag/graduate-student
+,mng362@g.ucla.edu,,EPSS Grad Students,student,https://epss.ucla.edu/tag/graduate-student
+,benjaminqgtan@ucla.edu,,EPSS Grad Students,faculty,https://epss.ucla.edu/tag/graduate-student
+,sophieye@g.ucla.edu,,EPSS Grad Students,student,https://epss.ucla.edu/tag/graduate-student
+,yueyuan2003@g.ucla.edu,,EPSS Grad Students,student,https://epss.ucla.edu/tag/graduate-student
+,chengzhi@ucla.edu,,EPSS Grad Students,faculty,https://epss.ucla.edu/tag/graduate-student
+,yangm0209@ucla.edu,,EPSS Grad Students,faculty,https://epss.ucla.edu/tag/graduate-student
+,cbainbridge@g.ucla.edu,,Communication Grad Students,student,https://comm.ucla.edu/people/graduate-students/
+,jiyhwang@g.ucla.edu,,Communication Grad Students,student,https://comm.ucla.edu/people/graduate-students/
+,yanrujiang@g.ucla.edu,,Communication Grad Students,student,https://comm.ucla.edu/people/graduate-students/
+,maijiahao@g.ucla.edu,,Communication Grad Students,student,https://comm.ucla.edu/people/graduate-students/
+,shnoh@g.ucla.edu,,Communication Grad Students,student,https://comm.ucla.edu/people/graduate-students/
+,chae@g.ucla.edu,,Communication Grad Students,student,https://comm.ucla.edu/people/graduate-students/
+,q.miao@ucla.edu,,Communication Grad Students,faculty,https://comm.ucla.edu/people/graduate-students/
+,pjamie@ucla.edu,,Communication Grad Students,faculty,https://comm.ucla.edu/people/graduate-students/
+,z.p.rosen@ucla.edu,,Communication Grad Students,faculty,https://comm.ucla.edu/people/graduate-students/
+,abhinandadash99@g.ucla.edu,,Communication Grad Students,student,https://comm.ucla.edu/people/graduate-students/
+,eacevedo89@g.ucla.edu,,Communication Grad Students,student,https://comm.ucla.edu/people/graduate-students/
+,gakcakir@ucla.edu,,Communication Grad Students,faculty,https://comm.ucla.edu/people/graduate-students/
+,siyi.gong@ucla.edu,,Communication Grad Students,faculty,https://comm.ucla.edu/people/graduate-students/
+,priankakoya@g.ucla.edu,,Communication Grad Students,student,https://comm.ucla.edu/people/graduate-students/
+,gabiskollar@g.ucla.edu,,Communication Grad Students,student,https://comm.ucla.edu/people/graduate-students/
+,llin001@g.ucla.edu,,Communication Grad Students,student,https://comm.ucla.edu/people/graduate-students/
+,alisawan@g.ucla.edu,,Communication Grad Students,student,https://comm.ucla.edu/people/graduate-students/
+,clacsama8@g.ucla.edu,,Communication Grad Students,student,https://comm.ucla.edu/people/graduate-students/
+,miacarbone@g.ucla.edu,,Communication Grad Students,student,https://comm.ucla.edu/people/graduate-students/
+,abbywilson@g.ucla.edu,,Garg Lab (Chem),student,https://garg.chem.ucla.edu/group-members
+,neilgarg@chem.ucla.edu,,Garg Lab (Chem),faculty,https://garg.chem.ucla.edu/group-members
+,allisonhands@g.ucla.edu,,Garg Lab (Chem),student,https://garg.chem.ucla.edu/group-members
+,danielturner@g.ucla.edu,,Garg Lab (Chem),student,https://garg.chem.ucla.edu/group-members
+,kasey.chung@g.ucla.edu,,Garg Lab (Chem),student,https://garg.chem.ucla.edu/group-members
+,lqvauken@chem.ucla.edu,,Garg Lab (Chem),faculty,https://garg.chem.ucla.edu/group-members
+,gmiseo@chem.ucla.edu,,Garg Lab (Chem),faculty,https://garg.chem.ucla.edu/group-members
+,tonoyanm@chem.ucla.edu,,Garg Lab (Chem),faculty,https://garg.chem.ucla.edu/group-members
+,sarahfrench@g.ucla.edu,,Garg Lab (Chem),student,https://garg.chem.ucla.edu/group-members
+,jiaming.ding@chem.ucla.edu,,Garg Lab (Chem),faculty,https://garg.chem.ucla.edu/group-members
+,christiriv3@chem.ucla.edu,,Garg Lab (Chem),faculty,https://garg.chem.ucla.edu/group-members
+,aimeelong8@chem.ucla.edu,,Garg Lab (Chem),faculty,https://garg.chem.ucla.edu/group-members
+,zachgwalters@g.ucla.edu,,Garg Lab (Chem),student,https://garg.chem.ucla.edu/group-members
+,georgiamscherer@g.ucla.edu,,Garg Lab (Chem),student,https://garg.chem.ucla.edu/group-members
+,aclark19@chem.ucla.edu,,Garg Lab (Chem),faculty,https://garg.chem.ucla.edu/group-members
+,benjanda@chem.ucla.edu,,Garg Lab (Chem),faculty,https://garg.chem.ucla.edu/group-members
+,ngilbertson@g.ucla.edu,,Garg Lab (Chem),student,https://garg.chem.ucla.edu/group-members
+,bsprague03@g.ucla.edu,,Garg Lab (Chem),student,https://garg.chem.ucla.edu/group-members
+,amaarzs@g.ucla.edu,,Garg Lab (Chem),student,https://garg.chem.ucla.edu/group-members
+,neilgarg@ucla.edu,,Garg Lab (Chem),faculty,https://garg.chem.ucla.edu/group-members
+,mdeliaval@g.ucla.edu,,Garg Lab (Chem),student,https://garg.chem.ucla.edu/group-members
+,jordangonzalez@chem.ucla.edu,,Garg Lab (Chem),faculty,https://garg.chem.ucla.edu/group-members
+,wacinfo@arts.ucla.edu,,World Arts Grad Students,faculty,https://wacd.ucla.edu/people/graduate-students
+,abhaduri@mednet.ucla.edu,,Bhaduri Lab,faculty,https://bhadurilab.dgsom.ucla.edu/contact-us
+,pbradley@ucla.edu,,Bradley Lab,faculty,https://bradleylab.dgsom.ucla.edu/lab-members
+,pgolshani@mednet.ucla.edu,,Golshani Lab,faculty,https://golshanilab.neurology.ucla.edu/lab-members
+,ldaboussi@mednet.ucla.edu,,Daboussi Lab,faculty,https://daboussilab.healthsciences.ucla.edu/lab-members
+,mortaza@ucla.edu,,History Grad Students,faculty,https://www.history.ucla.edu/people/graduate-students
+,bkschneider@mednet.ucla.edu,,History Grad Students,faculty,https://www.history.ucla.edu/people/graduate-students
+,alexmaxlevine@g.ucla.edu,,History Grad Students,student,https://www.history.ucla.edu/people/graduate-students
+,anniepowers@ucla.edu,,History Grad Students,faculty,https://www.history.ucla.edu/people/graduate-students
+,ruhaowen25@g.ucla.edu,,History Grad Students,student,https://www.history.ucla.edu/people/graduate-students
+,nhwimpey@ucla.edu,,History Grad Students,faculty,https://www.history.ucla.edu/people/graduate-students
+,mpurello@g.ucla.edu,,History Grad Students,student,https://www.history.ucla.edu/people/graduate-students
+,chriscmartinez@g.ucla.edu,,History Grad Students,student,https://www.history.ucla.edu/people/graduate-students
+,tonyrera1@g.ucla.edu,,History Grad Students,student,https://www.history.ucla.edu/people/graduate-students
+,carsongreene17@g.ucla.edu,,History Grad Students,student,https://www.history.ucla.edu/people/graduate-students
+,zhengc4674@g.ucla.edu,,History Grad Students,student,https://www.history.ucla.edu/people/graduate-students
+,gsattler@ucla.edu,,History Grad Students,faculty,https://www.history.ucla.edu/people/graduate-students
+,shussein@g.ucla.edu,,History Grad Students,student,https://www.history.ucla.edu/people/graduate-students
+,mzhang54@ucla.edu,,History Grad Students,faculty,https://www.history.ucla.edu/people/graduate-students
+,arrannerispoli@ucla.edu,,History Grad Students,faculty,https://www.history.ucla.edu/people/graduate-students
+,maiyawv@g.ucla.edu,,History Grad Students,student,https://www.history.ucla.edu/people/graduate-students
+,briannalavelle@ucla.edu,,History Grad Students,faculty,https://www.history.ucla.edu/people/graduate-students
+,galolopez123@ucla.edu,,History Grad Students,faculty,https://www.history.ucla.edu/people/graduate-students
+,hindy@g.ucla.edu,,History Grad Students,student,https://www.history.ucla.edu/people/graduate-students
+,rwaxman@g.ucla.edu,,History Grad Students,student,https://www.history.ucla.edu/people/graduate-students
+,hpramirez@g.ucla.edu,,History Grad Students,student,https://www.history.ucla.edu/people/graduate-students
+,vvhernandez@ucla.edu,,History Grad Students,faculty,https://www.history.ucla.edu/people/graduate-students
+,kjt2010@g.ucla.edu,,History Grad Students,student,https://www.history.ucla.edu/people/graduate-students
+,moc3114@ucla.edu,,History Grad Students,faculty,https://www.history.ucla.edu/people/graduate-students
+,chrisramirez218@ucla.edu,,History Grad Students,faculty,https://www.history.ucla.edu/people/graduate-students
+,nbernstien@g.ucla.edu,,History Grad Students,student,https://www.history.ucla.edu/people/graduate-students
+,phchou42@ucla.edu,,History Grad Students,faculty,https://www.history.ucla.edu/people/graduate-students
+,jeanettecharles@g.ucla.edu,,History Grad Students,student,https://www.history.ucla.edu/people/graduate-students
+,mhudalla@ucla.edu,,History Grad Students,faculty,https://www.history.ucla.edu/people/graduate-students
+,juhyunkim@ucla.edu,,History Grad Students,faculty,https://www.history.ucla.edu/people/graduate-students
+,fionaser@g.ucla.edu,,History Grad Students,student,https://www.history.ucla.edu/people/graduate-students
+,rmichaelsen@g.ucla.edu,,History Grad Students,student,https://www.history.ucla.edu/people/graduate-students
+,busem@g.ucla.edu,,History Grad Students,student,https://www.history.ucla.edu/people/graduate-students
+,raymatsumoto@g.ucla.edu,,History Grad Students,student,https://www.history.ucla.edu/people/graduate-students
+,averyweinman@ucla.edu,,History Grad Students,faculty,https://www.history.ucla.edu/people/graduate-students
+,roxannevalle@ucla.edu,,History Grad Students,faculty,https://www.history.ucla.edu/people/graduate-students
+,haoxiaowen@g.ucla.edu,,History Grad Students,student,https://www.history.ucla.edu/people/graduate-students
+,sgreenmanspear@ucla.edu,,History Grad Students,faculty,https://www.history.ucla.edu/people/graduate-students
+,rachelkaufman@g.ucla.edu,,History Grad Students,student,https://www.history.ucla.edu/people/graduate-students
+,zchen0505@g.ucla.edu,,History Grad Students,student,https://www.history.ucla.edu/people/graduate-students
+,votavac@g.ucla.edu,,History Grad Students,student,https://www.history.ucla.edu/people/graduate-students
+,amrikbiswas@ucla.edu,,History Grad Students,faculty,https://www.history.ucla.edu/people/graduate-students
+,sofiayazpik@g.ucla.edu,,History Grad Students,student,https://www.history.ucla.edu/people/graduate-students
+,kayneadoughty@g.ucla.edu,,History Grad Students,student,https://www.history.ucla.edu/people/graduate-students
+,cbellwilson@g.ucla.edu,,History Grad Students,student,https://www.history.ucla.edu/people/graduate-students
+,brittongus@g.ucla.edu,,History Grad Students,student,https://www.history.ucla.edu/people/graduate-students
+,erdemilter@g.ucla.edu,,History Grad Students,student,https://www.history.ucla.edu/people/graduate-students
+,rmartnz165@g.ucla.edu,,History Grad Students,student,https://www.history.ucla.edu/people/graduate-students
+,bfleisch@ucla.edu,,History Grad Students,faculty,https://www.history.ucla.edu/people/graduate-students
+,lcmcartor@g.ucla.edu,,History Grad Students,student,https://www.history.ucla.edu/people/graduate-students
+,habdellatif@g.ucla.edu,,History Grad Students,student,https://www.history.ucla.edu/people/graduate-students
+,takehara2000@g.ucla.edu,,History Grad Students,student,https://www.history.ucla.edu/people/graduate-students
+,rjrodriguez@ucla.edu,,History Grad Students,faculty,https://www.history.ucla.edu/people/graduate-students
+,aklein1@g.ucla.edu,,History Grad Students,student,https://www.history.ucla.edu/people/graduate-students
+,apfreemn@g.ucla.edu,,History Grad Students,student,https://www.history.ucla.edu/people/graduate-students
+,whiskeycristi@g.ucla.edu,,History Grad Students,student,https://www.history.ucla.edu/people/graduate-students
+,ryansaputo@g.ucla.edu,,History Grad Students,student,https://www.history.ucla.edu/people/graduate-students
+,pranavgulukota6@g.ucla.edu,,History Grad Students,student,https://www.history.ucla.edu/people/graduate-students
+,dfonseca@g.ucla.edu,,History Grad Students,student,https://www.history.ucla.edu/people/graduate-students
+,prthomas@ucla.edu,,History Grad Students,faculty,https://www.history.ucla.edu/people/graduate-students
+,abenji360@g.ucla.edu,,History Grad Students,student,https://www.history.ucla.edu/people/graduate-students
+,liammoore28@g.ucla.edu,,History Grad Students,student,https://www.history.ucla.edu/people/graduate-students
+,crnull@g.ucla.edu,,History Grad Students,student,https://www.history.ucla.edu/people/graduate-students
+,chul0376@ucla.edu,,History Grad Students,faculty,https://www.history.ucla.edu/people/graduate-students
+,dkopel@ucla.edu,,History Grad Students,faculty,https://www.history.ucla.edu/people/graduate-students
+,sunnychen@ucla.edu,,History Grad Students,faculty,https://www.history.ucla.edu/people/graduate-students
+,safahamzeh@ucla.edu,,History Grad Students,faculty,https://www.history.ucla.edu/people/graduate-students
+,jdpena89@g.ucla.edu,,History Grad Students,student,https://www.history.ucla.edu/people/graduate-students
+,megspaulding@ucla.edu,,History Grad Students,faculty,https://www.history.ucla.edu/people/graduate-students
+,aishazaman@ucla.edu,,History Grad Students,faculty,https://www.history.ucla.edu/people/graduate-students
+,shiy@g.ucla.edu,,History Grad Students,student,https://www.history.ucla.edu/people/graduate-students
+,chasesmith@ucla.edu,,History Grad Students,faculty,https://www.history.ucla.edu/people/graduate-students
+,haniabram@ucla.edu,,History Grad Students,faculty,https://www.history.ucla.edu/people/graduate-students
+,ebudrow@g.ucla.edu,,History Grad Students,student,https://www.history.ucla.edu/people/graduate-students
+,eml@ucla.edu,,History Grad Students,faculty,https://www.history.ucla.edu/people/graduate-students
+,thaliaertman@g.ucla.edu,,History Grad Students,student,https://www.history.ucla.edu/people/graduate-students
+,jkaptanian@ucla.edu,,History Grad Students,faculty,https://www.history.ucla.edu/people/graduate-students
+,dcitak@ucla.edu,,History Grad Students,faculty,https://www.history.ucla.edu/people/graduate-students
+Mira Abrecht,miabrecht@ucla.edu,,EEB Grad Students,faculty,https://www.eeb.ucla.edu/current-graduate-students/
+Katie Adler,katieadler@g.ucla.edu,,EEB Grad Students,student,https://www.eeb.ucla.edu/current-graduate-students/
+Wilmer Amaya-Mejia,wamayamejia@g.ucla.edu,,EEB Grad Students,student,https://www.eeb.ucla.edu/current-graduate-students/
+Nico Andrade,nicoandrade@ucla.edu,,EEB Grad Students,faculty,https://www.eeb.ucla.edu/current-graduate-students/
+Berenice Badillo,bbadillo@ucla.edu,,EEB Grad Students,faculty,https://www.eeb.ucla.edu/current-graduate-students/
+Austin Betancourt,abaustin1223@ucla.edu,,EEB Grad Students,faculty,https://www.eeb.ucla.edu/current-graduate-students/
+Kobie Boslough,boslough@ucla.edu,,EEB Grad Students,faculty,https://www.eeb.ucla.edu/current-graduate-students/
+Jill Carpenter,jillcarpenter@ucla.edu,,EEB Grad Students,faculty,https://www.eeb.ucla.edu/current-graduate-students/
+Joseph Di Liberto,jfdiliberto@ucla.edu,,EEB Grad Students,faculty,https://www.eeb.ucla.edu/current-graduate-students/
+S. Madigan Durham,sarahmd1113@ucla.edu,,EEB Grad Students,faculty,https://www.eeb.ucla.edu/current-graduate-students/
+Janine Fischer,janinef@ucla.edu,,EEB Grad Students,faculty,https://www.eeb.ucla.edu/current-graduate-students/
+Amiel Flores,jamflores@ucla.edu,,EEB Grad Students,faculty,https://www.eeb.ucla.edu/current-graduate-students/
+Kaija Gahm,kgahm@ucla.edu,,EEB Grad Students,faculty,https://www.eeb.ucla.edu/current-graduate-students/
+Claire Geiman,geiman@ucla.edu,,EEB Grad Students,faculty,https://www.eeb.ucla.edu/current-graduate-students/
+Sierra Glassman,sierraru@g.ucla.edu,,EEB Grad Students,student,https://www.eeb.ucla.edu/current-graduate-students/
+Lauren Glevanik,lglevanik@ucla.edu,,EEB Grad Students,faculty,https://www.eeb.ucla.edu/current-graduate-students/
+Jesse Gomez,jegomez97@ucla.edu,,EEB Grad Students,faculty,https://www.eeb.ucla.edu/current-graduate-students/
+Katie Hannibal,khannibal@ucla.edu,,EEB Grad Students,faculty,https://www.eeb.ucla.edu/current-graduate-students/
+Madison Hopkins,mlhopkins@g.ucla.edu,,EEB Grad Students,student,https://www.eeb.ucla.edu/current-graduate-students/
+Aidan Howenstine,aohowens@ucla.edu,,EEB Grad Students,faculty,https://www.eeb.ucla.edu/current-graduate-students/
+Nurit Katz,nkatz@fm.ucla.edu,,EEB Grad Students,faculty,https://www.eeb.ucla.edu/current-graduate-students/
+Peter Laurin,peterlaurin@ucla.edu,,EEB Grad Students,faculty,https://www.eeb.ucla.edu/current-graduate-students/
+Shanti Lindberg,lindbesh13@ucla.edu,,EEB Grad Students,faculty,https://www.eeb.ucla.edu/current-graduate-students/
+Onny Nurrahman Marwayana,onny.marwayana@ucla.edu,,EEB Grad Students,faculty,https://www.eeb.ucla.edu/current-graduate-students/
+Aisling Murran,amurran@ucla.edu,,EEB Grad Students,faculty,https://www.eeb.ucla.edu/current-graduate-students/
+Sean O'Fallon,seanofallon@ucla.edu,,EEB Grad Students,faculty,https://www.eeb.ucla.edu/current-graduate-students/
+Anna Jiselle Ongjoco,annajongjoco@g.ucla.edu,,EEB Grad Students,student,https://www.eeb.ucla.edu/current-graduate-students/
+Erika Ono-Kerns,eonokerns@ucla.edu,,EEB Grad Students,faculty,https://www.eeb.ucla.edu/current-graduate-students/
+Rosamari Orduña,rosamariorduna@g.ucla.edu,,EEB Grad Students,student,https://www.eeb.ucla.edu/current-graduate-students/
+Xochitl Ortiz Ross,xortizross@ucla.edu,,EEB Grad Students,faculty,https://www.eeb.ucla.edu/current-graduate-students/
+Madeleine Pacheco,madeleinegp@ucla.edu,,EEB Grad Students,faculty,https://www.eeb.ucla.edu/current-graduate-students/
+Sara Sofia Pedraza Narváez,sarapedraza@g.ucla.edu,,EEB Grad Students,student,https://www.eeb.ucla.edu/current-graduate-students/
+Kelsey Reckling,kreckling@ucla.edu,,EEB Grad Students,faculty,https://www.eeb.ucla.edu/current-graduate-students/
+Jordyn Regier,jordynregier@ucla.edu,,EEB Grad Students,faculty,https://www.eeb.ucla.edu/current-graduate-students/
+Maya Sagarin,msagarin@ucla.edu,,EEB Grad Students,faculty,https://www.eeb.ucla.edu/current-graduate-students/
+Chris Sayers,csayers2@ucla.edu,,EEB Grad Students,faculty,https://www.eeb.ucla.edu/current-graduate-students/
+Kristen Schott,kcschott@ucla.edu,,EEB Grad Students,faculty,https://www.eeb.ucla.edu/current-graduate-students/
+Hayden Speck,hspeck@ucla.edu,,EEB Grad Students,faculty,https://www.eeb.ucla.edu/current-graduate-students/
+Hannah Stouter,hstouter@ucla.edu,,EEB Grad Students,faculty,https://www.eeb.ucla.edu/current-graduate-students/
+Nidhi Vinod,nidhivinod20@ucla.edu,,EEB Grad Students,faculty,https://www.eeb.ucla.edu/current-graduate-students/
+Joanna Wu,joannaxwu@ucla.edu,,EEB Grad Students,faculty,https://www.eeb.ucla.edu/current-graduate-students/
+Heidi Yang,hyangg@ucla.edu,,EEB Grad Students,faculty,https://www.eeb.ucla.edu/current-graduate-students/
+,artinfo@arts.ucla.edu,,Art MFA Students,faculty,https://www.art.ucla.edu/graduate-students/
+"Alcaraz, Nati",nja@chem.ucla.edu,,Chemistry Directory,faculty,https://www.chemistry.ucla.edu/directory/
+"Almeida, Charlene",charlene@chem.ucla.edu,,Chemistry Directory,faculty,https://www.chemistry.ucla.edu/directory/
+"Baik, Mimi",mbaik@ucla.edu,,Chemistry Directory,faculty,https://www.chemistry.ucla.edu/directory/
+"Banderas, Mark",markb15@g.ucla.edu,,Chemistry Directory,student,https://www.chemistry.ucla.edu/directory/
+General Information,cbinfo@ucla.edu,,Chemistry Contacts,faculty,https://www.chemistry.ucla.edu/contact-us/
+"Dr. Janette Kropat, Building Emergency",kropat@chem.ucla.edu,,Chemistry Contacts,faculty,https://www.chemistry.ucla.edu/contact-us/
+Undergraduate Advisors &ndash; General Inquiries,cbugrad@ucla.edu,,Chemistry Contacts,faculty,https://www.chemistry.ucla.edu/contact-us/
+"Mark Banderas, Student Affairs Officer",markb15@ucla.edu,,Chemistry Contacts,faculty,https://www.chemistry.ucla.edu/contact-us/
+"Ana Guido, Student Affairs Officer",guidoana91@ucla.edu,,Chemistry Contacts,faculty,https://www.chemistry.ucla.edu/contact-us/
+Graduate Advisors &ndash; General Inquiries,cbgrad@ucla.edu,,Chemistry Contacts,faculty,https://www.chemistry.ucla.edu/contact-us/
+"Glenda Lopez, Student Affairs Officer",glendalo@ucla.edu,,Chemistry Contacts,faculty,https://www.chemistry.ucla.edu/contact-us/
+"Jackie Herrera, Student Affairs Officer",jackieherrera@ucla.edu,,Chemistry Contacts,faculty,https://www.chemistry.ucla.edu/contact-us/
+"Prof. Alexander Spokoyny, Chair",chair@chem.ucla.edu,,Chemistry Contacts,faculty,https://www.chemistry.ucla.edu/contact-us/
+"Laura Urquidez, Chief Administrative Officer",lurquidez@g.ucla.edu,,Chemistry Contacts,student,https://www.chemistry.ucla.edu/contact-us/
+"Jin Lee, Chair&rsquo;s Office Manager",jin.h.lee@ucla.edu,,Chemistry Contacts,faculty,https://www.chemistry.ucla.edu/contact-us/
+"Dr. Janette Kropat, Operations Manager",cbbuilding@ucla.edu,,Chemistry Contacts,faculty,https://www.chemistry.ucla.edu/contact-us/
+Shipping &amp; Receiving,cbsrs@ucla.edu,,Chemistry Contacts,faculty,https://www.chemistry.ucla.edu/contact-us/
+"Ryan Lee, Manager &ndash; Payroll &amp; Personnel",hradmin@chem.ucla.edu,,Chemistry Contacts,faculty,https://www.chemistry.ucla.edu/contact-us/
+Academic Personnel Analyst,academicpersonnel@chem.ucla.edu,,Chemistry Contacts,faculty,https://www.chemistry.ucla.edu/contact-us/
+"Marek Grzeskowiak, IT Manager",itsupport@chem.ucla.edu,,Chemistry Contacts,faculty,https://www.chemistry.ucla.edu/contact-us/
+"Jin Lee, Chair&rsquo;s Office Manager &ndash; Faculty Admin Staff Supervisor",divisional@chem.ucla.edu,,Chemistry Contacts,faculty,https://www.chemistry.ucla.edu/contact-us/
+"Penny Jennings, Communications Manager",penny@chem.ucla.edu,,Chemistry Contacts,faculty,https://www.chemistry.ucla.edu/contact-us/
+"Isaiah Gutierrez, Seminar &amp; Events Coordinator",isaiahgtz@chem.ucla.edu,,Chemistry Contacts,faculty,https://www.chemistry.ucla.edu/contact-us/
+,business@chem.ucla.edu,,Chemistry Contacts,faculty,https://www.chemistry.ucla.edu/contact-us/
+,bga@ucla.edu,,Bioengineering Students,faculty,https://www.bioeng.ucla.edu/students/
+,derickson@athletics.ucla.edu,,UCLA Mens Basketball,coach,https://uclabruins.com/sports/mens-basketball/roster/2025-26
+,mfeldman@athletics.ucla.edu,,UCLA Mens Basketball,coach,https://uclabruins.com/sports/mens-basketball/roster/2025-26
+,dandrews@athletics.ucla.edu,,UCLA Mens Basketball,coach,https://uclabruins.com/sports/mens-basketball/roster/2025-26
+,tjwolf@athletics.ucla.edu,,UCLA Mens Basketball,coach,https://uclabruins.com/sports/mens-basketball/roster/2025-26
+,monyenwere@athletics.ucla.edu,,UCLA Womens Basketball,coach,https://uclabruins.com/sports/womens-basketball/roster/2025-26
+,pwalker@athletics.ucla.edu,,UCLA Womens Basketball,coach,https://uclabruins.com/sports/womens-basketball/roster/2025-26
+,dsmith@athletics.ucla.edu,,UCLA Womens Basketball,coach,https://uclabruins.com/sports/womens-basketball/roster/2025-26
+,tbrown@athletics.ucla.edu,,UCLA Womens Basketball,coach,https://uclabruins.com/sports/womens-basketball/roster/2025-26
+,tnewnan@athletics.ucla.edu,,UCLA Womens Basketball,coach,https://uclabruins.com/sports/womens-basketball/roster/2025-26
+,cclose@athletics.ucla.edu,,UCLA Womens Basketball,coach,https://uclabruins.com/sports/womens-basketball/roster/2025-26
+,asamaniego@athletics.ucla.edu,,UCLA Womens Basketball,coach,https://uclabruins.com/sports/womens-basketball/roster/2025-26
+,smatsuura@athletics.ucla.edu,,UCLA Womens Basketball,coach,https://uclabruins.com/sports/womens-basketball/roster/2025-26
+,mfields@athletics.ucla.edu,,UCLA Womens Basketball,coach,https://uclabruins.com/sports/womens-basketball/roster/2025-26
+,aedge@athletics.ucla.edu,,UCLA Womens Basketball,coach,https://uclabruins.com/sports/womens-basketball/roster/2025-26
+,sskinner@athletics.ucla.edu,,UCLA Womens Basketball,coach,https://uclabruins.com/sports/womens-basketball/roster/2025-26
+,cnicdao@athletics.ucla.edu,,UCLA Womens Basketball,coach,https://uclabruins.com/sports/womens-basketball/roster/2025-26
+,azachem@athletics.ucla.edu,,UCLA Womens Basketball,coach,https://uclabruins.com/sports/womens-basketball/roster/2025-26
+,jclark@athletics.ucla.edu,,UCLA Womens Basketball,coach,https://uclabruins.com/sports/womens-basketball/roster/2025-26
+,mbanger@athletics.ucla.edu,,UCLA Mens Golf,coach,https://uclabruins.com/sports/mens-golf/roster/2025-26
+,akirakossian@athletics.ucla.edu,,UCLA Mens Golf,coach,https://uclabruins.com/sports/mens-golf/roster/2025-26
+,aum@athletics.ucla.edu,,UCLA Womens Golf,coach,https://uclabruins.com/sports/womens-golf/roster/2025-26
+,eyoo@athletics.ucla.edu,,UCLA Womens Golf,coach,https://uclabruins.com/sports/womens-golf/roster/2025-26
+,tstebbins@athletics.ucla.edu,,UCLA Womens Swimming And Diving,coach,https://uclabruins.com/sports/womens-swimming-and-diving/roster/2025-26
+,gcarpenter@athletics.ucla.edu,,UCLA Womens Swimming And Diving,coach,https://uclabruins.com/sports/womens-swimming-and-diving/roster/2025-26
+,jcordry@athletics.ucla.edu,,UCLA Womens Swimming And Diving,coach,https://uclabruins.com/sports/womens-swimming-and-diving/roster/2025-26
+,wmartin@athletics.ucla.edu,,UCLA Mens Tennis,coach,https://uclabruins.com/sports/mens-tennis/roster/2025-26
+,bmartin@athletics.ucla.edu,,UCLA Mens Tennis,coach,https://uclabruins.com/sports/mens-tennis/roster/2025-26
+,rdevilliers@athletics.ucla.edu,,UCLA Mens Tennis,coach,https://uclabruins.com/sports/mens-tennis/roster/2025-26
+,ssampras@athletics.ucla.edu,,UCLA Womens Tennis,coach,https://uclabruins.com/sports/womens-tennis/roster/2025-26
+,gcava@athletics.ucla.edu,,UCLA Womens Tennis,coach,https://uclabruins.com/sports/womens-tennis/roster/2025-26
+,rbrown@athletics.ucla.edu,,UCLA Womens Tennis,coach,https://uclabruins.com/sports/womens-tennis/roster/2025-26
+Send Us a Message,mgarafola@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Erinn McMahan,emcmahan@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Rudy Figueroa,rfigueroa@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Mick Deluca,mdeluca@saonet.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Nancy Gianni,ngianni@saonet.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Angela Scales,ascales@saonet.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Jason Zeck,jzeck@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Jennifer Flanders,jflanders@saonet.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Meng Jin,mjin@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Luis Rosales,lrosales@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Travis Phan,tphan@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Daniel Kim,dkim@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Sabrina Roman,sroman@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Remi Mizuiri,rmizuiri@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Bridget Eliot,info@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Willmar Rodriguez,wrodriguez@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Briana Wise,bwise@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Luke Jaffar,ljaffar@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Vanessa Jimenez (Mejia),vjimenez@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Keli Tashiro,ktashiro@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Megan Normansell,mnormansell@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Brett Billet,bbillet@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Justin Chidester,jchidester@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Hana Anwar,hanwar@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Paul McCarthy,pmccarthy@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Marcel Stiffey,mstiffey@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Harry Bennett,hbennett@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Sunny Yen,syen@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Oscar Rinon,orinon@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Elisa Terry,eterry@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Amber Brown,abrown@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Amanda Muenzer,amuenzer@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Liz Au,lau@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Samantha Soetenga,ssoetenga@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Juliane Nguyen,jnguyen@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Morgan Monroe,mmonroe@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Daniel Jauregui,djauregui@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Van Sinsuan,vsinsuan@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Alexander Landa,alanda@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Julia Rhoton,jrhoton@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Isabelle Du Soleil,idusoleil@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Tracie Lockwood,tlockwood@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Tiffany Cote,tcote@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Jayme Heyl,jheyl@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Steve Nevarez-Soto,snevarezsoto@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+"John Foissett, Jr.",jfoissett@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Keenen Bracket,kbrackett@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Ari Kornreich,akornreich@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Kristen Lockwood,klockwood@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Nora Lee,nlee@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Kylie Lausten,klausten@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Day Vinson,dvinson@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Zohar Abramovitz,zabramovitz@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Michelle Perrault,mperrault@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Kimberly Walsh,kwalsh@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Martin Espinoza,mespinoza@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Tomas Olavarria-Ly,tolavarrialy@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Staci Snyder,ssnyder@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Clint Svatos,csvatos@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Siobhan Goodwell,sgoodwell@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Edward White,ewhite@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Richard McCarty,rmccarty@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Erika Stebbins,estebbins@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Julia Voitovitsch,jvoitovitsch@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Ivan Podvalov,ipodvalov@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Nattu Coleman,ncoleman@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Dion Veloz,dveloz@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Beth Glazer,bglazer@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Jenna Parikh,jparikh@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Chelsey Sobel,csobel@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Lorrie Klimoski,lklimoski@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Dennis Koehne,dkoehne@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Edgar Torres,etorres@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Ignacio Vega,ivega@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Saul Avitia,savitia@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Dan Belanger,dbelanger@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+Brian Tait,btait@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+,reserve@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+,bikecenter@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+,scrc@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+,rentalcenter@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+,fitwell@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+,youthswim@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+,swimclubs@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+,clubhouse@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+,oa@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+,youthcamps@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+,campregistration@recreation.ucla.edu,,UCLA Recreation,staff,https://recreation.ucla.edu/about/contact
+,emilymiller@mednet.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,jjohnsonjordan@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,lgriebenow@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,avenute@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,drmcallisteroffice@mednet.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,jpotter@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,jjackson@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,lwhite@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,jvillegas@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,tfong@mednet.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,ldagen@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,awagner@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,kinouye@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,anattiv@mednet.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,gloza@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,jpuffer@mednet.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,msoccer@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,twebb@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,lslavin@caps.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,djohnson@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,jsprague@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,mkaloustian@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,htovar@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,kgustafson@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,jswisher@mednet.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,boshea@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,crivera@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,bmoors@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,kboal@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,jschulman@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,mtrombetta@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,syoumans@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,echeung@mednet.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,cmueller@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,randerson@tickets.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,cdooley@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,ncasaquit@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,svigil@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,radami@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,dharrington@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,coachnicknewman@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,dmalone@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,agarcia@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,dvigil@mednet.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,aruttenberg@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,wzaza@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,ekowal@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,cibarra@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,dchandler@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,mbiondi@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,lserrano@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,sburton@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,aguldstrand@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,kjjones@mednet.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,rcarmona@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,bjones@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,krlau@mednet.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,tayloranderson@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,jgoldman@mednet.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,pdeguzman@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,janicelee@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,dengblom@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,doropeza@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,tcurran@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,kplat@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,dcruz@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,salexander@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,cgrautski@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,eadkins@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,djensen@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,rschweyer@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,bpark@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,aking@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,cstocklin@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,vcastanon@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,rpaddds@ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,jplonsky@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,tpuetz@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,mhowell@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,ssims@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,nreft@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,bgarate@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,mmcglaston@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,ecarr@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,khashimoto@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,jhendricks@college.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,tbouma@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,msilver@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,alexandersoto@mednet.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,sdenard@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,rcole@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,kreeves@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,mhirayama@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,ciacoi@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,jsmith@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,jvernon@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,hgonzalez@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,sgillespie@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,dtaylor@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,ntierney@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,ehurd@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,dencina@college.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,iserafini@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,lloucks@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,jwiczek@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,dmartinez@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,gchilders@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,bcaffey@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,gbierling@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,llassiter@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,thanneke@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,markfreeman@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,jbatley@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,jrebello@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,scalista@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,awright@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,dmartinez@caps.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,aphrommavanh@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,tbrunner@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,abaumgartner@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,rcponce@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,snus@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,ryanagi@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,cpraetzel@caps.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,aebert@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,drodriguez@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,rmcnichols@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,bdas@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,jsandman@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,asalituro@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,ccarlson@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,suzimellano@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,bhutchings@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,rgagnon@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,wyanagi@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,coachg@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,sprice@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,shervey@mednet.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,mmoriarty@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,callison@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,bgillerlain@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,claired@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,vwatson@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,jfalitz@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,daltema@mednet.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,cduffaut@mednet.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,zdjukic@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,cminnick@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,clong@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,asinatra@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,jmachuca@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,rsanchez@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,egates@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,dmoos@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,dchen@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,stemming@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,smoreno@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,aperryman@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,mteitell@mednet.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,gcrew@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,mphillippy@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,jklim@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,jvail@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,tdimaculangan@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,vlavalsiti@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,woldham@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,rturteltaub@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,jchudzynski@mednet.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,wsoccer@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,jaryee@mednet.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,daldridge@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,sgilmore@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,aguardado@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,ghall@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,surrutia@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,jmcdonald@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,bseng@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,msataraka@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,bbowman@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,bbaldwin@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,rtelliyan@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,jramirez@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,kshirey@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,dvelotta@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,jsenko@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,tpitts@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,rbalderas@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,ljones@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,dwalton@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,pdyrek@mednet.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,jko@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,tylerjackson@mednet.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,mwerle@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,psalas@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,ccarter@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,ad@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,kdonaldson@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,tsokoler@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,kburbank@mednet.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,ijohnson@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,shame@mednet.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,bking@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,mburgos@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,dharipal@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,mgarcia@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,nkasmer@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,krisking@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,slondonkrogius@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,llamar@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,akitagawa@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,mabbott@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,vforman@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,kcrick@caps.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,kbakos@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,rcoy@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,cmoore@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,cneale@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,aalvarado@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,lfernandez@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,mpocinich@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,ggaleano@tickets.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,bbraman@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,carlylwilliams@mednet.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,dwacker@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,chancellor@ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,mkubeck@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,sglick@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,eking@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,drivas@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,kcoulter@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,aknight@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,akapasi@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,esalazar@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,rneushul@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,gkoonce@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,avines@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,lmoore@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,tjkremen@mednet.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,bfreebairn@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,hmitchell@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,mreichling@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,rfitzpatrick@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,rdab@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,dellerbe@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,jelisaldez@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,gwandy@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,uclawvb@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,ggoryoka@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,jlitman@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,sgarland@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,aovakimyan@caps.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,nbarbod@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,ehotl@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,atimiraos@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,sterhune@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,jfantone@college.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,ldavid@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,acastillo@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,kmaciel@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,aferris@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,mtransue@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,jleininger@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,jrivas@athletics.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,ssawlani@mednet.ucla.edu,,UCLA Athletics,staff,https://uclabruins.com/staff-directory
+,fsl@ucla.edu,Chapter/Council President,UCLA Greek Life,student_org,https://fsl.ucla.edu/community-directory
+,kpsie.delta.president@gmail.com,Chapter/Council President,UCLA Greek Life,student,https://fsl.ucla.edu/community-directory
+,uclatheta.president@gmail.com,Chapter/Council President,UCLA Greek Life,student,https://fsl.ucla.edu/community-directory
+,lta.president.ucla@gmail.com,Chapter/Council President,UCLA Greek Life,student,https://fsl.ucla.edu/community-directory
+,justinjsla@g.ucla.edu,Chapter/Council President,UCLA Greek Life,student,https://fsl.ucla.edu/community-directory
+,nsanchez58@g.ucla.edu,Chapter/Council President,UCLA Greek Life,student,https://fsl.ucla.edu/community-directory
+,cdully3@ucla.edu,Chapter/Council President,UCLA Greek Life,student_org,https://fsl.ucla.edu/community-directory
+,flr.delta.president@gmail.com,Chapter/Council President,UCLA Greek Life,student,https://fsl.ucla.edu/community-directory
+,president@ifcucla.com,Chapter/Council President,UCLA Greek Life,student_org,https://fsl.ucla.edu/community-directory
+,president.kkg.ucla@gmail.com,Chapter/Council President,UCLA Greek Life,student,https://fsl.ucla.edu/community-directory
+,chio.gammabeta.gh@gmail.com,Chapter/Council President,UCLA Greek Life,student,https://fsl.ucla.edu/community-directory
+,pthomsak@gmail.com,Chapter/Council President,UCLA Greek Life,student,https://fsl.ucla.edu/community-directory
+,gpb.president.ucla@gmail.com,Chapter/Council President,UCLA Greek Life,student,https://fsl.ucla.edu/community-directory
+,raussef0@ucla.edu,Chapter/Council President,UCLA Greek Life,student_org,https://fsl.ucla.edu/community-directory
+,zwatkins@g.ucla.edu,Chapter/Council President,UCLA Greek Life,student,https://fsl.ucla.edu/community-directory
+,ucladgpresident@gmail.com,Chapter/Council President,UCLA Greek Life,student,https://fsl.ucla.edu/community-directory
+,president.uclasaz@gmail.com,Chapter/Council President,UCLA Greek Life,student,https://fsl.ucla.edu/community-directory
+,iotapresident86@gmail.com,Chapter/Council President,UCLA Greek Life,student,https://fsl.ucla.edu/community-directory
+,jgibson5232@gmail.com,Chapter/Council President,UCLA Greek Life,student,https://fsl.ucla.edu/community-directory
+,uclasigmas1914@gmail.com,Chapter/Council President,UCLA Greek Life,student,https://fsl.ucla.edu/community-directory
+,kd.president.ucla@gmail.com,Chapter/Council President,UCLA Greek Life,student,https://fsl.ucla.edu/community-directory
+,president@uclapanhellenic.com,Chapter/Council President,UCLA Greek Life,student_org,https://fsl.ucla.edu/community-directory
+,chialphadelta.president@gmail.com,Chapter/Council President,UCLA Greek Life,student,https://fsl.ucla.edu/community-directory
+,president.phirhobruins@gmail.com,Chapter/Council President,UCLA Greek Life,student,https://fsl.ucla.edu/community-directory
+,president@bruinslca.com,Chapter/Council President,UCLA Greek Life,student_org,https://fsl.ucla.edu/community-directory
+,matanbootel@gmail.com,Chapter/Council President,UCLA Greek Life,student,https://fsl.ucla.edu/community-directory
+,tylerlambert7235@gmail.com,Chapter/Council President,UCLA Greek Life,student,https://fsl.ucla.edu/community-directory
+,benjamintooley1@gmail.com,Chapter/Council President,UCLA Greek Life,student,https://fsl.ucla.edu/community-directory
+,phipsi.calep.president@gmail.com,Chapter/Council President,UCLA Greek Life,student,https://fsl.ucla.edu/community-directory
+,jnarsjo@g.ucla.edu,Chapter/Council President,UCLA Greek Life,student,https://fsl.ucla.edu/community-directory
+,uclapibetaphi@gmail.com,Chapter/Council President,UCLA Greek Life,student,https://fsl.ucla.edu/community-directory
+,gwlongridge@gmail.com,Chapter/Council President,UCLA Greek Life,student,https://fsl.ucla.edu/community-directory
+,cwbruinn@ucla.edu,Chapter/Council President,UCLA Greek Life,student_org,https://fsl.ucla.edu/community-directory
+,uclathetachipres@gmail.com,Chapter/Council President,UCLA Greek Life,student,https://fsl.ucla.edu/community-directory
+,cwilks25@ucla.edu,Chapter/Council President,UCLA Greek Life,student_org,https://fsl.ucla.edu/community-directory
+,president.gammas.eta@gmail.com,Chapter/Council President,UCLA Greek Life,student,https://fsl.ucla.edu/community-directory
+,jaylinhenderson04@gmail.com,Chapter/Council President,UCLA Greek Life,student,https://fsl.ucla.edu/community-directory
+,president@thetaxibruins.com,Chapter/Council President,UCLA Greek Life,student_org,https://fsl.ucla.edu/community-directory
+,sigmapisigmapsi.ucla@gmail.com,Chapter/Council President,UCLA Greek Life,student,https://fsl.ucla.edu/community-directory
+,thetrackque24@ucla.edu,Chapter/Council President,UCLA Greek Life,student_org,https://fsl.ucla.edu/community-directory
+,slg.president.dg@gmail.com,Chapter/Council President,UCLA Greek Life,student,https://fsl.ucla.edu/community-directory
+,williamudo10@gmail.com,Chapter/Council President,UCLA Greek Life,student,https://fsl.ucla.edu/community-directory
+,bruinagc@gmail.com,Chapter/Council President,UCLA Greek Life,student,https://fsl.ucla.edu/community-directory
+,omegasigmatau.president@gmail.com,Chapter/Council President,UCLA Greek Life,student,https://fsl.ucla.edu/community-directory
+,opbsi.ucla.president@gmail.com,Chapter/Council President,UCLA Greek Life,student,https://fsl.ucla.edu/community-directory
+,sarai.hannamarie@gmail.com,Chapter/Council President,UCLA Greek Life,student,https://fsl.ucla.edu/community-directory
+,camdensun@gmail.com,Chapter/Council President,UCLA Greek Life,student,https://fsl.ucla.edu/community-directory
+,daijapatterson.dp@gmail.com,Chapter/Council President,UCLA Greek Life,student,https://fsl.ucla.edu/community-directory
+,axo.alphapsi.cp@gmail.com,Chapter/Council President,UCLA Greek Life,student,https://fsl.ucla.edu/community-directory
+,writeeeman@gmail.com,Chapter/Council President,UCLA Greek Life,student,https://fsl.ucla.edu/community-directory
+,bruinmigc.president@gmail.com,Chapter/Council President,UCLA Greek Life,student,https://fsl.ucla.edu/community-directory
+,bruinlgc.president@gmail.com,Chapter/Council President,UCLA Greek Life,student,https://fsl.ucla.edu/community-directory
+,thetakappaphi.president@gmail.com,Chapter/Council President,UCLA Greek Life,student,https://fsl.ucla.edu/community-directory
+,dsarghez@gmail.com,Chapter/Council President,UCLA Greek Life,student,https://fsl.ucla.edu/community-directory
+,liewsaelee04@gmail.com,Chapter/Council President,UCLA Greek Life,student,https://fsl.ucla.edu/community-directory
+,raynergraham@g.ucla.edu,Chapter/Council President,UCLA Greek Life,student,https://fsl.ucla.edu/community-directory
+,lul.betapsi.pres@gmail.com,Chapter/Council President,UCLA Greek Life,student,https://fsl.ucla.edu/community-directory
+,sage.upsilon@gmail.com,Chapter/Council President,UCLA Greek Life,student,https://fsl.ucla.edu/community-directory
+,alphaphi.betadelta.president@gmail.com,Chapter/Council President,UCLA Greek Life,student,https://fsl.ucla.edu/community-directory
+,uclachidelts@gmail.com,Chapter/Council President,UCLA Greek Life,student,https://fsl.ucla.edu/community-directory
+,adpibruins.president@gmail.com,Chapter/Council President,UCLA Greek Life,student,https://fsl.ucla.edu/community-directory
+,eliana17@ucla.edu,Chapter/Council President,UCLA Greek Life,student_org,https://fsl.ucla.edu/community-directory
+,swc@usac.ucla.edu,,Student Wellness Commission,student_org,https://swcucla.org/
+,uclasole@ucla.edu,,Pre-Professional Orgs,student_org,https://community.ucla.edu/studentorgs/pre-professional
+,feedback@media.ucla.edu,,BruinWalk,student_org,https://bruinwalk.com/

@@ -1,0 +1,6437 @@
+{
+  "contacts": [
+    {
+      "name": "",
+      "email": "helmer1@g.ucla.edu",
+      "title": "",
+      "department": "Virus Group (Chem)",
+      "role": "student",
+      "source_url": "https://virus.chem.ucla.edu/lab-members"
+    },
+    {
+      "name": "",
+      "email": "taylordk@g.ucla.edu",
+      "title": "",
+      "department": "Virus Group (Chem)",
+      "role": "student",
+      "source_url": "https://virus.chem.ucla.edu/lab-members"
+    },
+    {
+      "name": "",
+      "email": "davidsilverio@chem.ucla.edu",
+      "title": "",
+      "department": "Virus Group (Chem)",
+      "role": "faculty",
+      "source_url": "https://virus.chem.ucla.edu/lab-members"
+    },
+    {
+      "name": "",
+      "email": "nharpell@ucla.edu",
+      "title": "",
+      "department": "Virus Group (Chem)",
+      "role": "faculty",
+      "source_url": "https://virus.chem.ucla.edu/lab-members"
+    },
+    {
+      "name": "",
+      "email": "sjuang@g.ucla.edu",
+      "title": "",
+      "department": "Virus Group (Chem)",
+      "role": "student",
+      "source_url": "https://virus.chem.ucla.edu/lab-members"
+    },
+    {
+      "name": "",
+      "email": "matthewtsai12@g.ucla.edu",
+      "title": "",
+      "department": "Virus Group (Chem)",
+      "role": "student",
+      "source_url": "https://virus.chem.ucla.edu/lab-members"
+    },
+    {
+      "name": "",
+      "email": "gelbart@chem.ucla.edu",
+      "title": "",
+      "department": "Virus Group (Chem)",
+      "role": "faculty",
+      "source_url": "https://virus.chem.ucla.edu/lab-members"
+    },
+    {
+      "name": "",
+      "email": "odisse@chem.ucla.edu",
+      "title": "",
+      "department": "Virus Group (Chem)",
+      "role": "faculty",
+      "source_url": "https://virus.chem.ucla.edu/lab-members"
+    },
+    {
+      "name": "",
+      "email": "noerod1317@g.ucla.edu",
+      "title": "",
+      "department": "Virus Group (Chem)",
+      "role": "student",
+      "source_url": "https://virus.chem.ucla.edu/lab-members"
+    },
+    {
+      "name": "",
+      "email": "knobler@chem.ucla.edu",
+      "title": "",
+      "department": "Virus Group (Chem)",
+      "role": "faculty",
+      "source_url": "https://virus.chem.ucla.edu/lab-members"
+    },
+    {
+      "name": "Members",
+      "email": "jop@ucla.edu",
+      "title": "",
+      "department": "Park Lab",
+      "role": "faculty",
+      "source_url": "https://parklab.ucla.edu/members"
+    },
+    {
+      "name": "",
+      "email": "tnguyen01@g.ucla.edu",
+      "title": "",
+      "department": "Park Lab",
+      "role": "student",
+      "source_url": "https://parklab.ucla.edu/members"
+    },
+    {
+      "name": "",
+      "email": "elizabethhan4@g.ucla.edu",
+      "title": "",
+      "department": "Park Lab",
+      "role": "student",
+      "source_url": "https://parklab.ucla.edu/members"
+    },
+    {
+      "name": "",
+      "email": "xiangtj@g.ucla.edu",
+      "title": "",
+      "department": "Park Lab",
+      "role": "student",
+      "source_url": "https://parklab.ucla.edu/members"
+    },
+    {
+      "name": "",
+      "email": "darlenenguyen@g.ucla.edu",
+      "title": "",
+      "department": "Park Lab",
+      "role": "student",
+      "source_url": "https://parklab.ucla.edu/members"
+    },
+    {
+      "name": "",
+      "email": "gouravjsaha@g.ucla.edu",
+      "title": "",
+      "department": "Park Lab",
+      "role": "student",
+      "source_url": "https://parklab.ucla.edu/members"
+    },
+    {
+      "name": "",
+      "email": "bill.chuang0624@ucla.edu",
+      "title": "",
+      "department": "Park Lab",
+      "role": "faculty",
+      "source_url": "https://parklab.ucla.edu/members"
+    },
+    {
+      "name": "",
+      "email": "almunaifia@g.ucla.edu",
+      "title": "",
+      "department": "Park Lab",
+      "role": "student",
+      "source_url": "https://parklab.ucla.edu/members"
+    },
+    {
+      "name": "",
+      "email": "dexterlai@g.ucla.edu",
+      "title": "",
+      "department": "Park Lab",
+      "role": "student",
+      "source_url": "https://parklab.ucla.edu/members"
+    },
+    {
+      "name": "",
+      "email": "nurwono@ucla.edu",
+      "title": "",
+      "department": "Park Lab",
+      "role": "faculty",
+      "source_url": "https://parklab.ucla.edu/members"
+    },
+    {
+      "name": "",
+      "email": "nhaines2@g.ucla.edu",
+      "title": "",
+      "department": "Park Lab",
+      "role": "student",
+      "source_url": "https://parklab.ucla.edu/members"
+    },
+    {
+      "name": "",
+      "email": "kencab@g.ucla.edu",
+      "title": "",
+      "department": "Park Lab",
+      "role": "student",
+      "source_url": "https://parklab.ucla.edu/members"
+    },
+    {
+      "name": "",
+      "email": "ariannaz@g.ucla.edu",
+      "title": "",
+      "department": "Park Lab",
+      "role": "student",
+      "source_url": "https://parklab.ucla.edu/members"
+    },
+    {
+      "name": "",
+      "email": "mbmcshane@ucla.edu",
+      "title": "",
+      "department": "Park Lab",
+      "role": "faculty",
+      "source_url": "https://parklab.ucla.edu/members"
+    },
+    {
+      "name": "",
+      "email": "tinntine2@ucla.edu",
+      "title": "",
+      "department": "Park Lab",
+      "role": "faculty",
+      "source_url": "https://parklab.ucla.edu/members"
+    },
+    {
+      "name": "",
+      "email": "ahalf001@g.ucla.edu",
+      "title": "",
+      "department": "Park Lab",
+      "role": "student",
+      "source_url": "https://parklab.ucla.edu/members"
+    },
+    {
+      "name": "",
+      "email": "emmahanson@g.ucla.edu",
+      "title": "",
+      "department": "Park Lab",
+      "role": "student",
+      "source_url": "https://parklab.ucla.edu/members"
+    },
+    {
+      "name": "",
+      "email": "hanssw@g.ucla.edu",
+      "title": "",
+      "department": "Park Lab",
+      "role": "student",
+      "source_url": "https://parklab.ucla.edu/members"
+    },
+    {
+      "name": "",
+      "email": "dmfitzgerald@g.ucla.edu",
+      "title": "",
+      "department": "Park Lab",
+      "role": "student",
+      "source_url": "https://parklab.ucla.edu/members"
+    },
+    {
+      "name": "",
+      "email": "nini0831@g.ucla.edu",
+      "title": "",
+      "department": "Park Lab",
+      "role": "student",
+      "source_url": "https://parklab.ucla.edu/members"
+    },
+    {
+      "name": "",
+      "email": "bhaikabirsingh@g.ucla.edu",
+      "title": "",
+      "department": "Park Lab",
+      "role": "student",
+      "source_url": "https://parklab.ucla.edu/members"
+    },
+    {
+      "name": "",
+      "email": "ellemccue@g.ucla.edu",
+      "title": "",
+      "department": "Park Lab",
+      "role": "student",
+      "source_url": "https://parklab.ucla.edu/members"
+    },
+    {
+      "name": "",
+      "email": "jxu11@g.ucla.edu",
+      "title": "",
+      "department": "Park Lab",
+      "role": "student",
+      "source_url": "https://parklab.ucla.edu/members"
+    },
+    {
+      "name": "",
+      "email": "tinaattar@g.ucla.edu",
+      "title": "",
+      "department": "Park Lab",
+      "role": "student",
+      "source_url": "https://parklab.ucla.edu/members"
+    },
+    {
+      "name": "",
+      "email": "parklab@ucla.edu",
+      "title": "",
+      "department": "Park Lab",
+      "role": "faculty",
+      "source_url": "https://parklab.ucla.edu/members"
+    },
+    {
+      "name": "",
+      "email": "hanadik05@g.ucla.edu",
+      "title": "",
+      "department": "Park Lab",
+      "role": "student",
+      "source_url": "https://parklab.ucla.edu/members"
+    },
+    {
+      "name": "",
+      "email": "sevcanersan@ucla.edu",
+      "title": "",
+      "department": "Park Lab",
+      "role": "faculty",
+      "source_url": "https://parklab.ucla.edu/members"
+    },
+    {
+      "name": "",
+      "email": "kierstenruss@g.ucla.edu",
+      "title": "",
+      "department": "Park Lab",
+      "role": "student",
+      "source_url": "https://parklab.ucla.edu/members"
+    },
+    {
+      "name": "",
+      "email": "dtjanaka@g.ucla.edu",
+      "title": "",
+      "department": "Park Lab",
+      "role": "student",
+      "source_url": "https://parklab.ucla.edu/members"
+    },
+    {
+      "name": "",
+      "email": "rachelki@g.ucla.edu",
+      "title": "",
+      "department": "Park Lab",
+      "role": "student",
+      "source_url": "https://parklab.ucla.edu/members"
+    },
+    {
+      "name": "",
+      "email": "hannahyip@g.ucla.edu",
+      "title": "",
+      "department": "Park Lab",
+      "role": "student",
+      "source_url": "https://parklab.ucla.edu/members"
+    },
+    {
+      "name": "",
+      "email": "lillygarcia@g.ucla.edu",
+      "title": "",
+      "department": "Park Lab",
+      "role": "student",
+      "source_url": "https://parklab.ucla.edu/members"
+    },
+    {
+      "name": "",
+      "email": "tanlee101@g.ucla.edu",
+      "title": "",
+      "department": "Park Lab",
+      "role": "student",
+      "source_url": "https://parklab.ucla.edu/members"
+    },
+    {
+      "name": "",
+      "email": "ifisc01@g.ucla.edu",
+      "title": "",
+      "department": "Park Lab",
+      "role": "student",
+      "source_url": "https://parklab.ucla.edu/members"
+    },
+    {
+      "name": "",
+      "email": "harinsim@g.ucla.edu",
+      "title": "",
+      "department": "Park Lab",
+      "role": "student",
+      "source_url": "https://parklab.ucla.edu/members"
+    },
+    {
+      "name": "",
+      "email": "kpande@g.ucla.edu",
+      "title": "",
+      "department": "Park Lab",
+      "role": "student",
+      "source_url": "https://parklab.ucla.edu/members"
+    },
+    {
+      "name": "",
+      "email": "kixstrla1@g.ucla.edu",
+      "title": "",
+      "department": "Park Lab",
+      "role": "student",
+      "source_url": "https://parklab.ucla.edu/members"
+    },
+    {
+      "name": "",
+      "email": "kgulia@ucla.edu",
+      "title": "",
+      "department": "Park Lab",
+      "role": "faculty",
+      "source_url": "https://parklab.ucla.edu/members"
+    },
+    {
+      "name": "",
+      "email": "samokeeffe@g.ucla.edu",
+      "title": "",
+      "department": "Park Lab",
+      "role": "student",
+      "source_url": "https://parklab.ucla.edu/members"
+    },
+    {
+      "name": "",
+      "email": "apullin17@g.ucla.edu",
+      "title": "",
+      "department": "Park Lab",
+      "role": "student",
+      "source_url": "https://parklab.ucla.edu/members"
+    },
+    {
+      "name": "",
+      "email": "ecesuerdim@g.ucla.edu",
+      "title": "",
+      "department": "Park Lab",
+      "role": "student",
+      "source_url": "https://parklab.ucla.edu/members"
+    },
+    {
+      "name": "",
+      "email": "aliyalakhani@g.ucla.edu",
+      "title": "",
+      "department": "Park Lab",
+      "role": "student",
+      "source_url": "https://parklab.ucla.edu/members"
+    },
+    {
+      "name": "",
+      "email": "richardlaw@g.ucla.edu",
+      "title": "",
+      "department": "Park Lab",
+      "role": "student",
+      "source_url": "https://parklab.ucla.edu/members"
+    },
+    {
+      "name": "",
+      "email": "keithchiu@g.ucla.edu",
+      "title": "",
+      "department": "Park Lab",
+      "role": "student",
+      "source_url": "https://parklab.ucla.edu/members"
+    },
+    {
+      "name": "",
+      "email": "emmadickinson@g.ucla.edu",
+      "title": "",
+      "department": "Park Lab",
+      "role": "student",
+      "source_url": "https://parklab.ucla.edu/members"
+    },
+    {
+      "name": "",
+      "email": "aml21@g.ucla.edu",
+      "title": "",
+      "department": "Park Lab",
+      "role": "student",
+      "source_url": "https://parklab.ucla.edu/members"
+    },
+    {
+      "name": "",
+      "email": "hsearles2@g.ucla.edu",
+      "title": "",
+      "department": "Kraft Lab (EEB)",
+      "role": "student",
+      "source_url": "https://sites.lifesci.ucla.edu/eeb-kraft/lab-members/"
+    },
+    {
+      "name": "",
+      "email": "msupple@g.ucla.edu",
+      "title": "",
+      "department": "Kraft Lab (EEB)",
+      "role": "student",
+      "source_url": "https://sites.lifesci.ucla.edu/eeb-kraft/lab-members/"
+    },
+    {
+      "name": "",
+      "email": "msagarin@g.ucla.edu",
+      "title": "",
+      "department": "Kraft Lab (EEB)",
+      "role": "student",
+      "source_url": "https://sites.lifesci.ucla.edu/eeb-kraft/lab-members/"
+    },
+    {
+      "name": "",
+      "email": "lglevanik@g.ucla.edu",
+      "title": "",
+      "department": "Kraft Lab (EEB)",
+      "role": "student",
+      "source_url": "https://sites.lifesci.ucla.edu/eeb-kraft/lab-members/"
+    },
+    {
+      "name": "",
+      "email": "kmschneider@g.ucla.edu",
+      "title": "",
+      "department": "Kraft Lab (EEB)",
+      "role": "student",
+      "source_url": "https://sites.lifesci.ucla.edu/eeb-kraft/lab-members/"
+    },
+    {
+      "name": "",
+      "email": "alcisneroscarey@g.ucla.edu",
+      "title": "",
+      "department": "Kraft Lab (EEB)",
+      "role": "student",
+      "source_url": "https://sites.lifesci.ucla.edu/eeb-kraft/lab-members/"
+    },
+    {
+      "name": "",
+      "email": "nkraft@ucla.edu",
+      "title": "",
+      "department": "Kraft Lab (EEB)",
+      "role": "faculty",
+      "source_url": "https://sites.lifesci.ucla.edu/eeb-kraft/lab-members/"
+    },
+    {
+      "name": "",
+      "email": "chenweiyu@g.ucla.edu",
+      "title": "",
+      "department": "EPSS Grad Students",
+      "role": "student",
+      "source_url": "https://epss.ucla.edu/tag/graduate-student"
+    },
+    {
+      "name": "",
+      "email": "aovazquez@ucla.edu",
+      "title": "",
+      "department": "EPSS Grad Students",
+      "role": "faculty",
+      "source_url": "https://epss.ucla.edu/tag/graduate-student"
+    },
+    {
+      "name": "",
+      "email": "mengfeiqi05@ucla.edu",
+      "title": "",
+      "department": "EPSS Grad Students",
+      "role": "faculty",
+      "source_url": "https://epss.ucla.edu/tag/graduate-student"
+    },
+    {
+      "name": "",
+      "email": "sophye@g.ucla.edu",
+      "title": "",
+      "department": "EPSS Grad Students",
+      "role": "student",
+      "source_url": "https://epss.ucla.edu/tag/graduate-student"
+    },
+    {
+      "name": "",
+      "email": "aolitt23@g.ucla.edu",
+      "title": "",
+      "department": "EPSS Grad Students",
+      "role": "student",
+      "source_url": "https://epss.ucla.edu/tag/graduate-student"
+    },
+    {
+      "name": "",
+      "email": "benjaminqtan@g.ucla.edu",
+      "title": "",
+      "department": "EPSS Grad Students",
+      "role": "student",
+      "source_url": "https://epss.ucla.edu/tag/graduate-student"
+    },
+    {
+      "name": "",
+      "email": "mng362@g.ucla.edu",
+      "title": "",
+      "department": "EPSS Grad Students",
+      "role": "student",
+      "source_url": "https://epss.ucla.edu/tag/graduate-student"
+    },
+    {
+      "name": "",
+      "email": "benjaminqgtan@ucla.edu",
+      "title": "",
+      "department": "EPSS Grad Students",
+      "role": "faculty",
+      "source_url": "https://epss.ucla.edu/tag/graduate-student"
+    },
+    {
+      "name": "",
+      "email": "sophieye@g.ucla.edu",
+      "title": "",
+      "department": "EPSS Grad Students",
+      "role": "student",
+      "source_url": "https://epss.ucla.edu/tag/graduate-student"
+    },
+    {
+      "name": "",
+      "email": "yueyuan2003@g.ucla.edu",
+      "title": "",
+      "department": "EPSS Grad Students",
+      "role": "student",
+      "source_url": "https://epss.ucla.edu/tag/graduate-student"
+    },
+    {
+      "name": "",
+      "email": "chengzhi@ucla.edu",
+      "title": "",
+      "department": "EPSS Grad Students",
+      "role": "faculty",
+      "source_url": "https://epss.ucla.edu/tag/graduate-student"
+    },
+    {
+      "name": "",
+      "email": "yangm0209@ucla.edu",
+      "title": "",
+      "department": "EPSS Grad Students",
+      "role": "faculty",
+      "source_url": "https://epss.ucla.edu/tag/graduate-student"
+    },
+    {
+      "name": "",
+      "email": "cbainbridge@g.ucla.edu",
+      "title": "",
+      "department": "Communication Grad Students",
+      "role": "student",
+      "source_url": "https://comm.ucla.edu/people/graduate-students/"
+    },
+    {
+      "name": "",
+      "email": "jiyhwang@g.ucla.edu",
+      "title": "",
+      "department": "Communication Grad Students",
+      "role": "student",
+      "source_url": "https://comm.ucla.edu/people/graduate-students/"
+    },
+    {
+      "name": "",
+      "email": "yanrujiang@g.ucla.edu",
+      "title": "",
+      "department": "Communication Grad Students",
+      "role": "student",
+      "source_url": "https://comm.ucla.edu/people/graduate-students/"
+    },
+    {
+      "name": "",
+      "email": "maijiahao@g.ucla.edu",
+      "title": "",
+      "department": "Communication Grad Students",
+      "role": "student",
+      "source_url": "https://comm.ucla.edu/people/graduate-students/"
+    },
+    {
+      "name": "",
+      "email": "shnoh@g.ucla.edu",
+      "title": "",
+      "department": "Communication Grad Students",
+      "role": "student",
+      "source_url": "https://comm.ucla.edu/people/graduate-students/"
+    },
+    {
+      "name": "",
+      "email": "chae@g.ucla.edu",
+      "title": "",
+      "department": "Communication Grad Students",
+      "role": "student",
+      "source_url": "https://comm.ucla.edu/people/graduate-students/"
+    },
+    {
+      "name": "",
+      "email": "q.miao@ucla.edu",
+      "title": "",
+      "department": "Communication Grad Students",
+      "role": "faculty",
+      "source_url": "https://comm.ucla.edu/people/graduate-students/"
+    },
+    {
+      "name": "",
+      "email": "pjamie@ucla.edu",
+      "title": "",
+      "department": "Communication Grad Students",
+      "role": "faculty",
+      "source_url": "https://comm.ucla.edu/people/graduate-students/"
+    },
+    {
+      "name": "",
+      "email": "z.p.rosen@ucla.edu",
+      "title": "",
+      "department": "Communication Grad Students",
+      "role": "faculty",
+      "source_url": "https://comm.ucla.edu/people/graduate-students/"
+    },
+    {
+      "name": "",
+      "email": "abhinandadash99@g.ucla.edu",
+      "title": "",
+      "department": "Communication Grad Students",
+      "role": "student",
+      "source_url": "https://comm.ucla.edu/people/graduate-students/"
+    },
+    {
+      "name": "",
+      "email": "eacevedo89@g.ucla.edu",
+      "title": "",
+      "department": "Communication Grad Students",
+      "role": "student",
+      "source_url": "https://comm.ucla.edu/people/graduate-students/"
+    },
+    {
+      "name": "",
+      "email": "gakcakir@ucla.edu",
+      "title": "",
+      "department": "Communication Grad Students",
+      "role": "faculty",
+      "source_url": "https://comm.ucla.edu/people/graduate-students/"
+    },
+    {
+      "name": "",
+      "email": "siyi.gong@ucla.edu",
+      "title": "",
+      "department": "Communication Grad Students",
+      "role": "faculty",
+      "source_url": "https://comm.ucla.edu/people/graduate-students/"
+    },
+    {
+      "name": "",
+      "email": "priankakoya@g.ucla.edu",
+      "title": "",
+      "department": "Communication Grad Students",
+      "role": "student",
+      "source_url": "https://comm.ucla.edu/people/graduate-students/"
+    },
+    {
+      "name": "",
+      "email": "gabiskollar@g.ucla.edu",
+      "title": "",
+      "department": "Communication Grad Students",
+      "role": "student",
+      "source_url": "https://comm.ucla.edu/people/graduate-students/"
+    },
+    {
+      "name": "",
+      "email": "llin001@g.ucla.edu",
+      "title": "",
+      "department": "Communication Grad Students",
+      "role": "student",
+      "source_url": "https://comm.ucla.edu/people/graduate-students/"
+    },
+    {
+      "name": "",
+      "email": "alisawan@g.ucla.edu",
+      "title": "",
+      "department": "Communication Grad Students",
+      "role": "student",
+      "source_url": "https://comm.ucla.edu/people/graduate-students/"
+    },
+    {
+      "name": "",
+      "email": "clacsama8@g.ucla.edu",
+      "title": "",
+      "department": "Communication Grad Students",
+      "role": "student",
+      "source_url": "https://comm.ucla.edu/people/graduate-students/"
+    },
+    {
+      "name": "",
+      "email": "miacarbone@g.ucla.edu",
+      "title": "",
+      "department": "Communication Grad Students",
+      "role": "student",
+      "source_url": "https://comm.ucla.edu/people/graduate-students/"
+    },
+    {
+      "name": "",
+      "email": "abbywilson@g.ucla.edu",
+      "title": "",
+      "department": "Garg Lab (Chem)",
+      "role": "student",
+      "source_url": "https://garg.chem.ucla.edu/group-members"
+    },
+    {
+      "name": "",
+      "email": "neilgarg@chem.ucla.edu",
+      "title": "",
+      "department": "Garg Lab (Chem)",
+      "role": "faculty",
+      "source_url": "https://garg.chem.ucla.edu/group-members"
+    },
+    {
+      "name": "",
+      "email": "allisonhands@g.ucla.edu",
+      "title": "",
+      "department": "Garg Lab (Chem)",
+      "role": "student",
+      "source_url": "https://garg.chem.ucla.edu/group-members"
+    },
+    {
+      "name": "",
+      "email": "danielturner@g.ucla.edu",
+      "title": "",
+      "department": "Garg Lab (Chem)",
+      "role": "student",
+      "source_url": "https://garg.chem.ucla.edu/group-members"
+    },
+    {
+      "name": "",
+      "email": "kasey.chung@g.ucla.edu",
+      "title": "",
+      "department": "Garg Lab (Chem)",
+      "role": "student",
+      "source_url": "https://garg.chem.ucla.edu/group-members"
+    },
+    {
+      "name": "",
+      "email": "lqvauken@chem.ucla.edu",
+      "title": "",
+      "department": "Garg Lab (Chem)",
+      "role": "faculty",
+      "source_url": "https://garg.chem.ucla.edu/group-members"
+    },
+    {
+      "name": "",
+      "email": "gmiseo@chem.ucla.edu",
+      "title": "",
+      "department": "Garg Lab (Chem)",
+      "role": "faculty",
+      "source_url": "https://garg.chem.ucla.edu/group-members"
+    },
+    {
+      "name": "",
+      "email": "tonoyanm@chem.ucla.edu",
+      "title": "",
+      "department": "Garg Lab (Chem)",
+      "role": "faculty",
+      "source_url": "https://garg.chem.ucla.edu/group-members"
+    },
+    {
+      "name": "",
+      "email": "sarahfrench@g.ucla.edu",
+      "title": "",
+      "department": "Garg Lab (Chem)",
+      "role": "student",
+      "source_url": "https://garg.chem.ucla.edu/group-members"
+    },
+    {
+      "name": "",
+      "email": "jiaming.ding@chem.ucla.edu",
+      "title": "",
+      "department": "Garg Lab (Chem)",
+      "role": "faculty",
+      "source_url": "https://garg.chem.ucla.edu/group-members"
+    },
+    {
+      "name": "",
+      "email": "christiriv3@chem.ucla.edu",
+      "title": "",
+      "department": "Garg Lab (Chem)",
+      "role": "faculty",
+      "source_url": "https://garg.chem.ucla.edu/group-members"
+    },
+    {
+      "name": "",
+      "email": "aimeelong8@chem.ucla.edu",
+      "title": "",
+      "department": "Garg Lab (Chem)",
+      "role": "faculty",
+      "source_url": "https://garg.chem.ucla.edu/group-members"
+    },
+    {
+      "name": "",
+      "email": "zachgwalters@g.ucla.edu",
+      "title": "",
+      "department": "Garg Lab (Chem)",
+      "role": "student",
+      "source_url": "https://garg.chem.ucla.edu/group-members"
+    },
+    {
+      "name": "",
+      "email": "georgiamscherer@g.ucla.edu",
+      "title": "",
+      "department": "Garg Lab (Chem)",
+      "role": "student",
+      "source_url": "https://garg.chem.ucla.edu/group-members"
+    },
+    {
+      "name": "",
+      "email": "aclark19@chem.ucla.edu",
+      "title": "",
+      "department": "Garg Lab (Chem)",
+      "role": "faculty",
+      "source_url": "https://garg.chem.ucla.edu/group-members"
+    },
+    {
+      "name": "",
+      "email": "benjanda@chem.ucla.edu",
+      "title": "",
+      "department": "Garg Lab (Chem)",
+      "role": "faculty",
+      "source_url": "https://garg.chem.ucla.edu/group-members"
+    },
+    {
+      "name": "",
+      "email": "ngilbertson@g.ucla.edu",
+      "title": "",
+      "department": "Garg Lab (Chem)",
+      "role": "student",
+      "source_url": "https://garg.chem.ucla.edu/group-members"
+    },
+    {
+      "name": "",
+      "email": "bsprague03@g.ucla.edu",
+      "title": "",
+      "department": "Garg Lab (Chem)",
+      "role": "student",
+      "source_url": "https://garg.chem.ucla.edu/group-members"
+    },
+    {
+      "name": "",
+      "email": "amaarzs@g.ucla.edu",
+      "title": "",
+      "department": "Garg Lab (Chem)",
+      "role": "student",
+      "source_url": "https://garg.chem.ucla.edu/group-members"
+    },
+    {
+      "name": "",
+      "email": "neilgarg@ucla.edu",
+      "title": "",
+      "department": "Garg Lab (Chem)",
+      "role": "faculty",
+      "source_url": "https://garg.chem.ucla.edu/group-members"
+    },
+    {
+      "name": "",
+      "email": "mdeliaval@g.ucla.edu",
+      "title": "",
+      "department": "Garg Lab (Chem)",
+      "role": "student",
+      "source_url": "https://garg.chem.ucla.edu/group-members"
+    },
+    {
+      "name": "",
+      "email": "jordangonzalez@chem.ucla.edu",
+      "title": "",
+      "department": "Garg Lab (Chem)",
+      "role": "faculty",
+      "source_url": "https://garg.chem.ucla.edu/group-members"
+    },
+    {
+      "name": "",
+      "email": "wacinfo@arts.ucla.edu",
+      "title": "",
+      "department": "World Arts Grad Students",
+      "role": "faculty",
+      "source_url": "https://wacd.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "abhaduri@mednet.ucla.edu",
+      "title": "",
+      "department": "Bhaduri Lab",
+      "role": "faculty",
+      "source_url": "https://bhadurilab.dgsom.ucla.edu/contact-us"
+    },
+    {
+      "name": "",
+      "email": "pbradley@ucla.edu",
+      "title": "",
+      "department": "Bradley Lab",
+      "role": "faculty",
+      "source_url": "https://bradleylab.dgsom.ucla.edu/lab-members"
+    },
+    {
+      "name": "",
+      "email": "pgolshani@mednet.ucla.edu",
+      "title": "",
+      "department": "Golshani Lab",
+      "role": "faculty",
+      "source_url": "https://golshanilab.neurology.ucla.edu/lab-members"
+    },
+    {
+      "name": "",
+      "email": "ldaboussi@mednet.ucla.edu",
+      "title": "",
+      "department": "Daboussi Lab",
+      "role": "faculty",
+      "source_url": "https://daboussilab.healthsciences.ucla.edu/lab-members"
+    },
+    {
+      "name": "",
+      "email": "mortaza@ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "faculty",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "bkschneider@mednet.ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "faculty",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "alexmaxlevine@g.ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "student",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "anniepowers@ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "faculty",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "ruhaowen25@g.ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "student",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "nhwimpey@ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "faculty",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "mpurello@g.ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "student",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "chriscmartinez@g.ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "student",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "tonyrera1@g.ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "student",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "carsongreene17@g.ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "student",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "zhengc4674@g.ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "student",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "gsattler@ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "faculty",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "shussein@g.ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "student",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "mzhang54@ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "faculty",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "arrannerispoli@ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "faculty",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "maiyawv@g.ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "student",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "briannalavelle@ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "faculty",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "galolopez123@ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "faculty",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "hindy@g.ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "student",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "rwaxman@g.ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "student",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "hpramirez@g.ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "student",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "vvhernandez@ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "faculty",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "kjt2010@g.ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "student",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "moc3114@ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "faculty",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "chrisramirez218@ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "faculty",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "nbernstien@g.ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "student",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "phchou42@ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "faculty",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "jeanettecharles@g.ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "student",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "mhudalla@ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "faculty",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "juhyunkim@ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "faculty",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "fionaser@g.ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "student",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "rmichaelsen@g.ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "student",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "busem@g.ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "student",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "raymatsumoto@g.ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "student",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "averyweinman@ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "faculty",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "roxannevalle@ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "faculty",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "haoxiaowen@g.ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "student",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "sgreenmanspear@ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "faculty",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "rachelkaufman@g.ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "student",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "zchen0505@g.ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "student",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "votavac@g.ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "student",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "amrikbiswas@ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "faculty",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "sofiayazpik@g.ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "student",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "kayneadoughty@g.ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "student",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "cbellwilson@g.ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "student",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "brittongus@g.ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "student",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "erdemilter@g.ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "student",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "rmartnz165@g.ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "student",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "bfleisch@ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "faculty",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "lcmcartor@g.ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "student",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "habdellatif@g.ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "student",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "takehara2000@g.ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "student",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "rjrodriguez@ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "faculty",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "aklein1@g.ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "student",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "apfreemn@g.ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "student",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "whiskeycristi@g.ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "student",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "ryansaputo@g.ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "student",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "pranavgulukota6@g.ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "student",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "dfonseca@g.ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "student",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "prthomas@ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "faculty",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "abenji360@g.ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "student",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "liammoore28@g.ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "student",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "crnull@g.ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "student",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "chul0376@ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "faculty",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "dkopel@ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "faculty",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "sunnychen@ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "faculty",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "safahamzeh@ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "faculty",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "jdpena89@g.ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "student",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "megspaulding@ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "faculty",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "aishazaman@ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "faculty",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "shiy@g.ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "student",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "chasesmith@ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "faculty",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "haniabram@ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "faculty",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "ebudrow@g.ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "student",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "eml@ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "faculty",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "thaliaertman@g.ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "student",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "jkaptanian@ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "faculty",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "",
+      "email": "dcitak@ucla.edu",
+      "title": "",
+      "department": "History Grad Students",
+      "role": "faculty",
+      "source_url": "https://www.history.ucla.edu/people/graduate-students"
+    },
+    {
+      "name": "Mira Abrecht",
+      "email": "miabrecht@ucla.edu",
+      "title": "",
+      "department": "EEB Grad Students",
+      "role": "faculty",
+      "source_url": "https://www.eeb.ucla.edu/current-graduate-students/"
+    },
+    {
+      "name": "Katie Adler",
+      "email": "katieadler@g.ucla.edu",
+      "title": "",
+      "department": "EEB Grad Students",
+      "role": "student",
+      "source_url": "https://www.eeb.ucla.edu/current-graduate-students/"
+    },
+    {
+      "name": "Wilmer Amaya-Mejia",
+      "email": "wamayamejia@g.ucla.edu",
+      "title": "",
+      "department": "EEB Grad Students",
+      "role": "student",
+      "source_url": "https://www.eeb.ucla.edu/current-graduate-students/"
+    },
+    {
+      "name": "Nico Andrade",
+      "email": "nicoandrade@ucla.edu",
+      "title": "",
+      "department": "EEB Grad Students",
+      "role": "faculty",
+      "source_url": "https://www.eeb.ucla.edu/current-graduate-students/"
+    },
+    {
+      "name": "Berenice Badillo",
+      "email": "bbadillo@ucla.edu",
+      "title": "",
+      "department": "EEB Grad Students",
+      "role": "faculty",
+      "source_url": "https://www.eeb.ucla.edu/current-graduate-students/"
+    },
+    {
+      "name": "Austin Betancourt",
+      "email": "abaustin1223@ucla.edu",
+      "title": "",
+      "department": "EEB Grad Students",
+      "role": "faculty",
+      "source_url": "https://www.eeb.ucla.edu/current-graduate-students/"
+    },
+    {
+      "name": "Kobie Boslough",
+      "email": "boslough@ucla.edu",
+      "title": "",
+      "department": "EEB Grad Students",
+      "role": "faculty",
+      "source_url": "https://www.eeb.ucla.edu/current-graduate-students/"
+    },
+    {
+      "name": "Jill Carpenter",
+      "email": "jillcarpenter@ucla.edu",
+      "title": "",
+      "department": "EEB Grad Students",
+      "role": "faculty",
+      "source_url": "https://www.eeb.ucla.edu/current-graduate-students/"
+    },
+    {
+      "name": "Joseph Di Liberto",
+      "email": "jfdiliberto@ucla.edu",
+      "title": "",
+      "department": "EEB Grad Students",
+      "role": "faculty",
+      "source_url": "https://www.eeb.ucla.edu/current-graduate-students/"
+    },
+    {
+      "name": "S. Madigan Durham",
+      "email": "sarahmd1113@ucla.edu",
+      "title": "",
+      "department": "EEB Grad Students",
+      "role": "faculty",
+      "source_url": "https://www.eeb.ucla.edu/current-graduate-students/"
+    },
+    {
+      "name": "Janine Fischer",
+      "email": "janinef@ucla.edu",
+      "title": "",
+      "department": "EEB Grad Students",
+      "role": "faculty",
+      "source_url": "https://www.eeb.ucla.edu/current-graduate-students/"
+    },
+    {
+      "name": "Amiel Flores",
+      "email": "jamflores@ucla.edu",
+      "title": "",
+      "department": "EEB Grad Students",
+      "role": "faculty",
+      "source_url": "https://www.eeb.ucla.edu/current-graduate-students/"
+    },
+    {
+      "name": "Kaija Gahm",
+      "email": "kgahm@ucla.edu",
+      "title": "",
+      "department": "EEB Grad Students",
+      "role": "faculty",
+      "source_url": "https://www.eeb.ucla.edu/current-graduate-students/"
+    },
+    {
+      "name": "Claire Geiman",
+      "email": "geiman@ucla.edu",
+      "title": "",
+      "department": "EEB Grad Students",
+      "role": "faculty",
+      "source_url": "https://www.eeb.ucla.edu/current-graduate-students/"
+    },
+    {
+      "name": "Sierra Glassman",
+      "email": "sierraru@g.ucla.edu",
+      "title": "",
+      "department": "EEB Grad Students",
+      "role": "student",
+      "source_url": "https://www.eeb.ucla.edu/current-graduate-students/"
+    },
+    {
+      "name": "Lauren Glevanik",
+      "email": "lglevanik@ucla.edu",
+      "title": "",
+      "department": "EEB Grad Students",
+      "role": "faculty",
+      "source_url": "https://www.eeb.ucla.edu/current-graduate-students/"
+    },
+    {
+      "name": "Jesse Gomez",
+      "email": "jegomez97@ucla.edu",
+      "title": "",
+      "department": "EEB Grad Students",
+      "role": "faculty",
+      "source_url": "https://www.eeb.ucla.edu/current-graduate-students/"
+    },
+    {
+      "name": "Katie Hannibal",
+      "email": "khannibal@ucla.edu",
+      "title": "",
+      "department": "EEB Grad Students",
+      "role": "faculty",
+      "source_url": "https://www.eeb.ucla.edu/current-graduate-students/"
+    },
+    {
+      "name": "Madison Hopkins",
+      "email": "mlhopkins@g.ucla.edu",
+      "title": "",
+      "department": "EEB Grad Students",
+      "role": "student",
+      "source_url": "https://www.eeb.ucla.edu/current-graduate-students/"
+    },
+    {
+      "name": "Aidan Howenstine",
+      "email": "aohowens@ucla.edu",
+      "title": "",
+      "department": "EEB Grad Students",
+      "role": "faculty",
+      "source_url": "https://www.eeb.ucla.edu/current-graduate-students/"
+    },
+    {
+      "name": "Nurit Katz",
+      "email": "nkatz@fm.ucla.edu",
+      "title": "",
+      "department": "EEB Grad Students",
+      "role": "faculty",
+      "source_url": "https://www.eeb.ucla.edu/current-graduate-students/"
+    },
+    {
+      "name": "Peter Laurin",
+      "email": "peterlaurin@ucla.edu",
+      "title": "",
+      "department": "EEB Grad Students",
+      "role": "faculty",
+      "source_url": "https://www.eeb.ucla.edu/current-graduate-students/"
+    },
+    {
+      "name": "Shanti Lindberg",
+      "email": "lindbesh13@ucla.edu",
+      "title": "",
+      "department": "EEB Grad Students",
+      "role": "faculty",
+      "source_url": "https://www.eeb.ucla.edu/current-graduate-students/"
+    },
+    {
+      "name": "Onny Nurrahman Marwayana",
+      "email": "onny.marwayana@ucla.edu",
+      "title": "",
+      "department": "EEB Grad Students",
+      "role": "faculty",
+      "source_url": "https://www.eeb.ucla.edu/current-graduate-students/"
+    },
+    {
+      "name": "Aisling Murran",
+      "email": "amurran@ucla.edu",
+      "title": "",
+      "department": "EEB Grad Students",
+      "role": "faculty",
+      "source_url": "https://www.eeb.ucla.edu/current-graduate-students/"
+    },
+    {
+      "name": "Sean O'Fallon",
+      "email": "seanofallon@ucla.edu",
+      "title": "",
+      "department": "EEB Grad Students",
+      "role": "faculty",
+      "source_url": "https://www.eeb.ucla.edu/current-graduate-students/"
+    },
+    {
+      "name": "Anna Jiselle Ongjoco",
+      "email": "annajongjoco@g.ucla.edu",
+      "title": "",
+      "department": "EEB Grad Students",
+      "role": "student",
+      "source_url": "https://www.eeb.ucla.edu/current-graduate-students/"
+    },
+    {
+      "name": "Erika Ono-Kerns",
+      "email": "eonokerns@ucla.edu",
+      "title": "",
+      "department": "EEB Grad Students",
+      "role": "faculty",
+      "source_url": "https://www.eeb.ucla.edu/current-graduate-students/"
+    },
+    {
+      "name": "Rosamari Ordu\u00f1a",
+      "email": "rosamariorduna@g.ucla.edu",
+      "title": "",
+      "department": "EEB Grad Students",
+      "role": "student",
+      "source_url": "https://www.eeb.ucla.edu/current-graduate-students/"
+    },
+    {
+      "name": "Xochitl Ortiz Ross",
+      "email": "xortizross@ucla.edu",
+      "title": "",
+      "department": "EEB Grad Students",
+      "role": "faculty",
+      "source_url": "https://www.eeb.ucla.edu/current-graduate-students/"
+    },
+    {
+      "name": "Madeleine Pacheco",
+      "email": "madeleinegp@ucla.edu",
+      "title": "",
+      "department": "EEB Grad Students",
+      "role": "faculty",
+      "source_url": "https://www.eeb.ucla.edu/current-graduate-students/"
+    },
+    {
+      "name": "Sara Sofia Pedraza Narv\u00e1ez",
+      "email": "sarapedraza@g.ucla.edu",
+      "title": "",
+      "department": "EEB Grad Students",
+      "role": "student",
+      "source_url": "https://www.eeb.ucla.edu/current-graduate-students/"
+    },
+    {
+      "name": "Kelsey Reckling",
+      "email": "kreckling@ucla.edu",
+      "title": "",
+      "department": "EEB Grad Students",
+      "role": "faculty",
+      "source_url": "https://www.eeb.ucla.edu/current-graduate-students/"
+    },
+    {
+      "name": "Jordyn Regier",
+      "email": "jordynregier@ucla.edu",
+      "title": "",
+      "department": "EEB Grad Students",
+      "role": "faculty",
+      "source_url": "https://www.eeb.ucla.edu/current-graduate-students/"
+    },
+    {
+      "name": "Maya Sagarin",
+      "email": "msagarin@ucla.edu",
+      "title": "",
+      "department": "EEB Grad Students",
+      "role": "faculty",
+      "source_url": "https://www.eeb.ucla.edu/current-graduate-students/"
+    },
+    {
+      "name": "Chris Sayers",
+      "email": "csayers2@ucla.edu",
+      "title": "",
+      "department": "EEB Grad Students",
+      "role": "faculty",
+      "source_url": "https://www.eeb.ucla.edu/current-graduate-students/"
+    },
+    {
+      "name": "Kristen Schott",
+      "email": "kcschott@ucla.edu",
+      "title": "",
+      "department": "EEB Grad Students",
+      "role": "faculty",
+      "source_url": "https://www.eeb.ucla.edu/current-graduate-students/"
+    },
+    {
+      "name": "Hayden Speck",
+      "email": "hspeck@ucla.edu",
+      "title": "",
+      "department": "EEB Grad Students",
+      "role": "faculty",
+      "source_url": "https://www.eeb.ucla.edu/current-graduate-students/"
+    },
+    {
+      "name": "Hannah Stouter",
+      "email": "hstouter@ucla.edu",
+      "title": "",
+      "department": "EEB Grad Students",
+      "role": "faculty",
+      "source_url": "https://www.eeb.ucla.edu/current-graduate-students/"
+    },
+    {
+      "name": "Nidhi Vinod",
+      "email": "nidhivinod20@ucla.edu",
+      "title": "",
+      "department": "EEB Grad Students",
+      "role": "faculty",
+      "source_url": "https://www.eeb.ucla.edu/current-graduate-students/"
+    },
+    {
+      "name": "Joanna Wu",
+      "email": "joannaxwu@ucla.edu",
+      "title": "",
+      "department": "EEB Grad Students",
+      "role": "faculty",
+      "source_url": "https://www.eeb.ucla.edu/current-graduate-students/"
+    },
+    {
+      "name": "Heidi Yang",
+      "email": "hyangg@ucla.edu",
+      "title": "",
+      "department": "EEB Grad Students",
+      "role": "faculty",
+      "source_url": "https://www.eeb.ucla.edu/current-graduate-students/"
+    },
+    {
+      "name": "",
+      "email": "artinfo@arts.ucla.edu",
+      "title": "",
+      "department": "Art MFA Students",
+      "role": "faculty",
+      "source_url": "https://www.art.ucla.edu/graduate-students/"
+    },
+    {
+      "name": "Alcaraz, Nati",
+      "email": "nja@chem.ucla.edu",
+      "title": "",
+      "department": "Chemistry Directory",
+      "role": "faculty",
+      "source_url": "https://www.chemistry.ucla.edu/directory/"
+    },
+    {
+      "name": "Almeida, Charlene",
+      "email": "charlene@chem.ucla.edu",
+      "title": "",
+      "department": "Chemistry Directory",
+      "role": "faculty",
+      "source_url": "https://www.chemistry.ucla.edu/directory/"
+    },
+    {
+      "name": "Baik, Mimi",
+      "email": "mbaik@ucla.edu",
+      "title": "",
+      "department": "Chemistry Directory",
+      "role": "faculty",
+      "source_url": "https://www.chemistry.ucla.edu/directory/"
+    },
+    {
+      "name": "Banderas, Mark",
+      "email": "markb15@g.ucla.edu",
+      "title": "",
+      "department": "Chemistry Directory",
+      "role": "student",
+      "source_url": "https://www.chemistry.ucla.edu/directory/"
+    },
+    {
+      "name": "General Information",
+      "email": "cbinfo@ucla.edu",
+      "title": "",
+      "department": "Chemistry Contacts",
+      "role": "faculty",
+      "source_url": "https://www.chemistry.ucla.edu/contact-us/"
+    },
+    {
+      "name": "Dr. Janette Kropat, Building Emergency",
+      "email": "kropat@chem.ucla.edu",
+      "title": "",
+      "department": "Chemistry Contacts",
+      "role": "faculty",
+      "source_url": "https://www.chemistry.ucla.edu/contact-us/"
+    },
+    {
+      "name": "Undergraduate Advisors &ndash; General Inquiries",
+      "email": "cbugrad@ucla.edu",
+      "title": "",
+      "department": "Chemistry Contacts",
+      "role": "faculty",
+      "source_url": "https://www.chemistry.ucla.edu/contact-us/"
+    },
+    {
+      "name": "Mark Banderas, Student Affairs Officer",
+      "email": "markb15@ucla.edu",
+      "title": "",
+      "department": "Chemistry Contacts",
+      "role": "faculty",
+      "source_url": "https://www.chemistry.ucla.edu/contact-us/"
+    },
+    {
+      "name": "Ana Guido, Student Affairs Officer",
+      "email": "guidoana91@ucla.edu",
+      "title": "",
+      "department": "Chemistry Contacts",
+      "role": "faculty",
+      "source_url": "https://www.chemistry.ucla.edu/contact-us/"
+    },
+    {
+      "name": "Graduate Advisors &ndash; General Inquiries",
+      "email": "cbgrad@ucla.edu",
+      "title": "",
+      "department": "Chemistry Contacts",
+      "role": "faculty",
+      "source_url": "https://www.chemistry.ucla.edu/contact-us/"
+    },
+    {
+      "name": "Glenda Lopez, Student Affairs Officer",
+      "email": "glendalo@ucla.edu",
+      "title": "",
+      "department": "Chemistry Contacts",
+      "role": "faculty",
+      "source_url": "https://www.chemistry.ucla.edu/contact-us/"
+    },
+    {
+      "name": "Jackie Herrera, Student Affairs Officer",
+      "email": "jackieherrera@ucla.edu",
+      "title": "",
+      "department": "Chemistry Contacts",
+      "role": "faculty",
+      "source_url": "https://www.chemistry.ucla.edu/contact-us/"
+    },
+    {
+      "name": "Prof. Alexander Spokoyny, Chair",
+      "email": "chair@chem.ucla.edu",
+      "title": "",
+      "department": "Chemistry Contacts",
+      "role": "faculty",
+      "source_url": "https://www.chemistry.ucla.edu/contact-us/"
+    },
+    {
+      "name": "Laura Urquidez, Chief Administrative Officer",
+      "email": "lurquidez@g.ucla.edu",
+      "title": "",
+      "department": "Chemistry Contacts",
+      "role": "student",
+      "source_url": "https://www.chemistry.ucla.edu/contact-us/"
+    },
+    {
+      "name": "Jin Lee, Chair&rsquo;s Office Manager",
+      "email": "jin.h.lee@ucla.edu",
+      "title": "",
+      "department": "Chemistry Contacts",
+      "role": "faculty",
+      "source_url": "https://www.chemistry.ucla.edu/contact-us/"
+    },
+    {
+      "name": "Dr. Janette Kropat, Operations Manager",
+      "email": "cbbuilding@ucla.edu",
+      "title": "",
+      "department": "Chemistry Contacts",
+      "role": "faculty",
+      "source_url": "https://www.chemistry.ucla.edu/contact-us/"
+    },
+    {
+      "name": "Shipping &amp; Receiving",
+      "email": "cbsrs@ucla.edu",
+      "title": "",
+      "department": "Chemistry Contacts",
+      "role": "faculty",
+      "source_url": "https://www.chemistry.ucla.edu/contact-us/"
+    },
+    {
+      "name": "Ryan Lee, Manager &ndash; Payroll &amp; Personnel",
+      "email": "hradmin@chem.ucla.edu",
+      "title": "",
+      "department": "Chemistry Contacts",
+      "role": "faculty",
+      "source_url": "https://www.chemistry.ucla.edu/contact-us/"
+    },
+    {
+      "name": "Academic Personnel Analyst",
+      "email": "academicpersonnel@chem.ucla.edu",
+      "title": "",
+      "department": "Chemistry Contacts",
+      "role": "faculty",
+      "source_url": "https://www.chemistry.ucla.edu/contact-us/"
+    },
+    {
+      "name": "Marek Grzeskowiak, IT Manager",
+      "email": "itsupport@chem.ucla.edu",
+      "title": "",
+      "department": "Chemistry Contacts",
+      "role": "faculty",
+      "source_url": "https://www.chemistry.ucla.edu/contact-us/"
+    },
+    {
+      "name": "Jin Lee, Chair&rsquo;s Office Manager &ndash; Faculty Admin Staff Supervisor",
+      "email": "divisional@chem.ucla.edu",
+      "title": "",
+      "department": "Chemistry Contacts",
+      "role": "faculty",
+      "source_url": "https://www.chemistry.ucla.edu/contact-us/"
+    },
+    {
+      "name": "Penny Jennings, Communications Manager",
+      "email": "penny@chem.ucla.edu",
+      "title": "",
+      "department": "Chemistry Contacts",
+      "role": "faculty",
+      "source_url": "https://www.chemistry.ucla.edu/contact-us/"
+    },
+    {
+      "name": "Isaiah Gutierrez, Seminar &amp; Events Coordinator",
+      "email": "isaiahgtz@chem.ucla.edu",
+      "title": "",
+      "department": "Chemistry Contacts",
+      "role": "faculty",
+      "source_url": "https://www.chemistry.ucla.edu/contact-us/"
+    },
+    {
+      "name": "",
+      "email": "business@chem.ucla.edu",
+      "title": "",
+      "department": "Chemistry Contacts",
+      "role": "faculty",
+      "source_url": "https://www.chemistry.ucla.edu/contact-us/"
+    },
+    {
+      "name": "",
+      "email": "bga@ucla.edu",
+      "title": "",
+      "department": "Bioengineering Students",
+      "role": "faculty",
+      "source_url": "https://www.bioeng.ucla.edu/students/"
+    },
+    {
+      "name": "",
+      "email": "derickson@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Mens Basketball",
+      "role": "coach",
+      "source_url": "https://uclabruins.com/sports/mens-basketball/roster/2025-26"
+    },
+    {
+      "name": "",
+      "email": "mfeldman@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Mens Basketball",
+      "role": "coach",
+      "source_url": "https://uclabruins.com/sports/mens-basketball/roster/2025-26"
+    },
+    {
+      "name": "",
+      "email": "dandrews@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Mens Basketball",
+      "role": "coach",
+      "source_url": "https://uclabruins.com/sports/mens-basketball/roster/2025-26"
+    },
+    {
+      "name": "",
+      "email": "tjwolf@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Mens Basketball",
+      "role": "coach",
+      "source_url": "https://uclabruins.com/sports/mens-basketball/roster/2025-26"
+    },
+    {
+      "name": "",
+      "email": "monyenwere@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Womens Basketball",
+      "role": "coach",
+      "source_url": "https://uclabruins.com/sports/womens-basketball/roster/2025-26"
+    },
+    {
+      "name": "",
+      "email": "pwalker@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Womens Basketball",
+      "role": "coach",
+      "source_url": "https://uclabruins.com/sports/womens-basketball/roster/2025-26"
+    },
+    {
+      "name": "",
+      "email": "dsmith@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Womens Basketball",
+      "role": "coach",
+      "source_url": "https://uclabruins.com/sports/womens-basketball/roster/2025-26"
+    },
+    {
+      "name": "",
+      "email": "tbrown@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Womens Basketball",
+      "role": "coach",
+      "source_url": "https://uclabruins.com/sports/womens-basketball/roster/2025-26"
+    },
+    {
+      "name": "",
+      "email": "tnewnan@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Womens Basketball",
+      "role": "coach",
+      "source_url": "https://uclabruins.com/sports/womens-basketball/roster/2025-26"
+    },
+    {
+      "name": "",
+      "email": "cclose@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Womens Basketball",
+      "role": "coach",
+      "source_url": "https://uclabruins.com/sports/womens-basketball/roster/2025-26"
+    },
+    {
+      "name": "",
+      "email": "asamaniego@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Womens Basketball",
+      "role": "coach",
+      "source_url": "https://uclabruins.com/sports/womens-basketball/roster/2025-26"
+    },
+    {
+      "name": "",
+      "email": "smatsuura@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Womens Basketball",
+      "role": "coach",
+      "source_url": "https://uclabruins.com/sports/womens-basketball/roster/2025-26"
+    },
+    {
+      "name": "",
+      "email": "mfields@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Womens Basketball",
+      "role": "coach",
+      "source_url": "https://uclabruins.com/sports/womens-basketball/roster/2025-26"
+    },
+    {
+      "name": "",
+      "email": "aedge@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Womens Basketball",
+      "role": "coach",
+      "source_url": "https://uclabruins.com/sports/womens-basketball/roster/2025-26"
+    },
+    {
+      "name": "",
+      "email": "sskinner@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Womens Basketball",
+      "role": "coach",
+      "source_url": "https://uclabruins.com/sports/womens-basketball/roster/2025-26"
+    },
+    {
+      "name": "",
+      "email": "cnicdao@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Womens Basketball",
+      "role": "coach",
+      "source_url": "https://uclabruins.com/sports/womens-basketball/roster/2025-26"
+    },
+    {
+      "name": "",
+      "email": "azachem@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Womens Basketball",
+      "role": "coach",
+      "source_url": "https://uclabruins.com/sports/womens-basketball/roster/2025-26"
+    },
+    {
+      "name": "",
+      "email": "jclark@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Womens Basketball",
+      "role": "coach",
+      "source_url": "https://uclabruins.com/sports/womens-basketball/roster/2025-26"
+    },
+    {
+      "name": "",
+      "email": "mbanger@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Mens Golf",
+      "role": "coach",
+      "source_url": "https://uclabruins.com/sports/mens-golf/roster/2025-26"
+    },
+    {
+      "name": "",
+      "email": "akirakossian@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Mens Golf",
+      "role": "coach",
+      "source_url": "https://uclabruins.com/sports/mens-golf/roster/2025-26"
+    },
+    {
+      "name": "",
+      "email": "aum@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Womens Golf",
+      "role": "coach",
+      "source_url": "https://uclabruins.com/sports/womens-golf/roster/2025-26"
+    },
+    {
+      "name": "",
+      "email": "eyoo@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Womens Golf",
+      "role": "coach",
+      "source_url": "https://uclabruins.com/sports/womens-golf/roster/2025-26"
+    },
+    {
+      "name": "",
+      "email": "tstebbins@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Womens Swimming And Diving",
+      "role": "coach",
+      "source_url": "https://uclabruins.com/sports/womens-swimming-and-diving/roster/2025-26"
+    },
+    {
+      "name": "",
+      "email": "gcarpenter@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Womens Swimming And Diving",
+      "role": "coach",
+      "source_url": "https://uclabruins.com/sports/womens-swimming-and-diving/roster/2025-26"
+    },
+    {
+      "name": "",
+      "email": "jcordry@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Womens Swimming And Diving",
+      "role": "coach",
+      "source_url": "https://uclabruins.com/sports/womens-swimming-and-diving/roster/2025-26"
+    },
+    {
+      "name": "",
+      "email": "wmartin@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Mens Tennis",
+      "role": "coach",
+      "source_url": "https://uclabruins.com/sports/mens-tennis/roster/2025-26"
+    },
+    {
+      "name": "",
+      "email": "bmartin@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Mens Tennis",
+      "role": "coach",
+      "source_url": "https://uclabruins.com/sports/mens-tennis/roster/2025-26"
+    },
+    {
+      "name": "",
+      "email": "rdevilliers@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Mens Tennis",
+      "role": "coach",
+      "source_url": "https://uclabruins.com/sports/mens-tennis/roster/2025-26"
+    },
+    {
+      "name": "",
+      "email": "ssampras@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Womens Tennis",
+      "role": "coach",
+      "source_url": "https://uclabruins.com/sports/womens-tennis/roster/2025-26"
+    },
+    {
+      "name": "",
+      "email": "gcava@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Womens Tennis",
+      "role": "coach",
+      "source_url": "https://uclabruins.com/sports/womens-tennis/roster/2025-26"
+    },
+    {
+      "name": "",
+      "email": "rbrown@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Womens Tennis",
+      "role": "coach",
+      "source_url": "https://uclabruins.com/sports/womens-tennis/roster/2025-26"
+    },
+    {
+      "name": "Send Us a Message",
+      "email": "mgarafola@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Erinn McMahan",
+      "email": "emcmahan@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Rudy Figueroa",
+      "email": "rfigueroa@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Mick Deluca",
+      "email": "mdeluca@saonet.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Nancy Gianni",
+      "email": "ngianni@saonet.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Angela Scales",
+      "email": "ascales@saonet.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Jason Zeck",
+      "email": "jzeck@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Jennifer Flanders",
+      "email": "jflanders@saonet.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Meng Jin",
+      "email": "mjin@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Luis Rosales",
+      "email": "lrosales@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Travis Phan",
+      "email": "tphan@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Daniel Kim",
+      "email": "dkim@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Sabrina Roman",
+      "email": "sroman@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Remi Mizuiri",
+      "email": "rmizuiri@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Bridget Eliot",
+      "email": "info@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Willmar Rodriguez",
+      "email": "wrodriguez@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Briana Wise",
+      "email": "bwise@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Luke Jaffar",
+      "email": "ljaffar@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Vanessa Jimenez (Mejia)",
+      "email": "vjimenez@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Keli Tashiro",
+      "email": "ktashiro@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Megan Normansell",
+      "email": "mnormansell@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Brett Billet",
+      "email": "bbillet@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Justin Chidester",
+      "email": "jchidester@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Hana Anwar",
+      "email": "hanwar@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Paul McCarthy",
+      "email": "pmccarthy@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Marcel Stiffey",
+      "email": "mstiffey@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Harry Bennett",
+      "email": "hbennett@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Sunny Yen",
+      "email": "syen@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Oscar Rinon",
+      "email": "orinon@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Elisa Terry",
+      "email": "eterry@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Amber Brown",
+      "email": "abrown@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Amanda Muenzer",
+      "email": "amuenzer@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Liz Au",
+      "email": "lau@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Samantha Soetenga",
+      "email": "ssoetenga@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Juliane Nguyen",
+      "email": "jnguyen@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Morgan Monroe",
+      "email": "mmonroe@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Daniel Jauregui",
+      "email": "djauregui@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Van Sinsuan",
+      "email": "vsinsuan@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Alexander Landa",
+      "email": "alanda@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Julia Rhoton",
+      "email": "jrhoton@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Isabelle Du Soleil",
+      "email": "idusoleil@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Tracie Lockwood",
+      "email": "tlockwood@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Tiffany Cote",
+      "email": "tcote@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Jayme Heyl",
+      "email": "jheyl@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Steve Nevarez-Soto",
+      "email": "snevarezsoto@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "John Foissett, Jr.",
+      "email": "jfoissett@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Keenen Bracket",
+      "email": "kbrackett@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Ari Kornreich",
+      "email": "akornreich@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Kristen Lockwood",
+      "email": "klockwood@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Nora Lee",
+      "email": "nlee@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Kylie Lausten",
+      "email": "klausten@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Day Vinson",
+      "email": "dvinson@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Zohar Abramovitz",
+      "email": "zabramovitz@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Michelle Perrault",
+      "email": "mperrault@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Kimberly Walsh",
+      "email": "kwalsh@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Martin Espinoza",
+      "email": "mespinoza@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Tomas Olavarria-Ly",
+      "email": "tolavarrialy@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Staci Snyder",
+      "email": "ssnyder@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Clint Svatos",
+      "email": "csvatos@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Siobhan Goodwell",
+      "email": "sgoodwell@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Edward White",
+      "email": "ewhite@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Richard McCarty",
+      "email": "rmccarty@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Erika Stebbins",
+      "email": "estebbins@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Julia Voitovitsch",
+      "email": "jvoitovitsch@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Ivan Podvalov",
+      "email": "ipodvalov@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Nattu Coleman",
+      "email": "ncoleman@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Dion Veloz",
+      "email": "dveloz@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Beth Glazer",
+      "email": "bglazer@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Jenna Parikh",
+      "email": "jparikh@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Chelsey Sobel",
+      "email": "csobel@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Lorrie Klimoski",
+      "email": "lklimoski@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Dennis Koehne",
+      "email": "dkoehne@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Edgar Torres",
+      "email": "etorres@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Ignacio Vega",
+      "email": "ivega@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Saul Avitia",
+      "email": "savitia@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Dan Belanger",
+      "email": "dbelanger@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "Brian Tait",
+      "email": "btait@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "",
+      "email": "reserve@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "",
+      "email": "bikecenter@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "",
+      "email": "scrc@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "",
+      "email": "rentalcenter@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "",
+      "email": "fitwell@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "",
+      "email": "youthswim@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "",
+      "email": "swimclubs@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "",
+      "email": "clubhouse@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "",
+      "email": "oa@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "",
+      "email": "youthcamps@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "",
+      "email": "campregistration@recreation.ucla.edu",
+      "title": "",
+      "department": "UCLA Recreation",
+      "role": "staff",
+      "source_url": "https://recreation.ucla.edu/about/contact"
+    },
+    {
+      "name": "",
+      "email": "emilymiller@mednet.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "jjohnsonjordan@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "lgriebenow@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "avenute@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "drmcallisteroffice@mednet.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "jpotter@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "jjackson@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "lwhite@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "jvillegas@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "tfong@mednet.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "ldagen@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "awagner@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "kinouye@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "anattiv@mednet.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "gloza@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "jpuffer@mednet.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "msoccer@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "twebb@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "lslavin@caps.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "djohnson@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "jsprague@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "mkaloustian@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "htovar@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "kgustafson@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "jswisher@mednet.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "boshea@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "crivera@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "bmoors@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "kboal@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "jschulman@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "mtrombetta@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "syoumans@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "echeung@mednet.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "cmueller@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "randerson@tickets.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "cdooley@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "ncasaquit@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "svigil@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "radami@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "dharrington@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "coachnicknewman@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "dmalone@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "agarcia@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "dvigil@mednet.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "aruttenberg@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "wzaza@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "ekowal@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "cibarra@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "dchandler@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "mbiondi@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "lserrano@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "sburton@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "aguldstrand@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "kjjones@mednet.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "rcarmona@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "bjones@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "krlau@mednet.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "tayloranderson@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "jgoldman@mednet.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "pdeguzman@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "janicelee@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "dengblom@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "doropeza@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "tcurran@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "kplat@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "dcruz@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "salexander@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "cgrautski@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "eadkins@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "djensen@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "rschweyer@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "bpark@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "aking@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "cstocklin@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "vcastanon@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "rpaddds@ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "jplonsky@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "tpuetz@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "mhowell@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "ssims@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "nreft@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "bgarate@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "mmcglaston@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "ecarr@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "khashimoto@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "jhendricks@college.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "tbouma@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "msilver@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "alexandersoto@mednet.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "sdenard@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "rcole@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "kreeves@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "mhirayama@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "ciacoi@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "jsmith@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "jvernon@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "hgonzalez@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "sgillespie@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "dtaylor@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "ntierney@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "ehurd@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "dencina@college.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "iserafini@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "lloucks@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "jwiczek@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "dmartinez@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "gchilders@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "bcaffey@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "gbierling@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "llassiter@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "thanneke@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "markfreeman@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "jbatley@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "jrebello@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "scalista@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "awright@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "dmartinez@caps.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "aphrommavanh@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "tbrunner@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "abaumgartner@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "rcponce@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "snus@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "ryanagi@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "cpraetzel@caps.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "aebert@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "drodriguez@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "rmcnichols@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "bdas@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "jsandman@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "asalituro@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "ccarlson@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "suzimellano@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "bhutchings@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "rgagnon@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "wyanagi@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "coachg@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "sprice@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "shervey@mednet.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "mmoriarty@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "callison@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "bgillerlain@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "claired@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "vwatson@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "jfalitz@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "daltema@mednet.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "cduffaut@mednet.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "zdjukic@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "cminnick@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "clong@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "asinatra@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "jmachuca@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "rsanchez@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "egates@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "dmoos@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "dchen@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "stemming@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "smoreno@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "aperryman@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "mteitell@mednet.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "gcrew@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "mphillippy@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "jklim@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "jvail@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "tdimaculangan@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "vlavalsiti@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "woldham@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "rturteltaub@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "jchudzynski@mednet.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "wsoccer@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "jaryee@mednet.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "daldridge@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "sgilmore@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "aguardado@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "ghall@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "surrutia@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "jmcdonald@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "bseng@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "msataraka@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "bbowman@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "bbaldwin@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "rtelliyan@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "jramirez@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "kshirey@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "dvelotta@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "jsenko@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "tpitts@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "rbalderas@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "ljones@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "dwalton@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "pdyrek@mednet.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "jko@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "tylerjackson@mednet.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "mwerle@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "psalas@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "ccarter@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "ad@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "kdonaldson@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "tsokoler@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "kburbank@mednet.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "ijohnson@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "shame@mednet.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "bking@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "mburgos@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "dharipal@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "mgarcia@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "nkasmer@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "krisking@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "slondonkrogius@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "llamar@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "akitagawa@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "mabbott@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "vforman@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "kcrick@caps.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "kbakos@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "rcoy@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "cmoore@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "cneale@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "aalvarado@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "lfernandez@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "mpocinich@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "ggaleano@tickets.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "bbraman@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "carlylwilliams@mednet.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "dwacker@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "chancellor@ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "mkubeck@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "sglick@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "eking@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "drivas@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "kcoulter@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "aknight@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "akapasi@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "esalazar@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "rneushul@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "gkoonce@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "avines@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "lmoore@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "tjkremen@mednet.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "bfreebairn@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "hmitchell@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "mreichling@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "rfitzpatrick@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "rdab@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "dellerbe@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "jelisaldez@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "gwandy@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "uclawvb@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "ggoryoka@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "jlitman@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "sgarland@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "aovakimyan@caps.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "nbarbod@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "ehotl@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "atimiraos@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "sterhune@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "jfantone@college.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "ldavid@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "acastillo@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "kmaciel@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "aferris@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "mtransue@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "jleininger@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "jrivas@athletics.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "ssawlani@mednet.ucla.edu",
+      "title": "",
+      "department": "UCLA Athletics",
+      "role": "staff",
+      "source_url": "https://uclabruins.com/staff-directory"
+    },
+    {
+      "name": "",
+      "email": "fsl@ucla.edu",
+      "title": "Chapter/Council President",
+      "department": "UCLA Greek Life",
+      "role": "student_org",
+      "source_url": "https://fsl.ucla.edu/community-directory"
+    },
+    {
+      "name": "",
+      "email": "kpsie.delta.president@gmail.com",
+      "title": "Chapter/Council President",
+      "department": "UCLA Greek Life",
+      "role": "student",
+      "source_url": "https://fsl.ucla.edu/community-directory"
+    },
+    {
+      "name": "",
+      "email": "uclatheta.president@gmail.com",
+      "title": "Chapter/Council President",
+      "department": "UCLA Greek Life",
+      "role": "student",
+      "source_url": "https://fsl.ucla.edu/community-directory"
+    },
+    {
+      "name": "",
+      "email": "lta.president.ucla@gmail.com",
+      "title": "Chapter/Council President",
+      "department": "UCLA Greek Life",
+      "role": "student",
+      "source_url": "https://fsl.ucla.edu/community-directory"
+    },
+    {
+      "name": "",
+      "email": "justinjsla@g.ucla.edu",
+      "title": "Chapter/Council President",
+      "department": "UCLA Greek Life",
+      "role": "student",
+      "source_url": "https://fsl.ucla.edu/community-directory"
+    },
+    {
+      "name": "",
+      "email": "nsanchez58@g.ucla.edu",
+      "title": "Chapter/Council President",
+      "department": "UCLA Greek Life",
+      "role": "student",
+      "source_url": "https://fsl.ucla.edu/community-directory"
+    },
+    {
+      "name": "",
+      "email": "cdully3@ucla.edu",
+      "title": "Chapter/Council President",
+      "department": "UCLA Greek Life",
+      "role": "student_org",
+      "source_url": "https://fsl.ucla.edu/community-directory"
+    },
+    {
+      "name": "",
+      "email": "flr.delta.president@gmail.com",
+      "title": "Chapter/Council President",
+      "department": "UCLA Greek Life",
+      "role": "student",
+      "source_url": "https://fsl.ucla.edu/community-directory"
+    },
+    {
+      "name": "",
+      "email": "president@ifcucla.com",
+      "title": "Chapter/Council President",
+      "department": "UCLA Greek Life",
+      "role": "student_org",
+      "source_url": "https://fsl.ucla.edu/community-directory"
+    },
+    {
+      "name": "",
+      "email": "president.kkg.ucla@gmail.com",
+      "title": "Chapter/Council President",
+      "department": "UCLA Greek Life",
+      "role": "student",
+      "source_url": "https://fsl.ucla.edu/community-directory"
+    },
+    {
+      "name": "",
+      "email": "chio.gammabeta.gh@gmail.com",
+      "title": "Chapter/Council President",
+      "department": "UCLA Greek Life",
+      "role": "student",
+      "source_url": "https://fsl.ucla.edu/community-directory"
+    },
+    {
+      "name": "",
+      "email": "pthomsak@gmail.com",
+      "title": "Chapter/Council President",
+      "department": "UCLA Greek Life",
+      "role": "student",
+      "source_url": "https://fsl.ucla.edu/community-directory"
+    },
+    {
+      "name": "",
+      "email": "gpb.president.ucla@gmail.com",
+      "title": "Chapter/Council President",
+      "department": "UCLA Greek Life",
+      "role": "student",
+      "source_url": "https://fsl.ucla.edu/community-directory"
+    },
+    {
+      "name": "",
+      "email": "raussef0@ucla.edu",
+      "title": "Chapter/Council President",
+      "department": "UCLA Greek Life",
+      "role": "student_org",
+      "source_url": "https://fsl.ucla.edu/community-directory"
+    },
+    {
+      "name": "",
+      "email": "zwatkins@g.ucla.edu",
+      "title": "Chapter/Council President",
+      "department": "UCLA Greek Life",
+      "role": "student",
+      "source_url": "https://fsl.ucla.edu/community-directory"
+    },
+    {
+      "name": "",
+      "email": "ucladgpresident@gmail.com",
+      "title": "Chapter/Council President",
+      "department": "UCLA Greek Life",
+      "role": "student",
+      "source_url": "https://fsl.ucla.edu/community-directory"
+    },
+    {
+      "name": "",
+      "email": "president.uclasaz@gmail.com",
+      "title": "Chapter/Council President",
+      "department": "UCLA Greek Life",
+      "role": "student",
+      "source_url": "https://fsl.ucla.edu/community-directory"
+    },
+    {
+      "name": "",
+      "email": "iotapresident86@gmail.com",
+      "title": "Chapter/Council President",
+      "department": "UCLA Greek Life",
+      "role": "student",
+      "source_url": "https://fsl.ucla.edu/community-directory"
+    },
+    {
+      "name": "",
+      "email": "jgibson5232@gmail.com",
+      "title": "Chapter/Council President",
+      "department": "UCLA Greek Life",
+      "role": "student",
+      "source_url": "https://fsl.ucla.edu/community-directory"
+    },
+    {
+      "name": "",
+      "email": "uclasigmas1914@gmail.com",
+      "title": "Chapter/Council President",
+      "department": "UCLA Greek Life",
+      "role": "student",
+      "source_url": "https://fsl.ucla.edu/community-directory"
+    },
+    {
+      "name": "",
+      "email": "kd.president.ucla@gmail.com",
+      "title": "Chapter/Council President",
+      "department": "UCLA Greek Life",
+      "role": "student",
+      "source_url": "https://fsl.ucla.edu/community-directory"
+    },
+    {
+      "name": "",
+      "email": "president@uclapanhellenic.com",
+      "title": "Chapter/Council President",
+      "department": "UCLA Greek Life",
+      "role": "student_org",
+      "source_url": "https://fsl.ucla.edu/community-directory"
+    },
+    {
+      "name": "",
+      "email": "chialphadelta.president@gmail.com",
+      "title": "Chapter/Council President",
+      "department": "UCLA Greek Life",
+      "role": "student",
+      "source_url": "https://fsl.ucla.edu/community-directory"
+    },
+    {
+      "name": "",
+      "email": "president.phirhobruins@gmail.com",
+      "title": "Chapter/Council President",
+      "department": "UCLA Greek Life",
+      "role": "student",
+      "source_url": "https://fsl.ucla.edu/community-directory"
+    },
+    {
+      "name": "",
+      "email": "president@bruinslca.com",
+      "title": "Chapter/Council President",
+      "department": "UCLA Greek Life",
+      "role": "student_org",
+      "source_url": "https://fsl.ucla.edu/community-directory"
+    },
+    {
+      "name": "",
+      "email": "matanbootel@gmail.com",
+      "title": "Chapter/Council President",
+      "department": "UCLA Greek Life",
+      "role": "student",
+      "source_url": "https://fsl.ucla.edu/community-directory"
+    },
+    {
+      "name": "",
+      "email": "tylerlambert7235@gmail.com",
+      "title": "Chapter/Council President",
+      "department": "UCLA Greek Life",
+      "role": "student",
+      "source_url": "https://fsl.ucla.edu/community-directory"
+    },
+    {
+      "name": "",
+      "email": "benjamintooley1@gmail.com",
+      "title": "Chapter/Council President",
+      "department": "UCLA Greek Life",
+      "role": "student",
+      "source_url": "https://fsl.ucla.edu/community-directory"
+    },
+    {
+      "name": "",
+      "email": "phipsi.calep.president@gmail.com",
+      "title": "Chapter/Council President",
+      "department": "UCLA Greek Life",
+      "role": "student",
+      "source_url": "https://fsl.ucla.edu/community-directory"
+    },
+    {
+      "name": "",
+      "email": "jnarsjo@g.ucla.edu",
+      "title": "Chapter/Council President",
+      "department": "UCLA Greek Life",
+      "role": "student",
+      "source_url": "https://fsl.ucla.edu/community-directory"
+    },
+    {
+      "name": "",
+      "email": "uclapibetaphi@gmail.com",
+      "title": "Chapter/Council President",
+      "department": "UCLA Greek Life",
+      "role": "student",
+      "source_url": "https://fsl.ucla.edu/community-directory"
+    },
+    {
+      "name": "",
+      "email": "gwlongridge@gmail.com",
+      "title": "Chapter/Council President",
+      "department": "UCLA Greek Life",
+      "role": "student",
+      "source_url": "https://fsl.ucla.edu/community-directory"
+    },
+    {
+      "name": "",
+      "email": "cwbruinn@ucla.edu",
+      "title": "Chapter/Council President",
+      "department": "UCLA Greek Life",
+      "role": "student_org",
+      "source_url": "https://fsl.ucla.edu/community-directory"
+    },
+    {
+      "name": "",
+      "email": "uclathetachipres@gmail.com",
+      "title": "Chapter/Council President",
+      "department": "UCLA Greek Life",
+      "role": "student",
+      "source_url": "https://fsl.ucla.edu/community-directory"
+    },
+    {
+      "name": "",
+      "email": "cwilks25@ucla.edu",
+      "title": "Chapter/Council President",
+      "department": "UCLA Greek Life",
+      "role": "student_org",
+      "source_url": "https://fsl.ucla.edu/community-directory"
+    },
+    {
+      "name": "",
+      "email": "president.gammas.eta@gmail.com",
+      "title": "Chapter/Council President",
+      "department": "UCLA Greek Life",
+      "role": "student",
+      "source_url": "https://fsl.ucla.edu/community-directory"
+    },
+    {
+      "name": "",
+      "email": "jaylinhenderson04@gmail.com",
+      "title": "Chapter/Council President",
+      "department": "UCLA Greek Life",
+      "role": "student",
+      "source_url": "https://fsl.ucla.edu/community-directory"
+    },
+    {
+      "name": "",
+      "email": "president@thetaxibruins.com",
+      "title": "Chapter/Council President",
+      "department": "UCLA Greek Life",
+      "role": "student_org",
+      "source_url": "https://fsl.ucla.edu/community-directory"
+    },
+    {
+      "name": "",
+      "email": "sigmapisigmapsi.ucla@gmail.com",
+      "title": "Chapter/Council President",
+      "department": "UCLA Greek Life",
+      "role": "student",
+      "source_url": "https://fsl.ucla.edu/community-directory"
+    },
+    {
+      "name": "",
+      "email": "thetrackque24@ucla.edu",
+      "title": "Chapter/Council President",
+      "department": "UCLA Greek Life",
+      "role": "student_org",
+      "source_url": "https://fsl.ucla.edu/community-directory"
+    },
+    {
+      "name": "",
+      "email": "slg.president.dg@gmail.com",
+      "title": "Chapter/Council President",
+      "department": "UCLA Greek Life",
+      "role": "student",
+      "source_url": "https://fsl.ucla.edu/community-directory"
+    },
+    {
+      "name": "",
+      "email": "williamudo10@gmail.com",
+      "title": "Chapter/Council President",
+      "department": "UCLA Greek Life",
+      "role": "student",
+      "source_url": "https://fsl.ucla.edu/community-directory"
+    },
+    {
+      "name": "",
+      "email": "bruinagc@gmail.com",
+      "title": "Chapter/Council President",
+      "department": "UCLA Greek Life",
+      "role": "student",
+      "source_url": "https://fsl.ucla.edu/community-directory"
+    },
+    {
+      "name": "",
+      "email": "omegasigmatau.president@gmail.com",
+      "title": "Chapter/Council President",
+      "department": "UCLA Greek Life",
+      "role": "student",
+      "source_url": "https://fsl.ucla.edu/community-directory"
+    },
+    {
+      "name": "",
+      "email": "opbsi.ucla.president@gmail.com",
+      "title": "Chapter/Council President",
+      "department": "UCLA Greek Life",
+      "role": "student",
+      "source_url": "https://fsl.ucla.edu/community-directory"
+    },
+    {
+      "name": "",
+      "email": "sarai.hannamarie@gmail.com",
+      "title": "Chapter/Council President",
+      "department": "UCLA Greek Life",
+      "role": "student",
+      "source_url": "https://fsl.ucla.edu/community-directory"
+    },
+    {
+      "name": "",
+      "email": "camdensun@gmail.com",
+      "title": "Chapter/Council President",
+      "department": "UCLA Greek Life",
+      "role": "student",
+      "source_url": "https://fsl.ucla.edu/community-directory"
+    },
+    {
+      "name": "",
+      "email": "daijapatterson.dp@gmail.com",
+      "title": "Chapter/Council President",
+      "department": "UCLA Greek Life",
+      "role": "student",
+      "source_url": "https://fsl.ucla.edu/community-directory"
+    },
+    {
+      "name": "",
+      "email": "axo.alphapsi.cp@gmail.com",
+      "title": "Chapter/Council President",
+      "department": "UCLA Greek Life",
+      "role": "student",
+      "source_url": "https://fsl.ucla.edu/community-directory"
+    },
+    {
+      "name": "",
+      "email": "writeeeman@gmail.com",
+      "title": "Chapter/Council President",
+      "department": "UCLA Greek Life",
+      "role": "student",
+      "source_url": "https://fsl.ucla.edu/community-directory"
+    },
+    {
+      "name": "",
+      "email": "bruinmigc.president@gmail.com",
+      "title": "Chapter/Council President",
+      "department": "UCLA Greek Life",
+      "role": "student",
+      "source_url": "https://fsl.ucla.edu/community-directory"
+    },
+    {
+      "name": "",
+      "email": "bruinlgc.president@gmail.com",
+      "title": "Chapter/Council President",
+      "department": "UCLA Greek Life",
+      "role": "student",
+      "source_url": "https://fsl.ucla.edu/community-directory"
+    },
+    {
+      "name": "",
+      "email": "thetakappaphi.president@gmail.com",
+      "title": "Chapter/Council President",
+      "department": "UCLA Greek Life",
+      "role": "student",
+      "source_url": "https://fsl.ucla.edu/community-directory"
+    },
+    {
+      "name": "",
+      "email": "dsarghez@gmail.com",
+      "title": "Chapter/Council President",
+      "department": "UCLA Greek Life",
+      "role": "student",
+      "source_url": "https://fsl.ucla.edu/community-directory"
+    },
+    {
+      "name": "",
+      "email": "liewsaelee04@gmail.com",
+      "title": "Chapter/Council President",
+      "department": "UCLA Greek Life",
+      "role": "student",
+      "source_url": "https://fsl.ucla.edu/community-directory"
+    },
+    {
+      "name": "",
+      "email": "raynergraham@g.ucla.edu",
+      "title": "Chapter/Council President",
+      "department": "UCLA Greek Life",
+      "role": "student",
+      "source_url": "https://fsl.ucla.edu/community-directory"
+    },
+    {
+      "name": "",
+      "email": "lul.betapsi.pres@gmail.com",
+      "title": "Chapter/Council President",
+      "department": "UCLA Greek Life",
+      "role": "student",
+      "source_url": "https://fsl.ucla.edu/community-directory"
+    },
+    {
+      "name": "",
+      "email": "sage.upsilon@gmail.com",
+      "title": "Chapter/Council President",
+      "department": "UCLA Greek Life",
+      "role": "student",
+      "source_url": "https://fsl.ucla.edu/community-directory"
+    },
+    {
+      "name": "",
+      "email": "alphaphi.betadelta.president@gmail.com",
+      "title": "Chapter/Council President",
+      "department": "UCLA Greek Life",
+      "role": "student",
+      "source_url": "https://fsl.ucla.edu/community-directory"
+    },
+    {
+      "name": "",
+      "email": "uclachidelts@gmail.com",
+      "title": "Chapter/Council President",
+      "department": "UCLA Greek Life",
+      "role": "student",
+      "source_url": "https://fsl.ucla.edu/community-directory"
+    },
+    {
+      "name": "",
+      "email": "adpibruins.president@gmail.com",
+      "title": "Chapter/Council President",
+      "department": "UCLA Greek Life",
+      "role": "student",
+      "source_url": "https://fsl.ucla.edu/community-directory"
+    },
+    {
+      "name": "",
+      "email": "eliana17@ucla.edu",
+      "title": "Chapter/Council President",
+      "department": "UCLA Greek Life",
+      "role": "student_org",
+      "source_url": "https://fsl.ucla.edu/community-directory"
+    },
+    {
+      "name": "",
+      "email": "swc@usac.ucla.edu",
+      "title": "",
+      "department": "Student Wellness Commission",
+      "role": "student_org",
+      "source_url": "https://swcucla.org/"
+    },
+    {
+      "name": "",
+      "email": "uclasole@ucla.edu",
+      "title": "",
+      "department": "Pre-Professional Orgs",
+      "role": "student_org",
+      "source_url": "https://community.ucla.edu/studentorgs/pre-professional"
+    },
+    {
+      "name": "",
+      "email": "feedback@media.ucla.edu",
+      "title": "",
+      "department": "BruinWalk",
+      "role": "student_org",
+      "source_url": "https://bruinwalk.com/"
+    },
+    {
+      "name": "Leor Avramovich",
+      "email": "lavramovich@g.ucla.edu",
+      "title": "",
+      "department": "Gender Studies Grad Students",
+      "role": "student",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "Celestina Castillo",
+      "email": "castillomontana@ucla.edu",
+      "title": "",
+      "department": "Gender Studies Grad Students",
+      "role": "staff",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "Da In Choi",
+      "email": "dainachoi@g.ucla.edu",
+      "title": "",
+      "department": "Gender Studies Grad Students",
+      "role": "student",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "Lauren Dixon",
+      "email": "ldixon9@ucla.edu",
+      "title": "",
+      "department": "Gender Studies Grad Students",
+      "role": "staff",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "Kristen Dorsey",
+      "email": "kristendorsey@g.ucla.edu",
+      "title": "",
+      "department": "Gender Studies Grad Students",
+      "role": "student",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "James Fremland",
+      "email": "jfremland@ucla.edu",
+      "title": "",
+      "department": "Gender Studies Grad Students",
+      "role": "staff",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "Yurim Lee",
+      "email": "yurimlee@g.ucla.edu",
+      "title": "",
+      "department": "Gender Studies Grad Students",
+      "role": "student",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "Nashra",
+      "email": "nashra94@ucla.edu",
+      "title": "",
+      "department": "Gender Studies Grad Students",
+      "role": "staff",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "Tiffany Marcelino",
+      "email": "tmarcelino@ucla.edu",
+      "title": "",
+      "department": "Gender Studies Grad Students",
+      "role": "staff",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "Elliot Rouse",
+      "email": "ero85@g.ucla.edu",
+      "title": "",
+      "department": "Gender Studies Grad Students",
+      "role": "student",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "Josephine Ong",
+      "email": "josephineong25@ucla.edu",
+      "title": "",
+      "department": "Gender Studies Grad Students",
+      "role": "staff",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "Ludmila Porto",
+      "email": "ludmilaporto@g.ucla.edu",
+      "title": "",
+      "department": "Gender Studies Grad Students",
+      "role": "student",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "",
+      "email": "yaquesita881@gmail.com",
+      "title": "",
+      "department": "Gender Studies Grad Students",
+      "role": "student",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "Mel Stockton",
+      "email": "mrstockton@ucla.edu",
+      "title": "",
+      "department": "Gender Studies Grad Students",
+      "role": "staff",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "Kate Ambree",
+      "email": "katambree@ucla.edu",
+      "title": "",
+      "department": "Gender Studies Grad Students",
+      "role": "staff",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "Yi-Uwei",
+      "email": "yiuwei@g.ucla.edu",
+      "title": "",
+      "department": "Gender Studies Grad Students",
+      "role": "student",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "",
+      "email": "ladanzarabadi21@ucla.edu",
+      "title": "",
+      "department": "Gender Studies Grad Students",
+      "role": "staff",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "",
+      "email": "aabr@g.ucla.edu",
+      "title": "",
+      "department": "Linguistics Grad Students",
+      "role": "student",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "",
+      "email": "hashmita@ucla.edu",
+      "title": "",
+      "department": "Linguistics Grad Students",
+      "role": "staff",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "",
+      "email": "fahad95@ucla.edu",
+      "title": "",
+      "department": "Linguistics Grad Students",
+      "role": "staff",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "",
+      "email": "dhruvbarot@ucla.edu",
+      "title": "",
+      "department": "Linguistics Grad Students",
+      "role": "staff",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "",
+      "email": "isacabrera@ucla.edu",
+      "title": "",
+      "department": "Linguistics Grad Students",
+      "role": "staff",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "",
+      "email": "kalen@g.ucla.edu",
+      "title": "",
+      "department": "Linguistics Grad Students",
+      "role": "student",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "",
+      "email": "joeclass22@ucla.edu",
+      "title": "",
+      "department": "Linguistics Grad Students",
+      "role": "staff",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "",
+      "email": "c96rocio@g.ucla.edu",
+      "title": "",
+      "department": "Linguistics Grad Students",
+      "role": "student",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "",
+      "email": "ericasolis@g.ucla.edu",
+      "title": "",
+      "department": "Linguistics Grad Students",
+      "role": "student",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "",
+      "email": "baichendu@ucla.edu",
+      "title": "",
+      "department": "Linguistics Grad Students",
+      "role": "staff",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "",
+      "email": "dinhuistics@ucla.edu",
+      "title": "",
+      "department": "Linguistics Grad Students",
+      "role": "staff",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "",
+      "email": "corrfuller127@ucla.edu",
+      "title": "",
+      "department": "Linguistics Grad Students",
+      "role": "staff",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "",
+      "email": "anissadg@ucla.edu",
+      "title": "",
+      "department": "Linguistics Grad Students",
+      "role": "staff",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "",
+      "email": "eglass63@ucla.edu",
+      "title": "",
+      "department": "Linguistics Grad Students",
+      "role": "staff",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "",
+      "email": "avnig@ucla.edu",
+      "title": "",
+      "department": "Linguistics Grad Students",
+      "role": "staff",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "",
+      "email": "evanhochstein@g.ucla.edu",
+      "title": "",
+      "department": "Linguistics Grad Students",
+      "role": "student",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "",
+      "email": "hunterjohnson@ucla.edu",
+      "title": "",
+      "department": "Linguistics Grad Students",
+      "role": "staff",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "",
+      "email": "andrewkato@ucla.edu",
+      "title": "",
+      "department": "Linguistics Grad Students",
+      "role": "staff",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "",
+      "email": "adamleif@g.ucla.edu",
+      "title": "",
+      "department": "Linguistics Grad Students",
+      "role": "student",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "",
+      "email": "kevinliang8@g.ucla.edu",
+      "title": "",
+      "department": "Linguistics Grad Students",
+      "role": "student",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "",
+      "email": "mliotta@g.ucla.edu",
+      "title": "",
+      "department": "Linguistics Grad Students",
+      "role": "student",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "",
+      "email": "hannahlippard@ucla.edu",
+      "title": "",
+      "department": "Linguistics Grad Students",
+      "role": "staff",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "",
+      "email": "shalinee30@g.ucla.edu",
+      "title": "",
+      "department": "Linguistics Grad Students",
+      "role": "student",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "",
+      "email": "mateos@ucla.edu",
+      "title": "",
+      "department": "Linguistics Grad Students",
+      "role": "staff",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "",
+      "email": "jmcgahay@g.ucla.edu",
+      "title": "",
+      "department": "Linguistics Grad Students",
+      "role": "student",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "",
+      "email": "zachmetzler@g.ucla.edu",
+      "title": "",
+      "department": "Linguistics Grad Students",
+      "role": "student",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "",
+      "email": "cmuxica@g.ucla.edu",
+      "title": "",
+      "department": "Linguistics Grad Students",
+      "role": "student",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "",
+      "email": "jnarkar@ucla.edu",
+      "title": "",
+      "department": "Linguistics Grad Students",
+      "role": "staff",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "",
+      "email": "nedsanger@ucla.edu",
+      "title": "",
+      "department": "Linguistics Grad Students",
+      "role": "staff",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "",
+      "email": "jennifershin@ucla.edu",
+      "title": "",
+      "department": "Linguistics Grad Students",
+      "role": "staff",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "",
+      "email": "jlsiah@g.ucla.edu",
+      "title": "",
+      "department": "Linguistics Grad Students",
+      "role": "student",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "",
+      "email": "sakshisinghxyz@ucla.edu",
+      "title": "",
+      "department": "Linguistics Grad Students",
+      "role": "staff",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "",
+      "email": "elsol4@ucla.edu",
+      "title": "",
+      "department": "Linguistics Grad Students",
+      "role": "staff",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "",
+      "email": "averbil@ucla.edu",
+      "title": "",
+      "department": "Linguistics Grad Students",
+      "role": "staff",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "",
+      "email": "iwarren@g.ucla.edu",
+      "title": "",
+      "department": "Linguistics Grad Students",
+      "role": "student",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "",
+      "email": "zhongshixu@ucla.edu",
+      "title": "",
+      "department": "Linguistics Grad Students",
+      "role": "staff",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "",
+      "email": "lilyokc@ucla.edu",
+      "title": "",
+      "department": "Linguistics Grad Students",
+      "role": "staff",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "",
+      "email": "corzanda@g.ucla.edu",
+      "title": "",
+      "department": "Linguistics Grad Students",
+      "role": "student",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "",
+      "email": "wzimmermann1@ucla.edu",
+      "title": "",
+      "department": "Linguistics Grad Students",
+      "role": "staff",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "Cooper Lynn",
+      "email": "cooperlynn95@g.ucla.edu",
+      "title": "",
+      "department": "Slavic Grad Students",
+      "role": "student",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "Elena Makarova",
+      "email": "lemaka@g.ucla.edu",
+      "title": "",
+      "department": "Slavic Grad Students",
+      "role": "student",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "Emilia McLennan",
+      "email": "mclennan@ucla.edu",
+      "title": "",
+      "department": "Slavic Grad Students",
+      "role": "staff",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "David Miller",
+      "email": "davidhillel@gmail.com",
+      "title": "",
+      "department": "Slavic Grad Students",
+      "role": "student",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "Marianna Petiaskina",
+      "email": "mmarrianna@g.ucla.edu",
+      "title": "",
+      "department": "Slavic Grad Students",
+      "role": "student",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "Lydia Roberts",
+      "email": "lydia.h.roberts@ucla.edu",
+      "title": "",
+      "department": "Slavic Grad Students",
+      "role": "staff",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "Assem Shamarova",
+      "email": "shamarova@ucla.edu",
+      "title": "",
+      "department": "Slavic Grad Students",
+      "role": "staff",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "Polina Varfolomeeva",
+      "email": "pvarfolomeeva@g.ucla.edu",
+      "title": "",
+      "department": "Slavic Grad Students",
+      "role": "student",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "",
+      "email": "ahemler@ucla.edu",
+      "title": "",
+      "department": "Asian American Studies Grad Students",
+      "role": "staff",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "",
+      "email": "evechen@g.ucla.edu",
+      "title": "",
+      "department": "Asian American Studies Grad Students",
+      "role": "student",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "",
+      "email": "karnsouvong@ucla.edu",
+      "title": "",
+      "department": "Asian American Studies Grad Students",
+      "role": "staff",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "",
+      "email": "kellimiho23@g.ucla.edu",
+      "title": "",
+      "department": "Asian American Studies Grad Students",
+      "role": "student",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "",
+      "email": "kevvthor@g.ucla.edu",
+      "title": "",
+      "department": "Asian American Studies Grad Students",
+      "role": "student",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "",
+      "email": "kyw@ucla.edu",
+      "title": "",
+      "department": "Asian American Studies Grad Students",
+      "role": "staff",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "",
+      "email": "laurrbancos25@g.ucla.edu",
+      "title": "",
+      "department": "Asian American Studies Grad Students",
+      "role": "student",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "",
+      "email": "lindazhang27@g.ucla.edu",
+      "title": "",
+      "department": "Asian American Studies Grad Students",
+      "role": "student",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "",
+      "email": "lindseybchou@g.ucla.edu",
+      "title": "",
+      "department": "Asian American Studies Grad Students",
+      "role": "student",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "",
+      "email": "pjyuen@g.ucla.edu",
+      "title": "",
+      "department": "Asian American Studies Grad Students",
+      "role": "student",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "",
+      "email": "psoun11@g.ucla.edu",
+      "title": "",
+      "department": "Asian American Studies Grad Students",
+      "role": "student",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "",
+      "email": "seansugai23@g.ucla.edu",
+      "title": "",
+      "department": "Asian American Studies Grad Students",
+      "role": "student",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "",
+      "email": "svertido@ucla.edu",
+      "title": "",
+      "department": "Asian American Studies Grad Students",
+      "role": "staff",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "",
+      "email": "bcantero1@g.ucla.edu",
+      "title": "",
+      "department": "Chicano Studies Grad Students",
+      "role": "student",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "",
+      "email": "carlosnrogel@ucla.edu",
+      "title": "",
+      "department": "Chicano Studies Grad Students",
+      "role": "staff",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "",
+      "email": "dannybonitz@g.ucla.edu",
+      "title": "",
+      "department": "Chicano Studies Grad Students",
+      "role": "student",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "",
+      "email": "gperez2031@ucla.edu",
+      "title": "",
+      "department": "Chicano Studies Grad Students",
+      "role": "staff",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "",
+      "email": "hirugami@ucla.edu",
+      "title": "",
+      "department": "Chicano Studies Grad Students",
+      "role": "staff",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "",
+      "email": "jdpineda@ucla.edu",
+      "title": "",
+      "department": "Chicano Studies Grad Students",
+      "role": "staff",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "",
+      "email": "lvilchiszarate@ucla.edu",
+      "title": "",
+      "department": "Chicano Studies Grad Students",
+      "role": "staff",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "",
+      "email": "mrac@ucla.edu",
+      "title": "",
+      "department": "Chicano Studies Grad Students",
+      "role": "staff",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "Anna Allnutt",
+      "email": "annamarie67@g.ucla.edu",
+      "title": "",
+      "department": "Graeber Lab",
+      "role": "student",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "Jack Freeland",
+      "email": "jfreeland@g.ucla.edu",
+      "title": "",
+      "department": "Graeber Lab",
+      "role": "student",
+      "source_url": "agent_discovery"
+    },
+    {
+      "name": "Seoyeong Tae",
+      "email": "sytaee@g.ucla.edu",
+      "title": "",
+      "department": "Graeber Lab",
+      "role": "student",
+      "source_url": "agent_discovery"
+    }
+  ],
+  "scrape_date": "2026-02-11T12:07:38.932401",
+  "stats": {
+    "total": 803,
+    "students": 228,
+    "staff": 575,
+    "g_ucla_edu": 180,
+    "ucla_edu": 156,
+    "gmail": 48
+  }
+}

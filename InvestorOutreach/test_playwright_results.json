@@ -1,0 +1,176 @@
+{
+  "New York Angels - Members": {
+    "url": "https://www.newyorkangels.com/members",
+    "type": "angel_network",
+    "content_size": 1706124,
+    "emails": [
+      "dev@cloudred.com",
+      "user@domain.com"
+    ],
+    "people": [
+      "NEW YORK ANGELS"
+    ],
+    "email_count": 2,
+    "people_count": 1
+  },
+  "New York Angels - About": {
+    "url": "https://www.newyorkangels.com/about",
+    "type": "angel_network",
+    "content_size": 175807,
+    "emails": [
+      "dev@cloudred.com",
+      "user@domain.com"
+    ],
+    "people": [
+      "MEMBERS",
+      "SIZE",
+      "NEW YORK ANGELS",
+      "EXPERIENCE"
+    ],
+    "email_count": 2,
+    "people_count": 4
+  },
+  "Wellfound / AngelList Investors": {
+    "url": "https://wellfound.com/investors",
+    "type": "directory",
+    "content_size": 1477,
+    "emails": [],
+    "people": [],
+    "email_count": 0,
+    "people_count": 0
+  },
+  "Tech Coast Angels": {
+    "url": "https://www.techcoastangels.com/members/",
+    "type": "angel_network",
+    "content_size": 39,
+    "emails": [],
+    "people": [],
+    "email_count": 0,
+    "people_count": 0
+  },
+  "Golden Seeds Team": {
+    "url": "https://www.goldenseeds.com/",
+    "type": "angel_network",
+    "content_size": 69038,
+    "emails": [],
+    "people": [],
+    "email_count": 0,
+    "people_count": 0
+  },
+  "Band of Angels Members": {
+    "url": "https://www.bandangels.com/members",
+    "type": "angel_network",
+    "content_size": 62035,
+    "emails": [
+      "llcbandhq@bandangels.com",
+      "bandhq@bandangels.com",
+      "user@domain.com"
+    ],
+    "people": [],
+    "email_count": 3,
+    "people_count": 0
+  },
+  "Y Combinator People": {
+    "url": "https://www.ycombinator.com/people",
+    "type": "accelerator",
+    "content_size": 150048,
+    "emails": [],
+    "people": [
+      "Programs",
+      "Resources",
+      "Make something people want.",
+      "Company"
+    ],
+    "email_count": 0,
+    "people_count": 4
+  },
+  "Accel Team": {
+    "url": "https://www.accel.com/team",
+    "type": "vc",
+    "content_size": 654227,
+    "emails": [],
+    "people": [
+      "Zhenya Loginov",
+      "Tracy Sedlock",
+      "Josh Fang",
+      "Amit Kumar",
+      "Rashi Shukla",
+      "Prashanth Prakash",
+      "Miles Clements",
+      "Nayan Nandan",
+      "Ivan Zhou",
+      "Deeksha Bhandari",
+      "Kate Wadman",
+      "Aimee Black",
+      "Prayank Swaroop",
+      "Nate Niparko",
+      "Sam Fold",
+      "Jakob Buchmayer",
+      "Rohan Kamat",
+      "Kerry Wang",
+      "Ashley Boitz",
+      "Ben Dooley",
+      "Vinod Menon",
+      "Kelly Kung",
+      "Manasi Shah",
+      "Luca Bocchio",
+      "Ryan Sweeney",
+      "Joe Milner",
+      "Rahul Nath",
+      "Daniel Levine",
+      "Bruce Golden",
+      "Sara Ittelson"
+    ],
+    "email_count": 0,
+    "people_count": 113
+  },
+  "7wireVentures Team (health focus)": {
+    "url": "https://www.7wireventures.com/team/",
+    "type": "vc_health",
+    "content_size": 1049375,
+    "emails": [],
+    "people": [
+      "Lee Shapiro",
+      "Alyssa Jaffee",
+      "Glen Tullman",
+      "Tiffany Yu",
+      "Tom Richards",
+      "Robert Garber",
+      "David Schonthal",
+      "Joslin Owens",
+      "Eric Shan",
+      "Sathya Shanthakumar"
+    ],
+    "email_count": 0,
+    "people_count": 10
+  },
+  "General Catalyst Team": {
+    "url": "https://www.generalcatalyst.com/team",
+    "type": "vc",
+    "error": "Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.ge",
+    "emails": [],
+    "people": []
+  },
+  "Rock Health Team": {
+    "url": "https://rockhealth.com/about/",
+    "type": "vc_health",
+    "content_size": 267362,
+    "emails": [],
+    "people": [
+      "Get the Rock Weekly."
+    ],
+    "email_count": 0,
+    "people_count": 1
+  },
+  "Signal by NFX Investors": {
+    "url": "https://signal.nfx.com/investors",
+    "type": "directory",
+    "content_size": 457207,
+    "emails": [
+      "qed@nfx.com"
+    ],
+    "people": [],
+    "email_count": 1,
+    "people_count": 0
+  }
+}

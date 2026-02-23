@@ -1,0 +1,741 @@
+{
+  "Jason Calacanis": {
+    "url": "https://calacanis.com",
+    "type": "angel",
+    "emails": [
+      "lmclinique@ifl.gg",
+      "martinaweil@mco.performance",
+      "jason@calacanis.com",
+      "lembagaairperak@smallthings.madebeautiful",
+      "pimentasiria@kalibri.ec"
+    ],
+    "email_count": 5,
+    "pages_checked": [
+      {
+        "url": "https://calacanis.com",
+        "status": 200,
+        "emails": 5
+      },
+      {
+        "url": "https://calacanis.com/contact",
+        "status": 429,
+        "emails": 0
+      },
+      {
+        "url": "https://calacanis.com/about",
+        "status": 429,
+        "emails": 0
+      },
+      {
+        "url": "https://calacanis.com/about-me",
+        "status": 429,
+        "emails": 0
+      },
+      {
+        "url": "https://calacanis.com/connect",
+        "status": 429,
+        "emails": 0
+      },
+      {
+        "url": "https://calacanis.com/investing",
+        "status": 404,
+        "emails": 0
+      }
+    ]
+  },
+  "Naval Ravikant": {
+    "url": "https://nav.al",
+    "type": "angel",
+    "emails": [],
+    "email_count": 0,
+    "pages_checked": [
+      {
+        "url": "https://nav.al",
+        "status": 200,
+        "emails": 0
+      },
+      {
+        "url": "https://nav.al/contact",
+        "status": 429,
+        "emails": 0
+      },
+      {
+        "url": "https://nav.al/about",
+        "status": 429,
+        "emails": 0
+      },
+      {
+        "url": "https://nav.al/about-me",
+        "status": 429,
+        "emails": 0
+      },
+      {
+        "url": "https://nav.al/connect",
+        "status": 429,
+        "emails": 0
+      },
+      {
+        "url": "https://nav.al/investing",
+        "status": 429,
+        "emails": 0
+      }
+    ]
+  },
+  "Hunter Walk": {
+    "url": "https://hunterwalk.com",
+    "type": "angel",
+    "emails": [
+      "hunterwalk@gmail.com"
+    ],
+    "email_count": 1,
+    "pages_checked": [
+      {
+        "url": "https://hunterwalk.com",
+        "status": 200,
+        "emails": 0
+      },
+      {
+        "url": "https://hunterwalk.com/contact",
+        "status": 429,
+        "emails": 0
+      },
+      {
+        "url": "https://hunterwalk.com/about",
+        "status": 200,
+        "emails": 1
+      },
+      {
+        "url": "https://hunterwalk.com/about-me",
+        "status": 429,
+        "emails": 0
+      },
+      {
+        "url": "https://hunterwalk.com/connect",
+        "status": 429,
+        "emails": 0
+      },
+      {
+        "url": "https://hunterwalk.com/investing",
+        "status": 429,
+        "emails": 0
+      }
+    ]
+  },
+  "Mark Suster": {
+    "url": "https://bothsidesofthetable.com",
+    "type": "angel",
+    "emails": [],
+    "email_count": 0,
+    "pages_checked": [
+      {
+        "url": "https://bothsidesofthetable.com",
+        "status": "HTTPSConnectionPool(host='bothsidesofthetable.com'",
+        "emails": 0
+      },
+      {
+        "url": "https://bothsidesofthetable.com/contact",
+        "status": "HTTPSConnectionPool(host='bothsidesofthetable.com'",
+        "emails": 0
+      },
+      {
+        "url": "https://bothsidesofthetable.com/about",
+        "status": "HTTPSConnectionPool(host='bothsidesofthetable.com'",
+        "emails": 0
+      },
+      {
+        "url": "https://bothsidesofthetable.com/about-me",
+        "status": "HTTPSConnectionPool(host='bothsidesofthetable.com'",
+        "emails": 0
+      },
+      {
+        "url": "https://bothsidesofthetable.com/connect",
+        "status": "HTTPSConnectionPool(host='bothsidesofthetable.com'",
+        "emails": 0
+      },
+      {
+        "url": "https://bothsidesofthetable.com/investing",
+        "status": "HTTPSConnectionPool(host='bothsidesofthetable.com'",
+        "emails": 0
+      }
+    ]
+  },
+  "Semil Shah": {
+    "url": "https://semilshah.com",
+    "type": "angel",
+    "emails": [],
+    "email_count": 0,
+    "pages_checked": [
+      {
+        "url": "https://semilshah.com",
+        "status": 403,
+        "emails": 0
+      },
+      {
+        "url": "https://semilshah.com/contact",
+        "status": 403,
+        "emails": 0
+      },
+      {
+        "url": "https://semilshah.com/about",
+        "status": 403,
+        "emails": 0
+      },
+      {
+        "url": "https://semilshah.com/about-me",
+        "status": 403,
+        "emails": 0
+      },
+      {
+        "url": "https://semilshah.com/connect",
+        "status": 403,
+        "emails": 0
+      },
+      {
+        "url": "https://semilshah.com/investing",
+        "status": 403,
+        "emails": 0
+      }
+    ]
+  },
+  "David Tisch": {
+    "url": "https://www.davidtisch.com",
+    "type": "angel",
+    "emails": [],
+    "email_count": 0,
+    "pages_checked": [
+      {
+        "url": "https://www.davidtisch.com",
+        "status": 200,
+        "emails": 0
+      },
+      {
+        "url": "https://www.davidtisch.com/contact",
+        "status": 404,
+        "emails": 0
+      },
+      {
+        "url": "https://www.davidtisch.com/about",
+        "status": 404,
+        "emails": 0
+      },
+      {
+        "url": "https://www.davidtisch.com/about-me",
+        "status": 404,
+        "emails": 0
+      },
+      {
+        "url": "https://www.davidtisch.com/connect",
+        "status": 404,
+        "emails": 0
+      },
+      {
+        "url": "https://www.davidtisch.com/investing",
+        "status": 404,
+        "emails": 0
+      }
+    ]
+  },
+  "Ryan Hoover": {
+    "url": "https://ryanhoover.me",
+    "type": "angel",
+    "emails": [],
+    "email_count": 0,
+    "pages_checked": [
+      {
+        "url": "https://ryanhoover.me",
+        "status": "HTTPSConnectionPool(host='ryanhoover.me', port=443",
+        "emails": 0
+      },
+      {
+        "url": "https://ryanhoover.me/contact",
+        "status": "HTTPSConnectionPool(host='ryanhoover.me', port=443",
+        "emails": 0
+      },
+      {
+        "url": "https://ryanhoover.me/about",
+        "status": "HTTPSConnectionPool(host='ryanhoover.me', port=443",
+        "emails": 0
+      },
+      {
+        "url": "https://ryanhoover.me/about-me",
+        "status": "HTTPSConnectionPool(host='ryanhoover.me', port=443",
+        "emails": 0
+      },
+      {
+        "url": "https://ryanhoover.me/connect",
+        "status": "HTTPSConnectionPool(host='ryanhoover.me', port=443",
+        "emails": 0
+      },
+      {
+        "url": "https://ryanhoover.me/investing",
+        "status": "HTTPSConnectionPool(host='ryanhoover.me', port=443",
+        "emails": 0
+      }
+    ]
+  },
+  "Sahil Lavingia": {
+    "url": "https://sahillavingia.com",
+    "type": "angel",
+    "emails": [],
+    "email_count": 0,
+    "pages_checked": [
+      {
+        "url": "https://sahillavingia.com",
+        "status": 200,
+        "emails": 0
+      },
+      {
+        "url": "https://sahillavingia.com/contact",
+        "status": 404,
+        "emails": 0
+      },
+      {
+        "url": "https://sahillavingia.com/about",
+        "status": 404,
+        "emails": 0
+      },
+      {
+        "url": "https://sahillavingia.com/about-me",
+        "status": 404,
+        "emails": 0
+      },
+      {
+        "url": "https://sahillavingia.com/connect",
+        "status": 404,
+        "emails": 0
+      },
+      {
+        "url": "https://sahillavingia.com/investing",
+        "status": 404,
+        "emails": 0
+      }
+    ]
+  },
+  "Elad Gil": {
+    "url": "https://eladgil.com",
+    "type": "angel",
+    "emails": [
+      "user@domain.com"
+    ],
+    "email_count": 1,
+    "pages_checked": [
+      {
+        "url": "https://eladgil.com",
+        "status": 200,
+        "emails": 1
+      },
+      {
+        "url": "https://eladgil.com/contact",
+        "status": 404,
+        "emails": 0
+      },
+      {
+        "url": "https://eladgil.com/about",
+        "status": 404,
+        "emails": 0
+      },
+      {
+        "url": "https://eladgil.com/about-me",
+        "status": 404,
+        "emails": 0
+      },
+      {
+        "url": "https://eladgil.com/connect",
+        "status": 404,
+        "emails": 0
+      },
+      {
+        "url": "https://eladgil.com/investing",
+        "status": 404,
+        "emails": 0
+      }
+    ]
+  },
+  "Harry Stebbings": {
+    "url": "https://www.harrystebbing.com",
+    "type": "angel",
+    "emails": [
+      "enquiries@harrystebbing.comor",
+      "enquiries@harrystebbing.com"
+    ],
+    "email_count": 2,
+    "pages_checked": [
+      {
+        "url": "https://www.harrystebbing.com",
+        "status": 200,
+        "emails": 1
+      },
+      {
+        "url": "https://www.harrystebbing.com/contact",
+        "status": 200,
+        "emails": 2
+      },
+      {
+        "url": "https://www.harrystebbing.com/about",
+        "status": 200,
+        "emails": 2
+      },
+      {
+        "url": "https://www.harrystebbing.com/about-me",
+        "status": 404,
+        "emails": 0
+      },
+      {
+        "url": "https://www.harrystebbing.com/connect",
+        "status": 404,
+        "emails": 0
+      },
+      {
+        "url": "https://www.harrystebbing.com/investing",
+        "status": 404,
+        "emails": 0
+      }
+    ]
+  },
+  "Cindy Bi": {
+    "url": "https://www.cindybi.com",
+    "type": "angel",
+    "emails": [],
+    "email_count": 0,
+    "pages_checked": [
+      {
+        "url": "https://www.cindybi.com",
+        "status": "HTTPSConnectionPool(host='www.cindybi.com', port=4",
+        "emails": 0
+      },
+      {
+        "url": "https://www.cindybi.com/contact",
+        "status": "HTTPSConnectionPool(host='www.cindybi.com', port=4",
+        "emails": 0
+      },
+      {
+        "url": "https://www.cindybi.com/about",
+        "status": "HTTPSConnectionPool(host='www.cindybi.com', port=4",
+        "emails": 0
+      },
+      {
+        "url": "https://www.cindybi.com/about-me",
+        "status": "HTTPSConnectionPool(host='www.cindybi.com', port=4",
+        "emails": 0
+      },
+      {
+        "url": "https://www.cindybi.com/connect",
+        "status": "HTTPSConnectionPool(host='www.cindybi.com', port=4",
+        "emails": 0
+      },
+      {
+        "url": "https://www.cindybi.com/investing",
+        "status": "HTTPSConnectionPool(host='www.cindybi.com', port=4",
+        "emails": 0
+      }
+    ]
+  },
+  "Alexis Ohanian": {
+    "url": "https://alexisohanian.com",
+    "type": "angel",
+    "emails": [],
+    "email_count": 0,
+    "pages_checked": [
+      {
+        "url": "https://alexisohanian.com",
+        "status": 404,
+        "emails": 0
+      },
+      {
+        "url": "https://alexisohanian.com/contact",
+        "status": 404,
+        "emails": 0
+      },
+      {
+        "url": "https://alexisohanian.com/about",
+        "status": 404,
+        "emails": 0
+      },
+      {
+        "url": "https://alexisohanian.com/about-me",
+        "status": 404,
+        "emails": 0
+      },
+      {
+        "url": "https://alexisohanian.com/connect",
+        "status": 404,
+        "emails": 0
+      },
+      {
+        "url": "https://alexisohanian.com/investing",
+        "status": 404,
+        "emails": 0
+      }
+    ]
+  },
+  "Garry Tan": {
+    "url": "https://blog.garrytan.com",
+    "type": "angel",
+    "emails": [],
+    "email_count": 0,
+    "pages_checked": [
+      {
+        "url": "https://blog.garrytan.com",
+        "status": 200,
+        "emails": 0
+      },
+      {
+        "url": "https://blog.garrytan.com/contact",
+        "status": 404,
+        "emails": 0
+      },
+      {
+        "url": "https://blog.garrytan.com/about",
+        "status": 404,
+        "emails": 0
+      },
+      {
+        "url": "https://blog.garrytan.com/about-me",
+        "status": 200,
+        "emails": 0
+      },
+      {
+        "url": "https://blog.garrytan.com/connect",
+        "status": 404,
+        "emails": 0
+      },
+      {
+        "url": "https://blog.garrytan.com/investing",
+        "status": 404,
+        "emails": 0
+      }
+    ]
+  },
+  "Paul Graham": {
+    "url": "https://paulgraham.com",
+    "type": "angel",
+    "emails": [
+      "paulg@mas.to"
+    ],
+    "email_count": 1,
+    "pages_checked": [
+      {
+        "url": "https://paulgraham.com",
+        "status": 200,
+        "emails": 1
+      },
+      {
+        "url": "https://paulgraham.com/contact",
+        "status": 200,
+        "emails": 1
+      },
+      {
+        "url": "https://paulgraham.com/about",
+        "status": 200,
+        "emails": 1
+      },
+      {
+        "url": "https://paulgraham.com/about-me",
+        "status": 200,
+        "emails": 1
+      },
+      {
+        "url": "https://paulgraham.com/connect",
+        "status": 200,
+        "emails": 1
+      },
+      {
+        "url": "https://paulgraham.com/investing",
+        "status": 200,
+        "emails": 1
+      }
+    ]
+  },
+  "Sam Altman": {
+    "url": "https://blog.samaltman.com",
+    "type": "angel",
+    "emails": [],
+    "email_count": 0,
+    "pages_checked": [
+      {
+        "url": "https://blog.samaltman.com",
+        "status": 200,
+        "emails": 0
+      },
+      {
+        "url": "https://blog.samaltman.com/contact",
+        "status": 404,
+        "emails": 0
+      },
+      {
+        "url": "https://blog.samaltman.com/about",
+        "status": 404,
+        "emails": 0
+      },
+      {
+        "url": "https://blog.samaltman.com/about-me",
+        "status": 404,
+        "emails": 0
+      },
+      {
+        "url": "https://blog.samaltman.com/connect",
+        "status": 404,
+        "emails": 0
+      },
+      {
+        "url": "https://blog.samaltman.com/investing",
+        "status": 404,
+        "emails": 0
+      }
+    ]
+  },
+  "Rock Health Blog": {
+    "url": "https://rockhealth.com/insights/",
+    "type": "health_vc",
+    "emails": [
+      "hello@rockhealth.org"
+    ],
+    "email_count": 1,
+    "pages_checked": [
+      {
+        "url": "https://rockhealth.com/insights",
+        "status": 404,
+        "emails": 0
+      },
+      {
+        "url": "https://rockhealth.com/insights/contact",
+        "status": 404,
+        "emails": 0
+      },
+      {
+        "url": "https://rockhealth.com/insights/about",
+        "status": 404,
+        "emails": 0
+      },
+      {
+        "url": "https://rockhealth.com/insights/about-me",
+        "status": 404,
+        "emails": 0
+      },
+      {
+        "url": "https://rockhealth.com/insights/connect",
+        "status": 404,
+        "emails": 0
+      },
+      {
+        "url": "https://rockhealth.com/insights/investing",
+        "status": 200,
+        "emails": 1
+      }
+    ]
+  },
+  "Andreessen Bio": {
+    "url": "https://a16z.com/bio-health/",
+    "type": "health_vc",
+    "emails": [],
+    "email_count": 0,
+    "pages_checked": [
+      {
+        "url": "https://a16z.com/bio-health",
+        "status": 200,
+        "emails": 0
+      },
+      {
+        "url": "https://a16z.com/bio-health/contact",
+        "status": 404,
+        "emails": 0
+      },
+      {
+        "url": "https://a16z.com/bio-health/about",
+        "status": 404,
+        "emails": 0
+      },
+      {
+        "url": "https://a16z.com/bio-health/about-me",
+        "status": 404,
+        "emails": 0
+      },
+      {
+        "url": "https://a16z.com/bio-health/connect",
+        "status": 404,
+        "emails": 0
+      },
+      {
+        "url": "https://a16z.com/bio-health/investing",
+        "status": 404,
+        "emails": 0
+      }
+    ]
+  },
+  "AngelList About": {
+    "url": "https://wellfound.com/about",
+    "type": "directory",
+    "emails": [],
+    "email_count": 0,
+    "pages_checked": [
+      {
+        "url": "https://wellfound.com/about",
+        "status": 403,
+        "emails": 0
+      },
+      {
+        "url": "https://wellfound.com/about/contact",
+        "status": 403,
+        "emails": 0
+      },
+      {
+        "url": "https://wellfound.com/about/about",
+        "status": 403,
+        "emails": 0
+      },
+      {
+        "url": "https://wellfound.com/about/about-me",
+        "status": 403,
+        "emails": 0
+      },
+      {
+        "url": "https://wellfound.com/about/connect",
+        "status": 403,
+        "emails": 0
+      },
+      {
+        "url": "https://wellfound.com/about/investing",
+        "status": 403,
+        "emails": 0
+      }
+    ]
+  },
+  "Hustle Fund Blog": {
+    "url": "https://www.hustlefund.vc/blog",
+    "type": "micro_vc",
+    "emails": [],
+    "email_count": 0,
+    "pages_checked": [
+      {
+        "url": "https://www.hustlefund.vc/blog",
+        "status": 404,
+        "emails": 0
+      },
+      {
+        "url": "https://www.hustlefund.vc/blog/contact",
+        "status": 404,
+        "emails": 0
+      },
+      {
+        "url": "https://www.hustlefund.vc/blog/about",
+        "status": 404,
+        "emails": 0
+      },
+      {
+        "url": "https://www.hustlefund.vc/blog/about-me",
+        "status": 404,
+        "emails": 0
+      },
+      {
+        "url": "https://www.hustlefund.vc/blog/connect",
+        "status": 404,
+        "emails": 0
+      },
+      {
+        "url": "https://www.hustlefund.vc/blog/investing",
+        "status": 404,
+        "emails": 0
+      }
+    ]
+  }
+}

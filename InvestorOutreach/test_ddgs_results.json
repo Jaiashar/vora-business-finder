@@ -1,0 +1,498 @@
+{
+  "duckduckgo": {
+    "linkedin_names_total": 0,
+    "emails_total": 1,
+    "emails": [
+      "clientservice@rho.co"
+    ],
+    "queries": {
+      "site:linkedin.com/in \"7wire Ventures\"": {
+        "error": "No results found."
+      },
+      "site:linkedin.com/in \"Rock Health\"": {
+        "error": "No results found."
+      },
+      "site:linkedin.com/in \"Khosla Ventures\" partner": {
+        "error": "No results found."
+      },
+      "site:linkedin.com/in \"Founders Fund\"": {
+        "error": "No results found."
+      },
+      "site:linkedin.com/in \"General Catalyst\" partner": {
+        "error": "No results found."
+      },
+      "site:linkedin.com/in angel investor health tech": {
+        "error": "No results found."
+      },
+      "site:linkedin.com/in angel investor \"digital health\"": {
+        "error": "No results found."
+      },
+      "site:linkedin.com/in angel investor AI wellness": {
+        "error": "No results found."
+      },
+      "angel investor health tech email contact pre-seed": {
+        "error": "No results found."
+      },
+      "\"angel investor\" \"health\" \"@gmail.com\" wearable": {
+        "error": "No results found."
+      },
+      "angel investor digital health longevity contact": {
+        "num_results": 10,
+        "emails": [
+          "clientservice@rho.co"
+        ]
+      }
+    }
+  },
+  "bing": {
+    "linkedin_names_total": 120,
+    "emails_total": 3,
+    "emails": [
+      "reach@campaignlake.com",
+      "arcangelfund1@gmail.com",
+      "9f057df6115a4bb488c08ea12a835e6e@error-tracking.reddit.com"
+    ],
+    "queries": {
+      "site:linkedin.com/in \"7wire Ventures\"": {
+        "num_results": 19,
+        "linkedin_profiles": 19,
+        "names": [
+          {
+            "name": "Robert Garber",
+            "url": "https://www.linkedin.com/in/rgarber"
+          },
+          {
+            "name": "Eric Shan",
+            "url": "https://www.linkedin.com/in/eric-z-shan"
+          },
+          {
+            "name": "Rishab Jain",
+            "url": "https://www.linkedin.com/in/rishab-jain"
+          },
+          {
+            "name": "Carolyn Zhou",
+            "url": "https://www.linkedin.com/in/carolyn-l-zhou"
+          },
+          {
+            "name": "Mustafa Alimumal",
+            "url": "https://www.linkedin.com/in/mustafa-alimumal"
+          },
+          {
+            "name": "Angela Merritt",
+            "url": "https://www.linkedin.com/in/angela-merritt-7849118"
+          },
+          {
+            "name": "Tiffany Yu",
+            "url": "https://www.linkedin.com/in/tiffanyhyu"
+          },
+          {
+            "name": "Cameron Raglin",
+            "url": "https://www.linkedin.com/in/cameron-raglin-636813126"
+          },
+          {
+            "name": "Kristin Anne Torres Mowat",
+            "url": "https://www.linkedin.com/in/kristintm"
+          },
+          {
+            "name": "Robert Garber",
+            "url": "https://www.linkedin.com/in/rgarber/"
+          }
+        ],
+        "other_urls": []
+      },
+      "site:linkedin.com/in \"Rock Health\"": {
+        "num_results": 20,
+        "linkedin_profiles": 20,
+        "names": [
+          {
+            "name": "Natasha Anik",
+            "url": "https://www.linkedin.com/in/natasha-anik"
+          },
+          {
+            "name": "Natasha Anik",
+            "url": "https://www.linkedin.com/in/natasha-anik-b756217b"
+          },
+          {
+            "name": "Molly Varney Muldoon",
+            "url": "https://www.linkedin.com/in/molly-varney-muldoon"
+          },
+          {
+            "name": "goofe turd",
+            "url": "https://www.linkedin.com/in/goofe-turd-411814a1"
+          },
+          {
+            "name": "mortada rock",
+            "url": "https://www.linkedin.com/in/mortada-rock-8191b8a0"
+          },
+          {
+            "name": "bhagy ammi",
+            "url": "https://in.linkedin.com/in/bhagy-ammi-955502113"
+          },
+          {
+            "name": "Sean Day",
+            "url": "https://www.linkedin.com/in/seantday"
+          },
+          {
+            "name": "Katie Drasser",
+            "url": "https://www.linkedin.com/in/katiedrasser"
+          },
+          {
+            "name": "Rachel (Hill) Schilling",
+            "url": "https://www.linkedin.com/in/rachelwhill"
+          },
+          {
+            "name": "Bill Evans",
+            "url": "https://www.linkedin.com/in/wevans"
+          }
+        ],
+        "other_urls": []
+      },
+      "site:linkedin.com/in \"Khosla Ventures\" partner": {
+        "num_results": 20,
+        "linkedin_profiles": 20,
+        "names": [
+          {
+            "name": "Kanu Gulati",
+            "url": "https://www.linkedin.com/in/kanugulati"
+          },
+          {
+            "name": "Katie Mishra",
+            "url": "https://www.linkedin.com/in/katiemishra"
+          },
+          {
+            "name": "Adrian Nicholas Radu",
+            "url": "https://www.linkedin.com/in/anradu"
+          },
+          {
+            "name": "Hal Paz, M.D., M.S.",
+            "url": "https://www.linkedin.com/in/drhpaz"
+          },
+          {
+            "name": "Rajesh Swaminathan",
+            "url": "https://www.linkedin.com/in/rajeshswaminathan"
+          },
+          {
+            "name": "Jon Chu",
+            "url": "https://www.linkedin.com/in/jchu"
+          },
+          {
+            "name": "Samir Kaul",
+            "url": "https://www.linkedin.com/in/samir-kaul-9227b64"
+          },
+          {
+            "name": "Kelly Kinnard",
+            "url": "https://www.linkedin.com/in/kellykinnard/"
+          },
+          {
+            "name": "Kanu Gulati",
+            "url": "https://www.linkedin.com/in/kanugulati/"
+          },
+          {
+            "name": "Jon Chu",
+            "url": "https://www.linkedin.com/in/jchu/"
+          }
+        ],
+        "other_urls": []
+      },
+      "site:linkedin.com/in \"Founders Fund\"": {
+        "num_results": 12,
+        "linkedin_profiles": 12,
+        "names": [
+          {
+            "name": "Trae Stephens",
+            "url": "https://www.linkedin.com/in/trae-stephens-485a811"
+          },
+          {
+            "name": "Andy Ren",
+            "url": "https://www.linkedin.com/in/alexanderryo"
+          },
+          {
+            "name": "Robert Windesheim",
+            "url": "https://www.linkedin.com/in/robert-windesheim"
+          },
+          {
+            "name": "Amy Wang",
+            "url": "https://www.linkedin.com/in/amy-wang-86647649"
+          },
+          {
+            "name": "Alex Ma",
+            "url": "https://www.linkedin.com/in/alex-ma-2963291b5"
+          },
+          {
+            "name": "Ron Florez",
+            "url": "https://www.linkedin.com/in/ron-florez-843847235"
+          },
+          {
+            "name": "Lauren Gross",
+            "url": "https://www.linkedin.com/in/lauren-gross-20492032"
+          },
+          {
+            "name": "Peter Thiel",
+            "url": "https://www.linkedin.com/in/peterthiel"
+          },
+          {
+            "name": "Matias Van Thienen",
+            "url": "https://www.linkedin.com/in/mvanthienen"
+          },
+          {
+            "name": "Amin Mirzadegan",
+            "url": "https://www.linkedin.com/in/amirzadegan"
+          }
+        ],
+        "other_urls": []
+      },
+      "site:linkedin.com/in \"General Catalyst\" partner": {
+        "num_results": 12,
+        "linkedin_profiles": 12,
+        "names": [
+          {
+            "name": "Nat Levy-Westhead",
+            "url": "https://www.linkedin.com/in/nat-levy-westhead-48807655"
+          },
+          {
+            "name": "Anand Chandrasekaran",
+            "url": "https://www.linkedin.com/in/anandc"
+          },
+          {
+            "name": "Orfao, David",
+            "url": "https://www.linkedin.com/in/orfao-david-b178b29?ref=seedproof"
+          },
+          {
+            "name": "Steven Eu",
+            "url": "https://www.linkedin.com/in/steven-eu-88528a154"
+          },
+          {
+            "name": "DAVID ORFAO",
+            "url": "https://www.linkedin.com/in/david-orfao-89b672161"
+          },
+          {
+            "name": "Leo Martin",
+            "url": "https://www.linkedin.com/in/leo-martin-952675a9"
+          },
+          {
+            "name": "Reva Nohria",
+            "url": "https://www.linkedin.com/in/revanohria"
+          },
+          {
+            "name": "Hemant Taneja",
+            "url": "https://www.linkedin.com/in/hemanttaneja"
+          },
+          {
+            "name": "Alexa Liautaud",
+            "url": "https://www.linkedin.com/in/alexaliautaud"
+          },
+          {
+            "name": "David Fialkow",
+            "url": "https://www.linkedin.com/in/david-fialkow-20085852"
+          }
+        ],
+        "other_urls": []
+      },
+      "site:linkedin.com/in angel investor health tech": {
+        "num_results": 14,
+        "linkedin_profiles": 12,
+        "names": [
+          {
+            "name": "Lex Kotler",
+            "url": "https://www.linkedin.com/in/lexkotler"
+          },
+          {
+            "name": "Angela Kang",
+            "url": "https://www.linkedin.com/in/angela-kang-33209926b"
+          },
+          {
+            "name": "Rob Caione",
+            "url": "https://www.linkedin.com/in/robcaione"
+          },
+          {
+            "name": "Talin Tallar \u2013 Angel Investor in HealthTech, Digital Health ... Rachna Dayal",
+            "url": "https://at.linkedin.com/in/talin-tallar"
+          },
+          {
+            "name": "Rachna Dayal",
+            "url": "https://www.linkedin.com/in/rachnadayalgoel"
+          },
+          {
+            "name": "Asher Hasan MD",
+            "url": "https://www.linkedin.com/in/asherhasanmd"
+          },
+          {
+            "name": "Pedro LOPEZ SELA",
+            "url": "https://www.linkedin.com/in/pedrolopezsela"
+          },
+          {
+            "name": "Scott S.",
+            "url": "https://www.linkedin.com/in/scott-s-00a5b7126"
+          },
+          {
+            "name": "Christine S.",
+            "url": "https://www.linkedin.com/in/christine-s-189a91271"
+          },
+          {
+            "name": "Miranda Miguel de Mira",
+            "url": "https://www.linkedin.com/in/miranda-miguel-de-mira-9265a0150"
+          }
+        ],
+        "other_urls": [
+          "https://www.bing.com/aclick?ld=e8RWV0IV4wUS7kBWsp4g3KJTVUCUzTzWHPqdjZh6IaYy8aQFi",
+          "https://www.bing.com/aclick?ld=e8iQA6kqqGb4DLjDTcga-lZjVUCUxbLval28CuLATm3cTA9sj"
+        ]
+      },
+      "site:linkedin.com/in angel investor \"digital health\"": {
+        "num_results": 13,
+        "linkedin_profiles": 12,
+        "names": [
+          {
+            "name": "Angela Kang",
+            "url": "https://www.linkedin.com/in/angela-kang-33209926b"
+          },
+          {
+            "name": "Talin Tallar \u2013 Angel Investor in HealthTech, Digital Health ... Angel Rosa Jr",
+            "url": "https://at.linkedin.com/in/talin-tallar"
+          },
+          {
+            "name": "Angel Rosa Jr",
+            "url": "https://www.linkedin.com/in/angel-rosa-jr-1b79a28"
+          },
+          {
+            "name": "Ritvik Singh",
+            "url": "https://www.linkedin.com/in/ritvik-singh-2740b013"
+          },
+          {
+            "name": "Andre Pontin",
+            "url": "https://www.linkedin.com/in/andrepontin"
+          },
+          {
+            "name": "Pawan Shroff",
+            "url": "https://www.linkedin.com/in/pawanshroff"
+          },
+          {
+            "name": "Scott S.",
+            "url": "https://www.linkedin.com/in/scott-s-00a5b7126"
+          },
+          {
+            "name": "Byron Spurling",
+            "url": "https://www.linkedin.com/in/byron-spurling-2b367792"
+          },
+          {
+            "name": "Martha Mercogliano, PMP",
+            "url": "https://www.linkedin.com/in/martha-mercogliano"
+          },
+          {
+            "name": "Emma Sun",
+            "url": "https://www.linkedin.com/in/emma-sun-0a5789212"
+          }
+        ],
+        "other_urls": [
+          "https://www.bing.com/aclick?ld=e8j1hybksXFoR5mKbLS-JYJTVUCUxPZ9n9TIXq2NoAEX18vC8"
+        ]
+      },
+      "site:linkedin.com/in angel investor AI wellness": {
+        "num_results": 14,
+        "linkedin_profiles": 13,
+        "names": [
+          {
+            "name": "Hannah Bronfman",
+            "url": "https://www.linkedin.com/in/hannah-bronfman-86390874"
+          },
+          {
+            "name": "Priyanka Mathur, MD",
+            "url": "https://www.linkedin.com/in/priyanka-mathur-md-medipocket"
+          },
+          {
+            "name": "Deepak Sahni",
+            "url": "https://in.linkedin.com/in/deepaksahni1"
+          },
+          {
+            "name": "Neel Desai",
+            "url": "https://www.linkedin.com/in/neelvdesai"
+          },
+          {
+            "name": "Pranav Poddar",
+            "url": "https://in.linkedin.com/in/pranavpoddar"
+          },
+          {
+            "name": "Olivia H",
+            "url": "https://www.linkedin.com/in/olivia-h-7a6998212"
+          },
+          {
+            "name": "Jaison Christopher",
+            "url": "https://www.linkedin.com/in/jaison-christopher"
+          },
+          {
+            "name": "Priya Pramod",
+            "url": "https://www.linkedin.com/in/priya-pramod"
+          },
+          {
+            "name": "SUMIT BIJAKA",
+            "url": "https://in.linkedin.com/in/sumitbijaka"
+          },
+          {
+            "name": "Rob Caione",
+            "url": "https://www.linkedin.com/in/robcaione"
+          }
+        ],
+        "other_urls": [
+          "https://www.bing.com/aclick?ld=e8FmTL4NU_1vnippfnDMdM0jVUCUxx27-fbrtqHd2QhReRzc4"
+        ]
+      },
+      "angel investor health tech email contact pre-seed": {
+        "num_results": 10,
+        "emails": [
+          "reach@campaignlake.com"
+        ]
+      },
+      "\"angel investor\" \"health\" \"@gmail.com\" wearable": {
+        "num_results": 8,
+        "emails": [
+          "arcangelfund1@gmail.com",
+          "9f057df6115a4bb488c08ea12a835e6e@error-tracking.reddit.com"
+        ]
+      },
+      "angel investor digital health longevity contact": {
+        "num_results": 10,
+        "emails": []
+      }
+    }
+  },
+  "brave": {
+    "linkedin_names_total": 0,
+    "emails_total": 0,
+    "emails": [],
+    "queries": {
+      "site:linkedin.com/in \"7wire Ventures\"": {
+        "error": "HTTPError: HTTPError('HTTP 429 Too Many Requests for URL: https://search.brave.com/search?q=site%3Al"
+      },
+      "site:linkedin.com/in \"Rock Health\"": {
+        "error": "HTTPError: HTTPError('HTTP 429 Too Many Requests for URL: https://search.brave.com/search?q=site%3Al"
+      },
+      "site:linkedin.com/in \"Khosla Ventures\" partner": {
+        "error": "HTTPError: HTTPError('HTTP 429 Too Many Requests for URL: https://search.brave.com/search?q=site%3Al"
+      },
+      "site:linkedin.com/in \"Founders Fund\"": {
+        "error": "HTTPError: HTTPError('HTTP 429 Too Many Requests for URL: https://search.brave.com/search?q=site%3Al"
+      },
+      "site:linkedin.com/in \"General Catalyst\" partner": {
+        "error": "HTTPError: HTTPError('HTTP 429 Too Many Requests for URL: https://search.brave.com/search?q=site%3Al"
+      },
+      "site:linkedin.com/in angel investor health tech": {
+        "error": "HTTPError: HTTPError('HTTP 429 Too Many Requests for URL: https://search.brave.com/search?q=site%3Al"
+      },
+      "site:linkedin.com/in angel investor \"digital health\"": {
+        "error": "HTTPError: HTTPError('HTTP 429 Too Many Requests for URL: https://search.brave.com/search?q=site%3Al"
+      },
+      "site:linkedin.com/in angel investor AI wellness": {
+        "error": "HTTPError: HTTPError('HTTP 429 Too Many Requests for URL: https://search.brave.com/search?q=site%3Al"
+      },
+      "angel investor health tech email contact pre-seed": {
+        "error": "HTTPError: HTTPError('HTTP 429 Too Many Requests for URL: https://search.brave.com/search?q=angel+in"
+      },
+      "\"angel investor\" \"health\" \"@gmail.com\" wearable": {
+        "error": "HTTPError: HTTPError('HTTP 429 Too Many Requests for URL: https://search.brave.com/search?q=%22angel"
+      },
+      "angel investor digital health longevity contact": {
+        "error": "HTTPError: HTTPError('HTTP 429 Too Many Requests for URL: https://search.brave.com/search?q=angel+in"
+      }
+    }
+  }
+}

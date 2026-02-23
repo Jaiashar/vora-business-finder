@@ -1,0 +1,1633 @@
+[
+  {
+    "email": "jenniferwilson@g.ucla.edu",
+    "name": "Jennifer Wilson",
+    "role": "Faculty",
+    "department": "Bioengineering / FEC",
+    "source_url": "https://fec.seas.ucla.edu/fec-members/"
+  },
+  {
+    "email": "gaol@g.ucla.edu",
+    "name": "Liang Gao",
+    "role": "Faculty",
+    "department": "Bioengineering / FEC",
+    "source_url": "https://fec.seas.ucla.edu/fec-members/"
+  },
+  {
+    "email": "ireneachen@ucla.edu",
+    "name": "Irene Chen",
+    "role": "Faculty",
+    "department": "Chemical & Biomolecular Eng / FEC",
+    "source_url": "https://fec.seas.ucla.edu/fec-members/"
+  },
+  {
+    "email": "idilakin@g.ucla.edu",
+    "name": "Idil Akin",
+    "role": "Faculty",
+    "department": "Civil & Environmental Eng / FEC",
+    "source_url": "https://fec.seas.ucla.edu/fec-members/"
+  },
+  {
+    "email": "mohanty@g.ucla.edu",
+    "name": "Sanjay Mohanty",
+    "role": "Faculty",
+    "department": "Civil & Environmental Eng / FEC",
+    "source_url": "https://fec.seas.ucla.edu/fec-members/"
+  },
+  {
+    "email": "chohsieh@cs.ucla.edu",
+    "name": "Cho-Jui Hsieh",
+    "role": "Faculty",
+    "department": "Computer Science / FEC",
+    "source_url": "https://fec.seas.ucla.edu/fec-members/"
+  },
+  {
+    "email": "violetpeng@cs.ucla.edu",
+    "name": "Nanyun (Violet) Peng",
+    "role": "Faculty",
+    "department": "Computer Science / FEC",
+    "source_url": "https://fec.seas.ucla.edu/fec-members/"
+  },
+  {
+    "email": "tychang1014n@ucla.edu",
+    "name": "Ting-Yuan Chang",
+    "role": "PhD Student",
+    "department": "Huffaker Lab / EE",
+    "source_url": "https://www.seas.ucla.edu/~huffaker/members.html"
+  },
+  {
+    "email": "rongzixuan789@ucla.edu",
+    "name": "Zixuan Rong",
+    "role": "MS Student",
+    "department": "Huffaker Lab / EE",
+    "source_url": "https://www.seas.ucla.edu/~huffaker/members.html"
+  },
+  {
+    "email": "afain@ipam.ucla.edu",
+    "name": "Ann Fain",
+    "role": "Staff",
+    "department": "IPAM",
+    "source_url": "https://www.ipam.ucla.edu/people/"
+  },
+  {
+    "email": "cratsch@ipam.ucla.edu",
+    "name": "C. Ratsch",
+    "role": "Staff",
+    "department": "IPAM",
+    "source_url": "https://www.ipam.ucla.edu/people/"
+  },
+  {
+    "email": "irizov@ipam.ucla.edu",
+    "name": "Ivan Rizov",
+    "role": "Staff",
+    "department": "IPAM",
+    "source_url": "https://www.ipam.ucla.edu/people/"
+  },
+  {
+    "email": "jwan@ipam.ucla.edu",
+    "name": "Jun Wan",
+    "role": "Staff",
+    "department": "IPAM",
+    "source_url": "https://www.ipam.ucla.edu/people/"
+  },
+  {
+    "email": "kklowden@ipam.ucla.edu",
+    "name": "K. Klowden",
+    "role": "Staff",
+    "department": "IPAM",
+    "source_url": "https://www.ipam.ucla.edu/people/"
+  },
+  {
+    "email": "rbartlebaugh@ipam.ucla.edu",
+    "name": "Rich Bartlebaugh",
+    "role": "Staff",
+    "department": "IPAM",
+    "source_url": "https://www.ipam.ucla.edu/people/"
+  },
+  {
+    "email": "sbanuelos@ipam.ucla.edu",
+    "name": "S. Banuelos",
+    "role": "Staff",
+    "department": "IPAM",
+    "source_url": "https://www.ipam.ucla.edu/people/"
+  },
+  {
+    "email": "shlyakht@ipam.ucla.edu",
+    "name": "S. Shlyakhtenko",
+    "role": "Staff",
+    "department": "IPAM",
+    "source_url": "https://www.ipam.ucla.edu/people/"
+  },
+  {
+    "email": "tao@math.ucla.edu",
+    "name": "T. Tao",
+    "role": "Faculty",
+    "department": "IPAM",
+    "source_url": "https://www.ipam.ucla.edu/people/"
+  },
+  {
+    "email": "yzhao@ipam.ucla.edu",
+    "name": "Y. Zhao",
+    "role": "Staff",
+    "department": "IPAM",
+    "source_url": "https://www.ipam.ucla.edu/people/"
+  },
+  {
+    "email": "kakoulli@g.ucla.edu",
+    "name": "Ioanna Kakoulli",
+    "role": "Faculty",
+    "department": "Materials Science & Eng / FEC",
+    "source_url": "https://fec.seas.ucla.edu/fec-members/"
+  },
+  {
+    "email": "akriegman@math.ucla.edu",
+    "name": "Aaron Berkowitz Kriegman",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "adamknudson@math.ucla.edu",
+    "name": "Adam Knudson",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "aaz@math.ucla.edu",
+    "name": "Adam Zheleznyak",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "advika@math.ucla.edu",
+    "name": "Advika Rajapakse",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "abaeumer@math.ucla.edu",
+    "name": "Albert Baeumer",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "alexsietsema@math.ucla.edu",
+    "name": "Alexander Sietsema",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "alexxue@math.ucla.edu",
+    "name": "Alexander Xue",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "akim@math.ucla.edu",
+    "name": "Andrew Dabin Kim",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "alu@math.ucla.edu",
+    "name": "Annie Lu",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "annika@math.ucla.edu",
+    "name": "Annika King",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "anad@math.ucla.edu",
+    "name": "Arian Nadjimzadah",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "arianagchin@math.ucla.edu",
+    "name": "Ariana Chin",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "alebovit@math.ucla.edu",
+    "name": "Audric Lebovitz",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "benjaminfaktor@math.ucla.edu",
+    "name": "Benjamin Faktor",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "bengoldman@math.ucla.edu",
+    "name": "Benjamin Goldman",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "benmajor@math.ucla.edu",
+    "name": "Benjamin Major",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "btslater@math.ucla.edu",
+    "name": "Benjamin Slater",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "cosborne@math.ucla.edu",
+    "name": "Calvin Scott Osborne",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "ctcollins@math.ucla.edu",
+    "name": "Carson Collins",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "chwu93@math.ucla.edu",
+    "name": "Chi-Hao Wu",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "chuyinjiang@math.ucla.edu",
+    "name": "Chuyin Jiang",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "colinni@math.ucla.edu",
+    "name": "Colin Ni",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "danrui@math.ucla.edu",
+    "name": "Daniel Rui",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "dpopovic@math.ucla.edu",
+    "name": "David Popovic",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "dfunk23@math.ucla.edu",
+    "name": "Davis Michael Funk",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "esm@math.ucla.edu",
+    "name": "Elias Manuelides",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "ebjrade@math.ucla.edu",
+    "name": "Ely Jrade",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "emilg@math.ucla.edu",
+    "name": "Emil Geisler",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "emmyvr@math.ucla.edu",
+    "name": "Emmy Van Rooy",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "evandavis@math.ucla.edu",
+    "name": "Evan Davis",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "fyhung@math.ucla.edu",
+    "name": "Fan-Yun (Matthew) Hung",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "griffinpinney@math.ucla.edu",
+    "name": "Griffin Pinney",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "gurkirand@math.ucla.edu",
+    "name": "Gurkiran Dhaliwal",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "papenburg@math.ucla.edu",
+    "name": "Hagen Papenburg",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "lyuhaoyang@math.ucla.edu",
+    "name": "Haoyang Lyu",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "harahmpark@math.ucla.edu",
+    "name": "Harahm Park",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "hhm@math.ucla.edu",
+    "name": "Harris Hardiman-Mostow",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "maxtanhk@math.ucla.edu",
+    "name": "Hong Kiat Tan",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "hunterliu@math.ucla.edu",
+    "name": "Hunter Liu",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "hsch@math.ucla.edu",
+    "name": "Hyunsik Chae",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "ishors@math.ucla.edu",
+    "name": "Ian Shors",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "indraneel@math.ucla.edu",
+    "name": "Indraneel Tambe",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "ishaanpatkar@math.ucla.edu",
+    "name": "Ishaan Patkar",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "jqluong@math.ucla.edu",
+    "name": "Jack Luong",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "jmauro@math.ucla.edu",
+    "name": "Jack Mauro",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "jackmoffatt@math.ucla.edu",
+    "name": "Jack Moffatt",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "jsolheid@math.ucla.edu",
+    "name": "Jackson Solheid",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "jwmurri@math.ucla.edu",
+    "name": "Jacob Murri",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "jaswenberg@math.ucla.edu",
+    "name": "Jacob Swenberg",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "ryanpark7@math.ucla.edu",
+    "name": "Jaesung Ryan Park",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "snek@math.ucla.edu",
+    "name": "James Chen",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "jasonsch@math.ucla.edu",
+    "name": "Jason Aaron Schuchardt",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "jas@math.ucla.edu",
+    "name": "Jaspreet Singh",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "jiahandu@math.ucla.edu",
+    "name": "Jiahan Du",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "jiahewang@math.ucla.edu",
+    "name": "Jiahe Wang",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "jingyiliu1015@math.ucla.edu",
+    "name": "Jingyi Liu",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "baijr@math.ucla.edu",
+    "name": "Jinru Bai",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "jshopper@math.ucla.edu",
+    "name": "John Hopper",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "johnzhou2001@math.ucla.edu",
+    "name": "John Zhou",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "jonahkyoshida@math.ucla.edu",
+    "name": "Jonah Kaiana Yoshida",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "jonwoo@math.ucla.edu",
+    "name": "Jonathan Daniel Woo",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "hillery@math.ucla.edu",
+    "name": "Jonathan Hillery",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "jkalaric@math.ucla.edu",
+    "name": "Joseph Kalarickal",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "jlenwright1@math.ucla.edu",
+    "name": "Joshua Enwright",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "santillanc@math.ucla.edu",
+    "name": "June 6, 2019",
+    "role": "PhD Student",
+    "department": "Mathematics",
+    "source_url": "https://ww3.math.ucla.edu/people/graduate-students/"
+  },
+  {
+    "email": "jungjoos@math.ucla.edu",
+    "name": "Jung Joo Suh",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "karthiks@math.ucla.edu",
+    "name": "Karthik Sellakumaran Latha",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "krai@math.ucla.edu",
+    "name": "Kartikeya Rai",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "kathyxing@math.ucla.edu",
+    "name": "Kathy Xing",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "khang@math.ucla.edu",
+    "name": "Khang Nguyen",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "ksereesu@math.ucla.edu",
+    "name": "Khunpob Sereesuchart",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "kwshi@math.ucla.edu",
+    "name": "Kye Shi",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "luke.russo@math.ucla.edu",
+    "name": "Luke Russo",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "luna@math.ucla.edu",
+    "name": "Luna Gonzalez",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "lunji@math.ucla.edu",
+    "name": "Lunji Zhu",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "mgluchowski@math.ucla.edu",
+    "name": "Maciej Jan Gluchowski",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "markkong@math.ucla.edu",
+    "name": "Mark Kong",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "mattkowalski@math.ucla.edu",
+    "name": "Matthew Kowalski",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "koziol@math.ucla.edu",
+    "name": "Matthew Koziol",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "mtyler@math.ucla.edu",
+    "name": "Matthew Tyler",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "zender@math.ucla.edu",
+    "name": "Mia Zender",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "mreyesrivas@math.ucla.edu",
+    "name": "Moises Reyes Rivas",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "nchen@math.ucla.edu",
+    "name": "Norman Chen",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "olha@math.ucla.edu",
+    "name": "Olha Shevchenko",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "gluan@math.ucla.edu",
+    "name": "Qitong Luan",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "spitzer@math.ucla.edu",
+    "name": "Reed Spitzer",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "rkommerell@math.ucla.edu",
+    "name": "Rhea Kommerell",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "bobhale@math.ucla.edu",
+    "name": "Robert Joseph Hale",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "romakrut@math.ucla.edu",
+    "name": "Roman Krutovskiy",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "runji@math.ucla.edu",
+    "name": "Runji Li",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "rushil@math.ucla.edu",
+    "name": "Rushil Raghavan",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "rarbon@math.ucla.edu",
+    "name": "Ryan Arbon",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "sdqunell@math.ucla.edu",
+    "name": "Samuel Qunell",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "seanguan@math.ucla.edu",
+    "name": "Sean Guan",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "seanku@math.ucla.edu",
+    "name": "Sean Ku",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "sidmulherkar@math.ucla.edu",
+    "name": "Siddharth Mulherkar",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "malkov@math.ucla.edu",
+    "name": "Stepan Malkov",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "steven@math.ucla.edu",
+    "name": "Steven Khang Truong",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "tmartinez@math.ucla.edu",
+    "name": "Thomas Martinez",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "brownr@math.ucla.edu",
+    "name": "Thomas Rush Brown",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "tomokioda0723@math.ucla.edu",
+    "name": "Tomoki Oda",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "tgloe@math.ucla.edu",
+    "name": "Trevor Loe",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "uijeongjang@math.ucla.edu",
+    "name": "Uijeong Jang",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "victoriaquijano@math.ucla.edu",
+    "name": "Victoria Quijano",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "chang314@math.ucla.edu",
+    "name": "William Chang",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "wmilgrim@math.ucla.edu",
+    "name": "Wyatt Milgrim",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "xiangli@math.ucla.edu",
+    "name": "Xiang Li",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "xinjieh@math.ucla.edu",
+    "name": "Xinjie He",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "tracy@math.ucla.edu",
+    "name": "Xinyue Yu",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "zxz@math.ucla.edu",
+    "name": "Xinzhe Zuo",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "ytao@math.ucla.edu",
+    "name": "Yan Tao",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "yifangu@math.ucla.edu",
+    "name": "Yifan Gu",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "ericykim@math.ucla.edu",
+    "name": "Young Han Kim",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "yunuoch@math.ucla.edu",
+    "name": "Yunuo Chen",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "yxliu@math.ucla.edu",
+    "name": "Yuxuan Liu",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "zmb@math.ucla.edu",
+    "name": "Zachary Baugher",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "zachslonim@math.ucla.edu",
+    "name": "Zachary Slonim",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "zntu02@math.ucla.edu",
+    "name": "Zachary Tu",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "zerrinvural@math.ucla.edu",
+    "name": "Zerrin Vural",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "hanzbtom@math.ucla.edu",
+    "name": "Zhaobo Han",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "zhengtan@math.ucla.edu",
+    "name": "Zheng Tan",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "liuzhongyue@math.ucla.edu",
+    "name": "ZhongYue Liu",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "zililim@math.ucla.edu",
+    "name": "Zi Li Lim",
+    "role": "Graduate Student",
+    "department": "Mathematics",
+    "source_url": "https://www.math.ucla.edu/people/grad"
+  },
+  {
+    "email": "aidenkg28@g.ucla.edu",
+    "name": "Aiden Georgiev",
+    "role": "Undergraduate",
+    "department": "NTRG / Aerospace",
+    "source_url": "https://ntrg.seas.ucla.edu/members/"
+  },
+  {
+    "email": "bheronimus@g.ucla.edu",
+    "name": "Benjamin Heronimus",
+    "role": "PhD Student",
+    "department": "NTRG / Aerospace",
+    "source_url": "https://ntrg.seas.ucla.edu/members/"
+  },
+  {
+    "email": "jmoreno117@g.ucla.edu",
+    "name": "Jonathan Moreno",
+    "role": "Undergraduate",
+    "department": "NTRG / Aerospace",
+    "source_url": "https://ntrg.seas.ucla.edu/members/"
+  },
+  {
+    "email": "dbpark2@g.ucla.edu",
+    "name": "Brian Park",
+    "role": "PhD Student",
+    "department": "NTRG / ChemE",
+    "source_url": "https://ntrg.seas.ucla.edu/members/"
+  },
+  {
+    "email": "byang164@ucla.edu",
+    "name": "Ben Yang",
+    "role": "MS Student",
+    "department": "NTRG / EE",
+    "source_url": "https://ntrg.seas.ucla.edu/members/"
+  },
+  {
+    "email": "gabrielcenteno@g.ucla.edu",
+    "name": "Gabriel Centeno",
+    "role": "Undergraduate",
+    "department": "NTRG / MAE",
+    "source_url": "https://ntrg.seas.ucla.edu/members/"
+  },
+  {
+    "email": "jjunaedi10@g.ucla.edu",
+    "name": "Joanne Junaedi",
+    "role": "Undergraduate",
+    "department": "NTRG / MAE",
+    "source_url": "https://ntrg.seas.ucla.edu/members/"
+  },
+  {
+    "email": "jons0226@g.ucla.edu",
+    "name": "Jonathan Park",
+    "role": "MS Student",
+    "department": "NTRG / MAE",
+    "source_url": "https://ntrg.seas.ucla.edu/members/"
+  },
+  {
+    "email": "lukasostien@g.ucla.edu",
+    "name": "Lukas Ostien",
+    "role": "Undergraduate",
+    "department": "NTRG / MAE",
+    "source_url": "https://ntrg.seas.ucla.edu/members/"
+  },
+  {
+    "email": "madsgar315@g.ucla.edu",
+    "name": "Madison Garcia",
+    "role": "Undergraduate",
+    "department": "NTRG / MAE",
+    "source_url": "https://ntrg.seas.ucla.edu/members/"
+  },
+  {
+    "email": "hjkz3514@g.ucla.edu",
+    "name": "Min Jong Kil",
+    "role": "PhD Student",
+    "department": "NTRG / MAE",
+    "source_url": "https://ntrg.seas.ucla.edu/members/"
+  },
+  {
+    "email": "msnaaren2330@ucla.edu",
+    "name": "Naarendharan Meenakshi Sundaram",
+    "role": "PhD Student",
+    "department": "NTRG / MAE",
+    "source_url": "https://ntrg.seas.ucla.edu/members/"
+  },
+  {
+    "email": "priyanthelango@g.ucla.edu",
+    "name": "Priyanth Elango",
+    "role": "PhD Student",
+    "department": "NTRG / MAE",
+    "source_url": "https://ntrg.seas.ucla.edu/members/"
+  },
+  {
+    "email": "rafamcpr9@g.ucla.edu",
+    "name": "Rafael Maldonado Comas",
+    "role": "MS Student",
+    "department": "NTRG / MAE",
+    "source_url": "https://ntrg.seas.ucla.edu/members/"
+  },
+  {
+    "email": "sprak011@g.ucla.edu",
+    "name": "Snigdha Prakash",
+    "role": "Undergraduate",
+    "department": "NTRG / MAE",
+    "source_url": "https://ntrg.seas.ucla.edu/members/"
+  },
+  {
+    "email": "soyoungjo@g.ucla.edu",
+    "name": "Soyoung Jo",
+    "role": "MS Student",
+    "department": "NTRG / MAE",
+    "source_url": "https://ntrg.seas.ucla.edu/members/"
+  },
+  {
+    "email": "sundiwin6612@g.ucla.edu",
+    "name": "Sundi Win",
+    "role": "Undergraduate",
+    "department": "NTRG / MAE",
+    "source_url": "https://ntrg.seas.ucla.edu/members/"
+  },
+  {
+    "email": "tsfisher@g.ucla.edu",
+    "name": "Timothy S. Fisher",
+    "role": "PI / Professor",
+    "department": "NTRG / MAE",
+    "source_url": "https://ntrg.seas.ucla.edu/members/"
+  },
+  {
+    "email": "watanabetomo@g.ucla.edu",
+    "name": "Tomo Watanabe",
+    "role": "Undergraduate",
+    "department": "NTRG / MAE",
+    "source_url": "https://ntrg.seas.ucla.edu/members/"
+  },
+  {
+    "email": "yandawang926@g.ucla.edu",
+    "name": "Yanda Wang",
+    "role": "PhD Student",
+    "department": "NTRG / MAE",
+    "source_url": "https://ntrg.seas.ucla.edu/members/"
+  },
+  {
+    "email": "zwong888@g.ucla.edu",
+    "name": "Zachary Wong",
+    "role": "PhD Student",
+    "department": "NTRG / MAE",
+    "source_url": "https://ntrg.seas.ucla.edu/members/"
+  },
+  {
+    "email": "wychoi@ucla.edu",
+    "name": "Woo-Young Choi",
+    "role": "PhD Student",
+    "department": "NTRG / MSE",
+    "source_url": "https://ntrg.seas.ucla.edu/members/"
+  },
+  {
+    "email": "arudas@mednet.ucla.edu",
+    "name": "Akos Rudas",
+    "role": "PhD Student",
+    "department": "QCB",
+    "source_url": "https://qcb.ucla.edu/people/"
+  },
+  {
+    "email": "apalermo@mednet.ucla.edu",
+    "name": "Amelia Palermo",
+    "role": "Researcher",
+    "department": "QCB",
+    "source_url": "https://qcb.ucla.edu/people/"
+  },
+  {
+    "email": "cgill22@g.ucla.edu",
+    "name": "Cameron Gill",
+    "role": "MS Student",
+    "department": "QCB",
+    "source_url": "https://qcb.ucla.edu/people/"
+  },
+  {
+    "email": "smha118@ucla.edu",
+    "name": "Daniel Ha",
+    "role": "PhD Student",
+    "department": "QCB",
+    "source_url": "https://qcb.ucla.edu/people/"
+  },
+  {
+    "email": "eloylopez@lifesci.ucla.edu",
+    "name": "Eloy Lopez",
+    "role": "Staff",
+    "department": "QCB",
+    "source_url": "https://qcb.ucla.edu/people/"
+  },
+  {
+    "email": "fmxie@ucla.edu",
+    "name": "Fangming Xie",
+    "role": "PhD Student",
+    "department": "QCB",
+    "source_url": "https://qcb.ucla.edu/people/"
+  },
+  {
+    "email": "feimanh@ucla.edu",
+    "name": "Fei-Man Hsu",
+    "role": "PhD Student",
+    "department": "QCB",
+    "source_url": "https://qcb.ucla.edu/people/"
+  },
+  {
+    "email": "giodelv@g.ucla.edu",
+    "name": "Giorgia Del Vecchio",
+    "role": "PhD Student",
+    "department": "QCB",
+    "source_url": "https://qcb.ucla.edu/people/"
+  },
+  {
+    "email": "giovas@ucla.edu",
+    "name": "Giovanni Quinones Valdez",
+    "role": "Researcher",
+    "department": "QCB",
+    "source_url": "https://qcb.ucla.edu/people/"
+  },
+  {
+    "email": "gmtong@g.ucla.edu",
+    "name": "Gregory Tong",
+    "role": "PhD Student",
+    "department": "QCB",
+    "source_url": "https://qcb.ucla.edu/people/"
+  },
+  {
+    "email": "haripriyavn@g.ucla.edu",
+    "name": "Haripriya Vaidehi Narayanan",
+    "role": "PhD Student",
+    "department": "QCB",
+    "source_url": "https://qcb.ucla.edu/people/"
+  },
+  {
+    "email": "ivyxiong@ucla.edu",
+    "name": "Ivy Xiong",
+    "role": "PhD Student",
+    "department": "QCB",
+    "source_url": "https://qcb.ucla.edu/people/"
+  },
+  {
+    "email": "kkaczor@ucla.edu",
+    "name": "Karolina Kaczor-Urbanowicz",
+    "role": "Researcher",
+    "department": "QCB",
+    "source_url": "https://qcb.ucla.edu/people/"
+  },
+  {
+    "email": "kcjorgensen@ucla.edu",
+    "name": "Kelsey Jorgensen",
+    "role": "PhD Student",
+    "department": "QCB",
+    "source_url": "https://qcb.ucla.edu/people/"
+  },
+  {
+    "email": "lukasz@mbi.ucla.edu",
+    "name": "Lukasz Salwinski",
+    "role": "Researcher",
+    "department": "QCB",
+    "source_url": "https://qcb.ucla.edu/people/"
+  },
+  {
+    "email": "matteop@mcdb.ucla.edu",
+    "name": "Matteo Pellegrini",
+    "role": "Faculty",
+    "department": "QCB",
+    "source_url": "https://qcb.ucla.edu/people/"
+  },
+  {
+    "email": "mweissman97@g.ucla.edu",
+    "name": "Maya Weissman",
+    "role": "PhD Student",
+    "department": "QCB",
+    "source_url": "https://qcb.ucla.edu/people/"
+  },
+  {
+    "email": "menglinli@ucla.edu",
+    "name": "Menglin Li",
+    "role": "Researcher",
+    "department": "QCB",
+    "source_url": "https://qcb.ucla.edu/people/"
+  },
+  {
+    "email": "panliu23@g.ucla.edu",
+    "name": "Pan Liu",
+    "role": "PhD Student",
+    "department": "QCB",
+    "source_url": "https://qcb.ucla.edu/people/"
+  },
+  {
+    "email": "sbavisetty@g.ucla.edu",
+    "name": "Sai Bavisetty",
+    "role": "PhD Student",
+    "department": "QCB",
+    "source_url": "https://qcb.ucla.edu/people/"
+  },
+  {
+    "email": "kos@g.ucla.edu",
+    "name": "Seyoon Ko",
+    "role": "PhD Student",
+    "department": "QCB",
+    "source_url": "https://qcb.ucla.edu/people/"
+  },
+  {
+    "email": "cokus@ucla.edu",
+    "name": "Shawn Cokus",
+    "role": "Researcher",
+    "department": "QCB",
+    "source_url": "https://qcb.ucla.edu/people/"
+  },
+  {
+    "email": "shreyasrajesh38@g.ucla.edu",
+    "name": "Shreyas Rajesh",
+    "role": "PhD Student",
+    "department": "QCB",
+    "source_url": "https://qcb.ucla.edu/people/"
+  },
+  {
+    "email": "wyan@chem.ucla.edu",
+    "name": "Weihong Yan",
+    "role": "Researcher",
+    "department": "QCB",
+    "source_url": "https://qcb.ucla.edu/people/"
+  },
+  {
+    "email": "wbguo@g.ucla.edu",
+    "name": "Wenbin Guo",
+    "role": "Researcher",
+    "department": "QCB",
+    "source_url": "https://qcb.ucla.edu/people/"
+  },
+  {
+    "email": "xianglongtan@mednet.ucla.edu",
+    "name": "Xianglong Tan",
+    "role": "PhD Student",
+    "department": "QCB",
+    "source_url": "https://qcb.ucla.edu/people/"
+  },
+  {
+    "email": "xiaoluguo@g.ucla.edu",
+    "name": "Xiaolu Guo",
+    "role": "PhD Student",
+    "department": "QCB",
+    "source_url": "https://qcb.ucla.edu/people/"
+  },
+  {
+    "email": "xingboshang@g.ucla.edu",
+    "name": "Xingbo Shang",
+    "role": "PhD Student",
+    "department": "QCB",
+    "source_url": "https://qcb.ucla.edu/people/"
+  },
+  {
+    "email": "asuzuki100@ucla.edu",
+    "name": "Akira Suzuki",
+    "role": "Undergraduate",
+    "department": "Visual Machines Group / EE",
+    "source_url": "https://visual.ee.ucla.edu/people/"
+  },
+  {
+    "email": "aletheasm@ucla.edu",
+    "name": "Alethea Sung-Miller",
+    "role": "Undergraduate",
+    "department": "Visual Machines Group / EE",
+    "source_url": "https://visual.ee.ucla.edu/people/"
+  },
+  {
+    "email": "vilesov@ucla.edu",
+    "name": "Alexander (Sasha) Vilesov",
+    "role": "PhD Student",
+    "department": "Visual Machines Group / EE",
+    "source_url": "https://visual.ee.ucla.edu/people/"
+  },
+  {
+    "email": "atilaye@g.ucla.edu",
+    "name": "Ameya Tilaye",
+    "role": "Undergraduate",
+    "department": "Visual Machines Group / EE",
+    "source_url": "https://visual.ee.ucla.edu/people/"
+  },
+  {
+    "email": "ajpfahnl@ucla.edu",
+    "name": "Arnold Pfahnl",
+    "role": "Undergraduate",
+    "department": "Visual Machines Group / EE",
+    "source_url": "https://visual.ee.ucla.edu/people/"
+  },
+  {
+    "email": "ellinz@ucla.edu",
+    "name": "Ellin Zhao",
+    "role": "PhD Student",
+    "department": "Visual Machines Group / EE",
+    "source_url": "https://visual.ee.ucla.edu/people/"
+  },
+  {
+    "email": "hwdz15508@g.ucla.edu",
+    "name": "Howard Zhang",
+    "role": "PhD Student",
+    "department": "Visual Machines Group / EE",
+    "source_url": "https://visual.ee.ucla.edu/people/"
+  },
+  {
+    "email": "jli5@g.ucla.edu",
+    "name": "Jerry Li",
+    "role": "Undergraduate",
+    "department": "Visual Machines Group / EE",
+    "source_url": "https://visual.ee.ucla.edu/people/"
+  },
+  {
+    "email": "noemotamedi@g.ucla.edu",
+    "name": "Noe Motamedi",
+    "role": "Undergraduate",
+    "department": "Visual Machines Group / EE",
+    "source_url": "https://visual.ee.ucla.edu/people/"
+  },
+  {
+    "email": "rajeshwari@ucla.edu",
+    "name": "Rajeshwari Jadhav",
+    "role": "Undergraduate",
+    "department": "Visual Machines Group / EE",
+    "source_url": "https://visual.ee.ucla.edu/people/"
+  },
+  {
+    "email": "rishiu@ucla.edu",
+    "name": "Rishi Upadhyay",
+    "role": "PhD Student",
+    "department": "Visual Machines Group / EE",
+    "source_url": "https://visual.ee.ucla.edu/people/"
+  },
+  {
+    "email": "selim.can@ucla.edu",
+    "name": "Selim Emir Can",
+    "role": "Undergraduate",
+    "department": "Visual Machines Group / EE",
+    "source_url": "https://visual.ee.ucla.edu/people/"
+  },
+  {
+    "email": "shijiezhou@ucla.edu",
+    "name": "Shijie Zhou",
+    "role": "PhD Student",
+    "department": "Visual Machines Group / EE",
+    "source_url": "https://visual.ee.ucla.edu/people/"
+  },
+  {
+    "email": "tianyuanchen@g.ucla.edu",
+    "name": "Tianyuan Chen",
+    "role": "Undergraduate",
+    "department": "Visual Machines Group / EE",
+    "source_url": "https://visual.ee.ucla.edu/people/"
+  },
+  {
+    "email": "ziyipeng@g.ucla.edu",
+    "name": "Ziyi Peng",
+    "role": "Undergraduate",
+    "department": "Visual Machines Group / EE",
+    "source_url": "https://visual.ee.ucla.edu/people/"
+  },
+  {
+    "email": "bingwi@g.ucla.edu",
+    "name": "Bing Wi",
+    "role": "Undergraduate",
+    "department": "Wong Lab / Bioengineering",
+    "source_url": "https://wonglab.seas.ucla.edu/members"
+  },
+  {
+    "email": "jwhc@ucla.edu",
+    "name": "Jonathan Chen",
+    "role": "PhD Student",
+    "department": "Wong Lab / Bioengineering",
+    "source_url": "https://wonglab.seas.ucla.edu/members"
+  },
+  {
+    "email": "yangrena@ucla.edu",
+    "name": "Rena Yang",
+    "role": "PhD Student",
+    "department": "Wong Lab / Bioengineering",
+    "source_url": "https://wonglab.seas.ucla.edu/members"
+  },
+  {
+    "email": "sylviadeng319@g.ucla.edu",
+    "name": "Sylvia Deng",
+    "role": "Undergraduate",
+    "department": "Wong Lab / Bioengineering",
+    "source_url": "https://wonglab.seas.ucla.edu/members"
+  },
+  {
+    "email": "txue25@ucla.edu",
+    "name": "Tracy Xue",
+    "role": "Undergraduate",
+    "department": "Wong Lab / Bioengineering",
+    "source_url": "https://wonglab.seas.ucla.edu/members"
+  },
+  {
+    "email": "elizabethwcluo@ucla.edu",
+    "name": "Wei-Chia Luo",
+    "role": "PhD Student",
+    "department": "Wong Lab / Bioengineering",
+    "source_url": "https://wonglab.seas.ucla.edu/members"
+  },
+  {
+    "email": "whsun@ucla.edu",
+    "name": "Wenhong Tony Sun",
+    "role": "Undergraduate",
+    "department": "Wong Lab / Bioengineering",
+    "source_url": "https://wonglab.seas.ucla.edu/members"
+  },
+  {
+    "email": "wschmidt96@ucla.edu",
+    "name": "William Schmidt",
+    "role": "PhD Student",
+    "department": "Wong Lab / Bioengineering",
+    "source_url": "https://wonglab.seas.ucla.edu/members"
+  },
+  {
+    "email": "zhangao9706@ucla.edu",
+    "name": "Ao Zhang",
+    "role": "PhD Student",
+    "department": "Yuhuang Lab / MSE",
+    "source_url": "http://yuhuanglab.seas.ucla.edu/qita/CurrentMembers/Professors/"
+  },
+  {
+    "email": "boxuanzhou@ucla.edu",
+    "name": "Boxuan Zhou",
+    "role": "PhD Student",
+    "department": "Yuhuang Lab / MSE",
+    "source_url": "http://yuhuanglab.seas.ucla.edu/qita/CurrentMembers/Professors/"
+  },
+  {
+    "email": "intotheyou@ucla.edu",
+    "name": "Chungsuk Choi",
+    "role": "PhD Student",
+    "department": "Yuhuang Lab / MSE",
+    "source_url": "http://yuhuanglab.seas.ucla.edu/qita/CurrentMembers/Professors/"
+  },
+  {
+    "email": "dongxu2@ucla.edu",
+    "name": "Dong Xu",
+    "role": "PhD Student",
+    "department": "Yuhuang Lab / MSE",
+    "source_url": "http://yuhuanglab.seas.ucla.edu/qita/CurrentMembers/Professors/"
+  },
+  {
+    "email": "htliu117@ucla.edu",
+    "name": "Haotian Liu",
+    "role": "PhD Student",
+    "department": "Yuhuang Lab / MSE",
+    "source_url": "http://yuhuanglab.seas.ucla.edu/qita/CurrentMembers/Professors/"
+  },
+  {
+    "email": "jiccai@g.ucla.edu",
+    "name": "Jin Cai",
+    "role": "PhD Student",
+    "department": "Yuhuang Lab / MSE",
+    "source_url": "http://yuhuanglab.seas.ucla.edu/qita/CurrentMembers/Professors/"
+  },
+  {
+    "email": "jinhuang@ucla.edu",
+    "name": "Jin Huang",
+    "role": "PhD Student",
+    "department": "Yuhuang Lab / MSE",
+    "source_url": "http://yuhuanglab.seas.ucla.edu/qita/CurrentMembers/Professors/"
+  },
+  {
+    "email": "zjx80028003@g.ucla.edu",
+    "name": "Jingxuan Zhou",
+    "role": "PhD Student",
+    "department": "Yuhuang Lab / MSE",
+    "source_url": "http://yuhuanglab.seas.ucla.edu/qita/CurrentMembers/Professors/"
+  },
+  {
+    "email": "mmfe@ucla.edu",
+    "name": "Michelle Flores Espinosa",
+    "role": "PhD Student",
+    "department": "Yuhuang Lab / MSE",
+    "source_url": "http://yuhuanglab.seas.ucla.edu/qita/CurrentMembers/Professors/"
+  },
+  {
+    "email": "ranwang111@g.ucla.edu",
+    "name": "Ran Wang",
+    "role": "PhD Student",
+    "department": "Yuhuang Lab / MSE",
+    "source_url": "http://yuhuanglab.seas.ucla.edu/qita/CurrentMembers/Professors/"
+  },
+  {
+    "email": "lsjoon@ucla.edu",
+    "name": "Sung-Joon Lee",
+    "role": "PhD Student",
+    "department": "Yuhuang Lab / MSE",
+    "source_url": "http://yuhuanglab.seas.ucla.edu/qita/CurrentMembers/Professors/"
+  },
+  {
+    "email": "wangxue@chem.ucla.edu",
+    "name": "Wang Xue",
+    "role": "PhD Student",
+    "department": "Yuhuang Lab / MSE",
+    "source_url": "http://yuhuanglab.seas.ucla.edu/qita/CurrentMembers/Professors/"
+  },
+  {
+    "email": "yangliu0607@g.ucla.edu",
+    "name": "Yang Liu",
+    "role": "PhD Student",
+    "department": "Yuhuang Lab / MSE",
+    "source_url": "http://yuhuanglab.seas.ucla.edu/qita/CurrentMembers/Professors/"
+  },
+  {
+    "email": "yzhang2018@g.ucla.edu",
+    "name": "Yucheng Zhang",
+    "role": "PhD Student",
+    "department": "Yuhuang Lab / MSE",
+    "source_url": "http://yuhuanglab.seas.ucla.edu/qita/CurrentMembers/Professors/"
+  },
+  {
+    "email": "yxjh0037@g.ucla.edu",
+    "name": "Yuxiao He",
+    "role": "PhD Student",
+    "department": "Yuhuang Lab / MSE",
+    "source_url": "http://yuhuanglab.seas.ucla.edu/qita/CurrentMembers/Professors/"
+  },
+  {
+    "email": "lzysz@ucla.edu",
+    "name": "Zeyan Liu",
+    "role": "PhD Student",
+    "department": "Yuhuang Lab / MSE",
+    "source_url": "http://yuhuanglab.seas.ucla.edu/qita/CurrentMembers/Professors/"
+  },
+  {
+    "email": "huangzh@ucla.edu",
+    "name": "Zhihong Huang",
+    "role": "PhD Student",
+    "department": "Yuhuang Lab / MSE",
+    "source_url": "http://yuhuanglab.seas.ucla.edu/qita/CurrentMembers/Professors/"
+  }
+]

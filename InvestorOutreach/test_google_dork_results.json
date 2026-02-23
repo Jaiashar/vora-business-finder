@@ -1,0 +1,89 @@
+{
+  "emails": [],
+  "query_results": {
+    "query_1": {
+      "query": "\"angel investor\" \"health\" \"@gmail.com\"",
+      "status": 200,
+      "num_results": 0,
+      "emails_from_serp": [],
+      "result_urls": []
+    },
+    "query_2": {
+      "query": "\"angel investor\" \"AI\" \"email\" site:twitter.com",
+      "status": 200,
+      "num_results": 0,
+      "emails_from_serp": [],
+      "result_urls": []
+    },
+    "query_3": {
+      "query": "\"angel investor\" \"health tech\" \"reach me at\"",
+      "status": 200,
+      "num_results": 0,
+      "emails_from_serp": [],
+      "result_urls": []
+    },
+    "query_4": {
+      "query": "\"angel investor\" \"pre-seed\" \"email me\"",
+      "status": 200,
+      "num_results": 0,
+      "emails_from_serp": [],
+      "result_urls": []
+    },
+    "query_5": {
+      "query": "\"angel investor\" \"health\" \"contact\" site:about.me",
+      "status": 200,
+      "num_results": 0,
+      "emails_from_serp": [],
+      "result_urls": []
+    },
+    "query_6": {
+      "query": "\"angel investor\" inurl:contact \"health\" \"@\"",
+      "status": 200,
+      "num_results": 0,
+      "emails_from_serp": [],
+      "result_urls": []
+    },
+    "query_7": {
+      "query": "site:wellfound.com \"angel investor\" \"health\"",
+      "status": 200,
+      "num_results": 0,
+      "emails_from_serp": [],
+      "result_urls": []
+    },
+    "query_8": {
+      "query": "site:crunchbase.com \"angel investor\" \"health tech\"",
+      "status": 200,
+      "num_results": 0,
+      "emails_from_serp": [],
+      "result_urls": []
+    },
+    "query_9": {
+      "query": "site:substack.com \"angel investor\" \"health\" \"subscribe\"",
+      "status": 200,
+      "num_results": 0,
+      "emails_from_serp": [],
+      "result_urls": []
+    },
+    "query_10": {
+      "query": "\"angel group\" OR \"angel network\" \"health\" \"members\" \"@\"",
+      "status": 200,
+      "num_results": 0,
+      "emails_from_serp": [],
+      "result_urls": []
+    },
+    "query_11": {
+      "query": "\"invested in\" \"health\" \"angel\" \"@gmail.com\" OR \"@yahoo.com\" OR \"@outlook.com\"",
+      "status": 200,
+      "num_results": 0,
+      "emails_from_serp": [],
+      "result_urls": []
+    },
+    "query_12": {
+      "query": "\"health tech investor\" \"email\" -site:linkedin.com -site:facebook.com",
+      "status": 200,
+      "num_results": 0,
+      "emails_from_serp": [],
+      "result_urls": []
+    }
+  }
+}

@@ -1,0 +1,502 @@
+[
+  {
+    "email": "mikeburk123@gmail.com",
+    "reason": "junk_pattern:123@"
+  },
+  {
+    "email": "mikefisherpuntacana@gmail.com",
+    "reason": "junk_pattern:na@"
+  },
+  {
+    "email": "mjmartiradonna@gmail.com",
+    "reason": "junk_pattern:na@"
+  },
+  {
+    "email": "munesauna@gmail.com",
+    "reason": "junk_pattern:na@"
+  },
+  {
+    "email": "muvpasadena@gmail.com",
+    "reason": "junk_pattern:na@"
+  },
+  {
+    "email": "mwrightcrna@gmail.com",
+    "reason": "junk_pattern:na@"
+  },
+  {
+    "email": "my.email@gmail.com",
+    "reason": "junk_pattern:email@gmail"
+  },
+  {
+    "email": "my.name@gmail.com",
+    "reason": "junk_pattern:me@gmail.com"
+  },
+  {
+    "email": "myinitiallastname@gmail.com",
+    "reason": "junk_pattern:me@gmail.com"
+  },
+  {
+    "email": "mylastname@gmail.com",
+    "reason": "junk_pattern:me@gmail.com"
+  },
+  {
+    "email": "mynickname.lastname@gmail.com",
+    "reason": "junk_pattern:me@gmail.com"
+  },
+  {
+    "email": "mypersonalemail@gmail.com",
+    "reason": "junk_pattern:email@gmail"
+  },
+  {
+    "email": "n.amelastname@gmail.com",
+    "reason": "junk_pattern:me@gmail.com"
+  },
+  {
+    "email": "na.melastname@gmail.com",
+    "reason": "junk_pattern:me@gmail.com"
+  },
+  {
+    "email": "name.lastname@gmail.com",
+    "reason": "junk_pattern:me@gmail.com"
+  },
+  {
+    "email": "name.name@gmail.com",
+    "reason": "junk_pattern:me@gmail.com"
+  },
+  {
+    "email": "name.surname@gmail.com",
+    "reason": "junk_pattern:me@gmail.com"
+  },
+  {
+    "email": "namelastname@gmail.com",
+    "reason": "junk_pattern:me@gmail.com"
+  },
+  {
+    "email": "namename@gmail.com",
+    "reason": "junk_pattern:me@gmail.com"
+  },
+  {
+    "email": "nextlevelarizona@gmail.com",
+    "reason": "junk_pattern:na@"
+  },
+  {
+    "email": "nickname.lastname@gmail.com",
+    "reason": "junk_pattern:me@gmail.com"
+  },
+  {
+    "email": "nicknamelastname@gmail.com",
+    "reason": "junk_pattern:me@gmail.com"
+  },
+  {
+    "email": "nipfinfo@gmail.com",
+    "reason": "junk_pattern:info@gmail"
+  },
+  {
+    "email": "nishan.kalupahana@gmail.com",
+    "reason": "junk_pattern:na@"
+  },
+  {
+    "email": "normalemail@gmail.com",
+    "reason": "junk_pattern:email@gmail"
+  },
+  {
+    "email": "not.my.email@gmail.com",
+    "reason": "junk_pattern:email@gmail"
+  },
+  {
+    "email": "orangeacresmontana@gmail.com",
+    "reason": "junk_pattern:na@"
+  },
+  {
+    "email": "oxydrhere@gmail.com",
+    "reason": "junk_pattern:here@"
+  },
+  {
+    "email": "pastelboheme@gmail.com",
+    "reason": "junk_pattern:me@gmail.com"
+  },
+  {
+    "email": "patrickherbalhome@gmail.com",
+    "reason": "junk_pattern:me@gmail.com"
+  },
+  {
+    "email": "peacefulmona@outlook.com",
+    "reason": "junk_pattern:na@"
+  },
+  {
+    "email": "peakmvmntinfo@gmail.com",
+    "reason": "junk_pattern:info@gmail"
+  },
+  {
+    "email": "pgmol.support@gmail.com",
+    "reason": "junk_pattern:support@gmail"
+  },
+  {
+    "email": "ponytownhelp@gmail.com",
+    "reason": "junk_pattern:help@gmail"
+  },
+  {
+    "email": "posselt_123@hotmail.com",
+    "reason": "junk_pattern:123@"
+  },
+  {
+    "email": "primaryemail@gmail.com",
+    "reason": "junk_pattern:email@gmail"
+  },
+  {
+    "email": "purelyapps.info@gmail.com",
+    "reason": "junk_pattern:info@gmail"
+  },
+  {
+    "email": "randomemail@gmail.com",
+    "reason": "junk_pattern:email@gmail"
+  },
+  {
+    "email": "randomroastsinfo@gmail.com",
+    "reason": "junk_pattern:info@gmail"
+  },
+  {
+    "email": "randynlisa123@gmail.com",
+    "reason": "junk_pattern:123@"
+  },
+  {
+    "email": "reddit.xxchrome@gmail.com",
+    "reason": "junk_pattern:me@gmail.com"
+  },
+  {
+    "email": "redxtreme@gmail.com",
+    "reason": "junk_pattern:me@gmail.com"
+  },
+  {
+    "email": "return2wildinfo@gmail.com",
+    "reason": "junk_pattern:info@gmail"
+  },
+  {
+    "email": "ripenedgrapes1@gmail.com",
+    "reason": "offensive:rape"
+  },
+  {
+    "email": "rllrrr@yahoo.com",
+    "reason": "repeated_chars"
+  },
+  {
+    "email": "ronaldinho.barcelona@yahoo.com",
+    "reason": "junk_pattern:na@"
+  },
+  {
+    "email": "rottie_lover123@hotmail.com",
+    "reason": "junk_pattern:123@"
+  },
+  {
+    "email": "rottie-lover123@hotmail.com",
+    "reason": "junk_pattern:123@"
+  },
+  {
+    "email": "roy.avena@gmail.com",
+    "reason": "junk_pattern:na@"
+  },
+  {
+    "email": "rsddonna@gmail.com",
+    "reason": "junk_pattern:na@"
+  },
+  {
+    "email": "ruckmallhelp@gmail.com",
+    "reason": "junk_pattern:help@gmail"
+  },
+  {
+    "email": "ryanhuckins123@gmail.com",
+    "reason": "junk_pattern:123@"
+  },
+  {
+    "email": "sabirada.123@gmail.com",
+    "reason": "junk_pattern:123@"
+  },
+  {
+    "email": "santos.celena@gmail.com",
+    "reason": "junk_pattern:na@"
+  },
+  {
+    "email": "scrapingscrapey@gmail.com",
+    "reason": "offensive:rape"
+  },
+  {
+    "email": "seantownsend123@gmail.com",
+    "reason": "junk_pattern:123@"
+  },
+  {
+    "email": "shentienchi@gmail.com",
+    "reason": "junk_pattern:hi@gmail"
+  },
+  {
+    "email": "snap.ph.info@gmail.com",
+    "reason": "junk_pattern:info@gmail"
+  },
+  {
+    "email": "sonofcarhelp@gmail.com",
+    "reason": "junk_pattern:help@gmail"
+  },
+  {
+    "email": "stevenacuna@hotmail.com",
+    "reason": "junk_pattern:na@"
+  },
+  {
+    "email": "strongwithsteena@gmail.com",
+    "reason": "junk_pattern:na@"
+  },
+  {
+    "email": "sunnydoll0123@gmail.com",
+    "reason": "junk_pattern:123@"
+  },
+  {
+    "email": "surname.lastname@gmail.com",
+    "reason": "junk_pattern:me@gmail.com"
+  },
+  {
+    "email": "surname@gmail.com",
+    "reason": "junk_pattern:me@gmail.com"
+  },
+  {
+    "email": "swingittrapeze@gmail.com",
+    "reason": "offensive:rape"
+  },
+  {
+    "email": "td.yaleramona@gmail.com",
+    "reason": "junk_pattern:na@"
+  },
+  {
+    "email": "tennistar.rena@gmail.com",
+    "reason": "junk_pattern:na@"
+  },
+  {
+    "email": "thatsewinggirl123@gmail.com",
+    "reason": "junk_pattern:123@"
+  },
+  {
+    "email": "the26hi@gmail.com",
+    "reason": "junk_pattern:hi@gmail"
+  },
+  {
+    "email": "thisalljunkemail@gmail.com",
+    "reason": "junk_pattern:email@gmail"
+  },
+  {
+    "email": "thisisalljunkemail@gmail.com",
+    "reason": "junk_pattern:email@gmail"
+  },
+  {
+    "email": "thislittlelife.me@gmail.com",
+    "reason": "junk_pattern:me@gmail.com"
+  },
+  {
+    "email": "timeforyourhobby@gmail.com",
+    "reason": "junk_pattern:your"
+  },
+  {
+    "email": "toddsandroidemail@gmail.com",
+    "reason": "junk_pattern:email@gmail"
+  },
+  {
+    "email": "trekinfo@gmail.com",
+    "reason": "junk_pattern:info@gmail"
+  },
+  {
+    "email": "trjones123@gmail.com",
+    "reason": "junk_pattern:123@"
+  },
+  {
+    "email": "trueishcrime@gmail.com",
+    "reason": "junk_pattern:me@gmail.com"
+  },
+  {
+    "email": "trustyourbodyrd@gmail.com",
+    "reason": "junk_pattern:your"
+  },
+  {
+    "email": "twodragonsaltadena@gmail.com",
+    "reason": "junk_pattern:na@"
+  },
+  {
+    "email": "tysonmusoni123@gmail.com",
+    "reason": "junk_pattern:123@"
+  },
+  {
+    "email": "u.sername@gmail.com",
+    "reason": "junk_pattern:me@gmail.com"
+  },
+  {
+    "email": "user.name@gmail.com",
+    "reason": "junk_pattern:me@gmail.com"
+  },
+  {
+    "email": "userna.me@gmail.com",
+    "reason": "junk_pattern:me@gmail.com"
+  },
+  {
+    "email": "username@gmail.com",
+    "reason": "junk_pattern:me@gmail.com"
+  },
+  {
+    "email": "varshamailme.11@gmail.com",
+    "reason": "junk_pattern:mailme"
+  },
+  {
+    "email": "vitorshaolin.info@gmail.com",
+    "reason": "junk_pattern:info@gmail"
+  },
+  {
+    "email": "vsamantha123@gmail.com",
+    "reason": "junk_pattern:123@"
+  },
+  {
+    "email": "watchchatinfo@gmail.com",
+    "reason": "junk_pattern:info@gmail"
+  },
+  {
+    "email": "weathernerdhelp@gmail.com",
+    "reason": "junk_pattern:help@gmail"
+  },
+  {
+    "email": "whoisyourharvey@gmail.com",
+    "reason": "junk_pattern:your"
+  },
+  {
+    "email": "worldtecnologia.info@gmail.com",
+    "reason": "junk_pattern:info@gmail"
+  },
+  {
+    "email": "wtt.goodgame@gmail.com",
+    "reason": "junk_pattern:me@gmail.com"
+  },
+  {
+    "email": "www.generic_email@gmail.com",
+    "reason": "junk_pattern:email@gmail"
+  },
+  {
+    "email": "www.johncena@gmail.com",
+    "reason": "junk_pattern:na@"
+  },
+  {
+    "email": "y.ourname@gmail.com",
+    "reason": "junk_pattern:me@gmail.com"
+  },
+  {
+    "email": "yo.urname@gmail.com",
+    "reason": "junk_pattern:me@gmail.com"
+  },
+  {
+    "email": "you.rname@gmail.com",
+    "reason": "junk_pattern:me@gmail.com"
+  },
+  {
+    "email": "your.email@gmail.com",
+    "reason": "junk_pattern:email@gmail"
+  },
+  {
+    "email": "your.email+1@gmail.com",
+    "reason": "junk_pattern:your"
+  },
+  {
+    "email": "your.email+garmin@gmail.com",
+    "reason": "junk_pattern:your"
+  },
+  {
+    "email": "your.name@gmail.com",
+    "reason": "junk_pattern:me@gmail.com"
+  },
+  {
+    "email": "your.name@me.com",
+    "reason": "junk_pattern:your"
+  },
+  {
+    "email": "your.name+alias@gmail.com",
+    "reason": "junk_pattern:your"
+  },
+  {
+    "email": "your.username+any.alias@gmail.com",
+    "reason": "junk_pattern:your"
+  },
+  {
+    "email": "youraccount@gmail.com",
+    "reason": "junk_pattern:your"
+  },
+  {
+    "email": "yourcheaplibrary@gmail.com",
+    "reason": "junk_pattern:your"
+  },
+  {
+    "email": "yourcity.tennis@gmail.com",
+    "reason": "junk_pattern:your"
+  },
+  {
+    "email": "yourcomputer99@hotmail.com",
+    "reason": "junk_pattern:your"
+  },
+  {
+    "email": "youreregularemail+1@gmail.com",
+    "reason": "junk_pattern:your"
+  },
+  {
+    "email": "yourfearsfearme@gmail.com",
+    "reason": "junk_pattern:me@gmail.com"
+  },
+  {
+    "email": "yourhealthclarity@gmail.com",
+    "reason": "junk_pattern:your"
+  },
+  {
+    "email": "yourna.me@gmail.com",
+    "reason": "junk_pattern:me@gmail.com"
+  },
+  {
+    "email": "yournam.e@gmail.com",
+    "reason": "junk_pattern:your"
+  },
+  {
+    "email": "yourname@gmail.com",
+    "reason": "junk_pattern:me@gmail.com"
+  },
+  {
+    "email": "yourname+anywordhere@gmail.com",
+    "reason": "junk_pattern:your"
+  },
+  {
+    "email": "yourname+hulu@gmail.com",
+    "reason": "junk_pattern:your"
+  },
+  {
+    "email": "yourname+whateveryouwant@gmail.com",
+    "reason": "junk_pattern:your"
+  },
+  {
+    "email": "yourname123@gmail.com",
+    "reason": "junk_pattern:your"
+  },
+  {
+    "email": "yournotes@gmail.com",
+    "reason": "junk_pattern:your"
+  },
+  {
+    "email": "yourownemail@gmail.com",
+    "reason": "junk_pattern:email@gmail"
+  },
+  {
+    "email": "yourownemail+1@gmail.com",
+    "reason": "junk_pattern:your"
+  },
+  {
+    "email": "yourusername@gmail.com",
+    "reason": "junk_pattern:me@gmail.com"
+  },
+  {
+    "email": "yourusername+websitename@gmail.com",
+    "reason": "junk_pattern:me@gmail.com"
+  },
+  {
+    "email": "yurinicoluccitome@gmail.com",
+    "reason": "junk_pattern:me@gmail.com"
+  },
+  {
+    "email": "zedsanme@gmail.com",
+    "reason": "junk_pattern:me@gmail.com"
+  }
+]

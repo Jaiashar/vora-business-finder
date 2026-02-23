@@ -1,0 +1,389 @@
+{
+  "firms": [
+    {
+      "name": "7wireVentures",
+      "domain": "7wireventures.com",
+      "type": "health_vc",
+      "team_url": "https://www.7wireventures.com/team/",
+      "linkedin_query": "7wire Ventures"
+    },
+    {
+      "name": "Rock Health",
+      "domain": "rockhealth.com",
+      "type": "health_vc",
+      "team_url": "https://rockhealth.com/about/",
+      "linkedin_query": "Rock Health"
+    },
+    {
+      "name": "Khosla Ventures",
+      "domain": "khoslaventures.com",
+      "type": "health_vc",
+      "team_url": "https://www.khoslaventures.com/team",
+      "linkedin_query": "Khosla Ventures"
+    },
+    {
+      "name": "General Catalyst",
+      "domain": "generalcatalyst.com",
+      "type": "vc",
+      "team_url": "https://www.generalcatalyst.com/team",
+      "linkedin_query": "General Catalyst"
+    },
+    {
+      "name": "Founders Fund",
+      "domain": "foundersfund.com",
+      "type": "vc",
+      "team_url": "https://foundersfund.com/team",
+      "linkedin_query": "Founders Fund"
+    },
+    {
+      "name": "Andreessen Horowitz",
+      "domain": "a16z.com",
+      "type": "vc",
+      "team_url": "https://a16z.com/about/",
+      "linkedin_query": "Andreessen Horowitz"
+    },
+    {
+      "name": "Accel",
+      "domain": "accel.com",
+      "type": "vc",
+      "team_url": "https://www.accel.com/team",
+      "linkedin_query": "Accel Partners"
+    },
+    {
+      "name": "StartX",
+      "domain": "startx.com",
+      "type": "accelerator",
+      "team_url": "https://startx.com/team",
+      "linkedin_query": "StartX Stanford"
+    },
+    {
+      "name": "Y Combinator",
+      "domain": "ycombinator.com",
+      "type": "accelerator",
+      "team_url": "https://www.ycombinator.com/people",
+      "linkedin_query": "Y Combinator"
+    },
+    {
+      "name": "Techstars",
+      "domain": "techstars.com",
+      "type": "accelerator",
+      "team_url": "https://www.techstars.com/about",
+      "linkedin_query": "Techstars"
+    },
+    {
+      "name": "New Enterprise Associates",
+      "domain": "nea.com",
+      "type": "vc",
+      "team_url": "https://www.nea.com/team",
+      "linkedin_query": "NEA"
+    },
+    {
+      "name": "Flare Capital Partners",
+      "domain": "flarecapital.com",
+      "type": "health_vc",
+      "team_url": "https://www.flarecapital.com/team",
+      "linkedin_query": "Flare Capital Partners"
+    },
+    {
+      "name": "Define Ventures",
+      "domain": "definevc.com",
+      "type": "health_vc",
+      "team_url": "https://www.definevc.com/team",
+      "linkedin_query": "Define Ventures"
+    },
+    {
+      "name": "Bessemer Venture Partners",
+      "domain": "bvp.com",
+      "type": "vc",
+      "team_url": "https://www.bvp.com/team",
+      "linkedin_query": "Bessemer Venture Partners"
+    },
+    {
+      "name": "SignalFire",
+      "domain": "signalfire.com",
+      "type": "vc",
+      "team_url": "https://www.signalfire.com/team",
+      "linkedin_query": "SignalFire"
+    },
+    {
+      "name": "Initialized Capital",
+      "domain": "initialized.com",
+      "type": "vc",
+      "team_url": "https://initialized.com/team",
+      "linkedin_query": "Initialized Capital"
+    },
+    {
+      "name": "StartUp Health",
+      "domain": "startuphealth.com",
+      "type": "health_vc",
+      "team_url": "https://www.startuphealth.com/about",
+      "linkedin_query": "StartUp Health"
+    },
+    {
+      "name": "Optum Ventures",
+      "domain": "optumventures.com",
+      "type": "health_vc",
+      "team_url": "https://www.optumventures.com/team",
+      "linkedin_query": "Optum Ventures"
+    },
+    {
+      "name": "GV (Google Ventures)",
+      "domain": "gv.com",
+      "type": "vc",
+      "team_url": "https://www.gv.com/team",
+      "linkedin_query": "GV Google Ventures"
+    },
+    {
+      "name": "Lux Capital",
+      "domain": "luxcapital.com",
+      "type": "health_vc",
+      "team_url": "https://luxcapital.com/team/",
+      "linkedin_query": "Lux Capital"
+    },
+    {
+      "name": "Venrock",
+      "domain": "venrock.com",
+      "type": "health_vc",
+      "team_url": "https://www.venrock.com/team/",
+      "linkedin_query": "Venrock"
+    },
+    {
+      "name": "Obvious Ventures",
+      "domain": "obvious.com",
+      "type": "health_vc",
+      "team_url": "https://obvious.com/team/",
+      "linkedin_query": "Obvious Ventures"
+    },
+    {
+      "name": "Village Global",
+      "domain": "villageglobal.vc",
+      "type": "vc",
+      "team_url": "https://www.villageglobal.vc/team",
+      "linkedin_query": "Village Global"
+    },
+    {
+      "name": "Pear VC",
+      "domain": "pear.vc",
+      "type": "vc",
+      "team_url": "https://pear.vc/team/",
+      "linkedin_query": "Pear VC"
+    },
+    {
+      "name": "First Round Capital",
+      "domain": "firstround.com",
+      "type": "vc",
+      "team_url": "https://firstround.com/team/",
+      "linkedin_query": "First Round Capital"
+    },
+    {
+      "name": "Craft Ventures",
+      "domain": "craftventures.com",
+      "type": "vc",
+      "team_url": "https://www.craftventures.com/team",
+      "linkedin_query": "Craft Ventures"
+    },
+    {
+      "name": "Slow Ventures",
+      "domain": "slow.co",
+      "type": "angel",
+      "team_url": null,
+      "linkedin_query": "Slow Ventures"
+    },
+    {
+      "name": "Homebrew",
+      "domain": "homebrew.co",
+      "type": "angel",
+      "team_url": "https://www.homebrew.co/team",
+      "linkedin_query": "Homebrew VC"
+    },
+    {
+      "name": "Hustle Fund",
+      "domain": "hustlefund.vc",
+      "type": "angel",
+      "team_url": "https://www.hustlefund.vc/team",
+      "linkedin_query": "Hustle Fund"
+    },
+    {
+      "name": "Precursor Ventures",
+      "domain": "precursorvc.com",
+      "type": "angel",
+      "team_url": "https://precursorvc.com/team/",
+      "linkedin_query": "Precursor Ventures"
+    },
+    {
+      "name": "Healthy Ventures",
+      "domain": "healthy.vc",
+      "type": "health_vc",
+      "team_url": null,
+      "linkedin_query": "Healthy Ventures"
+    },
+    {
+      "name": "dRx Capital",
+      "domain": "drxcapital.com",
+      "type": "health_vc",
+      "team_url": null,
+      "linkedin_query": "dRx Capital health"
+    },
+    {
+      "name": "Springboard Health",
+      "domain": "springboardhealth.com",
+      "type": "health_vc",
+      "team_url": null,
+      "linkedin_query": "Springboard Health Innovations"
+    },
+    {
+      "name": "Longevity Vision Fund",
+      "domain": "longevityvisionfund.com",
+      "type": "health_vc",
+      "team_url": null,
+      "linkedin_query": "Longevity Vision Fund"
+    },
+    {
+      "name": "Bold Capital Partners",
+      "domain": "boldcapitalpartners.com",
+      "type": "health_vc",
+      "team_url": null,
+      "linkedin_query": "Bold Capital Partners"
+    },
+    {
+      "name": "ARCH Venture Partners",
+      "domain": "archventure.com",
+      "type": "health_vc",
+      "team_url": "https://www.archventure.com/team",
+      "linkedin_query": "ARCH Venture Partners"
+    },
+    {
+      "name": "Polaris Partners",
+      "domain": "polarispartners.com",
+      "type": "health_vc",
+      "team_url": "https://www.polarispartners.com/team",
+      "linkedin_query": "Polaris Partners"
+    },
+    {
+      "name": "RA Capital Management",
+      "domain": "racap.com",
+      "type": "health_vc",
+      "team_url": "https://www.racap.com/team",
+      "linkedin_query": "RA Capital Management"
+    },
+    {
+      "name": "OrbiMed",
+      "domain": "orbimed.com",
+      "type": "health_vc",
+      "team_url": "https://www.orbimed.com/team",
+      "linkedin_query": "OrbiMed Advisors"
+    },
+    {
+      "name": "Third Rock Ventures",
+      "domain": "thirdrockventures.com",
+      "type": "health_vc",
+      "team_url": "https://www.thirdrockventures.com/team",
+      "linkedin_query": "Third Rock Ventures"
+    },
+    {
+      "name": "Canaan Partners",
+      "domain": "canaan.com",
+      "type": "health_vc",
+      "team_url": "https://www.canaan.com/team",
+      "linkedin_query": "Canaan Partners"
+    },
+    {
+      "name": "Section 32",
+      "domain": "section32.com",
+      "type": "health_vc",
+      "team_url": "https://www.section32.com/team",
+      "linkedin_query": "Section 32"
+    },
+    {
+      "name": "Breyer Capital",
+      "domain": "breyercapital.com",
+      "type": "vc",
+      "team_url": "https://www.breyercapital.com/team/",
+      "linkedin_query": "Breyer Capital"
+    },
+    {
+      "name": "Lerer Hippeau",
+      "domain": "lererhippeau.com",
+      "type": "vc",
+      "team_url": "https://www.lererhippeau.com/team",
+      "linkedin_query": "Lerer Hippeau"
+    },
+    {
+      "name": "Offline Ventures",
+      "domain": "offlineventures.com",
+      "type": "health_vc",
+      "team_url": null,
+      "linkedin_query": "Offline Ventures health wellness"
+    },
+    {
+      "name": "NextView Ventures",
+      "domain": "nextviewventures.com",
+      "type": "vc",
+      "team_url": "https://nextviewventures.com/team/",
+      "linkedin_query": "NextView Ventures"
+    },
+    {
+      "name": "Floodgate",
+      "domain": "floodgate.com",
+      "type": "angel",
+      "team_url": "https://www.floodgate.com/team",
+      "linkedin_query": "Floodgate Fund"
+    },
+    {
+      "name": "Felicis Ventures",
+      "domain": "felicis.com",
+      "type": "vc",
+      "team_url": "https://www.felicis.com/team",
+      "linkedin_query": "Felicis Ventures"
+    },
+    {
+      "name": "Human Capital",
+      "domain": "humancapital.com",
+      "type": "vc",
+      "team_url": null,
+      "linkedin_query": "Human Capital VC"
+    },
+    {
+      "name": "Shasta Ventures",
+      "domain": "shastaventures.com",
+      "type": "vc",
+      "team_url": "https://www.shastaventures.com/team",
+      "linkedin_query": "Shasta Ventures"
+    },
+    {
+      "name": "Maveron",
+      "domain": "maveron.com",
+      "type": "vc",
+      "team_url": "https://www.maveron.com/team",
+      "linkedin_query": "Maveron"
+    },
+    {
+      "name": "Forerunner Ventures",
+      "domain": "forerunnerventures.com",
+      "type": "vc",
+      "team_url": "https://www.forerunnerventures.com/team",
+      "linkedin_query": "Forerunner Ventures"
+    },
+    {
+      "name": "8VC",
+      "domain": "8vc.com",
+      "type": "health_vc",
+      "team_url": "https://www.8vc.com/team",
+      "linkedin_query": "8VC"
+    },
+    {
+      "name": "Refactor Capital",
+      "domain": "refactor.com",
+      "type": "angel",
+      "team_url": null,
+      "linkedin_query": "Refactor Capital"
+    },
+    {
+      "name": "Founders Inc",
+      "domain": "f.inc",
+      "type": "angel",
+      "team_url": null,
+      "linkedin_query": "Founders Inc"
+    }
+  ]
+}

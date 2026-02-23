@@ -1,0 +1,522 @@
+email,name,department,source_url
+stat.admin@austin.utexas.edu,Stat Admin,Statistics (CNS),https://stat.utexas.edu/people
+oea@cs.utexas.edu,,Computer Science (Cockrell),https://www.cs.utexas.edu/people
+csadmis@cs.utexas.edu,,Computer Science (Cockrell),https://www.cs.utexas.edu/people
+under-info@cs.utexas.edu,,Computer Science (Cockrell),https://www.cs.utexas.edu/people
+marcomm@cs.utexas.edu,Karen Davidson,Computer Science (Cockrell),https://www.cs.utexas.edu/people/offices
+accounting@cs.utexas.edu,Business Office,Computer Science (Cockrell),https://www.cs.utexas.edu/people/offices
+msonline@cs.utexas.edu,Gabrielle Bouzigard,Computer Science (Cockrell),https://www.cs.utexas.edu/people/offices
+klink@cs.utexas.edu,,Computer Science (Cockrell),https://www.cs.utexas.edu/people/staff
+hannah.young@austin.utexas.edu,Hannah Young,Computer Science (Cockrell),https://www.cs.utexas.edu/people/staff
+farial1@cs.utexas.edu,,Computer Science (Cockrell),https://www.cs.utexas.edu/people/staff
+junger@cs.utexas.edu,,Computer Science (Cockrell),https://www.cs.utexas.edu/people/staff
+hollie@cs.utexas.edu,,Computer Science (Cockrell),https://www.cs.utexas.edu/people/staff
+chavez@cs.utexas.edu,,Computer Science (Cockrell),https://www.cs.utexas.edu/people/staff
+blw@cs.utexas.edu,,Computer Science (Cockrell),https://www.cs.utexas.edu/people/staff
+clairew@cs.utexas.edu,,Computer Science (Cockrell),https://www.cs.utexas.edu/people/staff
+machold@cs.utexas.edu,,Computer Science (Cockrell),https://www.cs.utexas.edu/people/staff
+amorenoa@utexas.edu,,Computer Science (Cockrell),https://www.cs.utexas.edu/people/staff
+robotics@utexas.edu,,Computer Science (Cockrell),https://www.cs.utexas.edu/people/staff
+srn@cs.utexas.edu,,Computer Science (Cockrell),https://www.cs.utexas.edu/people/staff
+jwhorley@cs.utexas.edu,,Computer Science (Cockrell),https://www.cs.utexas.edu/people/staff
+msidimou@cs.utexas.edu,,Computer Science (Cockrell),https://www.cs.utexas.edu/people/staff
+dturner@cs.utexas.edu,,Computer Science (Cockrell),https://www.cs.utexas.edu/people/staff
+trevkamm@cs.utexas.edu,,Computer Science (Cockrell),https://www.cs.utexas.edu/people/staff
+megan93@cs.utexas.edu,,Computer Science (Cockrell),https://www.cs.utexas.edu/people/staff
+droberts@cs.utexas.edu,,Computer Science (Cockrell),https://www.cs.utexas.edu/people/staff
+arizzolo@utexas.edu,,Computer Science (Cockrell),https://www.cs.utexas.edu/people/staff
+agrindle@cs.utexas.edu,,Computer Science (Cockrell),https://www.cs.utexas.edu/people/staff
+msaigradcoordinator@utexas.edu,,Computer Science (Cockrell),https://www.cs.utexas.edu/people/staff
+carmen.cruz@utexas.edu,Carmen Cruz,Computer Science (Cockrell),https://www.cs.utexas.edu/people/staff
+cdsoadmin@austin.utexas.edu,,Computer Science (Cockrell),https://www.cs.utexas.edu/people/staff
+sagaille@cs.utexas.edu,,Computer Science (Cockrell),https://www.cs.utexas.edu/people/staff
+margo75@cs.utexas.edu,,Computer Science (Cockrell),https://www.cs.utexas.edu/people/staff
+kolson@cs.utexas.edu,,Computer Science (Cockrell),https://www.cs.utexas.edu/people/staff
+karen_davidson@utexas.edu,Karen Davidson,Computer Science (Cockrell),https://www.cs.utexas.edu/people/staff
+brandiw@cs.utexas.edu,,Computer Science (Cockrell),https://www.cs.utexas.edu/people/staff
+bbarry@cs.utexas.edu,,Computer Science (Cockrell),https://www.cs.utexas.edu/people/staff
+sskrip@cs.utexas.edu,,Computer Science (Cockrell),https://www.cs.utexas.edu/people/staff
+buschet@cs.utexas.edu,,Computer Science (Cockrell),https://www.cs.utexas.edu/people/staff
+yyz@cs.utexas.edu,,Computer Science (Cockrell),https://www.cs.utexas.edu/people/staff
+mcicero@cs.utexas.edu,,Computer Science (Cockrell),https://www.cs.utexas.edu/people/staff
+madeleine.lange@austin.utexas.edu,Madeleine Lange,Computer Science (Cockrell),https://www.cs.utexas.edu/people/staff
+bernal@cs.utexas.edu,,Computer Science (Cockrell),https://www.cs.utexas.edu/people/staff
+ecantor@cs.utexas.edu,,Computer Science (Cockrell),https://www.cs.utexas.edu/people/staff
+paulamar@cs.utexas.edu,,Computer Science (Cockrell),https://www.cs.utexas.edu/people/staff
+canderss@cs.utexas.edu,,Computer Science (Cockrell),https://www.cs.utexas.edu/people/staff
+rrice@utexas.edu,,Computer Science (Cockrell),https://www.cs.utexas.edu/people/staff
+meganb@cs.utexas.edu,,Computer Science (Cockrell),https://www.cs.utexas.edu/people/staff
+hwegner@cs.utexas.edu,,Computer Science (Cockrell),https://www.cs.utexas.edu/people/staff
+jpatel@cs.utexas.edu,,Computer Science (Cockrell),https://www.cs.utexas.edu/people/staff
+ctrevino@cs.utexas.edu,,Computer Science (Cockrell),https://www.cs.utexas.edu/people/staff
+mscsonlinegradcoordinator@utexas.edu,,Computer Science (Cockrell),https://www.cs.utexas.edu/people/staff
+jory@cs.utexas.edu,,Computer Science (Cockrell),https://www.cs.utexas.edu/people/staff
+tls2022@cs.utexas.edu,,Computer Science (Cockrell),https://www.cs.utexas.edu/people/staff
+zach.cohenford@austin.utexas.edu,Zach Cohenford,Computer Science (Cockrell),https://www.cs.utexas.edu/people/staff
+tiffanyg@cs.utexas.edu,,Computer Science (Cockrell),https://www.cs.utexas.edu/people/staff
+kimcano@cs.utexas.edu,,Computer Science (Cockrell),https://www.cs.utexas.edu/people/staff
+jiaminquan@utexas.edu,Jiamin Quan,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/researchers
+zach.hernandez@utexas.edu,Zach Hernandez,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/researchers
+yhseo@utexas.edu,Yoonho Seo,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/researchers
+dvial@utexas.edu,Daniel Vial,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/researchers
+sarmita@utexas.edu,Sarmita Majumder,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/researchers
+bo.li@austin.utexas.edu,Bo Li,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/researchers
+vaidyanathan@utexas.edu,Vaidyanathan Krishnamurthy,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/researchers
+praveen@engr.utexas.edu,Praveen Pasupathy,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/researchers
+erenbalevi@utexas.edu,Eren Balevi,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/researchers
+sabanhus@utexas.edu,Saban Hus,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/researchers
+am.espinoza@utexas.edu,Antonio Espinoza,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/researchers
+aaron.muhowski@utexas.edu,Aaron Muhowski,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/researchers
+anupam@austin.utexas.edu,Anupam Roy,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/researchers
+xitang@utexas.edu,Xiyuan Tang,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/researchers
+bin.fang@austin.utexas.edu,Bin Fang,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/researchers
+d.kireev@utexas.edu,Dmitry Kireev,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/researchers
+jennifer.gallant@austin.utexas.edu,Jennifer Gallant,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/staff
+bheine@austin.utexas.edu,Barbara Heine,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/staff
+amy.fisk@austin.utexas.edu,Amy Fisk,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/staff
+msaldivar@austin.utexas.edu,Maria Saldivar,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/staff
+belinda.howell@austin.utexas.edu,Belle Howell,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/staff
+lisa.contes@austin.utexas.edu,Lisa Contes,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/staff
+melody.villarreal@austin.utexas.edu,Melody Villarreal,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/staff
+rick.gomez@austin.utexas.edu,Rick Gomez,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/staff
+pmallon@utexas.edu,Patrick Mallon,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/staff
+gabriel.hernandez@mail.utexas.edu,Gabriel Hernandez,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/staff
+colton.lathram@austin.utexas.edu,Colton Lathram,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/staff
+stephaine.lane@austin.utexas.edu,Stephaine Lane,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/staff
+letylira@mail.utexas.edu,Leticia Lira,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/staff
+allison.hinojosa@austin.utexas.edu,Allison Hinojosa,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/staff
+blevittch@mail.utexas.edu,Barry Levitch,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/staff
+alora.jones@austin.utexas.edu,Alora Raich,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/staff
+mark.innmon@austin.utexas.edu,Mark Innmon,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/staff
+melanie.gulick@mail.utexas.edu,Melanie Gulick,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/staff
+laura.armour@austin.utexas.edu,Laura Armour,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/staff
+b.outlaw@austin.utexas.edu,Brittney Outlaw,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/staff
+stacy.pederson@austin.utexas.edu,Stacy Pederson,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/staff
+madison.poppe@austin.utexas.edu,Madison Poppe,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/staff
+jackie.srnensky@austin.utexas.edu,Jackie Srnensky,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/staff
+andrewk@mail.utexas.edu,Andrew Kieschnick,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/staff
+tom.atchity@austin.utexas.edu,Tom Atchity,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/staff
+dkorts@austin.utexas.edu,David Korts,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/staff
+shollifield@austin.utexas.edu,Steven Hollifield,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/staff
+msoliswheeler@utexas.edu,Mychael Solis-Wheeler,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/staff
+leland.mangrum@austin.utexas.edu,Leland Mangrum,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/staff
+desiree.ledet@austin.utexas.edu,Desiree Ledet,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/staff
+cay@austin.utexas.edu,Cay Garcia,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/staff
+brian.shaw@austin.utexas.edu,Brian Shaw,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/staff
+acarr@mail.utexas.edu,Andrew Carr,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/staff
+christine.wood@austin.utexas.edu,Christine Wood,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/staff
+joyce@mer.utexas.edu,Joyce Kokes,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/staff
+karenlittle@austin.utexas.edu,Karen Little,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/staff
+denise.furman@austin.utexas.edu,Denise Furman,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/staff
+book@utexas.edu,Dan Book,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/staff
+daniel.murray@austin.utexas.edu,Daniel Murray,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/staff
+luisiflandes@austin.utexas.edu,Luis Flandes,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/staff
+yjia@austin.utexas.edu,Fellow of Silicon Laboratories Endowed Chair in Ele,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+shwetadwip.chowdhury@utexas.edu,Fellow of the Jack Kilby,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+ljohn@ece.utexas.edu,Lizy John,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+pstone@cs.utexas.edu,Peter Stone,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+chengguo@utexas.edu,Cheng Guo,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+b.johnson@utexas.edu,Fellow of the Jack Kilby,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+bfagelson@mail.utexas.edu,William Fagelson,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+david.soloveichik@utexas.edu,David Soloveichik,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+kaushik@utexas.edu,Chandra Family Endowed Distinguished Professorship,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+banerjee@ece.utexas.edu,Sanjay Banerjee,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+telang@ece.utexas.edu,Fellow of the Jack Kilby,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+dw@utexas.edu,Cullen Trust for Higher Education Endowed Professor,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+hunt@cs.utexas.edu,Warren Hunt Jr,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+javadm@utexas.edu,Maseeh Department of Civil,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+utopcu@utexas.edu,Department of Aerospace Engineering and Engineering,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+sbarber@identity.utexas.edu,Suzanne Barber,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+jaydeep@austin.utexas.edu,Fellow of Silicon Laboratories Endowed Chair in Ele,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+bovik@ece.utexas.edu,Cockrell Family Regents Endowed Chair in Engineerin,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+michael.cullinan@austin.utexas.edu,Michael Cullinan,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+alfonso.cuevas@utexas.edu,Alfonso Cuevas,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+eswartzla@utexas.edu,Earl Swartzlander,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+ltchin@utexas.edu,Lillian Chin,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+vivek.telang@austin.utexas.edu,Vivek Telang,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+touba@ece.utexas.edu,General Motors Foundation Centennial Teaching Fello,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+dimakis@austin.utexas.edu,Alex Dimakis,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+poulami.das@utexas.edu,Fellow of the Advanced Micro Devices,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+zheng@austin.utexas.edu,Department of Mechanical Engineering,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+jun.wang@austin.utexas.edu,Jun Wang,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+saad.saleh@austin.utexas.edu,Saad Saleh,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+august@utexas.edu,August Shi,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+burghoff@utexas.edu,David Burghoff,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+constantine@utexas.edu,Chandra Family Endowed Distinguished Professorship,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+etutuc@mail.utexas.edu,Emanuel Tutuc,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+yczhu@utexas.edu,Yicheng Zhu,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+radum@utexas.edu,Radu Marculescu,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+ayilmaz@mail.utexas.edu,Ali Yilmaz,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+ethomaz@utexas.edu,Edison Thomaz,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+c.julien@mail.utexas.edu,Christine Julien,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+ananth@mail.utexas.edu,Motorola Regents Chair in Electrical and Computer E,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+sandeepc@utexas.edu,Fellow of the Jack Kilby,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+ramesh@mail.utexas.edu,Ramesh Yerraballi,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+ruochen@utexas.edu,Ruochen Lu,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+tiwari@austin.utexas.edu,Mohit Tiwari,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+shyam.shankar@utexas.edu,Shyam Shankar,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+jose.millan@austin.utexas.edu,Linda Steen Norris,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+xiuling.li@utexas.edu,Truchard Foundation Endowed Chair,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+atlaswang@utexas.edu,Atlas Wang,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+jonathan.baker@austin.utexas.edu,Fellow of the Advanced Micro Devices Chair in Compu,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+register@austin.utexas.edu,Leonard Frank Register,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+deji@ece.utexas.edu,Deji Akinwande,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+jtamir@utexas.edu,Fellow of the Jack Kilby,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+khurshid@ece.utexas.edu,Sarfraz Khurshid,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+inderjit@cs.utexas.edu,Inderjit Dhillon,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+ety@ece.utexas.edu,Edward Yu,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+srsantacruz@utexas.edu,Samantha Santacruz,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+ben-yakar@mail.utexas.edu,Cockrell Family Chair in Engineering,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+jghosh@utexas.edu,Joydeep Ghosh,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+jandrews@ece.utexas.edu,Jeffrey Andrews,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+adunn@utexas.edu,Andrew Dunn,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+sanghavi@mail.utexas.edu,Sujay Sanghavi,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+mingyuan.zhou@mccombs.utexas.edu,Mingyuan Zhou,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+emily.porter@austin.utexas.edu,Emily Porter,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+aqhuang@utexas.edu,Dula D. Cockrell Centennial Chair in Engineering,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+bevans@ece.utexas.edu,Brian Evans,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+orshansky@mail.utexas.edu,Michael Orshansky,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+haozhu@utexas.edu,Texas Atomic Energy Research Foundation Centennial,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+jtunnell@mail.utexas.edu,James Tunnell,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+nahall@mail.utexas.edu,Neal Hall,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+garg@ece.utexas.edu,Vijay Garg,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+pedro.santacruz@utexas.edu,Pedro Santacruz,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+patt@ece.utexas.edu,Yale Patt,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+sanjay.shakkottai@utexas.edu,Sanjay Shakkottai,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+gligoric@utexas.edu,Milos Gligoric,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+sensen.li@austin.utexas.edu,Sensen Li,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+evan.speight@austin.utexas.edu,Evan Speight,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+nanshulu@utexas.edu,Carol Cockrell Curran Chair in Engineering,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+linran.fan@utexas.edu,Linran Fan,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+dpan@mail.utexas.edu,David Z. Pan,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+aholmes@austin.utexas.edu,Archie L. Holmes Jr.,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+mcdermot@ece.utexas.edu,Mark McDermott,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+sbank@ece.utexas.edu,Seth Bank,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+hvikalo@ece.utexas.edu,Haris Vikalo,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+lili@cs.utexas.edu,Lili Qiu,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+dfan@austin.utexas.edu,Department of Mechanical Engineering,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+abhay.samant@utexas.edu,Abhay Samant,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+chen@ece.utexas.edu,Ray Chen,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+sriram@ece.utexas.edu,Sriram Vishwanath,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+deveciana@utexas.edu,Cockrell Family Chair in Engineering,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+hyeji.kim@austin.utexas.edu,Fellow of the Advanced Micro Devices,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+mokhtari@austin.utexas.edu,Fellow of the Jack Kilby,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+dianam@utexas.edu,Motorola Regents Chair in Electrical and Computer E,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+ajhanson@utexas.edu,Fellow of the Jack Kilby,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+gerstl@ece.utexas.edu,Cullen Trust for Higher Education Endowed Professor,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+hamilton@mail.utexas.edu,Mark F Hamilton,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+valvano@mail.utexas.edu,Engineering Foundation Centennial Teaching Fellow i,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+lucas.holt@utexas.edu,Lucas Holt,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+incorvia@austin.utexas.edu,Engineering Foundation Endowed Faculty Fellowship i,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+mattan.erez@utexas.edu,Mattan Erez,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+lin@cs.utexas.edu,Calvin Lin,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+ssantoso@mail.utexas.edu,Engineering Foundation Centennial Teaching Fellowsh,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+fussell@cs.utexas.edu,Don Fussell,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+pingali@cs.utexas.edu,Keshav Pingali,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+grauman@cs.utexas.edu,Kristen Grauman,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+todd.humphreys@utexas.edu,Ernest Dashiell Cockrell II Chair in Engineering,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+pswilson@mail.utexas.edu,Preston Wilson,Electrical & Computer Engineering (Cockrell),https://www.ece.utexas.edu/people/faculty
+jbard@utexas.edu,Jonathan Bard,Mechanical Engineering (Cockrell),https://www.me.utexas.edu/people/faculty-directory
+mjhall@mail.utexas.edu,Matthew Hall,Mechanical Engineering (Cockrell),https://www.me.utexas.edu/people/faculty-directory
+venkat.subramanian@utexas.edu,Venkat Subramanian,Mechanical Engineering (Cockrell),https://www.me.utexas.edu/people/faculty-directory
+tanya.hutter@utexas.edu,Tanya Hutter,Mechanical Engineering (Cockrell),https://www.me.utexas.edu/people/faculty-directory
+jamie.warner@austin.utexas.edu,Jamie Warner,Mechanical Engineering (Cockrell),https://www.me.utexas.edu/people/faculty-directory
+maura.borrego@austin.utexas.edu,Maura Borrego,Mechanical Engineering (Cockrell),https://www.me.utexas.edu/people/faculty-directory
+yijin.liu@austin.utexas.edu,Yijin Liu,Mechanical Engineering (Cockrell),https://www.me.utexas.edu/people/faculty-directory
+webber@mail.utexas.edu,Michael Webber,Mechanical Engineering (Cockrell),https://www.me.utexas.edu/people/faculty-directory
+ashish@austin.utexas.edu,Ashish Deshpande,Mechanical Engineering (Cockrell),https://www.me.utexas.edu/people/faculty-directory
+leah.chong@austin.utexas.edu,Leah Chong,Mechanical Engineering (Cockrell),https://www.me.utexas.edu/people/faculty-directory
+dmchen@me.utexas.edu,J. Mike Walker Professorship in Mechanical Engineer,Mechanical Engineering (Cockrell),https://www.me.utexas.edu/people/faculty-directory
+haberman@utexas.edu,Michael Haberman,Mechanical Engineering (Cockrell),https://www.me.utexas.edu/people/faculty-directory
+vb@austin.utexas.edu,Vaibhav Bahadur,Mechanical Engineering (Cockrell),https://www.me.utexas.edu/people/faculty-directory
+wcharlton@austin.utexas.edu,William Charlton,Mechanical Engineering (Cockrell),https://www.me.utexas.edu/people/faculty-directory
+ebickel@mail.utexas.edu,J. Eric Bickel,Mechanical Engineering (Cockrell),https://www.me.utexas.edu/people/faculty-directory
+darcyr@utexas.edu,D'Arcy Randall,Mechanical Engineering (Cockrell),https://www.me.utexas.edu/people/faculty-directory
+nfey@utexas.edu,Nick Fey,Mechanical Engineering (Cockrell),https://www.me.utexas.edu/people/faculty-directory
+jhas@mail.utexas.edu,John Hasenbein,Mechanical Engineering (Cockrell),https://www.me.utexas.edu/people/faculty-directory
+bleibowicz@utexas.edu,Benjamin Leibowicz,Mechanical Engineering (Cockrell),https://www.me.utexas.edu/people/faculty-directory
+cgr@austin.utexas.edu,Chris Rylander,Mechanical Engineering (Cockrell),https://www.me.utexas.edu/people/faculty-directory
+jwang@austin.utexas.edu,Junmin Wang,Mechanical Engineering (Cockrell),https://www.me.utexas.edu/people/faculty-directory
+jszhou@mail.utexas.edu,Jianshi Zhou,Mechanical Engineering (Cockrell),https://www.me.utexas.edu/people/faculty-directory
+dezekoye@mail.utexas.edu,Ofodike Ezekoye,Mechanical Engineering (Cockrell),https://www.me.utexas.edu/people/faculty-directory
+aluru@utexas.edu,Narayana Aluru,Mechanical Engineering (Cockrell),https://www.me.utexas.edu/people/faculty-directory
+joshua.keena@austin.utexas.edu,Joshua Keena,Mechanical Engineering (Cockrell),https://www.me.utexas.edu/people/faculty-directory
+s.landsberger@mail.utexas.edu,Sheldon Landsberger,Mechanical Engineering (Cockrell),https://www.me.utexas.edu/people/faculty-directory
+kevin.clarno@austin.utexas.edu,Kevin Clarno,Mechanical Engineering (Cockrell),https://www.me.utexas.edu/people/faculty-directory
+jellzey@mail.utexas.edu,Janet Ellzey,Mechanical Engineering (Cockrell),https://www.me.utexas.edu/people/faculty-directory
+weiwli@austin.utexas.edu,Wei Li,Mechanical Engineering (Cockrell),https://www.me.utexas.edu/people/faculty-directory
+donald.siegel@austin.utexas.edu,Donald Siegel,Mechanical Engineering (Cockrell),https://www.me.utexas.edu/people/faculty-directory
+rmanth@mail.utexas.edu,Arumugam Manthiram,Mechanical Engineering (Cockrell),https://www.me.utexas.edu/people/faculty-directory
+rneptune@mail.utexas.edu,Richard Neptune,Mechanical Engineering (Cockrell),https://www.me.utexas.edu/people/faculty-directory
+r.longoria@mail.utexas.edu,Raul Longoria,Mechanical Engineering (Cockrell),https://www.me.utexas.edu/people/faculty-directory
+dragan.djurdjanovic@mail.utexas.edu,Dragan Djurdjanovic,Mechanical Engineering (Cockrell),https://www.me.utexas.edu/people/faculty-directory
+mpryor@utexas.edu,Mitchell Pryor,Mechanical Engineering (Cockrell),https://www.me.utexas.edu/people/faculty-directory
+jbeaman@mail.utexas.edu,Joseph Beaman,Mechanical Engineering (Cockrell),https://www.me.utexas.edu/people/faculty-directory
+maryam.tilton@austin.utexas.edu,Maryam Tilton,Mechanical Engineering (Cockrell),https://www.me.utexas.edu/people/faculty-directory
+hadi.khani@austin.utexas.edu,Hadi Khani,Mechanical Engineering (Cockrell),https://www.me.utexas.edu/people/faculty-directory
+ann.majewiczfey@utexas.edu,Ann Majewicz Fey,Mechanical Engineering (Cockrell),https://www.me.utexas.edu/people/faculty-directory
+derekhaas@utexas.edu,Derek Haas,Mechanical Engineering (Cockrell),https://www.me.utexas.edu/people/faculty-directory
+elena.zannoni@austin.utexas.edu,Elena Zannoni,Mechanical Engineering (Cockrell),https://www.me.utexas.edu/people/faculty-directory
+andrea.pickel@austin.utexas.edu,Andrea Pickel,Mechanical Engineering (Cockrell),https://www.me.utexas.edu/people/faculty-directory
+sv.sreeni@mail.utexas.edu,S.V. Sreenivasan,Mechanical Engineering (Cockrell),https://www.me.utexas.edu/people/faculty-directory
+dbogard@mail.utexas.edu,David Bogard,Mechanical Engineering (Cockrell),https://www.me.utexas.edu/people/faculty-directory
+anastasia.schauer@austin.utexas.edu,Anastasia Schauer,Mechanical Engineering (Cockrell),https://www.me.utexas.edu/people/faculty-directory
+ghyu@austin.utexas.edu,Guihua Yu,Mechanical Engineering (Cockrell),https://www.me.utexas.edu/people/faculty-directory
+epfahren@mail.utexas.edu,Eric Fahrenthold,Mechanical Engineering (Cockrell),https://www.me.utexas.edu/people/faculty-directory
+david.mitlin@austin.utexas.edu,David Mitlin,Mechanical Engineering (Cockrell),https://www.me.utexas.edu/people/faculty-directory
+fangzhou.xia@austin.utexas.edu,Fangzhou Xia,Mechanical Engineering (Cockrell),https://www.me.utexas.edu/people/faculty-directory
+raghu.bollapragada@utexas.edu,Raghavendra Bollapragada,Mechanical Engineering (Cockrell),https://www.me.utexas.edu/people/faculty-directory
+filippo.mangolini@austin.utexas.edu,Filippo Mangolini,Mechanical Engineering (Cockrell),https://www.me.utexas.edu/people/faculty-directory
+gregory.rulifson@austin.utexas.edu,Gregory Rulifson,Mechanical Engineering (Cockrell),https://www.me.utexas.edu/people/faculty-directory
+lishi@mail.utexas.edu,Li Shi,Mechanical Engineering (Cockrell),https://www.me.utexas.edu/people/faculty-directory
+chichang@utexas.edu,Chih-Hao Chang,Mechanical Engineering (Cockrell),https://www.me.utexas.edu/people/faculty-directory
+mnr@austin.utexas.edu,M. Nichole Rylander,Mechanical Engineering (Cockrell),https://www.me.utexas.edu/people/faculty-directory
+tjconn@austin.utexas.edu,Tom Connolly,Mechanical Engineering (Cockrell),https://www.me.utexas.edu/people/faculty-directory
+dekovar@austin.utexas.edu,Desiderio Kovar,Mechanical Engineering (Cockrell),https://www.me.utexas.edu/people/faculty-directory
+amarras@utexas.edu,Alexander Marras,Mechanical Engineering (Cockrell),https://www.me.utexas.edu/people/faculty-directory
+hairong.wang@austin.utexas.edu,Hairong Wang,Mechanical Engineering (Cockrell),https://www.me.utexas.edu/people/faculty-directory
+farshid.alambeigi@austin.utexas.edu,Farshid Alambeigi,Mechanical Engineering (Cockrell),https://www.me.utexas.edu/people/faculty-directory
+zhantao@austin.utexas.edu,Zhantao Chen,Mechanical Engineering (Cockrell),https://www.me.utexas.edu/people/faculty-directory
+erhank@mail.utexas.edu,Erhan Kutanoglu,Mechanical Engineering (Cockrell),https://www.me.utexas.edu/people/faculty-directory
+yaguo.wang@austin.utexas.edu,Yaguo Wang,Mechanical Engineering (Cockrell),https://www.me.utexas.edu/people/faculty-directory
+yuanyue.liu@austin.utexas.edu,Yuanyue Liu,Mechanical Engineering (Cockrell),https://www.me.utexas.edu/people/faculty-directory
+omar@ices.utexas.edu,Omar Ghattas,Mechanical Engineering (Cockrell),https://www.me.utexas.edu/people/faculty-directory
+zsha@austin.utexas.edu,Zhenghui Sha,Mechanical Engineering (Cockrell),https://www.me.utexas.edu/people/faculty-directory
+rmoser@mail.utexas.edu,Robert Moser,Mechanical Engineering (Cockrell),https://www.me.utexas.edu/people/faculty-directory
+taleff@mail.utexas.edu,Eric Taleff,Mechanical Engineering (Cockrell),https://www.me.utexas.edu/people/faculty-directory
+todd.cooley@austin.utexas.edu,Todd Cooley,Mechanical Engineering (Cockrell),https://www.me.utexas.edu/people/staff-directory
+webteam@bme.utexas.edu,,Biomedical Engineering (Cockrell),https://www.bme.utexas.edu/people/graduate-students
+bme-fellowships@utexas.edu,STAFF EMAIL DIRECTORY,Biomedical Engineering (Cockrell),https://www.bme.utexas.edu/people/directory
+randall.lopez@austin.utexas.edu,Laura Jefferies,Biomedical Engineering (Cockrell),https://www.bme.utexas.edu/people/directory
+bme-building-reservations@utexas.edu,SHARED RESOURCES EMAIL DIRECTORY,Biomedical Engineering (Cockrell),https://www.bme.utexas.edu/people/directory
+bme-travel-entertainment@utexas.edu,Research grant and faculty endowment account needs,Biomedical Engineering (Cockrell),https://www.bme.utexas.edu/people/directory
+tondalaya.mitchell@austin.utexas.edu,Senior Academic Advisor,Biomedical Engineering (Cockrell),https://www.bme.utexas.edu/people/directory
+dennis.campa@austin.utexas.edu,Name,Biomedical Engineering (Cockrell),https://www.bme.utexas.edu/people/directory
+carlos.alonso@utexas.edu,STAFF EMAIL DIRECTORY,Biomedical Engineering (Cockrell),https://www.bme.utexas.edu/people/directory
+bme-hr@utexas.edu,Inquiries regarding room reservations in BME,Biomedical Engineering (Cockrell),https://www.bme.utexas.edu/people/directory
+c.dawkins@austin.utexas.edu,Dennis Campa,Biomedical Engineering (Cockrell),https://www.bme.utexas.edu/people/directory
+trecs-help@austin.utexas.edu,Accounts Payable Coordinator,Biomedical Engineering (Cockrell),https://www.bme.utexas.edu/people/directory
+george.mcsweeney@austin.utexas.edu,Jenny Kondo,Biomedical Engineering (Cockrell),https://www.bme.utexas.edu/people/directory
+bme-purchasing@utexas.edu,BME Human Resources,Biomedical Engineering (Cockrell),https://www.bme.utexas.edu/people/directory
+bme-ap@utexas.edu,BME Accounts Payable,Biomedical Engineering (Cockrell),https://www.bme.utexas.edu/people/directory
+bme-building-management@utexas.edu,STAFF EMAIL DIRECTORY,Biomedical Engineering (Cockrell),https://www.bme.utexas.edu/people/directory
+bme-faculty-accounts@utexas.edu,BME Communications,Biomedical Engineering (Cockrell),https://www.bme.utexas.edu/people/directory
+eric.zilligen@austin.utexas.edu,Brittain Sobey,Biomedical Engineering (Cockrell),https://www.bme.utexas.edu/people/directory
+victoriacarter@austin.utexas.edu,Carlos Alonso,Biomedical Engineering (Cockrell),https://www.bme.utexas.edu/people/directory
+samantha.deskins@austin.utexas.edu,Victoria Carter,Biomedical Engineering (Cockrell),https://www.bme.utexas.edu/people/directory
+jenny.kondo@austin.utexas.edu,Samantha Deskins,Biomedical Engineering (Cockrell),https://www.bme.utexas.edu/people/directory
+bme-events@utexas.edu,BME Accounts Payable,Biomedical Engineering (Cockrell),https://www.bme.utexas.edu/people/directory
+bme-comms@utexas.edu,SHARED RESOURCES EMAIL DIRECTORY,Biomedical Engineering (Cockrell),https://www.bme.utexas.edu/people/directory
+laura.jefferies@utexas.edu,Chase Dawkins,Biomedical Engineering (Cockrell),https://www.bme.utexas.edu/people/directory
+b.sobey@utexas.edu,Tonda Mitchell,Biomedical Engineering (Cockrell),https://www.bme.utexas.edu/people/directory
+evanwang@utexas.edu,,Biomedical Engineering (Cockrell),https://www.bme.utexas.edu/people/community-and-culture-committee
+cosgriff.hernandez@utexas.edu,Cosgriff Hernandez,Biomedical Engineering (Cockrell),https://www.bme.utexas.edu/people/community-and-culture-committee
+ggp443@my.utexas.edu,Staff and Student Committee Members,Biomedical Engineering (Cockrell),https://www.bme.utexas.edu/people/community-and-culture-committee
+katelyn.miller@utexas.edu,Katelyn Miller,Biomedical Engineering (Cockrell),https://www.bme.utexas.edu/people/community-and-culture-committee
+nuttada.panpradist@austin.utexas.edu,Nuttada Panpradist,Biomedical Engineering (Cockrell),https://www.bme.utexas.edu/people/community-and-culture-committee
+bv6222@my.utexas.edu,Staff and Student Committee Members,Biomedical Engineering (Cockrell),https://www.bme.utexas.edu/people/community-and-culture-committee
+mnbaker@utexas.edu,Staff and Student Committee Members,Biomedical Engineering (Cockrell),https://www.bme.utexas.edu/people/community-and-culture-committee
+adambush@utexas.edu,Faculty Committee Members,Biomedical Engineering (Cockrell),https://www.bme.utexas.edu/people/community-and-culture-committee
+alex.haynes@austin.utexas.edu,Alex Haynes,Biomedical Engineering (Cockrell),https://www.bme.utexas.edu/people/faculty-directory
+uvilla@austin.utexas.edu,Umberto Villa,Biomedical Engineering (Cockrell),https://www.bme.utexas.edu/people/faculty-directory
+qian.yin@austin.utexas.edu,Qian Yin,Biomedical Engineering (Cockrell),https://www.bme.utexas.edu/people/faculty-directory
+zjanet@austin.utexas.edu,Janet Zoldan,Biomedical Engineering (Cockrell),https://www.bme.utexas.edu/people/faculty-directory
+rylander@mail.utexas.edu,H. Grady Rylander III,Biomedical Engineering (Cockrell),https://www.bme.utexas.edu/people/faculty-directory
+manuel.rausch@utexas.edu,Manuel Rausch,Biomedical Engineering (Cockrell),https://www.bme.utexas.edu/people/faculty-directory
+gg@che.utexas.edu,George Georgiou,Biomedical Engineering (Cockrell),https://www.bme.utexas.edu/people/faculty-directory
+linda.noble@austin.utexas.edu,Linda Noble-Haeusslein,Biomedical Engineering (Cockrell),https://www.bme.utexas.edu/people/faculty-directory
+lief.fenno@austin.utexas.edu,Lief Fenno,Biomedical Engineering (Cockrell),https://www.bme.utexas.edu/people/faculty-directory
+theodore.ho@austin.utexas.edu,Theodore T. Ho,Biomedical Engineering (Cockrell),https://www.bme.utexas.edu/people/faculty-directory
+nuttadap@utexas.edu,Nuttada Panpradist,Biomedical Engineering (Cockrell),https://www.bme.utexas.edu/people/faculty-directory
+pren@mail.utexas.edu,Pengyu Ren,Biomedical Engineering (Cockrell),https://www.bme.utexas.edu/people/faculty-directory
+seidlits@utexas.edu,Stephanie Seidlits,Biomedical Engineering (Cockrell),https://www.bme.utexas.edu/people/faculty-directory
+jcstach@austin.utexas.edu,Jeanne Stachowiak,Biomedical Engineering (Cockrell),https://www.bme.utexas.edu/people/faculty-directory
+laura.suggs@mail.utexas.edu,Laura Suggs,Biomedical Engineering (Cockrell),https://www.bme.utexas.edu/people/faculty-directory
+danpuperi@utexas.edu,Dan Puperi,Biomedical Engineering (Cockrell),https://www.bme.utexas.edu/people/faculty-directory
+mia.markey@utexas.edu,Mia K. Markey,Biomedical Engineering (Cockrell),https://www.bme.utexas.edu/people/faculty-directory
+tim.yeh@austin.utexas.edu,Tim Yeh,Biomedical Engineering (Cockrell),https://www.bme.utexas.edu/people/faculty-directory
+abbaker@austin.utexas.edu,Aaron Baker,Biomedical Engineering (Cockrell),https://www.bme.utexas.edu/people/faculty-directory
+kdiller@mail.utexas.edu,Kenneth Diller,Biomedical Engineering (Cockrell),https://www.bme.utexas.edu/people/faculty-directory
+maynard@che.utexas.edu,Jennifer Maynard,Biomedical Engineering (Cockrell),https://www.bme.utexas.edu/people/faculty-directory
+msacks@oden.utexas.edu,Michael S. Sacks,Biomedical Engineering (Cockrell),https://www.bme.utexas.edu/people/faculty-directory
+amy.brock@utexas.edu,Amy Brock,Biomedical Engineering (Cockrell),https://www.bme.utexas.edu/people/faculty-directory
+tmp6@utexas.edu,Tyrone Porter,Biomedical Engineering (Cockrell),https://www.bme.utexas.edu/people/faculty-directory
+taylorca@utexas.edu,Charles Taylor,Biomedical Engineering (Cockrell),https://www.bme.utexas.edu/people/faculty-directory
+kristen.adams@austin.utexas.edu,Kristen Adams,Biomedical Engineering (Cockrell),https://www.bme.utexas.edu/people/faculty-directory
+sparekh@utexas.edu,Sapun Parekh,Biomedical Engineering (Cockrell),https://www.bme.utexas.edu/people/faculty-directory
+peppas@che.utexas.edu,Nicholas A. Peppas,Biomedical Engineering (Cockrell),https://www.bme.utexas.edu/people/faculty-directory
+sabrams@austin.utexas.edu,Steven Abrams,Biomedical Engineering (Cockrell),https://www.bme.utexas.edu/people/faculty-directory
+edward.castillo@utexas.edu,Edward Castillo,Biomedical Engineering (Cockrell),https://www.bme.utexas.edu/people/faculty-directory
+thomas.yankeelov@utexas.edu,Thomas Yankeelov,Biomedical Engineering (Cockrell),https://www.bme.utexas.edu/people/faculty-directory
+ase-web@utexas.edu,,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/graduate-students
+traci@utexas.edu,Chad Landis,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/department-leadership
+mark.m@utexas.edu,Mark Maughmer II,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/staff-directory
+andrea.tinning@utexas.edu,Andrea Tinning,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/staff-directory
+jesse@utexas.edu,William Jesse James,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/staff-directory
+receiving@ae.utexas.edu,Devynn Alvarado,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/staff-directory
+r.babcock@austin.utexas.edu,Renee Babcock,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/staff-directory
+rpesquivel@austin.utexas.edu,Rosina Esquivel,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/staff-directory
+rafael.alvarez@utexas.edu,Rafael Alvarez,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/staff-directory
+salamanca@utexas.edu,Karla Salamanca,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/staff-directory
+j.pokluda@austin.utexas.edu,Joseph Pokluda,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/staff-directory
+tov@utexas.edu,Tamara Ospina-Vega,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/staff-directory
+chante@utexas.edu,Chante Moreland,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/staff-directory
+jags@mail.utexas.edu,Jeremy Jagodzinski,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/staff-directory
+clifford.bibbs@utexas.edu,Clifford Bibbs,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/staff-directory
+holly.bhasin@austin.utexas.edu,Holly Bhasin,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/staff-directory
+kenneth.thomas@utexas.edu,Kenneth Thomas,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/staff-directory
+stephanie.berry@utexas.edu,Stephanie Berry,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/staff-directory
+messec@mail.utexas.edu,Scott Messec,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/staff-directory
+yasmin@utexas.edu,Yasmin Deosaran Welch,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/staff-directory
+brooks.ford@utexas.edu,Brooks Ford,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/staff-directory
+makella@mail.utexas.edu,Maruthi R. Akella,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/faculty
+tanbui@oden.utexas.edu,Tan Bui-Thanh,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/faculty
+bakolas@austin.utexas.edu,Efstathios Bakolas,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/faculty
+skk@mail.utexas.edu,Stelios Kyriakides,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/faculty
+jin.yang@austin.utexas.edu,Jin Yang,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/faculty
+brandon.jones@utexas.edu,Brandon Jones,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/faculty
+adamnokes@utexas.edu,Adam Nokes,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/faculty
+wallace.fowler@austin.utexas.edu,Wallace T. Fowler,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/faculty
+mear@mail.utexas.edu,Mark E. Mear,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/faculty
+johnpaul@utexas.edu,John-Paul Clarke,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/faculty
+fbisetti@utexas.edu,Fabrizio Bisetti,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/faculty
+ryan.russell@austin.utexas.edu,Ryan Russell,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/faculty
+landis@utexas.edu,Chad M. Landis,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/faculty
+clemens@mail.utexas.edu,Noel T. Clemens,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/faculty
+kwillcox@oden.utexas.edu,Karen E. Willcox,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/faculty
+david@oden.utexas.edu,,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/faculty
+hughes@oden.utexas.edu,Thomas J. Hughes,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/faculty
+jesse.chan@oden.utexas.edu,Jesse Chan,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/faculty
+moriba@utexas.edu,Moriba K. Jah,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/faculty
+srinivas@csr.utexas.edu,Srinivas V. Bettadpur,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/faculty
+hannah.lu@austin.utexas.edu,Hannah Lu,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/faculty
+lraja@mail.utexas.edu,Laxminarayan L. Raja,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/faculty
+lsentis@austin.utexas.edu,Luis Sentis,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/faculty
+ltp@utexas.edu,Luke Peterson,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/faculty
+kevin.sagis@austin.utexas.edu,Kevin Sagis,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/faculty
+jingyi.ann.chen@utexas.edu,Mr. N. Doug Williams Memorial Centennial Fellowship,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/faculty
+dfk@utexas.edu,David Fridovich-Keil,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/faculty
+sirohi@utexas.edu,Jayant Sirohi,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/faculty
+clint.dawson@austin.utexas.edu,Clint N. Dawson,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/faculty
+renato@utexas.edu,Renato Zanetti,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/faculty
+jfoster@austin.utexas.edu,John Foster,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/faculty
+thinhdoan@utexas.edu,Thinh Doan,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/faculty
+leszek@oden.utexas.edu,Leszek F. Demkowicz,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/faculty
+mstern@mail.utexas.edu,Morris Stern,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/faculty
+mfw@oden.utexas.edu,Mary F. Wheeler,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/faculty
+bennighof@mail.utexas.edu,Jeffrey K. Bennighof,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/faculty
+jan.fuhg@utexas.edu,Jan Fuhg,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/faculty
+gjr@oden.utexas.edu,Gregory J. Rodin,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/faculty
+ravi@utexas.edu,K. Ravi-Chandar,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/faculty
+ruihuang@mail.utexas.edu,Rui Huang,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/faculty
+kml@mail.utexas.edu,Kenneth M. Liechti,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/faculty
+abedford@mail.utexas.edu,Anthony Bedford,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/faculty
+varghese@mail.utexas.edu,Philip L. Varghese,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/faculty
+nnelsen@oden.utexas.edu,Nicholas H. Nelsen,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/faculty
+raghavmahalingam@austin.utexas.edu,Raghav Mahalingam,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/faculty
+lori.magruder@austin.utexas.edu,Lori Magruder,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/faculty
+tapley@csr.utexas.edu,Byron D. Tapley,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/faculty
+ethan.burnett@utexas.edu,Ethan Burnett,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/faculty
+dghull@mail.utexas.edu,David Hull,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/faculty
+thomas.underwood@utexas.edu,Thomas Underwood,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/faculty
+greg.zwernemann@austin.utexas.edu,Greg Zwernemann,Aerospace Engineering (Cockrell),https://www.ae.utexas.edu/people/faculty
+webupdates@che.utexas.edu,,Chemical Engineering (Cockrell),https://che.utexas.edu/people/graduate-students
+512-475-7842allen@che.utexas.edu,,Chemical Engineering (Cockrell),https://che.utexas.edu/people/department-leadership
+keitz@utexas.edu,Undergraduate Advisor,Chemical Engineering (Cockrell),https://che.utexas.edu/people/department-leadership
+bfloyd@che.utexas.edu,,Chemical Engineering (Cockrell),https://che.utexas.edu/people/staff
+bfris@che.utexas.edu,,Chemical Engineering (Cockrell),https://che.utexas.edu/people/staff
+swinnea@che.utexas.edu,J. Steven Swinnea,Chemical Engineering (Cockrell),https://che.utexas.edu/people/faculty
+venkat@che.utexas.edu,Venkat Ganesan,Chemical Engineering (Cockrell),https://che.utexas.edu/people/faculty
+yi.lu@utexas.edu,Yi Lu,Chemical Engineering (Cockrell),https://che.utexas.edu/people/faculty
+resasco@utexas.edu,Joaquin Resasco,Chemical Engineering (Cockrell),https://che.utexas.edu/people/faculty
+tbadgwell@che.utexas.edu,Thomas Badgwell,Chemical Engineering (Cockrell),https://che.utexas.edu/people/faculty
+markst@che.utexas.edu,Mark A. Stadtherr,Chemical Engineering (Cockrell),https://che.utexas.edu/people/faculty
+carlos@che.utexas.edu,Carlos Landaverde-Alvarado,Chemical Engineering (Cockrell),https://che.utexas.edu/people/faculty
+mullins@che.utexas.edu,C. Buddie Mullins,Chemical Engineering (Cockrell),https://che.utexas.edu/people/faculty
+dtd@che.utexas.edu,David T. Dalle Molle,Chemical Engineering (Cockrell),https://che.utexas.edu/people/faculty
+sanchez@che.utexas.edu,Isaac Sanchez,Chemical Engineering (Cockrell),https://che.utexas.edu/people/faculty
+manish.kumar@utexas.edu,Manish Kumar,Chemical Engineering (Cockrell),https://che.utexas.edu/people/faculty
+mbaldea@che.utexas.edu,Michael Baldea,Chemical Engineering (Cockrell),https://che.utexas.edu/people/faculty
+rdunia@che.utexas.edu,Ricardo Dunia,Chemical Engineering (Cockrell),https://che.utexas.edu/people/faculty
+zpage@cm.utexas.edu,Zachariah A. Page,Chemical Engineering (Cockrell),https://che.utexas.edu/people/faculty
+lynd@che.utexas.edu,Nathaniel Lynd,Chemical Engineering (Cockrell),https://che.utexas.edu/people/faculty
+lhr@che.utexas.edu,Lea Hildebrandt Ruiz,Chemical Engineering (Cockrell),https://che.utexas.edu/people/faculty
+gshwang@che.utexas.edu,Gyeong Hwang,Chemical Engineering (Cockrell),https://che.utexas.edu/people/faculty
+edgar@mail.utexas.edu,Thomas Edgar,Chemical Engineering (Cockrell),https://che.utexas.edu/people/faculty
+freeman@che.utexas.edu,Benny Freeman,Chemical Engineering (Cockrell),https://che.utexas.edu/people/faculty
+korgel@che.utexas.edu,Brian Korgel,Chemical Engineering (Cockrell),https://che.utexas.edu/people/faculty
+etullos@che.utexas.edu,Erin Tullos,Chemical Engineering (Cockrell),https://che.utexas.edu/people/faculty
+ilias.mitrai@austin.utexas.edu,Ilias Mitrai,Chemical Engineering (Cockrell),https://che.utexas.edu/people/faculty
+wwwennie@austin.utexas.edu,Wennie Wang,Chemical Engineering (Cockrell),https://che.utexas.edu/people/faculty
+fbeach@energy.utexas.edu,Fred Beach,Chemical Engineering (Cockrell),https://che.utexas.edu/people/faculty
+jruiz@che.utexas.edu,Juan Ruiz,Chemical Engineering (Cockrell),https://che.utexas.edu/people/faculty
+rochelle@che.utexas.edu,Gary Rochelle,Chemical Engineering (Cockrell),https://che.utexas.edu/people/faculty
+msharma@mail.utexas.edu,Mukul Sharma,Chemical Engineering (Cockrell),https://che.utexas.edu/people/faculty
+rtb@che.utexas.edu,Roger Bonnecaze,Chemical Engineering (Cockrell),https://che.utexas.edu/people/faculty
+bdb@che.utexas.edu,Brian Belardi,Chemical Engineering (Cockrell),https://che.utexas.edu/people/faculty
+jlavinder@utexas.edu,Jason Lavinder,Chemical Engineering (Cockrell),https://che.utexas.edu/people/faculty
+willson@che.utexas.edu,C. Grant Willson,Chemical Engineering (Cockrell),https://che.utexas.edu/people/faculty
+drp@che.utexas.edu,Donald Paul,Chemical Engineering (Cockrell),https://che.utexas.edu/people/faculty
+lcontrer@che.utexas.edu,Lydia Contreras,Chemical Engineering (Cockrell),https://che.utexas.edu/people/faculty
+lloyd@che.utexas.edu,Douglas R. Lloyd,Chemical Engineering (Cockrell),https://che.utexas.edu/people/faculty
+cmei@che.utexas.edu,Christine Mei,Chemical Engineering (Cockrell),https://che.utexas.edu/people/faculty
+ekerdt@utexas.edu,John Ekerdt,Chemical Engineering (Cockrell),https://che.utexas.edu/people/faculty
+nguyen@che.utexas.edu,Annalee Nguyen,Chemical Engineering (Cockrell),https://che.utexas.edu/people/faculty
+hchamoun@che.utexas.edu,Habib Chamoun,Chemical Engineering (Cockrell),https://che.utexas.edu/people/faculty
+halper@che.utexas.edu,Hal Alper,Chemical Engineering (Cockrell),https://che.utexas.edu/people/faculty
+arosales@che.utexas.edu,Adrianne Rosales,Chemical Engineering (Cockrell),https://che.utexas.edu/people/faculty
+tedison@che.utexas.edu,Thomas A. Edison,Chemical Engineering (Cockrell),https://che.utexas.edu/people/faculty
+gesanoja@che.utexas.edu,Gabriel Sanoja,Chemical Engineering (Cockrell),https://che.utexas.edu/people/faculty
+kentz@utexas.edu,Kent Zheng,Chemical Engineering (Cockrell),https://che.utexas.edu/people/faculty
+jfb@che.utexas.edu,Joan Brennecke,Chemical Engineering (Cockrell),https://che.utexas.edu/people/faculty
+whoward@che.utexas.edu,William Howard,Chemical Engineering (Cockrell),https://che.utexas.edu/people/faculty
+allen@che.utexas.edu,David Allen,Chemical Engineering (Cockrell),https://che.utexas.edu/people/faculty
+kpj@che.utexas.edu,Keith Johnston,Chemical Engineering (Cockrell),https://che.utexas.edu/people/faculty
+jrc@ices.utexas.edu,James Chelikowsky,Chemical Engineering (Cockrell),https://che.utexas.edu/people/faculty
+asahu@che.utexas.edu,Amaresh Sahu,Chemical Engineering (Cockrell),https://che.utexas.edu/people/faculty
+msb-cgb@mccombs.utexas.edu,,McCombs Business School (PhD),https://www.mccombs.utexas.edu/phd/students/
+entminor@utexas.edu,I'm a graduating senior. Can I expedite adding the,McCombs Business School (PhD),https://www.mccombs.utexas.edu/phd/current-students/
+barbara.a@mail.utexas.edu,Barbara Anderson,School of Social Work,https://socialwork.utexas.edu/directory/
+akram.alturk@austin.utexas.edu,Research Associate,School of Social Work,https://socialwork.utexas.edu/directory/
+alejandra.moreno@austin.utexas.edu,Alejandra Moreno,School of Social Work,https://socialwork.utexas.edu/directory/
+peter.arellano@austin.utexas.edu,Peter Arellano,School of Social Work,https://socialwork.utexas.edu/directory/
+rarocket@eid.utexas.edu,Assistant Professor of Instruction,School of Social Work,https://socialwork.utexas.edu/directory/
+marmour@utexas.edu,Emeritus Professor and University Distinguished Tea,School of Social Work,https://socialwork.utexas.edu/directory/
+jess.ambiee@austin.utexas.edu,Assistant Professor of Practice,School of Social Work,https://socialwork.utexas.edu/directory/
+alyssa.aguirre@austin.utexas.edu,Alyssa Aguirre,School of Social Work,https://socialwork.utexas.edu/directory/
+jasseff@utexas.edu,,School of Social Work,https://socialwork.utexas.edu/directory/page/2/
+jennifer.baranprall@austin.utexas.edu,Jennifer Baranprall,School of Social Work,https://socialwork.utexas.edu/directory/page/2/
+christopher.ayala@austin.utexas.edu,Christopher Ayala,School of Social Work,https://socialwork.utexas.edu/directory/page/2/
+flor.avellaneda@austin.utexas.edu,Postdoctoral Fellow,School of Social Work,https://socialwork.utexas.edu/directory/page/2/
+susanal@mail.utexas.edu,Co-Principal Investigator,School of Social Work,https://socialwork.utexas.edu/directory/page/2/
+jenny.baldwin@austin.utexas.edu,Jenny Baldwin,School of Social Work,https://socialwork.utexas.edu/directory/page/2/
+j.banister@austin.utexas.edu,,School of Social Work,https://socialwork.utexas.edu/directory/page/2/
+barbara.ball@austin.utexas.edu,Research Scientist,School of Social Work,https://socialwork.utexas.edu/directory/page/2/
+galvarado@austin.utexas.edu,Contact Information,College of Pharmacy,https://pharmacy.utexas.edu/directory/guillermo-alvarado
+jeffbecker@austin.utexas.edu,Contact Information,College of Pharmacy,https://pharmacy.utexas.edu/directory/jeff-becker
+antonlv@austin.utexas.edu,Contact Information,College of Pharmacy,https://pharmacy.utexas.edu/directory/anton-avancena
+jessica.bloodgood@austin.utexas.edu,Contact Information,College of Pharmacy,https://pharmacy.utexas.edu/directory/jessica-bloodgood
+jbosworth@austin.utexas.edu,Contact Information,College of Pharmacy,https://pharmacy.utexas.edu/directory/jennifer-bosworth
+brian.becker@austin.utexas.edu,Contact Information,College of Pharmacy,https://pharmacy.utexas.edu/directory/brian-becker
+cene.abroms@austin.utexas.edu,Contact Information,College of Pharmacy,https://pharmacy.utexas.edu/directory/cene-abroms
+mirnab@austin.utexas.edu,Contact Information,College of Pharmacy,https://pharmacy.utexas.edu/directory/mirna-benhamou
+latresa.billings@austin.utexas.edu,Contact Information,College of Pharmacy,https://pharmacy.utexas.edu/directory/latresa-billings
+renee.acosta@austin.utexas.edu,Contact Information,College of Pharmacy,https://pharmacy.utexas.edu/directory/renee-acosta
+jbarner@austin.utexas.edu,Contact Information,College of Pharmacy,https://pharmacy.utexas.edu/directory/jamie-barner
+s.bendele@austin.utexas.edu,Contact Information,College of Pharmacy,https://pharmacy.utexas.edu/directory/sherrie-bendele
+iris.bae@austin.utexas.edu,Contact Information,College of Pharmacy,https://pharmacy.utexas.edu/directory/iris-bae
+rucha.bond@austin.utexas.edu,Contact Information,College of Pharmacy,https://pharmacy.utexas.edu/directory/rucha-bond
+cmbrown@austin.utexas.edu,Contact Information,College of Pharmacy,https://pharmacy.utexas.edu/directory/carolyn-brown
+miroslav.barylskiy@austin.utexas.edu,Contact Information,College of Pharmacy,https://pharmacy.utexas.edu/directory/slava-barylskiy
+gbaumgart@austin.utexas.edu,Contact Information,College of Pharmacy,https://pharmacy.utexas.edu/directory/glen-baumgart
+tickets@athletics.utexas.edu,,Longhorns Athletics,https://texassports.com/staff-directory
+texasmbb@athletics.utexas.edu,,Longhorns Athletics - Basketball,https://texassports.com/sports/mens-basketball/coaches
+blair.schaefer@athletics.utexas.edu,Blair Schaefer,Longhorns Athletics - Basketball,https://texassports.com/sports/womens-basketball/coaches
+lindsaywh@utexas.edu,,Longhorns Athletics - Basketball,https://texassports.com/sports/womens-basketball/coaches
+elena.lovato@athletics.utexas.edu,Elena Lovato,Longhorns Athletics - Basketball,https://texassports.com/sports/womens-basketball/coaches
+tory.teykl@athletics.utexas.edu,Tory Teykl,Longhorns Athletics - Basketball,https://texassports.com/sports/womens-basketball/coaches
+jeremy.rosenthal@athletics.utexas.edu,Jeremy Rosenthal,Longhorns Athletics - Basketball,https://texassports.com/sports/womens-basketball/coaches
+connor.hixon@athletics.utexas.edu,Connor Hixon,Longhorns Athletics - Basketball,https://texassports.com/sports/womens-basketball/coaches
+erikapernis@utexas.edu,,The Daily Texan (Student Newspaper),https://thedailytexan.com/contact/
+comm@engr.utexas.edu,,Cockrell School of Engineering,https://cockrell.utexas.edu/
+cola-web-support@utlists.utexas.edu,,College of Liberal Arts,https://liberalarts.utexas.edu/

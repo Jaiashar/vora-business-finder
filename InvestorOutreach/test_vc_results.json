@@ -1,0 +1,698 @@
+{
+  "a16z (Andreessen Horowitz)": {
+    "emails": [
+      "sbehrouzan@a16z.com",
+      "jquinlan@a16z.com"
+    ],
+    "email_names": {},
+    "people": [],
+    "url_results": [
+      {
+        "url": "https://a16z.com/about/",
+        "status": 200,
+        "page_size": 104361,
+        "emails_found": 0
+      },
+      {
+        "url": "https://a16z.com/team/",
+        "status": 200,
+        "page_size": 9050853,
+        "emails_found": 2
+      }
+    ]
+  },
+  "Y Combinator": {
+    "emails": [],
+    "email_names": {},
+    "people": [],
+    "url_results": [
+      {
+        "url": "https://www.ycombinator.com/people",
+        "status": 200,
+        "page_size": 143412,
+        "emails_found": 0
+      },
+      {
+        "url": "https://www.ycombinator.com/about",
+        "status": 200,
+        "page_size": 54942,
+        "emails_found": 0
+      }
+    ]
+  },
+  "Sequoia Capital": {
+    "emails": [],
+    "email_names": {},
+    "people": [
+      {
+        "name": "Bogomil BalkanskySeed/Early",
+        "title": ""
+      }
+    ],
+    "url_results": [
+      {
+        "url": "https://www.sequoiacap.com/our-team/",
+        "status": 200,
+        "page_size": 76374,
+        "emails_found": 0
+      },
+      {
+        "url": "https://www.sequoiacap.com/people/",
+        "status": 200,
+        "page_size": 76432,
+        "emails_found": 0
+      }
+    ]
+  },
+  "First Round Capital": {
+    "emails": [],
+    "email_names": {},
+    "people": [],
+    "url_results": [
+      {
+        "url": "https://firstround.com/team/",
+        "status": 200,
+        "page_size": 230328,
+        "emails_found": 0
+      },
+      {
+        "url": "https://firstround.com/about/",
+        "status": 404,
+        "page_size": 29020,
+        "emails_found": 0
+      }
+    ]
+  },
+  "Greylock Partners": {
+    "emails": [],
+    "email_names": {},
+    "people": [
+      {
+        "name": "InvestorsSELECT",
+        "title": ""
+      },
+      {
+        "name": "Dan Gregory",
+        "title": "Dan Gregory"
+      },
+      {
+        "name": "Charlie Waite",
+        "title": "Charlie Waite"
+      },
+      {
+        "name": "Bill Elfers",
+        "title": "Bill Elfers"
+      },
+      {
+        "name": "Roger Evans",
+        "title": "Roger Evans"
+      },
+      {
+        "name": "Howard Cox",
+        "title": "Howard Cox"
+      },
+      {
+        "name": "Henry McCance",
+        "title": "Henry McCance"
+      },
+      {
+        "name": "Bob Henderson",
+        "title": "Bob Henderson"
+      },
+      {
+        "name": "Bill Kaiser",
+        "title": "Bill Kaiser"
+      },
+      {
+        "name": "Dave Strohm",
+        "title": "Dave Strohm"
+      }
+    ],
+    "url_results": [
+      {
+        "url": "https://greylock.com/team/",
+        "status": 200,
+        "page_size": 154202,
+        "emails_found": 0
+      },
+      {
+        "url": "https://greylock.com/about/",
+        "status": 200,
+        "page_size": 68287,
+        "emails_found": 0
+      }
+    ]
+  },
+  "Founders Fund": {
+    "emails": [],
+    "email_names": {},
+    "people": [],
+    "url_results": [
+      {
+        "url": "https://foundersfund.com/team/",
+        "status": 500,
+        "page_size": 10608,
+        "emails_found": 0
+      },
+      {
+        "url": "https://foundersfund.com/about/",
+        "status": 404,
+        "page_size": 20052,
+        "emails_found": 0
+      }
+    ]
+  },
+  "Lightspeed Venture Partners": {
+    "emails": [],
+    "email_names": {},
+    "people": [
+      {
+        "name": "aiBejul SomaiaPartner                                 // US",
+        "title": ""
+      },
+      {
+        "name": "Show LSIP personnel",
+        "title": ""
+      }
+    ],
+    "url_results": [
+      {
+        "url": "https://lsvp.com/team/",
+        "status": 200,
+        "page_size": 145776,
+        "emails_found": 0
+      },
+      {
+        "url": "https://lsvp.com/people/",
+        "status": 404,
+        "page_size": 20945,
+        "emails_found": 0
+      }
+    ]
+  },
+  "Bessemer Venture Partners": {
+    "emails": [],
+    "email_names": {},
+    "people": [],
+    "url_results": [
+      {
+        "url": "https://www.bvp.com/team",
+        "status": 200,
+        "page_size": 217802,
+        "emails_found": 0
+      },
+      {
+        "url": "https://www.bvp.com/people",
+        "status": 404,
+        "page_size": 31081,
+        "emails_found": 0
+      }
+    ]
+  },
+  "Khosla Ventures": {
+    "emails": [
+      "fundkv@khoslaventures.commedia",
+      "kv@khoslaventures.com",
+      "riggskv@khoslaventures.commedia"
+    ],
+    "email_names": {},
+    "people": [
+      {
+        "name": "David Weiden",
+        "title": ""
+      },
+      {
+        "name": "Keith Rabois",
+        "title": ""
+      },
+      {
+        "name": "Samir Kaul",
+        "title": ""
+      },
+      {
+        "name": "Sven Strohband",
+        "title": ""
+      },
+      {
+        "name": "Vinod Khosla",
+        "title": ""
+      },
+      {
+        "name": "Adina Tecklu",
+        "title": ""
+      },
+      {
+        "name": "Adrian Radu",
+        "title": ""
+      },
+      {
+        "name": "Alex Morgan",
+        "title": ""
+      },
+      {
+        "name": "Alice Brooks",
+        "title": ""
+      },
+      {
+        "name": "Ethan Choi",
+        "title": ""
+      },
+      {
+        "name": "Hari Arul",
+        "title": ""
+      },
+      {
+        "name": "Jai Sajnani",
+        "title": ""
+      },
+      {
+        "name": "Jessy Rivest",
+        "title": ""
+      },
+      {
+        "name": "Jon Chu",
+        "title": ""
+      },
+      {
+        "name": "Jun Jeon",
+        "title": ""
+      },
+      {
+        "name": "Kanu Gulati",
+        "title": ""
+      },
+      {
+        "name": "Katie Mishra",
+        "title": ""
+      },
+      {
+        "name": "Nicole Fraenkel",
+        "title": ""
+      },
+      {
+        "name": "Niko Ciminelli",
+        "title": ""
+      },
+      {
+        "name": "Rajesh Swaminathan",
+        "title": ""
+      }
+    ],
+    "url_results": [
+      {
+        "url": "https://www.khoslaventures.com/team/",
+        "status": 200,
+        "page_size": 61480,
+        "emails_found": 2
+      },
+      {
+        "url": "https://www.khoslaventures.com/about/",
+        "status": 200,
+        "page_size": 28213,
+        "emails_found": 2
+      }
+    ]
+  },
+  "Accel": {
+    "emails": [],
+    "email_names": {},
+    "people": [
+      {
+        "name": "Global",
+        "title": ""
+      },
+      {
+        "name": "Casey Aylward",
+        "title": ""
+      },
+      {
+        "name": "Mahendran Balachandran",
+        "title": ""
+      },
+      {
+        "name": "Luca Bocchio",
+        "title": ""
+      },
+      {
+        "name": "Philippe Botteri",
+        "title": ""
+      },
+      {
+        "name": "Andrew Braccia",
+        "title": ""
+      },
+      {
+        "name": "Andrei Brasoveanu",
+        "title": ""
+      },
+      {
+        "name": "Abhinav Chaturvedi",
+        "title": ""
+      },
+      {
+        "name": "Miles Clements",
+        "title": ""
+      },
+      {
+        "name": "Kevin Comolli",
+        "title": ""
+      },
+      {
+        "name": "Anand Daniel",
+        "title": ""
+      },
+      {
+        "name": "Sonali De Rycker",
+        "title": ""
+      },
+      {
+        "name": "Christine Esserman",
+        "title": ""
+      },
+      {
+        "name": "Ben Fletcher",
+        "title": ""
+      },
+      {
+        "name": "Sameer Gandhi",
+        "title": ""
+      },
+      {
+        "name": "Sara Ittelson",
+        "title": ""
+      },
+      {
+        "name": "Dinesh Katiyar",
+        "title": ""
+      },
+      {
+        "name": "Shekhar Kirani",
+        "title": ""
+      },
+      {
+        "name": "Amit Kumar",
+        "title": ""
+      },
+      {
+        "name": "Daniel Levine",
+        "title": ""
+      }
+    ],
+    "url_results": [
+      {
+        "url": "https://www.accel.com/team",
+        "status": 200,
+        "page_size": 622921,
+        "emails_found": 0
+      },
+      {
+        "url": "https://www.accel.com/people",
+        "status": 200,
+        "page_size": 622921,
+        "emails_found": 0
+      }
+    ]
+  },
+  "NEA": {
+    "emails": [],
+    "email_names": {},
+    "people": [
+      {
+        "name": "Scott SandellExecutive Chairman & Chief Investment Officer",
+        "title": "Executive Chairman & Chief Investment Officer"
+      },
+      {
+        "name": "Explore the latest Insights from our TeamView Insights",
+        "title": "Partner, Head of Asia"
+      },
+      {
+        "name": "Explore the latest Insights from our Team",
+        "title": ""
+      },
+      {
+        "name": "View Insights",
+        "title": ""
+      },
+      {
+        "name": "Alex SharataPartner",
+        "title": "Partner"
+      }
+    ],
+    "url_results": [
+      {
+        "url": "https://www.nea.com/team",
+        "status": 200,
+        "page_size": 254389,
+        "emails_found": 0
+      },
+      {
+        "url": "https://www.nea.com/people",
+        "status": 404,
+        "page_size": 28219,
+        "emails_found": 0
+      }
+    ]
+  },
+  "Initialized Capital": {
+    "emails": [],
+    "email_names": {},
+    "people": [
+      {
+        "name": "Abdul Ly",
+        "title": ""
+      },
+      {
+        "name": "Andrew Sather",
+        "title": ""
+      },
+      {
+        "name": "Becca Graff",
+        "title": ""
+      },
+      {
+        "name": "Brett Gibson",
+        "title": ""
+      },
+      {
+        "name": "Chi An",
+        "title": ""
+      },
+      {
+        "name": "Cyndi Reseburg",
+        "title": ""
+      },
+      {
+        "name": "Daniel Sherman",
+        "title": ""
+      },
+      {
+        "name": "Esaul Delgadillo",
+        "title": ""
+      },
+      {
+        "name": "Garry Tan",
+        "title": ""
+      },
+      {
+        "name": "Kim-Mai Cutler",
+        "title": ""
+      },
+      {
+        "name": "Livingston Miller",
+        "title": ""
+      },
+      {
+        "name": "Maeve Kelly Bodden",
+        "title": ""
+      },
+      {
+        "name": "Marinda  Luk",
+        "title": ""
+      },
+      {
+        "name": "Robert Lindsey",
+        "title": ""
+      },
+      {
+        "name": "Tiffany Foo",
+        "title": ""
+      },
+      {
+        "name": "Vivian Chaves",
+        "title": ""
+      },
+      {
+        "name": "Zoe Perret",
+        "title": ""
+      }
+    ],
+    "url_results": [
+      {
+        "url": "https://initialized.com/team",
+        "status": 200,
+        "page_size": 87135,
+        "emails_found": 0
+      },
+      {
+        "url": "https://initialized.com/about",
+        "status": 404,
+        "page_size": 22543,
+        "emails_found": 0
+      }
+    ]
+  },
+  "Craft Ventures": {
+    "emails": [],
+    "email_names": {},
+    "people": [
+      {
+        "name": "Investment team",
+        "title": "Partner"
+      },
+      {
+        "name": "Platform team",
+        "title": "Partner, Head of Platform Team"
+      },
+      {
+        "name": "Operations team",
+        "title": "Operating Partner, Chief of Staff to David Sacks"
+      },
+      {
+        "name": "Advisors",
+        "title": "Craft Advisory Board"
+      }
+    ],
+    "url_results": [
+      {
+        "url": "https://www.craftventures.com/team",
+        "status": 200,
+        "page_size": 41818,
+        "emails_found": 0
+      },
+      {
+        "url": "https://www.craftventures.com/about",
+        "status": 404,
+        "page_size": 906,
+        "emails_found": 0
+      }
+    ]
+  },
+  "Floodgate": {
+    "emails": [],
+    "email_names": {},
+    "people": [
+      {
+        "name": "Mike Maples, Jr.",
+        "title": ""
+      },
+      {
+        "name": "Ann Miura-Ko",
+        "title": ""
+      },
+      {
+        "name": "Iris Choi",
+        "title": ""
+      },
+      {
+        "name": "Mike Heller",
+        "title": ""
+      },
+      {
+        "name": "Lori Simotas",
+        "title": ""
+      },
+      {
+        "name": "Lisa Del Ben",
+        "title": ""
+      },
+      {
+        "name": "Sam Beskind",
+        "title": ""
+      },
+      {
+        "name": "Helen Moore",
+        "title": ""
+      }
+    ],
+    "url_results": [
+      {
+        "url": "https://floodgate.com/team/",
+        "status": 200,
+        "page_size": 23967,
+        "emails_found": 0
+      },
+      {
+        "url": "https://floodgate.com/about/",
+        "status": 404,
+        "page_size": 2934,
+        "emails_found": 0
+      }
+    ]
+  },
+  "Lux Capital": {
+    "emails": [
+      "comms@luxcapital.com"
+    ],
+    "email_names": {},
+    "people": [
+      {
+        "name": "our team",
+        "title": ""
+      },
+      {
+        "name": "Deena Shakir",
+        "title": ""
+      },
+      {
+        "name": "Meet the people behind lux",
+        "title": "Peter H\u00e9bertPartner and Co-FounderInvesting"
+      },
+      {
+        "name": "our advisors",
+        "title": ""
+      },
+      {
+        "name": "Thomas Reardon",
+        "title": ""
+      },
+      {
+        "name": "Brett McGurk",
+        "title": ""
+      },
+      {
+        "name": "Tony Thomas",
+        "title": ""
+      },
+      {
+        "name": "Ian Peikon",
+        "title": ""
+      },
+      {
+        "name": "Robert Paull",
+        "title": ""
+      },
+      {
+        "name": "Zack Schildhorn",
+        "title": ""
+      },
+      {
+        "name": "Tuvia Barak",
+        "title": ""
+      }
+    ],
+    "url_results": [
+      {
+        "url": "https://luxcapital.com/team/",
+        "status": 200,
+        "page_size": 132745,
+        "emails_found": 1
+      },
+      {
+        "url": "https://luxcapital.com/people/",
+        "status": 200,
+        "page_size": 132745,
+        "emails_found": 1
+      }
+    ]
+  }
+}

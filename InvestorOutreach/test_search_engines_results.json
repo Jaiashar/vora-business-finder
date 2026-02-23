@@ -1,0 +1,83 @@
+{
+  "duckduckgo": {
+    "site:linkedin.com/in \"7wireVentures\"": {
+      "status": 200,
+      "num_results": 0,
+      "linkedin_names": [],
+      "all_urls": []
+    },
+    "site:linkedin.com/in \"Rock Health\"": {
+      "status": 202,
+      "num_results": 0,
+      "linkedin_names": [],
+      "all_urls": []
+    },
+    "site:linkedin.com/in \"Khosla Ventures\"": {
+      "status": 202,
+      "num_results": 0,
+      "linkedin_names": [],
+      "all_urls": []
+    },
+    "site:linkedin.com/in \"General Catalyst\" partner": {
+      "status": 202,
+      "num_results": 0,
+      "linkedin_names": [],
+      "all_urls": []
+    },
+    "site:linkedin.com/in \"Founders Fund\"": {
+      "status": 202,
+      "num_results": 0,
+      "linkedin_names": [],
+      "all_urls": []
+    },
+    "angel investor \"health tech\" email contact": {
+      "status": 202,
+      "num_results": 0,
+      "emails": []
+    },
+    "\"angel investor\" \"pre-seed\" health wellness email": {
+      "status": 202,
+      "num_results": 0,
+      "emails": []
+    },
+    "\"digital health\" investor angel \"reach out\" email": {
+      "status": 202,
+      "num_results": 0,
+      "emails": []
+    },
+    "angel investor longevity wearable AI contact": {
+      "status": 202,
+      "num_results": 0,
+      "emails": []
+    }
+  },
+  "playwright_google": {
+    "site:linkedin.com/in \"7wireVentures\"": {
+      "status": 200,
+      "num_results": 0,
+      "linkedin_names": []
+    },
+    "site:linkedin.com/in \"Rock Health\"": {
+      "status": 200,
+      "num_results": 0,
+      "linkedin_names": []
+    },
+    "site:linkedin.com/in \"Khosla Ventures\"": {
+      "status": 200,
+      "num_results": 0,
+      "linkedin_names": []
+    },
+    "angel investor \"health tech\" email contact": {
+      "status": 200,
+      "num_results": 0,
+      "emails": [],
+      "urls": []
+    },
+    "\"angel investor\" \"pre-seed\" health wellness email": {
+      "status": 200,
+      "num_results": 0,
+      "emails": [],
+      "urls": []
+    }
+  }
+}

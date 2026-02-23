@@ -1,0 +1,56 @@
+{
+  "total_emails": 0,
+  "emails": [],
+  "query_results": {
+    "query_1": {
+      "query": "\"angel investor\" \"health tech\" email contact",
+      "urls": [],
+      "emails_found": []
+    },
+    "query_2": {
+      "query": "\"angel investor\" \"pre-seed\" \"@gmail.com\" health",
+      "urls": [],
+      "emails_found": []
+    },
+    "query_3": {
+      "query": "site:about.me angel investor health AI",
+      "urls": [],
+      "emails_found": []
+    },
+    "query_4": {
+      "query": "site:angel.co angel investor health wearable",
+      "urls": [],
+      "emails_found": []
+    },
+    "query_5": {
+      "query": "\"angel group\" OR \"angel network\" health tech members contact",
+      "urls": [],
+      "emails_found": []
+    },
+    "query_6": {
+      "query": "\"angel investor\" \"reach me at\" OR \"email me\" health AI",
+      "urls": [],
+      "emails_found": []
+    },
+    "query_7": {
+      "query": "\"health tech\" investor contact email pre-seed wearable",
+      "urls": [],
+      "emails_found": []
+    },
+    "query_8": {
+      "query": "angel investor \"digital health\" \"longevity\" email",
+      "urls": [],
+      "emails_found": []
+    },
+    "query_9": {
+      "query": "site:substack.com investor \"health tech\" contact",
+      "urls": [],
+      "emails_found": []
+    },
+    "query_10": {
+      "query": "\"invested in\" \"health\" \"wellness\" angel investor contact",
+      "urls": [],
+      "emails_found": []
+    }
+  }
+}

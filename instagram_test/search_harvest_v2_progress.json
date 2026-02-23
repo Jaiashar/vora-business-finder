@@ -1,0 +1,562 @@
+{
+ "_done_queries": [
+  "yoga practitioner Chicago email @gmail.com",
+  "boxing fitness Tucson email @gmail.com",
+  "yoga practitioner Portland email @gmail.com",
+  "trail runner San Diego email @gmail.com",
+  "marathon finisher Tucson email @gmail.com",
+  "ultra runner Atlanta email @gmail.com",
+  "swimmer Pittsburgh email @gmail.com",
+  "CrossFit member Scottsdale email @gmail.com",
+  "Zumba class Bend OR email @gmail.com",
+  "Spartan racer Minneapolis email @gmail.com",
+  "obstacle racer Ann Arbor email @gmail.com",
+  "suunto watch user email @gmail.com",
+  "apple watch fitness goals email",
+  "runner Boise email @gmail.com",
+  "Peloton rider Pittsburgh email @gmail.com",
+  "pilates student Los Angeles email @gmail.com",
+  "obstacle racer Miami email @gmail.com",
+  "hiker Columbus email @gmail.com",
+  "Zumba class Orlando email @gmail.com",
+  "strava cyclist email @gmail.com",
+  "new year fitness resolution email @gmail.com",
+  "rowing enthusiast San Diego email @gmail.com",
+  "10K runner Charlotte email @gmail.com",
+  "half marathon San Francisco email @gmail.com",
+  "kickboxing class Kansas City email @gmail.com",
+  "swimmer Houston email @gmail.com",
+  "hiker email @hotmail.com",
+  "swimmer Tucson email @gmail.com",
+  "kayaker fitness Boulder email @gmail.com",
+  "rock climber Chicago email @gmail.com",
+  "boxing fitness Asheville email @gmail.com",
+  "hiker Denver email @gmail.com",
+  "garmin watch runner email @gmail.com",
+  "Spartan racer Las Vegas email @gmail.com",
+  "hiker Chicago email @gmail.com",
+  "kickboxing class email @yahoo.com"
+ ],
+ "_email_map": {
+  "shaunazeilig@gmail.com": {
+   "query": "yoga practitioner Chicago email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-18T23:27:32.248972"
+  },
+  "noma.yoga.in@gmail.com": {
+   "query": "yoga practitioner Chicago email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-18T23:27:32.248980"
+  },
+  "njbelica@gmail.com": {
+   "query": "yoga practitioner Chicago email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-18T23:27:32.248982"
+  },
+  "northloftyoga@gmail.com": {
+   "query": "yoga practitioner Chicago email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-18T23:27:32.248983"
+  },
+  "sandiego100rd@gmail.com": {
+   "query": "trail runner San Diego email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-18T23:28:11.856483"
+  },
+  "vrunssandiego@gmail.com": {
+   "query": "trail runner San Diego email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-18T23:28:11.856493"
+  },
+  "runultrastrong@gmail.com": {
+   "query": "trail runner San Diego email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-18T23:28:11.856495"
+  },
+  "efhgtc@gmail.com": {
+   "query": "trail runner San Diego email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-18T23:28:11.856497"
+  },
+  "sdsumensrowing@gmail.com": {
+   "query": "rowing enthusiast San Diego email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-18T23:28:56.682279"
+  },
+  "viviannaksmith@gmail.com": {
+   "query": "rowing enthusiast San Diego email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-18T23:28:56.682329"
+  },
+  "bhrthebook@gmail.com": {
+   "query": "rowing enthusiast San Diego email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-18T23:28:56.682332"
+  },
+  "jjonesdelia@gmail.com": {
+   "query": "Zumba class Orlando email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-18T23:29:38.874500"
+  },
+  "dannybiltfit@gmail.com": {
+   "query": "boxing fitness Asheville email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-18T23:30:19.141372"
+  },
+  "ellenmyoga@gmail.com": {
+   "query": "yoga practitioner Portland email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-18T23:31:27.865693"
+  },
+  "boiseagility@gmail.com": {
+   "query": "runner Boise email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-18T23:32:10.832841"
+  },
+  "boisegalloway@gmail.com": {
+   "query": "runner Boise email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-18T23:32:10.832867"
+  },
+  "davidshackley@gmail.com": {
+   "query": "swimmer Tucson email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-18T23:32:46.579721"
+  },
+  "justinmslade@gmail.com": {
+   "query": "swimmer Tucson email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-18T23:32:46.579728"
+  },
+  "ohilly1@gmail.com": {
+   "query": "hiker Chicago email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-18T23:33:30.951486"
+  },
+  "joestevebrown@gmail.com": {
+   "query": "hiker Chicago email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-18T23:33:30.951498"
+  },
+  "chicagoico@gmail.com": {
+   "query": "hiker Chicago email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-18T23:33:30.951500"
+  },
+  "wgsrhikes@gmail.com": {
+   "query": "hiker Chicago email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-18T23:33:30.951502"
+  },
+  "viento.lvrc@gmail.com": {
+   "query": "hiker Chicago email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-18T23:33:30.951505"
+  },
+  "run.charlotte@gmail.com": {
+   "query": "10K runner Charlotte email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-18T23:34:09.216476"
+  },
+  "runcltrun@gmail.com": {
+   "query": "10K runner Charlotte email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-18T23:34:09.216491"
+  },
+  "richardsrun73@gmail.com": {
+   "query": "10K runner Charlotte email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-18T23:34:09.216493"
+  },
+  "runmadmiles@gmail.com": {
+   "query": "10K runner Charlotte email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-18T23:34:09.216495"
+  },
+  "woodtalkshow@gmail.com": {
+   "query": "Peloton rider Pittsburgh email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-18T23:34:40.028289"
+  },
+  "barryearle77@gmail.com": {
+   "query": "Peloton rider Pittsburgh email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-18T23:34:40.028324"
+  },
+  "powerzonepack@gmail.com": {
+   "query": "Peloton rider Pittsburgh email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-18T23:34:40.028327"
+  },
+  "aaronalbuck@gmail.com": {
+   "query": "Peloton rider Pittsburgh email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-18T23:34:40.028328"
+  },
+  "yuna22856@gmail.com": {
+   "query": "Spartan racer Las Vegas email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-18T23:35:16.382001"
+  },
+  "pjmavro@hotmail.com": {
+   "query": "Spartan racer Las Vegas email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-18T23:35:16.382009"
+  },
+  "hsumjames@gmail.com": {
+   "query": "Spartan racer Las Vegas email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-18T23:35:16.382010"
+  },
+  "ggboxing77@gmail.com": {
+   "query": "boxing fitness Tucson email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-18T23:35:54.380602"
+  },
+  "191resolutionfitness@gmail.com": {
+   "query": "new year fitness resolution email @gmail.com",
+   "engine": "brave",
+   "found_at": "2026-02-18T23:36:26.058764"
+  },
+  "calrunningclub@gmail.com": {
+   "query": "half marathon San Francisco email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-18T23:42:00.899301"
+  },
+  "fitandfeminine@gmail.com": {
+   "query": "half marathon San Francisco email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-18T23:42:00.899344"
+  },
+  "rodeadie1@gmail.com": {
+   "query": "kickboxing class Kansas City email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-18T23:42:38.277171"
+  },
+  "fazeekfit@gmail.com": {
+   "query": "kickboxing class Kansas City email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-18T23:42:38.277180"
+  },
+  "rrsgcks2025@gmail.com": {
+   "query": "kickboxing class Kansas City email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-18T23:42:38.277182"
+  },
+  "gotdirtnm@gmail.com": {
+   "query": "marathon finisher Tucson email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-18T23:43:23.893748"
+  },
+  "mfetters33@gmail.com": {
+   "query": "marathon finisher Tucson email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-18T23:43:23.893784"
+  },
+  "kiloquad@hotmail.com": {
+   "query": "hiker email @hotmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-18T23:54:07.576234"
+  },
+  "elle.rdz@hotmail.com": {
+   "query": "hiker email @hotmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-18T23:54:07.576255"
+  },
+  "kaulua@hotmail.com": {
+   "query": "hiker email @hotmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-18T23:54:07.576257"
+  },
+  "barbjoh@hotmail.com": {
+   "query": "hiker email @hotmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-18T23:54:07.576258"
+  },
+  "amber.ahrens@hotmail.com": {
+   "query": "hiker email @hotmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-18T23:54:07.576258"
+  },
+  "pattyclassen@hotmail.com": {
+   "query": "hiker email @hotmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-18T23:54:07.576259"
+  },
+  "jsmith@gmail.com": {
+   "query": "Spartan racer Minneapolis email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-18T23:55:17.611136"
+  },
+  "brookstl@gmail.com": {
+   "query": "Spartan racer Minneapolis email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-18T23:55:17.611183"
+  },
+  "evewsalazar@gmail.com": {
+   "query": "pilates student Los Angeles email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-19T02:05:30.613044"
+  },
+  "mandmpilates@gmail.com": {
+   "query": "pilates student Los Angeles email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-19T02:05:30.613076"
+  },
+  "ranstroud@gmail.com": {
+   "query": "ultra runner Atlanta email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-19T02:06:08.979980"
+  },
+  "teamsanyaross@gmail.com": {
+   "query": "ultra runner Atlanta email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-19T02:06:08.980010"
+  },
+  "willpowermps@gmail.com": {
+   "query": "ultra runner Atlanta email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-19T02:06:08.980012"
+  },
+  "jamz524.jm@gmail.com": {
+   "query": "ultra runner Atlanta email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-19T02:06:08.980014"
+  },
+  "coachcaitlinb@gmail.com": {
+   "query": "CrossFit member Scottsdale email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-19T02:30:21.335011"
+  },
+  "bjorgzz.rj@gmail.com": {
+   "query": "CrossFit member Scottsdale email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-19T02:30:21.335024"
+  },
+  "letsmoveinfo@gmail.com": {
+   "query": "Zumba class Bend OR email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-19T02:34:09.974157"
+  },
+  "latindancebend@gmail.com": {
+   "query": "Zumba class Bend OR email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-19T02:34:09.974167"
+  },
+  "kristin.soba@gmail.com": {
+   "query": "Zumba class Bend OR email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-19T02:34:09.974169"
+  },
+  "kbdsinfo@gmail.com": {
+   "query": "Zumba class Bend OR email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-19T02:34:09.974171"
+  },
+  "zumbaworks@gmail.com": {
+   "query": "Zumba class Bend OR email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-19T02:34:09.974173"
+  },
+  "gina.tanner44@gmail.com": {
+   "query": "Zumba class Bend OR email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-19T02:34:09.974174"
+  },
+  "swimshrsl@gmail.com": {
+   "query": "swimmer Houston email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-19T03:13:34.499264"
+  },
+  "ccscmembership1@gmail.com": {
+   "query": "swimmer Houston email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-19T03:13:34.499285"
+  },
+  "janitegrooms@gmail.com": {
+   "query": "swimmer Houston email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-19T03:13:34.499286"
+  },
+  "unitedswimteam@gmail.com": {
+   "query": "swimmer Houston email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-19T03:13:34.499287"
+  },
+  "markswims500@gmail.com": {
+   "query": "swimmer Houston email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-19T03:13:34.499288"
+  },
+  "jlpennington1@gmail.com": {
+   "query": "swimmer Houston email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-19T03:13:34.499289"
+  },
+  "deannac.fitness@gmail.com": {
+   "query": "kayaker fitness Boulder email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-19T03:14:12.955328"
+  },
+  "colbyreunion1979@gmail.com": {
+   "query": "kayaker fitness Boulder email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-19T03:14:12.955341"
+  },
+  "nieshacberry@gmail.com": {
+   "query": "obstacle racer Miami email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-19T03:55:34.721871"
+  },
+  "jeff.mayer@gmail.com": {
+   "query": "obstacle racer Miami email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-19T03:55:34.721904"
+  },
+  "caplinnews@gmail.com": {
+   "query": "obstacle racer Miami email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-19T03:55:34.721907"
+  },
+  "bounceusafl@gmail.com": {
+   "query": "obstacle racer Miami email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-19T03:55:34.721909"
+  },
+  "iitclimbing@gmail.com": {
+   "query": "rock climber Chicago email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-19T04:33:42.011618"
+  },
+  "jzwoo10@gmail.com": {
+   "query": "rock climber Chicago email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-19T04:33:42.011651"
+  },
+  "tcrockandice@gmail.com": {
+   "query": "rock climber Chicago email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-19T04:33:42.011654"
+  },
+  "ryanhzeller@gmail.com": {
+   "query": "rock climber Chicago email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-19T04:33:42.011656"
+  },
+  "robinson.a@gmail.com": {
+   "query": "garmin watch runner email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-19T04:34:21.151994"
+  },
+  "b7.willson@gmail.com": {
+   "query": "garmin watch runner email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-19T04:34:21.152004"
+  },
+  "ann.nepatrails@gmail.com": {
+   "query": "hiker Columbus email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-19T04:34:47.204950"
+  },
+  "myhikes1@gmail.com": {
+   "query": "hiker Columbus email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-19T04:34:47.204959"
+  },
+  "chefdavid2011@gmail.com": {
+   "query": "hiker Columbus email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-19T04:34:47.204962"
+  },
+  "frwillsjpc@gmail.com": {
+   "query": "hiker Columbus email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-19T04:34:47.204965"
+  },
+  "pvandewall14@gmail.com": {
+   "query": "hiker Columbus email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-19T04:34:47.204967"
+  },
+  "fghdenver@gmail.com": {
+   "query": "hiker Denver email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-19T05:10:55.756161"
+  },
+  "hikingdebbie@gmail.com": {
+   "query": "hiker Denver email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-19T05:10:55.756194"
+  },
+  "smartasiatravel1@gmail.com": {
+   "query": "hiker Denver email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-19T05:10:55.756196"
+  },
+  "eatwalklearn@gmail.com": {
+   "query": "hiker Denver email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-19T05:10:55.756198"
+  },
+  "pwshikingmom@gmail.com": {
+   "query": "hiker Denver email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-19T05:10:55.756200"
+  },
+  "spyswimcoach@gmail.com": {
+   "query": "swimmer Pittsburgh email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-19T05:26:36.451853"
+  },
+  "coachwynnek@gmail.com": {
+   "query": "swimmer Pittsburgh email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-19T05:26:36.451876"
+  },
+  "mimiperez71@gmail.com": {
+   "query": "swimmer Pittsburgh email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-19T05:26:36.451877"
+  },
+  "lalaleo82@gmail.com": {
+   "query": "swimmer Pittsburgh email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-19T05:26:36.451878"
+  },
+  "wh.aquaticteam@gmail.com": {
+   "query": "swimmer Pittsburgh email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-19T05:26:36.451879"
+  },
+  "clubswimpitt@gmail.com": {
+   "query": "swimmer Pittsburgh email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-19T05:26:36.451880"
+  },
+  "trifecta_mma@yahoo.com": {
+   "query": "kickboxing class email @yahoo.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-19T06:32:53.975126"
+  },
+  "riversidemma@yahoo.com": {
+   "query": "kickboxing class email @yahoo.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-19T06:32:53.975164"
+  },
+  "debfryar@gmail.com": {
+   "query": "obstacle racer Ann Arbor email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-19T06:33:19.793265"
+  },
+  "howardtrachtman21@gmail.com": {
+   "query": "obstacle racer Ann Arbor email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-19T06:33:19.793295"
+  },
+  "sherri.gorin@gmail.com": {
+   "query": "obstacle racer Ann Arbor email @gmail.com",
+   "engine": "ecosia",
+   "found_at": "2026-02-19T06:33:19.793297"
+  }
+ }
+}

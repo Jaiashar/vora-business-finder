@@ -1,0 +1,545 @@
+name,first,last,company,domain,email,best_guess_email,source
+Jordan Levy,Jordan,Levy,,sbny.vc,,jordan.levy@sbny.vc,angellist_github
+Josh Guttman,Josh,Guttman,,sbny.vc,,josh.guttman@sbny.vc,angellist_github
+Dana Spiegel,Dana,Spiegel,,,,,angellist_github
+Kevin Thau,Kevin,Thau,,sparkcapital.com,,kevin.thau@sparkcapital.com,angellist_github
+Ekin Oflazer,Ekin,Oflazer,,sparkcapital.com,,ekin.oflazer@sparkcapital.com,angellist_github
+Jeremy G. Philips,Jeremy,Philips,,sparkcapital.com,,jeremy.philips@sparkcapital.com,angellist_github
+John Melas-Kyriazi,John,Melas-Kyriazi,,sparkcapital.com,,john.melas-kyriazi@sparkcapital.com,angellist_github
+Danya Cheskis-Gold,Danya,Cheskis-Gold,,sparkcapital.com,,danya.cheskis-gold@sparkcapital.com,angellist_github
+Rob Go,Rob,Go,,sparkcapital.com,,rob.go@sparkcapital.com,angellist_github
+David Haber,David,Haber,,sparkcapital.com,,david.haber@sparkcapital.com,angellist_github
+Santo Politi,Santo,Politi,,sparkcapital.com,,santo.politi@sparkcapital.com,angellist_github
+Bijan Sabet,Bijan,Sabet,,sparkcapital.com,,bijan.sabet@sparkcapital.com,angellist_github
+Nabeel Hyatt,Nabeel,Hyatt,,sparkcapital.com,,nabeel.hyatt@sparkcapital.com,angellist_github
+Todd Dagres,Todd,Dagres,,sparkcapital.com,,todd.dagres@sparkcapital.com,angellist_github
+Andrew Parker,Andrew,Parker,,sparkcapital.com,,andrew.parker@sparkcapital.com,angellist_github
+Alex Finkelstein,Alex,Finkelstein,,sparkcapital.com,,alex.finkelstein@sparkcapital.com,angellist_github
+Mo Koyfman,Mo,Koyfman,,sparkcapital.com,,mo.koyfman@sparkcapital.com,angellist_github
+Andrew Adams,Andrew,Adams,,softbank.com,,andrew.adams@softbank.com,angellist_github
+Graham Brown,Graham,Brown,,softbank.com,,graham.brown@softbank.com,angellist_github
+Ron Fisher,Ron,Fisher,,softbank.com,,ron.fisher@softbank.com,angellist_github
+Nick  Tomaino,Nick,Tomaino,,softbank.com,,nick.tomaino@softbank.com,angellist_github
+Melanie Dyer,Melanie,Dyer,,softbank.com,,melanie.dyer@softbank.com,angellist_github
+Mark Zogaria,Mark,Zogaria,,softbank.com,,mark.zogaria@softbank.com,angellist_github
+Teddy Himler,Teddy,Himler,,softbank.com,,teddy.himler@softbank.com,angellist_github
+Steven Murray,Steven,Murray,,softbank.com,,steven.murray@softbank.com,angellist_github
+Matt Krna,Matt,Krna,,softbank.com,,matt.krna@softbank.com,angellist_github
+Nikhil Kalghatgi,Nikhil,Kalghatgi,,softbank.com,,nikhil.kalghatgi@softbank.com,angellist_github
+Joe Medved,Joe,Medved,,softbank.com,,joe.medved@softbank.com,angellist_github
+Jonathan Libov,Jonathan,Libov,,usv.com,,jonathan.libov@usv.com,angellist_github
+Fred Wilson,Fred,Wilson,,usv.com,,fred.wilson@usv.com,angellist_github
+Brad Burnham,Brad,Burnham,,usv.com,,brad.burnham@usv.com,angellist_github
+Jennifer Soffen,Jennifer,Soffen,,usv.com,,jennifer.soffen@usv.com,angellist_github
+Gary Chou,Gary,Chou,,usv.com,,gary.chou@usv.com,angellist_github
+Alexander Pease,Alexander,Pease,,usv.com,,alexander.pease@usv.com,angellist_github
+Brittany Laughlin,Brittany,Laughlin,,usv.com,,brittany.laughlin@usv.com,angellist_github
+Nick Grossman,Nick,Grossman,,usv.com,,nick.grossman@usv.com,angellist_github
+Brian Watson,Brian,Watson,,usv.com,,brian.watson@usv.com,angellist_github
+Charlie O'Donnell,Charlie,O'Donnell,,usv.com,,charlie.o'donnell@usv.com,angellist_github
+Andy Weissman,Andy,Weissman,,usv.com,,andy.weissman@usv.com,angellist_github
+Albert Wenger,Albert,Wenger,,usv.com,,albert.wenger@usv.com,angellist_github
+Neil Hutchinson,Neil,Hutchinson,,,,,angellist_github
+Dave Eisenberg,Dave,Eisenberg,,redswan.vc,,dave.eisenberg@redswan.vc,angellist_github
+Andy Dunn,Andy,Dunn,,redswan.vc,,andy.dunn@redswan.vc,angellist_github
+William Peng,William,Peng,,redswan.vc,,william.peng@redswan.vc,angellist_github
+David Vivero,David,Vivero,,redswan.vc,,david.vivero@redswan.vc,angellist_github
+Thomas MacThomas,Thomas,MacThomas,,forwardpartners.com,,thomas.macthomas@forwardpartners.com,angellist_github
+James Bridger,James,Bridger,,forwardpartners.com,,james.bridger@forwardpartners.com,angellist_github
+Emma Gresko,Emma,Gresko,,forwardpartners.com,,emma.gresko@forwardpartners.com,angellist_github
+Ben Walker,Ben,Walker,,forwardpartners.com,,ben.walker@forwardpartners.com,angellist_github
+seth matisak,seth,matisak,,forwardpartners.com,,seth.matisak@forwardpartners.com,angellist_github
+Jack Oliver,Jack,Oliver,,forwardpartners.com,,jack.oliver@forwardpartners.com,angellist_github
+Leonidas Tsementzis,Leonidas,Tsementzis,,forwardpartners.com,,leonidas.tsementzis@forwardpartners.com,angellist_github
+Jens Lapinski,Jens,Lapinski,,forwardpartners.com,,jens.lapinski@forwardpartners.com,angellist_github
+Matthew J. Bradley,Matthew,Bradley,,forwardpartners.com,,matthew.bradley@forwardpartners.com,angellist_github
+Chris O'Sullivan,Chris,O'Sullivan,,forwardpartners.com,,chris.o'sullivan@forwardpartners.com,angellist_github
+David Norris,David,Norris,,forwardpartners.com,,david.norris@forwardpartners.com,angellist_github
+Pradeep Raman,Pradeep,Raman,,forwardpartners.com,,pradeep.raman@forwardpartners.com,angellist_github
+Nic Brisbourne,Nic,Brisbourne,,forwardpartners.com,,nic.brisbourne@forwardpartners.com,angellist_github
+Pedro Pereira,Pedro,Pereira,,forwardpartners.com,,pedro.pereira@forwardpartners.com,angellist_github
+Murid Rahhal,Murid,Rahhal,,forwardpartners.com,,murid.rahhal@forwardpartners.com,angellist_github
+Yannick Roux,Yannick,Roux,,forwardpartners.com,,yannick.roux@forwardpartners.com,angellist_github
+Kyoko Uchida,Kyoko,Uchida,,,,,angellist_github
+Greg Waldorf,Greg,Waldorf,,accel.com,,greg.waldorf@accel.com,angellist_github
+seth pierrepont,seth,pierrepont,,accel.com,,seth.pierrepont@accel.com,angellist_github
+Keirsten Lampkin,Keirsten,Lampkin,,accel.com,,keirsten.lampkin@accel.com,angellist_github
+Steve Mnich,Steve,Mnich,,accel.com,,steve.mnich@accel.com,angellist_github
+Peter Fenton,Peter,Fenton,,accel.com,,peter.fenton@accel.com,angellist_github
+Tarun Agarwal,Tarun,Agarwal,,accel.com,,tarun.agarwal@accel.com,angellist_github
+Christopher Kelvin Lee,Christopher,Lee,,accel.com,,christopher.lee@accel.com,angellist_github
+Michael Treskow,Michael,Treskow,,accel.com,,michael.treskow@accel.com,angellist_github
+Hilary Mason,Hilary,Mason,,accel.com,,hilary.mason@accel.com,angellist_github
+Chrysanthos Chrysanthou,Chrysanthos,Chrysanthou,,accel.com,,chrysanthos.chrysanthou@accel.com,angellist_github
+Brian OMalley,Brian,OMalley,,accel.com,,brian.omalley@accel.com,angellist_github
+Alex Duncan,Alex,Duncan,,accel.com,,alex.duncan@accel.com,angellist_github
+Rajaram Gaunker,Rajaram,Gaunker,,accel.com,,rajaram.gaunker@accel.com,angellist_github
+James Cameron,James,Cameron,,accel.com,,james.cameron@accel.com,angellist_github
+John Earner,John,Earner,,accel.com,,john.earner@accel.com,angellist_github
+Jerry Chen,Jerry,Chen,,accel.com,,jerry.chen@accel.com,angellist_github
+Vaibhav Bindroo,Vaibhav,Bindroo,,accel.com,,vaibhav.bindroo@accel.com,angellist_github
+Barath Shankar Subramanian,Barath,Subramanian,,accel.com,,barath.subramanian@accel.com,angellist_github
+Abhishek Goyal,Abhishek,Goyal,,accel.com,,abhishek.goyal@accel.com,angellist_github
+Dinesh Katiyar,Dinesh,Katiyar,,accel.com,,dinesh.katiyar@accel.com,angellist_github
+Jake Flomenberg,Jake,Flomenberg,,accel.com,,jake.flomenberg@accel.com,angellist_github
+Prayank Swaroop,Prayank,Swaroop,,accel.com,,prayank.swaroop@accel.com,angellist_github
+Don Gooding,Don,Gooding,,accel.com,,don.gooding@accel.com,angellist_github
+Chi-Hua Chien,Chi-Hua,Chien,,accel.com,,chi-hua.chien@accel.com,angellist_github
+Oisin Hanrahan,Oisin,Hanrahan,,accel.com,,oisin.hanrahan@accel.com,angellist_github
+Jim Breyer,Jim,Breyer,,accel.com,,jim.breyer@accel.com,angellist_github
+Ping Li,Ping,Li,,accel.com,,ping.li@accel.com,angellist_github
+Anand Daniel,Anand,Daniel,,accel.com,,anand.daniel@accel.com,angellist_github
+Hussein Kanji,Hussein,Kanji,,accel.com,,hussein.kanji@accel.com,angellist_github
+Peter Wagner,Peter,Wagner,,accel.com,,peter.wagner@accel.com,angellist_github
+Rich Wong,Rich,Wong,,accel.com,,rich.wong@accel.com,angellist_github
+Kevin Efrusy,Kevin,Efrusy,,accel.com,,kevin.efrusy@accel.com,angellist_github
+Ben Blume,Ben,Blume,,atomico.com,,ben.blume@atomico.com,angellist_github
+Dan Hynes,Dan,Hynes,,atomico.com,,dan.hynes@atomico.com,angellist_github
+Tom Wehmeier,Tom,Wehmeier,,atomico.com,,tom.wehmeier@atomico.com,angellist_github
+Shin Iwata,Shin,Iwata,,atomico.com,,shin.iwata@atomico.com,angellist_github
+Kelly Poon,Kelly,Poon,,atomico.com,,kelly.poon@atomico.com,angellist_github
+Yuan Chen,Yuan,Chen,,atomico.com,,yuan.chen@atomico.com,angellist_github
+Mattias Ljungman,Mattias,Ljungman,,atomico.com,,mattias.ljungman@atomico.com,angellist_github
+Yann de Vries,Yann,Vries,,atomico.com,,yann.vries@atomico.com,angellist_github
+Alex Spain,Alex,Spain,,atomico.com,,alex.spain@atomico.com,angellist_github
+Stephen Thorne,Stephen,Thorne,,atomico.com,,stephen.thorne@atomico.com,angellist_github
+Marcus Foster,Marcus,Foster,,atomico.com,,marcus.foster@atomico.com,angellist_github
+Matthieu Sagnier,Matthieu,Sagnier,,atomico.com,,matthieu.sagnier@atomico.com,angellist_github
+Gernot Zacke,Gernot,Zacke,,atomico.com,,gernot.zacke@atomico.com,angellist_github
+Meg He,Meg,He,,atomico.com,,meg.he@atomico.com,angellist_github
+Naz Ozertugrul,Naz,Ozertugrul,,atomico.com,,naz.ozertugrul@atomico.com,angellist_github
+Pogos Saiadian,Pogos,Saiadian,,atomico.com,,pogos.saiadian@atomico.com,angellist_github
+Sebastian Sutherland,Sebastian,Sutherland,,atomico.com,,sebastian.sutherland@atomico.com,angellist_github
+Carlos Pires,Carlos,Pires,,atomico.com,,carlos.pires@atomico.com,angellist_github
+"Aniruddha ""Ajit"" Nazre",Aniruddha,Nazre,,wellington-partners.com,,aniruddha.nazre@wellington-partners.com,angellist_github
+Ulrik Deichsel,Ulrik,Deichsel,,wellington-partners.com,,ulrik.deichsel@wellington-partners.com,angellist_github
+Linus Dahg,Linus,Dahg,,wellington-partners.com,,linus.dahg@wellington-partners.com,angellist_github
+Stephan von Perger,Stephan,Perger,,wellington-partners.com,,stephan.perger@wellington-partners.com,angellist_github
+Chirag Patel,Chirag,Patel,,wellington-partners.com,,chirag.patel@wellington-partners.com,angellist_github
+Daniel Waterhouse,Daniel,Waterhouse,,wellington-partners.com,,daniel.waterhouse@wellington-partners.com,angellist_github
+Frank Boehnke,Frank,Boehnke,,wellington-partners.com,,frank.boehnke@wellington-partners.com,angellist_github
+Christian Thaler-Wolski,Christian,Thaler-Wolski,,wellington-partners.com,,christian.thaler-wolski@wellington-partners.com,angellist_github
+Meg Nakamura,Meg,Nakamura,,,,,angellist_github
+Nobutake Suzuki,Nobutake,Suzuki,,,,,angellist_github
+Dmitry Falkovich,Dmitry,Falkovich,,,,,angellist_github
+Julian Ranger,Julian,Ranger,,,,,angellist_github
+Greg Kidd,Greg,Kidd,,,,,angellist_github
+Joe Cohen,Joe,Cohen,,,,,angellist_github
+David Chang,David,Chang,,,,,angellist_github
+Avi Muchnick,Avi,Muchnick,,,,,angellist_github
+KJ Singh,KJ,Singh,,,,,angellist_github
+Shereen Shermak,Shereen,Shermak,,launch-angels.com,,shereen.shermak@launch-angels.com,angellist_github
+Mandie D. Holmes,Mandie,Holmes,,launch-angels.com,,mandie.holmes@launch-angels.com,angellist_github
+Jing-ta Chow,Jing-ta,Chow,,launch-angels.com,,jing-ta.chow@launch-angels.com,angellist_github
+Katie Zacarian,Katie,Zacarian,,,,,angellist_github
+Frank Meehan,Frank,Meehan,,sparklabsglobal.com,,frank.meehan@sparklabsglobal.com,angellist_github
+Christine Aum,Christine,Aum,,sparklabsglobal.com,,christine.aum@sparklabsglobal.com,angellist_github
+Rob DeMillo,Rob,DeMillo,,sparklabsglobal.com,,rob.demillo@sparklabsglobal.com,angellist_github
+Eugene Kim,Eugene,Kim,,sparklabsglobal.com,,eugene.kim@sparklabsglobal.com,angellist_github
+HanJoo Lee,HanJoo,Lee,,sparklabsglobal.com,,hanjoo.lee@sparklabsglobal.com,angellist_github
+Bernard Moon,Bernard,Moon,,sparklabsglobal.com,,bernard.moon@sparklabsglobal.com,angellist_github
+Net Jacobsson,Net,Jacobsson,,sparklabsglobal.com,,net.jacobsson@sparklabsglobal.com,angellist_github
+Scot Chisholm,Scot,Chisholm,,,,,angellist_github
+Aaron Holiday,Aaron,Holiday,,645ventures.com,,aaron.holiday@645ventures.com,angellist_github
+Nnamdi Okike,Nnamdi,Okike,,645ventures.com,,nnamdi.okike@645ventures.com,angellist_github
+David Segura,David,Segura,,,,,angellist_github
+Dave Lerner,Dave,Lerner,,,,,angellist_github
+Adam Corey,Adam,Corey,,qbvp.com,,adam.corey@qbvp.com,angellist_github
+Ajay Relan,Ajay,Relan,,qbvp.com,,ajay.relan@qbvp.com,angellist_github
+Anand Murthy,Anand,Murthy,,qbvp.com,,anand.murthy@qbvp.com,angellist_github
+Dee Murthy,Dee,Murthy,,qbvp.com,,dee.murthy@qbvp.com,angellist_github
+Rashaun L. Williams,Rashaun,Williams,,qbvp.com,,rashaun.williams@qbvp.com,angellist_github
+Craig Vaughan,Craig,Vaughan,,qbvp.com,,craig.vaughan@qbvp.com,angellist_github
+Anthony Saleh,Anthony,Saleh,,qbvp.com,,anthony.saleh@qbvp.com,angellist_github
+Nasir Jones,Nasir,Jones,,qbvp.com,,nasir.jones@qbvp.com,angellist_github
+Rick Marini,Rick,Marini,,,,,angellist_github
+Sam Teller,Sam,Teller,,,,,angellist_github
+Paul Sethi,Paul,Sethi,,,,,angellist_github
+Joanne Wilson,Joanne,Wilson,,,,,angellist_github
+Scott Belsky,Scott,Belsky,,,,,angellist_github
+John Ryu,John,Ryu,,,,,angellist_github
+Michael Katz,Michael,Katz,,,,,angellist_github
+Shawn Cheng,Shawn,Cheng,,vaynerrse.com,,shawn.cheng@vaynerrse.com,angellist_github
+AJ Vaynerchuk,AJ,Vaynerchuk,,vaynerrse.com,,aj.vaynerchuk@vaynerrse.com,angellist_github
+Gary Vaynerchuk,Gary,Vaynerchuk,,vaynerrse.com,,gary.vaynerchuk@vaynerrse.com,angellist_github
+Kerry Kellogg,Kerry,Kellogg,,vaynerrse.com,,kerry.kellogg@vaynerrse.com,angellist_github
+Phil Toronto,Phil,Toronto,,vaynerrse.com,,phil.toronto@vaynerrse.com,angellist_github
+Alex Iskold,Alex,Iskold,,,,,angellist_github
+Christina Bechhold,Christina,Bechhold,,empireangels.com,,christina.bechhold@empireangels.com,angellist_github
+Neel Vora,Neel,Vora,,empireangels.com,,neel.vora@empireangels.com,angellist_github
+Natalie Levy,Natalie,Levy,,empireangels.com,,natalie.levy@empireangels.com,angellist_github
+Graham Gullans,Graham,Gullans,,empireangels.com,,graham.gullans@empireangels.com,angellist_github
+Adrian Aoun,Adrian,Aoun,,,,,angellist_github
+Richard Zaid,Richard,Zaid,,,,,angellist_github
+red5 Capital,red5,Capital,,,,,angellist_github
+David Bell,David,Bell,,,,,angellist_github
+Brian Sugar,Brian,Sugar,,,,,angellist_github
+Mike Greenfield,Mike,Greenfield,,,,,angellist_github
+Alexis Ohanian,Alexis,Ohanian,,,,,angellist_github
+Gokul Rajaram,Gokul,Rajaram,,,,,angellist_github
+Garry Tan,Garry,Tan,,,,,angellist_github
+Andrew Boszhardt,Andrew,Boszhardt,,greatoaksvc.com,,andrew.boszhardt@greatoaksvc.com,angellist_github
+Henry McNamara,Henry,McNamara,,greatoaksvc.com,,henry.mcnamara@greatoaksvc.com,angellist_github
+Andrew Boszhardt Jr.,Andrew,Jr.,,greatoaksvc.com,,andrew.jr.@greatoaksvc.com,angellist_github
+Mac Cordrey,Mac,Cordrey,,greatoaksvc.com,,mac.cordrey@greatoaksvc.com,angellist_github
+Andrew J. Taub,Andrew,Taub,,greatoaksvc.com,,andrew.taub@greatoaksvc.com,angellist_github
+Ben Lin,Ben,Lin,,greatoaksvc.com,,ben.lin@greatoaksvc.com,angellist_github
+Trey Dandreta,Trey,Dandreta,,greatoaksvc.com,,trey.dandreta@greatoaksvc.com,angellist_github
+Topher Conway,Topher,Conway,,svangel.com,,topher.conway@svangel.com,angellist_github
+Kartik Talwar,Kartik,Talwar,,svangel.com,,kartik.talwar@svangel.com,angellist_github
+Kevin Carter,Kevin,Carter,,svangel.com,,kevin.carter@svangel.com,angellist_github
+David Lee,David,Lee,,svangel.com,,david.lee@svangel.com,angellist_github
+Michael Sho Liu,Michael,Liu,,svangel.com,,michael.liu@svangel.com,angellist_github
+Annie Kadavy,Annie,Kadavy,,svangel.com,,annie.kadavy@svangel.com,angellist_github
+Robert Pollak,Robert,Pollak,,svangel.com,,robert.pollak@svangel.com,angellist_github
+Abram Dawson,Abram,Dawson,,svangel.com,,abram.dawson@svangel.com,angellist_github
+brian pokorny,brian,pokorny,,svangel.com,,brian.pokorny@svangel.com,angellist_github
+Emil Woods,Emil,Woods,,,,,angellist_github
+Charles Cascarilla,Charles,Cascarilla,,,,,angellist_github
+Andrew Chang,Andrew,Chang,,,,,angellist_github
+Dorothy Jean,Dorothy,Jean,,,,,angellist_github
+Alan Spiegel,Alan,Spiegel,,,,,angellist_github
+David Tisch,David,Tisch,,,,,angellist_github
+Randi Zuckerberg,Randi,Zuckerberg,,,,,angellist_github
+Nikhil Basu Trivedi,Nikhil,Trivedi,,,,,angellist_github
+Michelle Van Veen,Michelle,Veen,,techstars.com,,michelle.veen@techstars.com,angellist_github
+Brian Luerssen,Brian,Luerssen,,techstars.com,,brian.luerssen@techstars.com,angellist_github
+Daniel Feld,Daniel,Feld,,techstars.com,,daniel.feld@techstars.com,angellist_github
+Elizabeth David,Elizabeth,David,,techstars.com,,elizabeth.david@techstars.com,angellist_github
+John Fein,John,Fein,,techstars.com,,john.fein@techstars.com,angellist_github
+Ashantha Kaluarachchi,Ashantha,Kaluarachchi,,techstars.com,,ashantha.kaluarachchi@techstars.com,angellist_github
+Semyon Dukach,Semyon,Dukach,,techstars.com,,semyon.dukach@techstars.com,angellist_github
+Michael Rizzuto,Michael,Rizzuto,,techstars.com,,michael.rizzuto@techstars.com,angellist_github
+Cody Simms,Cody,Simms,,techstars.com,,cody.simms@techstars.com,angellist_github
+Sabrina McGrail,Sabrina,McGrail,,techstars.com,,sabrina.mcgrail@techstars.com,angellist_github
+Greg Rogers,Greg,Rogers,,techstars.com,,greg.rogers@techstars.com,angellist_github
+Jon Bradford,Jon,Bradford,,techstars.com,,jon.bradford@techstars.com,angellist_github
+Mark Solon,Mark,Solon,,techstars.com,,mark.solon@techstars.com,angellist_github
+Tuan Pham,Tuan,Pham,,techstars.com,,tuan.pham@techstars.com,angellist_github
+Crystal Chang,Crystal,Chang,,techstars.com,,crystal.chang@techstars.com,angellist_github
+Keith Oster,Keith,Oster,,techstars.com,,keith.oster@techstars.com,angellist_github
+Matt Galligan,Matt,Galligan,,techstars.com,,matt.galligan@techstars.com,angellist_github
+Joseph Santoro,Joseph,Santoro,,techstars.com,,joseph.santoro@techstars.com,angellist_github
+Linsey Battan,Linsey,Battan,,techstars.com,,linsey.battan@techstars.com,angellist_github
+Ryan Fukushima,Ryan,Fukushima,,techstars.com,,ryan.fukushima@techstars.com,angellist_github
+David Brown,David,Brown,,techstars.com,,david.brown@techstars.com,angellist_github
+Bilal Memon,Bilal,Memon,,techstars.com,,bilal.memon@techstars.com,angellist_github
+Don Burton,Don,Burton,,techstars.com,,don.burton@techstars.com,angellist_github
+Kelsey Morgan,Kelsey,Morgan,,techstars.com,,kelsey.morgan@techstars.com,angellist_github
+Mohit SantRam,Mohit,SantRam,,techstars.com,,mohit.santram@techstars.com,angellist_github
+Millie Liu,Millie,Liu,,techstars.com,,millie.liu@techstars.com,angellist_github
+Colin Boardway,Colin,Boardway,,techstars.com,,colin.boardway@techstars.com,angellist_github
+Zack Shapiro,Zack,Shapiro,,techstars.com,,zack.shapiro@techstars.com,angellist_github
+Roger Chen,Roger,Chen,,oatv.com,,roger.chen@oatv.com,angellist_github
+Renee DiResta,Renee,DiResta,,oatv.com,,renee.diresta@oatv.com,angellist_github
+Tim O'Reilly,Tim,O'Reilly,,oatv.com,,tim.o'reilly@oatv.com,angellist_github
+Naveen Selvadurai,Naveen,Selvadurai,,,,,angellist_github
+Adam Rothenberg,Adam,Rothenberg,,,,,angellist_github
+Steve Martocci,Steve,Martocci,,,,,angellist_github
+Kevin Slavin,Kevin,Slavin,,,,,angellist_github
+Jared Hecht,Jared,Hecht,,,,,angellist_github
+Dennis Crowley,Dennis,Crowley,,,,,angellist_github
+Alex Rainert,Alex,Rainert,,,,,angellist_github
+Rick Webb,Rick,Webb,,,,,angellist_github
+Steven Pham,Steven,Pham,,ycombinator.com,,steven.pham@ycombinator.com,angellist_github
+Amy Buechler,Amy,Buechler,,ycombinator.com,,amy.buechler@ycombinator.com,angellist_github
+Rick Morrison,Rick,Morrison,,ycombinator.com,,rick.morrison@ycombinator.com,angellist_github
+Irina Lukashuk,Irina,Lukashuk,,ycombinator.com,,irina.lukashuk@ycombinator.com,angellist_github
+Michael Seibel,Michael,Seibel,,ycombinator.com,,michael.seibel@ycombinator.com,angellist_github
+Ilya Sukhar,Ilya,Sukhar,,ycombinator.com,,ilya.sukhar@ycombinator.com,angellist_github
+jon levy,jon,levy,,ycombinator.com,,jon.levy@ycombinator.com,angellist_github
+Jessica Livingston,Jessica,Livingston,,ycombinator.com,,jessica.livingston@ycombinator.com,angellist_github
+Kat Manalac,Kat,Manalac,,ycombinator.com,,kat.manalac@ycombinator.com,angellist_github
+Aaron Harris,Aaron,Harris,,ycombinator.com,,aaron.harris@ycombinator.com,angellist_github
+Yuri Sagalov,Yuri,Sagalov,,ycombinator.com,,yuri.sagalov@ycombinator.com,angellist_github
+Tara,Tara,,,ycombinator.com,,,angellist_github
+Dalton Caldwell,Dalton,Caldwell,,ycombinator.com,,dalton.caldwell@ycombinator.com,angellist_github
+Kirsty Nathoo,Kirsty,Nathoo,,ycombinator.com,,kirsty.nathoo@ycombinator.com,angellist_github
+Trevor Blackwell,Trevor,Blackwell,,ycombinator.com,,trevor.blackwell@ycombinator.com,angellist_github
+Justin Kan,Justin,Kan,,ycombinator.com,,justin.kan@ycombinator.com,angellist_github
+Steve Huffman,Steve,Huffman,,ycombinator.com,,steve.huffman@ycombinator.com,angellist_github
+Emmett Shear,Emmett,Shear,,ycombinator.com,,emmett.shear@ycombinator.com,angellist_github
+Sam Altman,Sam,Altman,,ycombinator.com,,sam.altman@ycombinator.com,angellist_github
+Geoff Ralston,Geoff,Ralston,,ycombinator.com,,geoff.ralston@ycombinator.com,angellist_github
+Harj Taggar,Harj,Taggar,,ycombinator.com,,harj.taggar@ycombinator.com,angellist_github
+Paul Buchheit,Paul,Buchheit,,ycombinator.com,,paul.buchheit@ycombinator.com,angellist_github
+Jeremy Glick,Jeremy,Glick,,,,,angellist_github
+Ben Narasin,Ben,Narasin,,,,,angellist_github
+Sundeep Peechu,Sundeep,Peechu,,,,,angellist_github
+Conrad Voorsanger,Conrad,Voorsanger,,,,,angellist_github
+Franklyn Chien,Franklyn,Chien,,,,,angellist_github
+Gus Fuldner,Gus,Fuldner,,,,,angellist_github
+Felix Shpilman,Felix,Shpilman,,,,,angellist_github
+Keval Desai,Keval,Desai,,,,,angellist_github
+Rob Hutter,Rob,Hutter,,,,,angellist_github
+Heesun Lho,Heesun,Lho,,500.co,,heesun.lho@500.co,angellist_github
+Erhan Erdogan,Erhan,Erdogan,,500.co,,erhan.erdogan@500.co,angellist_github
+Rebecca Kux,Rebecca,Kux,,500.co,,rebecca.kux@500.co,angellist_github
+Kelsey Cullen,Kelsey,Cullen,,500.co,,kelsey.cullen@500.co,angellist_github
+Kate Seledets,Kate,Seledets,,500.co,,kate.seledets@500.co,angellist_github
+Stephanie Lin,Stephanie,Lin,,500.co,,stephanie.lin@500.co,angellist_github
+Shalini Prakash,Shalini,Prakash,,500.co,,shalini.prakash@500.co,angellist_github
+Paulina Szyrmer,Paulina,Szyrmer,,500.co,,paulina.szyrmer@500.co,angellist_github
+James Riney,James,Riney,,500.co,,james.riney@500.co,angellist_github
+Jasmine Liew,Jasmine,Liew,,500.co,,jasmine.liew@500.co,angellist_github
+Norman Chang,Norman,Chang,,500.co,,norman.chang@500.co,angellist_github
+Binh Tran,Binh,Tran,,500.co,,binh.tran@500.co,angellist_github
+Sheel Mohnot,Sheel,Mohnot,,500.co,,sheel.mohnot@500.co,angellist_github
+Chelsea Ng,Chelsea,Ng,,500.co,,chelsea.ng@500.co,angellist_github
+Philipp Moehring,Philipp,Moehring,,500.co,,philipp.moehring@500.co,angellist_github
+Adam Benayoun,Adam,Benayoun,,500.co,,adam.benayoun@500.co,angellist_github
+Brian Wang,Brian,Wang,,500.co,,brian.wang@500.co,angellist_github
+Yang LIU,Yang,LIU,,500.co,,yang.liu@500.co,angellist_github
+Eddie Thai,Eddie,Thai,,500.co,,eddie.thai@500.co,angellist_github
+Nopadon Wongpakdee,Nopadon,Wongpakdee,,500.co,,nopadon.wongpakdee@500.co,angellist_github
+Bailey Maloney,Bailey,Maloney,,500.co,,bailey.maloney@500.co,angellist_github
+Ryan Lawler,Ryan,Lawler,,500.co,,ryan.lawler@500.co,angellist_github
+Andy Young,Andy,Young,,500.co,,andy.young@500.co,angellist_github
+Monica Matison,Monica,Matison,,500.co,,monica.matison@500.co,angellist_github
+Emily Chiu,Emily,Chiu,,500.co,,emily.chiu@500.co,angellist_github
+Selcuk Atli,Selcuk,Atli,,500.co,,selcuk.atli@500.co,angellist_github
+Carl Fritjofsson,Carl,Fritjofsson,,500.co,,carl.fritjofsson@500.co,angellist_github
+Min Kim,Min,Kim,,500.co,,min.kim@500.co,angellist_github
+Neil Dugal,Neil,Dugal,,500.co,,neil.dugal@500.co,angellist_github
+Tina Bao,Tina,Bao,,500.co,,tina.bao@500.co,angellist_github
+Alex Miller,Alex,Miller,,500.co,,alex.miller@500.co,angellist_github
+Alexi Calvo,Alexi,Calvo,,500.co,,alexi.calvo@500.co,angellist_github
+Kristen Wong,Kristen,Wong,,500.co,,kristen.wong@500.co,angellist_github
+Krating Poonpol,Krating,Poonpol,,500.co,,krating.poonpol@500.co,angellist_github
+Dave McClure,Dave,McClure,,,,,angellist_github
+Jared Green,Jared,Green,,,,,angellist_github
+Christian Dahlen,Christian,Dahlen,,,,,angellist_github
+Mohanjit Jolly,Mohanjit,Jolly,,dfj.com,,mohanjit.jolly@dfj.com,angellist_github
+Melisa Tucker,Melisa,Tucker,,dfj.com,,melisa.tucker@dfj.com,angellist_github
+Sunil Pai,Sunil,Pai,,dfj.com,,sunil.pai@dfj.com,angellist_github
+Jesse Robbins,Jesse,Robbins,,dfj.com,,jesse.robbins@dfj.com,angellist_github
+Shari Foldes,Shari,Foldes,,dfj.com,,shari.foldes@dfj.com,angellist_github
+Blair Silverberg,Blair,Silverberg,,dfj.com,,blair.silverberg@dfj.com,angellist_github
+Katie Hughes,Katie,Hughes,,dfj.com,,katie.hughes@dfj.com,angellist_github
+Sam Fort,Sam,Fort,,dfj.com,,sam.fort@dfj.com,angellist_github
+Josh Stein,Josh,Stein,,dfj.com,,josh.stein@dfj.com,angellist_github
+Tim Draper,Tim,Draper,,dfj.com,,tim.draper@dfj.com,angellist_github
+Heidi Roizen,Heidi,Roizen,,dfj.com,,heidi.roizen@dfj.com,angellist_github
+Jennifer Fonstad,Jennifer,Fonstad,,dfj.com,,jennifer.fonstad@dfj.com,angellist_github
+Rachel Pike,Rachel,Pike,,dfj.com,,rachel.pike@dfj.com,angellist_github
+Bill Bryant,Bill,Bryant,,dfj.com,,bill.bryant@dfj.com,angellist_github
+Yuliya Mykhaylovska,Yuliya,Mykhaylovska,,lererhippeau.com,,yuliya.mykhaylovska@lererhippeau.com,angellist_github
+Suraj Kapoor,Suraj,Kapoor,,lererhippeau.com,,suraj.kapoor@lererhippeau.com,angellist_github
+Julian Moncada,Julian,Moncada,,lererhippeau.com,,julian.moncada@lererhippeau.com,angellist_github
+Kate Shillo,Kate,Shillo,,lererhippeau.com,,kate.shillo@lererhippeau.com,angellist_github
+Andrea Hippeau,Andrea,Hippeau,,lererhippeau.com,,andrea.hippeau@lererhippeau.com,angellist_github
+Ben Lerer,Ben,Lerer,,lererhippeau.com,,ben.lerer@lererhippeau.com,angellist_github
+Taylor Greene,Taylor,Greene,,lererhippeau.com,,taylor.greene@lererhippeau.com,angellist_github
+Nicola Korzenko,Nicola,Korzenko,,lererhippeau.com,,nicola.korzenko@lererhippeau.com,angellist_github
+Blake Lyon,Blake,Lyon,,lererhippeau.com,,blake.lyon@lererhippeau.com,angellist_github
+Jordan Cooper,Jordan,Cooper,,lererhippeau.com,,jordan.cooper@lererhippeau.com,angellist_github
+Eric Hippeau,Eric,Hippeau,,lererhippeau.com,,eric.hippeau@lererhippeau.com,angellist_github
+Adam Besvinick,Adam,Besvinick,,lowercasellc.com,,adam.besvinick@lowercasellc.com,angellist_github
+Matt Mazzeo,Matt,Mazzeo,,lowercasellc.com,,matt.mazzeo@lowercasellc.com,angellist_github
+Chris Sacca,Chris,Sacca,,lowercasellc.com,,chris.sacca@lowercasellc.com,angellist_github
+Ellie Wheeler,Ellie,Wheeler,,lowercasellc.com,,ellie.wheeler@lowercasellc.com,angellist_github
+Neil Rimer,Neil,Rimer,,indexventures.com,,neil.rimer@indexventures.com,angellist_github
+Vojtech Horna,Vojtech,Horna,,indexventures.com,,vojtech.horna@indexventures.com,angellist_github
+Dominic Jacquesson,Dominic,Jacquesson,,indexventures.com,,dominic.jacquesson@indexventures.com,angellist_github
+George Henry,George,Henry,,indexventures.com,,george.henry@indexventures.com,angellist_github
+Shardul Shah,Shardul,Shah,,indexventures.com,,shardul.shah@indexventures.com,angellist_github
+Roman Fleck,Roman,Fleck,,indexventures.com,,roman.fleck@indexventures.com,angellist_github
+Imran Ghory,Imran,Ghory,,indexventures.com,,imran.ghory@indexventures.com,angellist_github
+Philipp Hartmann,Philipp,Hartmann,,indexventures.com,,philipp.hartmann@indexventures.com,angellist_github
+Bernard Dalle,Bernard,Dalle,,indexventures.com,,bernard.dalle@indexventures.com,angellist_github
+Nina Faulhaber,Nina,Faulhaber,,indexventures.com,,nina.faulhaber@indexventures.com,angellist_github
+Gerald Rimer,Gerald,Rimer,,indexventures.com,,gerald.rimer@indexventures.com,angellist_github
+Mike Volpi,Mike,Volpi,,indexventures.com,,mike.volpi@indexventures.com,angellist_github
+Robin Klein,Robin,Klein,,indexventures.com,,robin.klein@indexventures.com,angellist_github
+Terrence Rohan,Terrence,Rohan,,indexventures.com,,terrence.rohan@indexventures.com,angellist_github
+Martin Mignot,Martin,Mignot,,indexventures.com,,martin.mignot@indexventures.com,angellist_github
+Danny Rimer,Danny,Rimer,,indexventures.com,,danny.rimer@indexventures.com,angellist_github
+Andy McLoughlin,Andy,McLoughlin,,softtechvc.com,,andy.mcloughlin@softtechvc.com,angellist_github
+Ashley Cravens,Ashley,Cravens,,softtechvc.com,,ashley.cravens@softtechvc.com,angellist_github
+Charles Hudson,Charles,Hudson,,softtechvc.com,,charles.hudson@softtechvc.com,angellist_github
+Stephanie Palmeri,Stephanie,Palmeri,,softtechvc.com,,stephanie.palmeri@softtechvc.com,angellist_github
+Jeff Clavier,Jeff,Clavier,,softtechvc.com,,jeff.clavier@softtechvc.com,angellist_github
+Blanca Rodriguez,Blanca,Rodriguez,,foundercollective.com,,blanca.rodriguez@foundercollective.com,angellist_github
+Jane Wu,Jane,Wu,,foundercollective.com,,jane.wu@foundercollective.com,angellist_github
+Caterina Fake,Caterina,Fake,,foundercollective.com,,caterina.fake@foundercollective.com,angellist_github
+Richard F. Dulude,Richard,Dulude,,foundercollective.com,,richard.dulude@foundercollective.com,angellist_github
+Alex Davidov,Alex,Davidov,,foundercollective.com,,alex.davidov@foundercollective.com,angellist_github
+Craig Wilson,Craig,Wilson,,foundercollective.com,,craig.wilson@foundercollective.com,angellist_github
+David Frankel,David,Frankel,,foundercollective.com,,david.frankel@foundercollective.com,angellist_github
+Osman Ahmed Osman,Osman,Osman,,foundercollective.com,,osman.osman@foundercollective.com,angellist_github
+Eric Paley,Eric,Paley,,foundercollective.com,,eric.paley@foundercollective.com,angellist_github
+Katherine O'Neil,Katherine,O'Neil,,foundercollective.com,,katherine.o'neil@foundercollective.com,angellist_github
+Nathaniel Naddaff-Hafrey,Nathaniel,Naddaff-Hafrey,,foundercollective.com,,nathaniel.naddaff-hafrey@foundercollective.com,angellist_github
+Gaurav Jain,Gaurav,Jain,,foundercollective.com,,gaurav.jain@foundercollective.com,angellist_github
+Zach Klein,Zach,Klein,,foundercollective.com,,zach.klein@foundercollective.com,angellist_github
+Scott Heiferman,Scott,Heiferman,,foundercollective.com,,scott.heiferman@foundercollective.com,angellist_github
+Bill Trenchard,Bill,Trenchard,,foundercollective.com,,bill.trenchard@foundercollective.com,angellist_github
+Chris Dixon,Chris,Dixon,,foundercollective.com,,chris.dixon@foundercollective.com,angellist_github
+David Bill,David,Bill,,freestyle.vc,,david.bill@freestyle.vc,angellist_github
+Jenny Lefcourt,Jenny,Lefcourt,,freestyle.vc,,jenny.lefcourt@freestyle.vc,angellist_github
+Dave Samuel,Dave,Samuel,,freestyle.vc,,dave.samuel@freestyle.vc,angellist_github
+Josh Felser,Josh,Felser,,freestyle.vc,,josh.felser@freestyle.vc,angellist_github
+Ted Getten,Ted,Getten,,freestyle.vc,,ted.getten@freestyle.vc,angellist_github
+Molly Anawalt,Molly,Anawalt,,freestyle.vc,,molly.anawalt@freestyle.vc,angellist_github
+Natasha Pecor,Natasha,Pecor,,freestyle.vc,,natasha.pecor@freestyle.vc,angellist_github
+Jonathan Lee,Jonathan,Lee,,freestyle.vc,,jonathan.lee@freestyle.vc,angellist_github
+Matt Mullenweg,Matt,Mullenweg,,,,,angellist_github
+Jason Calacanis,Jason,Calacanis,,,,,angellist_github
+Michael Marquez,Michael,Marquez,,,,,angellist_github
+Alex Gezelius,Alex,Gezelius,,,,,angellist_github
+Fritz Lanman,Fritz,Lanman,,,,,angellist_github
+Lane Becker,Lane,Becker,,,,,angellist_github
+Josh Stylman,Josh,Stylman,,,,,angellist_github
+Peter Hershberg,Peter,Hershberg,,,,,angellist_github
+Nimi Katragadda,Nimi,Katragadda,,boxgroupnyc.com,,nimi.katragadda@boxgroupnyc.com,angellist_github
+Heston Berkman,Heston,Berkman,,boxgroupnyc.com,,heston.berkman@boxgroupnyc.com,angellist_github
+Greg Rosen,Greg,Rosen,,boxgroupnyc.com,,greg.rosen@boxgroupnyc.com,angellist_github
+Miriam Ryan,Miriam,Ryan,,boxgroupnyc.com,,miriam.ryan@boxgroupnyc.com,angellist_github
+Ken Pelletier,Ken,Pelletier,,,,,angellist_github
+Patrick Keane,Patrick,Keane,,,,,angellist_github
+John Maloney,John,Maloney,,,,,angellist_github
+Christopher Muscarella,Christopher,Muscarella,,,,,angellist_github
+Fundraising Email Templates,Fundraising,Templates,,,,,angelmatch
+Fundraising Templates,Fundraising,Templates,,,,,angelmatch
+Elevator Pitch Generator,Elevator,Generator,,,,,angelmatch
+Pitch Perfect,Pitch,Perfect,,,,,angelmatch
+Startup Fundraising Glossary,Startup,Glossary,,,,,angelmatch
+VC Search Tool,VC,Tool,,,,,angelmatch
+Accelerator Hunt,Accelerator,Hunt,,,,,angelmatch
+Pitch Deck Database,Pitch,Database,,,,,angelmatch
+Burn Rate Calculator,Burn,Calculator,,,,,angelmatch
+Runway Calculator,Runway,Calculator,,,,,angelmatch
+Startup Valuation Calculator,Startup,Calculator,,,,,angelmatch
+Investor ROI Calculator,Investor,Calculator,,,,,angelmatch
+Break Even Point Calculator,Break,Calculator,,,,,angelmatch
+Fundraising Readiness Quiz,Fundraising,Quiz,,,,,angelmatch
+Cap Table Calculator,Cap,Calculator,,,,,angelmatch
+Funding Goal Calculator,Funding,Calculator,,,,,angelmatch
+United States57281,United,States57281,,,,,angelmatch
+United Kingdom7551,United,Kingdom7551,,,,,angelmatch
+New York8555,New,York8555,,,,,angelmatch
+San Francisco6961,San,Francisco6961,,,,,angelmatch
+Los Angeles2157,Los,Angeles2157,,,,,angelmatch
+Palo Alto1047,Palo,Alto1047,,,,,angelmatch
+Health Care25599,Health,Care25599,,,,,angelmatch
+Financial Services21791,Financial,Services21791,,,,,angelmatch
+Enterprise Software19844,Enterprise,Software19844,,,,,angelmatch
+Series A3080,Series,A3080,,,,,angelmatch
+Series B3044,Series,B3044,,,,,angelmatch
+Early Stage Venture2665,Early,Venture2665,,,,,angelmatch
+Non Equity Assistance315,Non,Assistance315,,,,,angelmatch
+Late Stage Venture298,Late,Venture298,,,,,angelmatch
+Initial Coin Offering77,Initial,Offering77,,,,,angelmatch
+Venture Capital38839,Venture,Capital38839,,,,,angelmatch
+Private Equity Firm27051,Private,Firm27051,,,,,angelmatch
+Investment Partner5517,Investment,Partner5517,,,,,angelmatch
+Micro VC3674,Micro,VC3674,,,,,angelmatch
+Finance Operator1840,Finance,Operator1840,,,,,angelmatch
+Entrepreneurship Program1073,Entrepreneurship,Program1073,,,,,angelmatch
+Venture Capital,Venture,Capital,,,,,angelmatch
+Private Equity Firm,Private,Firm,,,,,angelmatch
+Finance Operator,Finance,Operator,,,,,angelmatch
+United States,United,States,,,,,angelmatch
+Health Care,Health,Care,,,,,angelmatch
+Micro VC,Micro,VC,,,,,angelmatch
+Investment Partner,Investment,Partner,,,,,angelmatch
+San Francisco,San,Francisco,,,,,angelmatch
+Enterprise Software,Enterprise,Software,,,,,angelmatch
+Data Integration,Data,Integration,,,,,angelmatch
+Entrepreneurship Program,Entrepreneurship,Program,,,,,angelmatch
+United Kingdom,United,Kingdom,,,,,angelmatch
+Mountain View,Mountain,View,,,,,angelmatch
+Menlo Park,Menlo,Park,,,,,angelmatch
+Mercer Island,Mercer,Island,,,,,angelmatch
+Hedge Fund,Hedge,Fund,,,,,angelmatch
+British Columbia,British,Columbia,,,,,angelmatch
+Computer Vision,Computer,Vision,,,,,angelmatch
+Local Commerce,Local,Commerce,,,,,angelmatch
+Miami Beach,Miami,Beach,,,,,angelmatch
+Remote Work Tech,Remote,Tech,,,,,angelmatch
+Palo Alto,Palo,Alto,,,,,angelmatch
+Angel Match,Angel,Match,,,,,angelmatch
+Investor name,Investor,name,Investor type,,,,angelmatch
+Brian Dixon,Brian,Dixon,"Venture Capital,Private Equity Firm,Finance Operator,Investor",,,,angelmatch
+Arif Janmohamed,Arif,Janmohamed,"Venture Capital,Private Equity Firm,Angel/Individual,Finance Operator,Micro VC,Investment Partner,Investor",,,,angelmatch
+Marcus Daniels,Marcus,Daniels,"Venture Capital,Incubator,Accelerator,Private Equity Firm,Angel/Individual,Investment Partner",,,,angelmatch
+Ryan McDonald,Ryan,McDonald,"Venture Capital,Private Equity Firm,Angel/Individual,Finance Operator,Investment Partner,Investor",,,,angelmatch
+Ron Warburton,Ron,Warburton,"Venture Capital,Investor",,,,angelmatch
+Andy Jenks,Andy,Jenks,"Venture Capital,Founder,Private Equity Firm,CEO,Investor",,,,angelmatch
+Chris Jones,Chris,Jones,"Venture Capital,Entrepreneurship Program,Angel/Individual,Investor",,,,angelmatch
+Jonathan Ebinger,Jonathan,Ebinger,"Venture Capital,Private Equity Firm,Angel/Individual,CEO,Investor",,,,angelmatch
+Adms Chung,Adms,Chung,Angel/Individual,,,,angelmatch
+Rick Yang,Rick,Yang,"Venture Capital,Private Equity Firm,Angel/Individual,Investor",,,,angelmatch
+Pete Sonsini,Pete,Sonsini,"Venture Capital,Private Equity Firm,Angel/Individual,Investor",,,,angelmatch
+Bobby Yazdani,Bobby,Yazdani,"Venture Capital,Incubator,Private Equity Firm,Angel/Individual,Investment Partner",,,,angelmatch
+Steve Sloane,Steve,Sloane,"Venture Capital,Private Equity Firm,Finance Operator,Investor",,,,angelmatch
+Andreas Stavropoulos,Andreas,Stavropoulos,"Venture Capital,Private Equity Firm,Angel/Individual,Investment Partner,Investor",,,,angelmatch
+Abhishek Sharma,Abhishek,Sharma,"Venture Capital,Private Equity Firm,Micro VC,Investor",,,,angelmatch
+Dan Rosen,Dan,Rosen,"Venture Capital,Founder,Private Equity Firm,Investor",,,,angelmatch
+Eric Chen,Eric,Chen,"Venture Capital,Private Equity Firm,Angel/Individual,Micro VC,Investment Partner",,,,angelmatch
+Benoist Grossmann,Benoist,Grossmann,"Venture Capital,Private Equity Firm",,,,angelmatch
+Scott Jacobson,Scott,Jacobson,"Venture Capital,Investor",,,,angelmatch
+Matt Cross,Matt,Cross,"Hedge Fund,Venture Capital,Founder,Private Equity Firm,Angel/Individual,Investor",,,,angelmatch
+Andre Bliznyuk,Andre,Bliznyuk,"Venture Capital,Entrepreneurship Program,Private Equity Firm,Finance Operator",,,,angelmatch
+Josh Elman,Josh,Elman,"Angel/Individual,Investment Partner",,,,angelmatch
+Jay Levy,Jay,Levy,"Venture Capital,Entrepreneurship Program,Private Equity Firm,Angel/Individual,Investment Partner,Investor",,,,angelmatch
+Byron Deeter,Byron,Deeter,"Venture Capital,Private Equity Firm,Angel/Individual,Finance Operator,Investor",,,,angelmatch
+David Hornik,David,Hornik,"Venture Capital,Angel/Individual,Investor",,,,angelmatch
+Unknown,Unknown,,,swyx.io,swyx@swyx.io,swyx@swyx.io,github_swyxio
+Tor Project,Tor,Project,,desiganchinniah.com,hello@desiganchinniah.com,hello@desiganchinniah.com,github_swyxio
+abhinav,,,,accel.com,abhinav@accel.com,abhinav@accel.com,github_contact_angels
+karthik.thasya,,,,gmail.com,karthik.thasya@gmail.com,karthik.thasya@gmail.com,github_contact_angels
+krishna,,,,telnetventures.com,krishna@telnetventures.com,krishna@telnetventures.com,github_contact_angels
+ajay.imprints,,,,gmail.com,ajay.imprints@gmail.com,ajay.imprints@gmail.com,github_contact_angels
+amitabhshrivastava1,,,,gmail.com,amitabhshrivastava1@gmail.com,amitabhshrivastava1@gmail.com,github_contact_angels
+naveen.rajappa,,,,gmail.com,naveen.rajappa@gmail.com,naveen.rajappa@gmail.com,github_contact_angels
+anniruddha,,,,gmail.com,anniruddha@gmail.com,anniruddha@gmail.com,github_contact_angels
+reichert,,,,garage.com,reichert@garage.com,reichert@garage.com,github_contact_angels
+shreekantmandke,,,,hotmail.com,shreekantmandke@hotmail.com,shreekantmandke@hotmail.com,github_contact_angels
+arunkishanvr,,,,gmail.com,arunkishanvr@gmail.com,arunkishanvr@gmail.com,github_contact_angels
+ashish.agrawal,,,,sequoiacap.com,ashish.agrawal@sequoiacap.com,ashish.agrawal@sequoiacap.com,github_contact_angels
+anup,,,,oriosvp.com,anup@oriosvp.com,anup@oriosvp.com,github_contact_angels
+robert.mittendorff,,,,gmail.com,robert.mittendorff@gmail.com,robert.mittendorff@gmail.com,github_contact_angels
+pratikpoddar05051989,,,,gmail.com,pratikpoddar05051989@gmail.com,pratikpoddar05051989@gmail.com,github_contact_angels
+satish,,,,yournest.in,satish@yournest.in,satish@yournest.in,github_contact_angels
+sugandh,,,,gmail.com,sugandh@gmail.com,sugandh@gmail.com,github_contact_angels
+sunishivananda,,,,yahoo.co.in,sunishivananda@yahoo.co.in,sunishivananda@yahoo.co.in,github_contact_angels
+ravi.shankar,,,,nearbuy.com,ravi.shankar@nearbuy.com,ravi.shankar@nearbuy.com,github_contact_angels
+rajat,,,,matrixpartners.in,rajat@matrixpartners.in,rajat@matrixpartners.in,github_contact_angels
+sameerbv,,,,outlook.com,sameerbv@outlook.com,sameerbv@outlook.com,github_contact_angels
+rohit_kochar,,,,hotmail.com,rohit_kochar@hotmail.com,rohit_kochar@hotmail.com,github_contact_angels
+arpan.mukh,,,,gmail.com,arpan.mukh@gmail.com,arpan.mukh@gmail.com,github_contact_angels
+luckyabhi,,,,gmail.com,luckyabhi@gmail.com,luckyabhi@gmail.com,github_contact_angels
+shm.vaio,,,,gmail.com,shm.vaio@gmail.com,shm.vaio@gmail.com,github_contact_angels
+kapilsuyal1991,,,,gmail.com,kapilsuyal1991@gmail.com,kapilsuyal1991@gmail.com,github_contact_angels
+sudhakar.t.paul,,,,gmail.com,sudhakar.t.paul@gmail.com,sudhakar.t.paul@gmail.com,github_contact_angels
+parag,,,,inventusindia.com,parag@inventusindia.com,parag@inventusindia.com,github_contact_angels
+arvindshukla2410,,,,gmail.com,arvindshukla2410@gmail.com,arvindshukla2410@gmail.com,github_contact_angels
+Carl Fawkes,Carl,Fawkes,,,,,bing_crunchbase
+Cyan Banister,Cyan,Banister,,,,,bing_crunchbase
+Allen Law,Allen,Law,,,,,bing_crunchbase
+Chrysi Philalithes,Chrysi,Philalithes,,,,,bing_crunchbase
+Christopher Hill,Christopher,Hill,,,,,bing_crunchbase
+Jonathan Miller,Jonathan,Miller,,,,,bing_crunchbase
+Jeremy Yap,Jeremy,Yap,,,,,bing_crunchbase
+Anne DeGheest,Anne,DeGheest,,,,,bing_crunchbase
+Thomas McInerney,Thomas,McInerney,,,,,bing_crunchbase
+Anton Derlyatka,Anton,Derlyatka,,,,,bing_crunchbase
+David Shaw,David,Shaw,,,,,bing_crunchbase
+Matilde Giglio,Matilde,Giglio,,,,,bing_crunchbase
+Raja Dhir,Raja,Dhir,,,,,bing_crunchbase
+Angel Investors,Angel,Investors,,,,,bing_crunchbase
+Joe Tischler,Joe,Tischler,,,,,bing_crunchbase
+Tamar Lifshitz,Tamar,Lifshitz,,,,,bing_crunchbase
+George Godula,George,Godula,,,,,bing_crunchbase
+Ivan Mestrangelo,Ivan,Mestrangelo,,,,,bing_crunchbase
+Ali Ciger,Ali,Ciger,,,,,bing_crunchbase
+David Langer,David,Langer,,,,,bing_crunchbase
+Alex Cohen,Alex,Cohen,,,,,bing_crunchbase
+Paul Taylor,Paul,Taylor,,,,,bing_crunchbase
+Mark Goldstein,Mark,Goldstein,,,,,bing_crunchbase
+Ara Katz,Ara,Katz,,,,,bing_crunchbase
+Yechiel Engelhard,Yechiel,Engelhard,,,,,bing_crunchbase
+Ira Wallace,Ira,Wallace,,,,,bing_crunchbase
+John Hui,John,Hui,,,,,bing_crunchbase
+Brendan Hill,Brendan,Hill,,,,,bing_crunchbase

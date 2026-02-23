@@ -1,0 +1,488 @@
+[
+  {
+    "name": "Nathaniel Kurokawa",
+    "email": "nathaniel.kurokawa.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Accounting",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/accounting/meet-the-students/Nathaniel-Kurokawa"
+  },
+  {
+    "name": "Tianrui Lin",
+    "email": "tianrui.lin.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Accounting",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/accounting/meet-the-students/Tianrui-Lin"
+  },
+  {
+    "name": "Zi Yang",
+    "email": "zi.yang.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Accounting",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/accounting/meet-the-students/Zi-Yang"
+  },
+  {
+    "name": "Zongxu Yu",
+    "email": "zongxu.yu.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Accounting",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/accounting/meet-the-students/Zongxu-Yu"
+  },
+  {
+    "name": "Kai Chiu Yang",
+    "email": "kaichiu.yang.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Accounting",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/accounting/meet-the-students/kai-chiu-yang"
+  },
+  {
+    "name": "Yongkang (Stanley) Huang",
+    "email": "yshuang@ucla.edu",
+    "department": "Anderson - PhD Accounting",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/accounting/meet-the-students/yongkang-huang"
+  },
+  {
+    "name": "Andrea Low",
+    "email": "andrea.low.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Behavioral Decision Making",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/behavioral-decision-making/meet-the-students/andrea-low"
+  },
+  {
+    "name": "Chelsea Tianyi Che",
+    "email": "tianyi.che.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Behavioral Decision Making",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/behavioral-decision-making/meet-the-students/chelsea-tianyi-che"
+  },
+  {
+    "name": "Giulia Maimone",
+    "email": "giulia.maimone@anderson.ucla.edu",
+    "department": "Anderson - PhD Behavioral Decision Making",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/behavioral-decision-making/meet-the-students/giulia-maimone"
+  },
+  {
+    "name": "Ilana Brody",
+    "email": "ilana.brody.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Behavioral Decision Making",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/behavioral-decision-making/meet-the-students/ilana-brody"
+  },
+  {
+    "name": "Maria Trupia",
+    "email": "maria.trupia@anderson.ucla.edu",
+    "department": "Anderson - PhD Behavioral Decision Making",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/behavioral-decision-making/meet-the-students/maria-trupia"
+  },
+  {
+    "name": "Megan Weber",
+    "email": "megan.weber.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Behavioral Decision Making",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/behavioral-decision-making/meet-the-students/megan-weber"
+  },
+  {
+    "name": "Samuel Skowronek",
+    "email": "sam.skowronek@anderson.ucla.edu",
+    "department": "Anderson - PhD Behavioral Decision Making",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/behavioral-decision-making/meet-the-students/samuel-skowronek"
+  },
+  {
+    "name": "Shelli Orzach",
+    "email": "sorzach@g.ucla.edu",
+    "department": "Anderson - PhD Behavioral Decision Making",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/behavioral-decision-making/meet-the-students/shelli-orzach"
+  },
+  {
+    "name": "Weishan Zhang",
+    "email": "weishan.zhang.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Behavioral Decision Making",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/behavioral-decision-making/meet-the-students/weishan-zhang"
+  },
+  {
+    "name": "Zhihan Cui",
+    "email": "charu.gupta@anderson.ucla.edu",
+    "department": "Anderson - PhD Behavioral Decision Making",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/behavioral-decision-making/meet-the-students/zhihan-cui"
+  },
+  {
+    "name": "Zixiao Wang",
+    "email": "zixiao.wang.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Decisions Operations And Technology Management",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/decisions-operations-and-technology-management/meet-the-students/Zixiao-Wang"
+  },
+  {
+    "name": "Abolfazl Taghavi",
+    "email": "abolfazl.taghavi.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Decisions Operations And Technology Management",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/decisions-operations-and-technology-management/meet-the-students/abolfazi-taghavi"
+  },
+  {
+    "name": "Mart\u00edn Gonz\u00e1lez Cabello",
+    "email": "martin.gonzalez.cabello.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Decisions Operations And Technology Management",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/decisions-operations-and-technology-management/meet-the-students/martin-gonzalez-cabello"
+  },
+  {
+    "name": "Muzhi Ma",
+    "email": "muzhi.ma.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Decisions Operations And Technology Management",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/decisions-operations-and-technology-management/meet-the-students/muzhi-ma"
+  },
+  {
+    "name": "Natalia Trigo Tomasevich",
+    "email": "natalia.trigo.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Decisions Operations And Technology Management",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/decisions-operations-and-technology-management/meet-the-students/natalia-trigo-tomasevich"
+  },
+  {
+    "name": "Niuniu Zhang",
+    "email": "niuniu.zhang.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Decisions Operations And Technology Management",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/decisions-operations-and-technology-management/meet-the-students/niuniu-zhang"
+  },
+  {
+    "name": "Alexandra Yizhuo Dong",
+    "email": "yizhuo.dong.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Decisions Operations And Technology Management",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/decisions-operations-and-technology-management/meet-the-students/yizhuo-dong"
+  },
+  {
+    "name": "Zach Jordan",
+    "email": "zachary.jordan.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Decisions Operations And Technology Management",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/decisions-operations-and-technology-management/meet-the-students/zach-jordan"
+  },
+  {
+    "name": "Junyu Zhang",
+    "email": "zhiyuan.sun.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Decisions Operations And Technology Management",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/decisions-operations-and-technology-management/meet-the-students/zhiyuan-sun"
+  },
+  {
+    "name": "Aria Liu",
+    "email": "aria.liu.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Finance",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/finance/meet-the-students/Aria-Liu"
+  },
+  {
+    "name": "Aryamaan (AJ) Jena",
+    "email": "aryamaan.jena.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Finance",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/finance/meet-the-students/Aryamaan-Jena"
+  },
+  {
+    "name": "Quynh Trang Nguyen",
+    "email": "trang.nguyen.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Finance",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/finance/meet-the-students/Quynh-Trang-Nguyen"
+  },
+  {
+    "name": "Yi Li",
+    "email": "yi.li.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Finance",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/finance/meet-the-students/Yi-Li"
+  },
+  {
+    "name": "Yucheng Huang",
+    "email": "yucheng.huang.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Finance",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/finance/meet-the-students/Yucheng-Huang"
+  },
+  {
+    "name": "Anand Systla",
+    "email": "venkat.anand.systla.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Finance",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/finance/meet-the-students/anand-systla"
+  },
+  {
+    "name": "Guilherme Luz",
+    "email": "guilherme.luz.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Finance",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/finance/meet-the-students/guilherme-luz"
+  },
+  {
+    "name": "Jianye (Jerry) Hua",
+    "email": "jianye.hua.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Finance",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/finance/meet-the-students/jianye-jerry-hua"
+  },
+  {
+    "name": "Jie (Eva) Yu",
+    "email": "jie.yu.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Finance",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/finance/meet-the-students/jie-eva-yu"
+  },
+  {
+    "name": "Joong Park",
+    "email": "joongwoo.park.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Finance",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/finance/meet-the-students/joong-park"
+  },
+  {
+    "name": "Junyu Zhang",
+    "email": "junyu.zhang.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Finance",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/finance/meet-the-students/junyu-zhang"
+  },
+  {
+    "name": "Ki Beom Lee",
+    "email": "kibeom.lee.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Finance",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/finance/meet-the-students/ki-beom-lee"
+  },
+  {
+    "name": "Louis Liu",
+    "email": "louxliu@g.ucla.edu",
+    "department": "Anderson - PhD Finance",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/finance/meet-the-students/louis-liu"
+  },
+  {
+    "name": "Matthew Massicotte",
+    "email": "matthew.massicotte.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Finance",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/finance/meet-the-students/matthew-massicotte"
+  },
+  {
+    "name": "May Lyn Cheah",
+    "email": "may.lyn.cheah.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Finance",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/finance/meet-the-students/may-lyn-cheah"
+  },
+  {
+    "name": "Ran Zhou",
+    "email": "ran.zhou.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Finance",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/finance/meet-the-students/ran-zhou"
+  },
+  {
+    "name": "Roy Nie",
+    "email": "roy.nie.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Finance",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/finance/meet-the-students/roy-nie"
+  },
+  {
+    "name": "Terry Cheng",
+    "email": "terry.cheng.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Finance",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/finance/meet-the-students/terry-cheng"
+  },
+  {
+    "name": "Yingru Pan",
+    "email": "yingru.pan.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Finance",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/finance/meet-the-students/yingru-pan"
+  },
+  {
+    "name": "Zhengqing (Cody) Wan",
+    "email": "zhengqing.wan.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Finance",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/finance/meet-the-students/zhengqing-cody-wan"
+  },
+  {
+    "name": "Luca Lorenzini",
+    "email": "luca.lorenzini.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Global Economics And Management",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/global-economics-and-management/meet-the-students/Luca-Lorenzini"
+  },
+  {
+    "name": "Sveva Manfredi",
+    "email": "sveva.manfredi.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Global Economics And Management",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/global-economics-and-management/meet-the-students/Sveva-Manfredi"
+  },
+  {
+    "name": "Zhengqi Tao",
+    "email": "zhengqi.tao.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Global Economics And Management",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/global-economics-and-management/meet-the-students/Zhengqi-Tao"
+  },
+  {
+    "name": "Aleksandr Gevorkian",
+    "email": "aleksandr.gevorkian.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Global Economics And Management",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/global-economics-and-management/meet-the-students/aleksandr-gevorkian"
+  },
+  {
+    "name": "Anh Nguyen",
+    "email": "anh.nguyen.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Global Economics And Management",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/global-economics-and-management/meet-the-students/anh-nguyen"
+  },
+  {
+    "name": "Beatriz Rache",
+    "email": "beatriz.rache.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Global Economics And Management",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/global-economics-and-management/meet-the-students/beatriz-rache"
+  },
+  {
+    "name": "Elisabetta Campagna",
+    "email": "elisabetta.campagna.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Global Economics And Management",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/global-economics-and-management/meet-the-students/elisabetta-campagna"
+  },
+  {
+    "name": "Geer Ang",
+    "email": "geer.ang.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Global Economics And Management",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/global-economics-and-management/meet-the-students/geer-ang"
+  },
+  {
+    "name": "Lian Chen",
+    "email": "lian.chen.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Global Economics And Management",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/global-economics-and-management/meet-the-students/lian-chen"
+  },
+  {
+    "name": "Mario Canales",
+    "email": "mario.canales.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Global Economics And Management",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/global-economics-and-management/meet-the-students/mario-canales"
+  },
+  {
+    "name": "Rafael Macedo Rubi\u00e3o",
+    "email": "rafael.rubiao.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Global Economics And Management",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/global-economics-and-management/meet-the-students/rafael-macedo-rubi%C3%A3o"
+  },
+  {
+    "name": "Yangkeun Yun",
+    "email": "yangkeun.yun.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Global Economics And Management",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/global-economics-and-management/meet-the-students/yangkeun-yun"
+  },
+  {
+    "name": "Yujing Huang",
+    "email": "yujing.huang.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Global Economics And Management",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/global-economics-and-management/meet-the-students/yujing-huang"
+  },
+  {
+    "name": "Linda Kawamoto",
+    "email": "linda.kawamoto.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Management And Organizations",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/management-and-organizations/meet-the-students/Linda-Kawamoto"
+  },
+  {
+    "name": "Benjamin B. Keller",
+    "email": "benjamin.keller.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Management And Organizations",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/management-and-organizations/meet-the-students/benjamin-b-keller"
+  },
+  {
+    "name": "Daniel Choi",
+    "email": "daniel.choi.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Management And Organizations",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/management-and-organizations/meet-the-students/daniel-choi"
+  },
+  {
+    "name": "Elizabeth Jiang",
+    "email": "elizabeth.jiang.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Management And Organizations",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/management-and-organizations/meet-the-students/elizabeth-jiang"
+  },
+  {
+    "name": "Hanqiu Li",
+    "email": "hanqiu.li.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Management And Organizations",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/management-and-organizations/meet-the-students/hanqiu-li"
+  },
+  {
+    "name": "Hyunjin Cha",
+    "email": "hyun.jin.cha.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Management And Organizations",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/management-and-organizations/meet-the-students/hyunjin-cha"
+  },
+  {
+    "name": "Lienne Cupal",
+    "email": "lcupal@g.ucla.edu",
+    "department": "Anderson - PhD Management And Organizations",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/management-and-organizations/meet-the-students/lienne-cupal"
+  },
+  {
+    "name": "Sivahn B. Barli",
+    "email": "sivahn.barli.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Management And Organizations",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/management-and-organizations/meet-the-students/sivahn-barli"
+  },
+  {
+    "name": "Bolun Xiao",
+    "email": "bolun.xiao.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Marketing",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/marketing/meet-the-students/bolun-xiao"
+  },
+  {
+    "name": "Charlotte Mingjie Zhu",
+    "email": "charlotte.zhu.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Marketing",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/marketing/meet-the-students/charlotte-mingjie-zhu"
+  },
+  {
+    "name": "Eitan Rude",
+    "email": "eitan.rude.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Marketing",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/marketing/meet-the-students/eitan-rude"
+  },
+  {
+    "name": "Eunsun Kim",
+    "email": "eunsun.kim.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Marketing",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/marketing/meet-the-students/eunsun-kim"
+  },
+  {
+    "name": "Mercy Xuhe Luo",
+    "email": "mercy.luo.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Marketing",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/marketing/meet-the-students/mercy-xuhe-luo"
+  },
+  {
+    "name": "Neha Nair",
+    "email": "neha.nair.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Marketing",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/marketing/meet-the-students/neha-nair"
+  },
+  {
+    "name": "Qingyang Wang",
+    "email": "qingyang.wang.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Marketing",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/marketing/meet-the-students/qingyang-wang"
+  },
+  {
+    "name": "Rui A",
+    "email": "rui.a.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Marketing",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/marketing/meet-the-students/rui-a"
+  },
+  {
+    "name": "Yunshu Hu",
+    "email": "yunshu.hu.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Marketing",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/marketing/meet-the-students/yunshu-hu"
+  },
+  {
+    "name": "Zen Ye",
+    "email": "zen.ye.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Marketing",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/marketing/meet-the-students/zen-ye"
+  },
+  {
+    "name": "Hillary Cookler",
+    "email": "hillary.cookler.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Strategy",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/strategy/meet-the-students/hillary-cookler"
+  },
+  {
+    "name": "Isaac Tucker",
+    "email": "isaac.tucker.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Strategy",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/strategy/meet-the-students/isaac-tucker"
+  },
+  {
+    "name": "Richard Li",
+    "email": "richard.li.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Strategy",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/strategy/meet-the-students/richard-li"
+  },
+  {
+    "name": "Tej Dhillon",
+    "email": "tejpal.dhillon.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Strategy",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/strategy/meet-the-students/tej-dhillon"
+  },
+  {
+    "name": "Tzu-Hui (Whitney) Yu",
+    "email": "tzu-hui.yu.phd@anderson.ucla.edu",
+    "department": "Anderson - PhD Strategy",
+    "source_url": "https://www.anderson.ucla.edu/degrees/phd-program/areas-of-study/strategy/meet-the-students/tzu-hui-whitney-yu"
+  }
+]

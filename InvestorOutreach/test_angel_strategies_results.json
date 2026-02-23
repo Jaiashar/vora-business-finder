@@ -1,0 +1,843 @@
+{
+  "crunchbase": {
+    "emails": [],
+    "names": [
+      {
+        "name": "Ali Ciger",
+        "url": "https://www.crunchbase.com/person/ali-ciger"
+      },
+      {
+        "name": "John Hui",
+        "url": "https://www.crunchbase.com/person/john-hui-3"
+      },
+      {
+        "name": "Anne DeGheest",
+        "url": "https://www.crunchbase.com/person/anne-degheest"
+      },
+      {
+        "name": "Christopher Hill",
+        "url": "https://www.crunchbase.com/person/christopher-hill"
+      },
+      {
+        "name": "Yechiel Engelhard",
+        "url": "https://www.crunchbase.com/person/yechiel-engelhard"
+      },
+      {
+        "name": "Ira Wallace",
+        "url": "https://www.crunchbase.com/person/ira-wallace"
+      },
+      {
+        "name": "Matilde Giglio",
+        "url": "https://www.crunchbase.com/person/matilde-giglio"
+      },
+      {
+        "name": "Johonniuss Chemweno",
+        "url": "https://www.crunchbase.com/person/johonniuss-chemweno"
+      },
+      {
+        "name": "Shelby Clark",
+        "url": "https://www.crunchbase.com/person/shelby-clark"
+      },
+      {
+        "name": "Adam Schlifke",
+        "url": "https://www.crunchbase.com/person/adam-schlifke"
+      },
+      {
+        "name": "Pradeep K Jaisingh",
+        "url": "https://www.crunchbase.com/person/pradeep-k-jaisingh"
+      },
+      {
+        "name": "Achim Diedenhofen",
+        "url": "https://www.crunchbase.com/person/achim-diedenhofen"
+      },
+      {
+        "name": "Angel Investor",
+        "url": "https://www.crunchbase.com/person/angel-investor-f167"
+      },
+      {
+        "name": "Sophia Das",
+        "url": "https://www.crunchbase.com/person/sophia-das"
+      },
+      {
+        "name": "Halle Tecco",
+        "url": "https://www.crunchbase.com/person/halle-tecco"
+      },
+      {
+        "name": "Rasool Rayani",
+        "url": "https://www.crunchbase.com/person/rasool-rayani"
+      },
+      {
+        "name": "Tamar Lifshitz",
+        "url": "https://www.crunchbase.com/person/tamar-lifshitz"
+      },
+      {
+        "name": "Jeff Rusinow",
+        "url": "https://www.crunchbase.com/person/jeff-rusinow"
+      },
+      {
+        "name": "Anita Nunes",
+        "url": "https://www.crunchbase.com/person/anita-nunes"
+      },
+      {
+        "name": "Bhavdeep Singh",
+        "url": "https://www.crunchbase.com/person/bhavdeep-singh-bbe2"
+      },
+      {
+        "name": "Halle Tecco",
+        "url": "https://www.crunchbase.com/person/halle-tecco"
+      },
+      {
+        "name": "Sarah Harper",
+        "url": "https://www.crunchbase.com/person/sarah-harper-e366"
+      },
+      {
+        "name": "Amar Kendale",
+        "url": "https://www.crunchbase.com/person/amar-kendale"
+      },
+      {
+        "name": "John R. Luna",
+        "url": "https://www.crunchbase.com/person/john-r-luna"
+      },
+      {
+        "name": "0x650d",
+        "url": "https://www.crunchbase.com/person/0x-650d"
+      },
+      {
+        "name": "Angel Investor",
+        "url": "https://crunchbase.com/person/angel-investor"
+      },
+      {
+        "name": "Angel Investor",
+        "url": "https://www.crunchbase.com/person/angel-investor-46eb"
+      },
+      {
+        "name": "Rhett Rumery",
+        "url": "https://www.crunchbase.com/person/rhet-rumery"
+      },
+      {
+        "name": "John Nite",
+        "url": "https://www.crunchbase.com/person/john-nite"
+      },
+      {
+        "name": "Jason Ball",
+        "url": "https://www.crunchbase.com/person/jason-ball-3"
+      },
+      {
+        "name": "Sorabh Agarwal",
+        "url": "https://www.crunchbase.com/person/sorabh-agarwal-sorabh-agarwal"
+      },
+      {
+        "name": "Kelsey Finch",
+        "url": "https://www.crunchbase.com/person/kelsey-finch"
+      },
+      {
+        "name": "Sandy Weisman",
+        "url": "https://www.crunchbase.com/person/sandy-weisman"
+      },
+      {
+        "name": "Mattias Miksche",
+        "url": "https://www.crunchbase.com/person/mattias-miksche"
+      },
+      {
+        "name": "Undisclosed Angel Investor",
+        "url": "https://www.crunchbase.com/person/undisclosed-angel-investor"
+      },
+      {
+        "name": "Orin Levy",
+        "url": "https://www.crunchbase.com/person/orin-levy"
+      },
+      {
+        "name": "Takuya Noguchi",
+        "url": "https://www.crunchbase.com/person/takuya-noguchi"
+      },
+      {
+        "name": "Vanessa Hudgens",
+        "url": "https://www.crunchbase.com/person/vanessa-hudgens-f96b"
+      },
+      {
+        "name": "Angel Rich",
+        "url": "https://www.crunchbase.com/person/angel-rich"
+      },
+      {
+        "name": "Vishal Makwana",
+        "url": "https://www.crunchbase.com/person/vishal-makwana-f800?trk=funding_investors"
+      },
+      {
+        "name": "Tamar Lifshitz",
+        "url": "https://www.crunchbase.com/person/tamar-lifshitz"
+      },
+      {
+        "name": "Ali Ciger",
+        "url": "https://www.crunchbase.com/person/ali-ciger"
+      }
+    ],
+    "pages_accessible": 0
+  },
+  "conferences": {
+    "emails": [
+      "j.wong@lifesciencenation.com",
+      "mweiss@uw.edu",
+      "tlbutler@uw.edu",
+      "tejewell@uw.edu",
+      "ithsedu@uw.edu",
+      "abdul@sonicxmedia.com",
+      "cgregor2@uw.edu",
+      "user@domain.com",
+      "events@rockhealth.org",
+      "blakin@cambridgeinnovationinstitute.com",
+      "jgreen@cambridgeinnovationinstitute.com",
+      "vip@cambridgevip.com",
+      "dhis@healthtech.com",
+      "bcaine@cambridgeinnovationinstitute.com"
+    ],
+    "speakers_found": 0,
+    "pages_accessible": 3
+  },
+  "sec_edgar": {
+    "filings": 44,
+    "names": [],
+    "emails": []
+  },
+  "wellfound": {
+    "profiles": [
+      {
+        "name": "wellfound.com",
+        "url": "https://wellfound.com/u/okvip68com"
+      },
+      {
+        "name": "Top 10 Wearable Tech Companies on the Rise | AngelList Talent",
+        "url": "https://angel.co/job-collections/top-wearables-companies-hiring-today"
+      },
+      {
+        "name": "Earable Careers | AngelList Talent",
+        "url": "https://angel.co/company/earable-1"
+      },
+      {
+        "name": "Best Wearables Companies and Startups to Work for in 2026",
+        "url": "https://angel.co/startups/industry/wearables-2"
+      },
+      {
+        "name": "Strados Labs Funding Rounds, Valuation & Investors",
+        "url": "https://angel.co/company/strados-labs/funding"
+      },
+      {
+        "name": "Atlas Wearables: Founder, Leadership & Team",
+        "url": "https://angel.co/company/atlas-wearables/people"
+      },
+      {
+        "name": "Twin Health Careers",
+        "url": "https://angel.co/company/twin-health"
+      },
+      {
+        "name": "20 Remote Startups Revolutionizing Healthcare Technology",
+        "url": "https://angel.co/job-collections/x-startups-revolutionizing-health-care-technology"
+      },
+      {
+        "name": "Best Digital Health Companies and Startups to Work for in London, England, United Kingdom 2023 | Wellfound (formerly AngelList Talent)",
+        "url": "https://angel.co/startups/l/london/digital-health-3"
+      },
+      {
+        "name": "Angel Sensor | AngelList",
+        "url": "https://angel.co/company/angel-sensor"
+      },
+      {
+        "name": "Wearable Wellness | AngelList",
+        "url": "https://angel.co/company/wearable-wellness"
+      },
+      {
+        "name": "Atlas Wearables Funding | AngelList",
+        "url": "https://angel.co/company/atlas-wearables/funding"
+      },
+      {
+        "name": "Health and Wellness Angel Investors | AngelList",
+        "url": "https://angel.co/health-and-wellness/investors"
+      },
+      {
+        "name": "Muse wearables Funding | AngelList",
+        "url": "https://angel.co/company/conzumex-1/funding"
+      },
+      {
+        "name": "Medical Devices Angel Investors | AngelList",
+        "url": "https://angel.co/medical-devices/investors"
+      },
+      {
+        "name": "Healthcare Angel Investors | AngelList",
+        "url": "https://angel.co/health-care/investors"
+      }
+    ],
+    "emails": [],
+    "pages_accessible": 0
+  },
+  "substack": {
+    "newsletters": [
+      {
+        "title": "How I Became an Angel Investor - by Nicole Bruno",
+        "url": "https://nicolebruno.substack.com/p/how-i-became-an-angel-investor"
+      },
+      {
+        "title": "I'm an investor in Olipop AND Poppi... - by Nicole Bruno - NOBREAD's Breadcrumbs",
+        "url": "https://nicolebruno.substack.com/p/im-an-investor-in-olipop-and-poppi"
+      },
+      {
+        "title": "Perimenopause wellness brand Valerie raises \u00a3514k pre-seed funding - FutureFemHealth",
+        "url": "https://substack.com/home/post/p-162521495?utm_campaign=post"
+      },
+      {
+        "title": "Kate Lambridis and Georgia Vidler's Human Health Raises $5.5M to Help People Manage Chronic Conditions - FemWealth",
+        "url": "https://femwealth.substack.com/p/kate-lambridis-and-georgia-vidlers"
+      },
+      {
+        "title": "Hey Freya Gets Angel Investors Backing to Advance Women's Wellness - FemWealth",
+        "url": "https://femwealth.substack.com/p/hey-freya-gets-angel-investors-backing"
+      },
+      {
+        "title": "Wearables, Wellness, and the Future of Therapy: Our First Investment Story - Viaka's Newsletter",
+        "url": "https://viaka.substack.com/p/wearables-wellness-and-the-future"
+      },
+      {
+        "title": "Angel Interview #2: Deepali Nangia - the Angels - Substack",
+        "url": "https://alltheangels.substack.com/p/-angel-interview-2-deepali-nangia"
+      },
+      {
+        "title": "Fredel Romano - Substack",
+        "url": "https://substack.com/@fredel"
+      },
+      {
+        "title": "How to change your LinkedIn bio to \"Angel investor in Femtech\"",
+        "url": "https://ancagriffiths.substack.com/p/how-to-change-your-linkedin-bio-to"
+      },
+      {
+        "title": "How Billionaires Invest in Their Health: Biohacking ...",
+        "url": "https://raisini.substack.com/p/how-billionaires-invest-in-their"
+      },
+      {
+        "title": "Angel Investing Explained - by Jason Leonard - Finbrain",
+        "url": "https://finbrain.substack.com/p/angel-investing-explained"
+      },
+      {
+        "title": "Best Health & Wellness Newsletters on Substack",
+        "url": "https://substack.com/top/health"
+      },
+      {
+        "title": "Apprenticing as an Angel with Roxanne Sanguinetti",
+        "url": "https://wallstreetsuspense.substack.com/p/apprenticing-as-an-angel"
+      },
+      {
+        "title": "Impact Investor Azzi Agnelli is backing Mental Health ...",
+        "url": "https://shecan.substack.com/p/impact-investor-azzi-agnelli-is-backing-b3a"
+      },
+      {
+        "title": "Angel Investing - by Anu - Working Theorys",
+        "url": "https://substack.com/home/post/p-140607258?utm_campaign=post"
+      },
+      {
+        "title": "Kevin's Weekly Health Tech Reads | Kevin O'Leary | Substack",
+        "url": "https://kevinoleary.substack.com/"
+      },
+      {
+        "title": "Narrative Drift: How Founders Lose Investor Conviction Without Noticing - HealthVC",
+        "url": "https://healthvc.substack.com/p/narrative-drift-how-founders-lose"
+      },
+      {
+        "title": "Your 2025 health tech recap is here! - by Halle Tecco",
+        "url": "https://halletecco.substack.com/p/your-2025-health-tech-recap-is-here"
+      },
+      {
+        "title": "Health tech is hopping - by Madeline Renbarger - Newcomer",
+        "url": "https://substack.com/home/post/p-164769928?utm_campaign=post"
+      },
+      {
+        "title": "Built in Europe. Scaled Somewhere Else. - by Martyn Eeles - HealthVC",
+        "url": "https://healthvc.substack.com/p/built-in-europe-scaled-somewhere"
+      },
+      {
+        "title": "Scaling and Investing in Digital Health ventures - baby vc",
+        "url": "https://babyvc.substack.com/p/scaling-and-investing-in-digital"
+      },
+      {
+        "title": "About - Dr. Vedra's Health Tech Insider",
+        "url": "https://vedra.substack.com/about"
+      },
+      {
+        "title": "What LPs Are Asking About Healthtech Funds in 2025 - Substack",
+        "url": "https://substack.com/home/post/p-166098086?utm_campaign=post"
+      },
+      {
+        "title": "The Digital Health IPO Watchlist 2026 - by Halle Tecco - Massively Better Healthcare",
+        "url": "https://halletecco.substack.com/p/the-digital-health-ipo-watchlist"
+      },
+      {
+        "title": "Nilah Mataafa | Substack",
+        "url": "https://substack.com/@allthingsfemtech"
+      },
+      {
+        "title": "Gabe Strauss | Substack",
+        "url": "https://substack.com/@behavioralhealthpm"
+      },
+      {
+        "title": "Chris James | Substack",
+        "url": "https://substack.com/@acceptable"
+      },
+      {
+        "title": "Akhil Jayaprakash | Substack",
+        "url": "https://substack.com/@akhiljpdev"
+      },
+      {
+        "title": "Olivia Webb | Substack",
+        "url": "https://substack.com/@acute"
+      },
+      {
+        "title": "About - Margins of Medicine",
+        "url": "https://marginsofmedicine.substack.com/about"
+      },
+      {
+        "title": "Venture Returns in Digital Health - tylerjwilson.substack.com",
+        "url": "https://tylerjwilson.substack.com/p/venture-returns-in-digital-health"
+      },
+      {
+        "title": "Founders-Angels Investing in Digital Health",
+        "url": "https://nadavshi.substack.com/p/founders-angels-investing-in-digital"
+      },
+      {
+        "title": "Why I stopped angel investing after 15 years (and what I'm doing instead)",
+        "url": "https://halletecco.substack.com/p/why-i-stopped-angel-investing-after"
+      },
+      {
+        "title": "How Alex Cohen Balances Angel Investing, Shit Posting, and Product Lead [Ep 31]",
+        "url": "https://substack.com/home/post/p-137061193?utm_campaign=post"
+      },
+      {
+        "title": "Here's how much I have(n't) made angel investing - Halle Tecco | Substack",
+        "url": "https://halletecco.substack.com/p/heres-how-much-ive-made-angel-investing"
+      },
+      {
+        "title": "From Pre-Seed to IPO: A Health Tech Founder's Guide to Venture Rounds - HealthVC",
+        "url": "https://healthvc.substack.com/p/from-pre-seed-to-ipo-a-health-tech"
+      },
+      {
+        "title": "Angel Interview #2: Deepali Nangia - the Angels - Substack",
+        "url": "https://alltheangels.substack.com/p/-angel-interview-2-deepali-nangia"
+      },
+      {
+        "title": "The Digital Health IPO Watchlist 2026 - by Halle Tecco - Massively Better Healthcare",
+        "url": "https://halletecco.substack.com/p/the-digital-health-ipo-watchlist"
+      },
+      {
+        "title": "How to Find Physician Investors - by Arlen Meyers, MD, MBA",
+        "url": "https://arlenmeyersmdmba.substack.com/p/how-to-find-physician-investors-e35"
+      },
+      {
+        "title": "Portraits in Digital Health - Angel Investor Dr. Salom\u00e9 de Cambra",
+        "url": "https://twidh.substack.com/p/portraits-in-digital-health-angel-investor-dr-salome-de-cambra"
+      },
+      {
+        "title": "Nobody Wants Another Point Solution in Healthcare",
+        "url": "https://arwilliamson.substack.com/p/nobody-wants-another-point-solution"
+      },
+      {
+        "title": "Digital Health in 2025: Expect Massive Public Bankruptcies ... What\u2019s Next in Digital Health? 10 Predictions for 2025 That ... Healthcare AI and Technology Investor Summit July 17th Boston #2 | Julianne Roseman, Plug and Play Digital Health: a ...",
+        "url": "https://sergeiai.substack.com/p/digital-health-in-2025-expect-massive"
+      },
+      {
+        "title": "What\u2019s Next in Digital Health? 10 Predictions for 2025 That ... Healthcare AI and Technology Investor Summit July 17th Boston #2 | Julianne Roseman, Plug and Play Digital Health: a ...",
+        "url": "https://digitalhealthinsights.substack.com/p/whats-next-in-digital-health-10-predictions"
+      },
+      {
+        "title": "Healthcare AI and Technology Investor Summit July 17th Boston",
+        "url": "https://endeavorventurefunds.substack.com/p/healthcare-ai-and-technology-investor"
+      },
+      {
+        "title": "#2 | Julianne Roseman, Plug and Play Digital Health: a ...",
+        "url": "https://nexushealth.substack.com/p/2-julianne-roseman-plug-and-play"
+      },
+      {
+        "title": "Ground Zero: How Losing Everything Taught Me to Build Angel ...",
+        "url": "https://taisiya.substack.com/p/ground-zero-how-losing-everything"
+      },
+      {
+        "title": "Y-Combinator pitch deck framework: Access 50+ decks that raised over...",
+        "url": "https://theventurecrew.substack.com/p/y-combinator-pitch-deck-framework-7e6"
+      },
+      {
+        "title": "Part 3 of the \u201cHow to Raise a Pre - Seed Round\u201d Series",
+        "url": "https://afirsttimefounder.substack.com/p/find-your-first-investor-and-make-a-great-pitch-deck-at-the-same-time"
+      },
+      {
+        "title": "The Main Criteria for an Angel Investment",
+        "url": "https://agaton.substack.com/p/the-main-criteria-for-an-angel-investment"
+      },
+      {
+        "title": "Abhishek Maran on Substack: \"Last week I spent an afternoon chatting...",
+        "url": "https://substack.com/@abhim/note/c-51014347"
+      },
+      {
+        "title": "Inside the Mind of an Angel Investor - by Martyn Eeles - HealthVC",
+        "url": "https://healthvc.substack.com/p/inside-the-mind-of-an-angel-investor"
+      },
+      {
+        "title": "Angel Investing - by Anu - Working Theorys",
+        "url": "https://substack.com/home/post/p-140607258?utm_campaign=post"
+      },
+      {
+        "title": "Founders-Angels Investing in Digital Health",
+        "url": "https://nadavshi.substack.com/p/founders-angels-investing-in-digital"
+      },
+      {
+        "title": "The Longevity Land Grab - by Aaron Miller and Brian Reilly",
+        "url": "https://willventures.substack.com/p/the-longevity-land-grab"
+      },
+      {
+        "title": "Consumer Benchmark Report: Health & Wellness: Longevity",
+        "url": "https://brandcapitalfund.substack.com/p/consumer-benchmark-report-health-1c2"
+      },
+      {
+        "title": "Where Investors Should Place Their Bets: Disability and ...",
+        "url": "https://jonathanjkaufman.substack.com/p/where-investors-should-place-their"
+      },
+      {
+        "title": "Next-Generation Growth: Why Investors Should Bet on the ...",
+        "url": "https://jonathanjkaufman.substack.com/p/next-generation-growth-why-investors"
+      },
+      {
+        "title": "Longevity: Reshaping Consumer Behavior Before it Becomes a ...",
+        "url": "https://brandcapitalfund.substack.com/p/longevity-before-the-category-what"
+      },
+      {
+        "title": "The Wellness Market - by C\u00e9leste r - C\u00e9leste's Substack",
+        "url": "https://celesterecke.substack.com/p/the-wellness-market"
+      },
+      {
+        "title": "your longevity problem - by Dr. Frederik - Pioneer Playbook",
+        "url": "https://pioneerwellnessgroup.substack.com/p/the-measurement-problem"
+      },
+      {
+        "title": "The Societal Shifts Driving Increased Investment into Longevity - Shirlawn Capital Substack",
+        "url": "https://dtalpalar.substack.com/p/the-societal-shifts-driving-increased"
+      },
+      {
+        "title": "Branding longevity: the next health frontier - OFF Brand by Koto - Substack",
+        "url": "https://offbrandkoto.substack.com/p/branding-longevity-the-next-health"
+      },
+      {
+        "title": "The Future of Health Is Personal: Why Digital Longevity Tools Are Winning Investor Heart\u2014and Money - Substack",
+        "url": "https://substack.com/home/post/p-172565234"
+      },
+      {
+        "title": "Vol. 97 - Longevity: Who Are the New Wellness Seekers? - Beyond Beauty",
+        "url": "https://beyondbeauty.substack.com/p/vol-97-longevity-who-are-the-new"
+      },
+      {
+        "title": "The Pando Longevity Village Vision (Village Builder Insider #4) - Terrenity",
+        "url": "https://terrenity.substack.com/p/the-pando-longevity-village-vision"
+      },
+      {
+        "title": "Shifting Gears in Longevity: Real Solutions Beyond the Hype - Substack",
+        "url": "https://substack.com/home/post/p-149055604?utm_campaign=post"
+      },
+      {
+        "title": "Don't Die: Inside the Radical Longevity Movement Aiming to End Aging \u2014 We Spoke One-on-One With Tech Founder and Netflix Star Bryan Johnson - Well Happy Thrive",
+        "url": "https://wellhappythrive.substack.com/p/dont-die-inside-the-radical-longevity"
+      },
+      {
+        "title": "Investing in Eternal: A Targeted Approach Toward Longevity. - NEXT VENT\u016aRES Newsletter",
+        "url": "https://nextventures.substack.com/p/eternal"
+      }
+    ],
+    "emails": [
+      "femwealth@substack.com",
+      "femwealth@substack.com"
+    ]
+  },
+  "personal_sites": {
+    "sites": [],
+    "emails": [
+      "walt@disney.com",
+      "tours@epic.com",
+      "folks@folk.app",
+      "email_link_training@epic.com",
+      "mychartsupport@epic.com",
+      "email_link_mychartsupport@epic.com",
+      "email_link_consultantinquiries@epic.com",
+      "open@epic.com",
+      "email_link_media@epic.com",
+      "email_link_open@epic.com",
+      "brian.gormley@wsj.com",
+      "4e376b84dfa54d438285936f87ce3cfe@o477720.ingest.sentry.io",
+      "firsthand@sciencecenter.org",
+      "ceo@yourdomain.com",
+      "orders@chcsolutions.com",
+      "consultantinquiries@epic.com",
+      "reach@campaignlake.com",
+      "steve@angelspartners.com",
+      "userwebsupport@epic.com",
+      "orders@healthsourcemedicalsupply.com",
+      "email_link_userwebsupport@epic.com",
+      "email_link_careers@epic.com",
+      "training@epic.com",
+      "hi@anglehealth.com",
+      "btai@crv.com",
+      "reach@esalesclub.com",
+      "clientservice@rho.co",
+      "nathan@longevitylist.com",
+      "providers@anglehealth.com",
+      "members@anglehealth.com",
+      "email_link_tours@epic.com",
+      "smartypants@vc.com",
+      "sdickey@angelcapitalassociation.org"
+    ],
+    "email_details": [
+      {
+        "email": "firsthand@sciencecenter.org",
+        "source_url": "https://sciencecenter.org/programs/curriculum/health-sciences-sprint",
+        "source_title": "Science Center | Health Sciences Sprint",
+        "query": "\"angel investor\" \"health\" contact email -linkedin -twitter -"
+      },
+      {
+        "email": "walt@disney.com",
+        "source_url": "https://www.folk.app/articles/angel-investors-in-digital-health-the-full-list",
+        "source_title": "Top Angel Investors in Digital Health: Comprehensive Guide - folk CRM",
+        "query": "\"angel investor\" \"digital health\" \"about me\" OR \"contact\" em"
+      },
+      {
+        "email": "folks@folk.app",
+        "source_url": "https://www.folk.app/articles/angel-investors-in-digital-health-the-full-list",
+        "source_title": "Top Angel Investors in Digital Health: Comprehensive Guide - folk CRM",
+        "query": "\"angel investor\" \"digital health\" \"about me\" OR \"contact\" em"
+      },
+      {
+        "email": "clientservice@rho.co",
+        "source_url": "https://www.rho.co/blog/angel-investors-for-consumer-health",
+        "source_title": "13 Angel Investors for Your Consumer Health Startup - Rho",
+        "query": "\"angel investor\" \"digital health\" \"about me\" OR \"contact\" em"
+      },
+      {
+        "email": "steve@angelspartners.com",
+        "source_url": "https://angelspartners.com/firm/RockHealthCapital",
+        "source_title": "Get Rock Health Capital contact and information in the United ...",
+        "query": "angel investor health \"reach out\" OR \"get in touch\" email"
+      },
+      {
+        "email": "reach@campaignlake.com",
+        "source_url": "https://www.campaignlake.com/investors-data/hedge-fund/",
+        "source_title": "Hedge Fund Email List \u2013 100% Verified Investor Contacts 2025",
+        "query": "angel investor health \"reach out\" OR \"get in touch\" email"
+      },
+      {
+        "email": "smartypants@vc.com",
+        "source_url": "https://www.hustlefund.vc/post/the-complete-guide-to-pre-seed-capital-everything-angel-investors-need-to-know",
+        "source_title": "The Complete Guide to Pre-Seed Capital: Everything Angel ...",
+        "query": "angel investor \"pre-seed\" health \"my portfolio\" email"
+      },
+      {
+        "email": "4e376b84dfa54d438285936f87ce3cfe@o477720.ingest.sentry.io",
+        "source_url": "https://about.me/maxeffgen",
+        "source_title": "Max Effgen | about.me",
+        "query": "site:about.me angel investor health"
+      },
+      {
+        "email": "4e376b84dfa54d438285936f87ce3cfe@o477720.ingest.sentry.io",
+        "source_url": "https://about.me/nicolejunkermann",
+        "source_title": "Nicole Junkermann - London, UK | about.me",
+        "query": "site:about.me angel investor health"
+      },
+      {
+        "email": "4e376b84dfa54d438285936f87ce3cfe@o477720.ingest.sentry.io",
+        "source_url": "https://about.me/hazelgrace",
+        "source_title": "Hazel Grace - Seattle, Angel Investor and LP | about.me",
+        "query": "site:about.me angel investor health"
+      },
+      {
+        "email": "4e376b84dfa54d438285936f87ce3cfe@o477720.ingest.sentry.io",
+        "source_url": "https://about.me/charles-moscoe",
+        "source_title": "Charles Moscoe - Bridgetown, Barbados | about.me",
+        "query": "site:about.me angel investor health"
+      },
+      {
+        "email": "4e376b84dfa54d438285936f87ce3cfe@o477720.ingest.sentry.io",
+        "source_url": "https://about.me/fdebong",
+        "source_title": "Fredrik Debong - Vienna, Austria, Cofounder and Community ...",
+        "query": "site:about.me angel investor health"
+      },
+      {
+        "email": "4e376b84dfa54d438285936f87ce3cfe@o477720.ingest.sentry.io",
+        "source_url": "https://about.me/amcc",
+        "source_title": "Andrew McCormack | about.me",
+        "query": "site:about.me angel investor wellness AI"
+      },
+      {
+        "email": "4e376b84dfa54d438285936f87ce3cfe@o477720.ingest.sentry.io",
+        "source_url": "https://about.me/billtai",
+        "source_title": "Bill Tai - California, Venture Capitalist , Harvard MBA, BSEE ...",
+        "query": "site:about.me angel investor wellness AI"
+      },
+      {
+        "email": "btai@crv.com",
+        "source_url": "https://about.me/billtai",
+        "source_title": "Bill Tai - California, Venture Capitalist , Harvard MBA, BSEE ...",
+        "query": "site:about.me angel investor wellness AI"
+      },
+      {
+        "email": "4e376b84dfa54d438285936f87ce3cfe@o477720.ingest.sentry.io",
+        "source_url": "https://about.me/marcisrael",
+        "source_title": "Marc Israel - Maurice, Aetheis, MSc of Engineering, Major in ...",
+        "query": "site:about.me angel investor wellness AI"
+      },
+      {
+        "email": "4e376b84dfa54d438285936f87ce3cfe@o477720.ingest.sentry.io",
+        "source_url": "https://about.me/michaelshoniker",
+        "source_title": "Michael Shoniker - Charlotte, North Carolina, State ...",
+        "query": "site:about.me angel investor wellness AI"
+      },
+      {
+        "email": "hi@anglehealth.com",
+        "source_url": "https://www.anglehealth.com/",
+        "source_title": "The Modern Health Insurance Plan",
+        "query": "angel investor health blog \"email me\" OR \"reach me\""
+      },
+      {
+        "email": "providers@anglehealth.com",
+        "source_url": "https://www.anglehealth.com/",
+        "source_title": "The Modern Health Insurance Plan",
+        "query": "angel investor health blog \"email me\" OR \"reach me\""
+      },
+      {
+        "email": "members@anglehealth.com",
+        "source_url": "https://www.anglehealth.com/",
+        "source_title": "The Modern Health Insurance Plan",
+        "query": "angel investor health blog \"email me\" OR \"reach me\""
+      },
+      {
+        "email": "brian.gormley@wsj.com",
+        "source_url": "https://www.wsj.com/articles/three-healthcare-vcs-that-are-beating-a-tough-fundraising-market-c2482ccc",
+        "source_title": "Three Healthcare VCs That Are Beating a Tough Fundraising ...",
+        "query": "angel investor health blog \"email me\" OR \"reach me\""
+      },
+      {
+        "email": "orders@chcsolutions.com",
+        "source_url": "https://www.chcsolutions.com/contact/",
+        "source_title": "Contact - CHC Solutions",
+        "query": "\"angel investor\" \"health tech\" site:.com/about OR site:.com/"
+      },
+      {
+        "email": "orders@healthsourcemedicalsupply.com",
+        "source_url": "https://www.chcsolutions.com/contact/",
+        "source_title": "Contact - CHC Solutions",
+        "query": "\"angel investor\" \"health tech\" site:.com/about OR site:.com/"
+      },
+      {
+        "email": "consultantinquiries@epic.com",
+        "source_url": "https://www.epic.com/contact/",
+        "source_title": "Contact - Epic",
+        "query": "\"angel investor\" \"health tech\" site:.com/about OR site:.com/"
+      },
+      {
+        "email": "email_link_open@epic.com",
+        "source_url": "https://www.epic.com/contact/",
+        "source_title": "Contact - Epic",
+        "query": "\"angel investor\" \"health tech\" site:.com/about OR site:.com/"
+      },
+      {
+        "email": "tours@epic.com",
+        "source_url": "https://www.epic.com/contact/",
+        "source_title": "Contact - Epic",
+        "query": "\"angel investor\" \"health tech\" site:.com/about OR site:.com/"
+      },
+      {
+        "email": "userwebsupport@epic.com",
+        "source_url": "https://www.epic.com/contact/",
+        "source_title": "Contact - Epic",
+        "query": "\"angel investor\" \"health tech\" site:.com/about OR site:.com/"
+      },
+      {
+        "email": "open@epic.com",
+        "source_url": "https://www.epic.com/contact/",
+        "source_title": "Contact - Epic",
+        "query": "\"angel investor\" \"health tech\" site:.com/about OR site:.com/"
+      },
+      {
+        "email": "email_link_media@epic.com",
+        "source_url": "https://www.epic.com/contact/",
+        "source_title": "Contact - Epic",
+        "query": "\"angel investor\" \"health tech\" site:.com/about OR site:.com/"
+      },
+      {
+        "email": "email_link_training@epic.com",
+        "source_url": "https://www.epic.com/contact/",
+        "source_title": "Contact - Epic",
+        "query": "\"angel investor\" \"health tech\" site:.com/about OR site:.com/"
+      },
+      {
+        "email": "email_link_userwebsupport@epic.com",
+        "source_url": "https://www.epic.com/contact/",
+        "source_title": "Contact - Epic",
+        "query": "\"angel investor\" \"health tech\" site:.com/about OR site:.com/"
+      },
+      {
+        "email": "email_link_tours@epic.com",
+        "source_url": "https://www.epic.com/contact/",
+        "source_title": "Contact - Epic",
+        "query": "\"angel investor\" \"health tech\" site:.com/about OR site:.com/"
+      },
+      {
+        "email": "mychartsupport@epic.com",
+        "source_url": "https://www.epic.com/contact/",
+        "source_title": "Contact - Epic",
+        "query": "\"angel investor\" \"health tech\" site:.com/about OR site:.com/"
+      },
+      {
+        "email": "email_link_mychartsupport@epic.com",
+        "source_url": "https://www.epic.com/contact/",
+        "source_title": "Contact - Epic",
+        "query": "\"angel investor\" \"health tech\" site:.com/about OR site:.com/"
+      },
+      {
+        "email": "email_link_careers@epic.com",
+        "source_url": "https://www.epic.com/contact/",
+        "source_title": "Contact - Epic",
+        "query": "\"angel investor\" \"health tech\" site:.com/about OR site:.com/"
+      },
+      {
+        "email": "training@epic.com",
+        "source_url": "https://www.epic.com/contact/",
+        "source_title": "Contact - Epic",
+        "query": "\"angel investor\" \"health tech\" site:.com/about OR site:.com/"
+      },
+      {
+        "email": "email_link_consultantinquiries@epic.com",
+        "source_url": "https://www.epic.com/contact/",
+        "source_title": "Contact - Epic",
+        "query": "\"angel investor\" \"health tech\" site:.com/about OR site:.com/"
+      },
+      {
+        "email": "reach@esalesclub.com",
+        "source_url": "https://www.esalesclub.com/investors-email-list/angel-investor-email-list/",
+        "source_title": "Angel Investors Email List | Reach 4K+ Angel Investors",
+        "query": "\"angel investor\" directory health email"
+      },
+      {
+        "email": "reach@campaignlake.com",
+        "source_url": "https://www.campaignlake.com/investors-data/angel-investors/",
+        "source_title": "Top Angel Investors Email List \u2013 100% Verified Contacts 2025",
+        "query": "\"angel investor\" directory health email"
+      },
+      {
+        "email": "sdickey@angelcapitalassociation.org",
+        "source_url": "https://angelcapitalassociation.org/directory/",
+        "source_title": "Directory - Angel Capital Association",
+        "query": "\"angel investor\" directory health email"
+      },
+      {
+        "email": "nathan@longevitylist.com",
+        "source_url": "https://longevitylist.com/about/",
+        "source_title": "About - Longevity List",
+        "query": "angel investor longevity AI \"contact me\" email"
+      },
+      {
+        "email": "ceo@yourdomain.com",
+        "source_url": "https://www.streak.com/post/how-to-write-a-cold-email-to-an-investor-and-grab-their-attention",
+        "source_title": "How to write a cold email to investors (sample emails ...",
+        "query": "angel investor longevity AI \"contact me\" email"
+      }
+    ]
+  }
+}

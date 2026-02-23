@@ -1,0 +1,37 @@
+{
+  "7wireVentures": {
+    "error": "Traceback (most recent call last):\n  File \"/Users/jaiashar/Documents/VoraBusinessFinder/InvestorOutreach/.venv/bin/crosslinked\", line 6, in <module>\n    sys.exit(main())\n             ~~~~^^\n  File \"/U",
+    "emails": [],
+    "names": []
+  },
+  "Rock Health": {
+    "error": "Traceback (most recent call last):\n  File \"/Users/jaiashar/Documents/VoraBusinessFinder/InvestorOutreach/.venv/bin/crosslinked\", line 6, in <module>\n    sys.exit(main())\n             ~~~~^^\n  File \"/U",
+    "emails": [],
+    "names": []
+  },
+  "Andreessen Horowitz": {
+    "error": "Traceback (most recent call last):\n  File \"/Users/jaiashar/Documents/VoraBusinessFinder/InvestorOutreach/.venv/bin/crosslinked\", line 6, in <module>\n    sys.exit(main())\n             ~~~~^^\n  File \"/U",
+    "emails": [],
+    "names": []
+  },
+  "General Catalyst": {
+    "error": "Traceback (most recent call last):\n  File \"/Users/jaiashar/Documents/VoraBusinessFinder/InvestorOutreach/.venv/bin/crosslinked\", line 6, in <module>\n    sys.exit(main())\n             ~~~~^^\n  File \"/U",
+    "emails": [],
+    "names": []
+  },
+  "Founders Fund": {
+    "error": "Traceback (most recent call last):\n  File \"/Users/jaiashar/Documents/VoraBusinessFinder/InvestorOutreach/.venv/bin/crosslinked\", line 6, in <module>\n    sys.exit(main())\n             ~~~~^^\n  File \"/U",
+    "emails": [],
+    "names": []
+  },
+  "Khosla Ventures": {
+    "error": "Traceback (most recent call last):\n  File \"/Users/jaiashar/Documents/VoraBusinessFinder/InvestorOutreach/.venv/bin/crosslinked\", line 6, in <module>\n    sys.exit(main())\n             ~~~~^^\n  File \"/U",
+    "emails": [],
+    "names": []
+  },
+  "Accel Partners": {
+    "error": "Traceback (most recent call last):\n  File \"/Users/jaiashar/Documents/VoraBusinessFinder/InvestorOutreach/.venv/bin/crosslinked\", line 6, in <module>\n    sys.exit(main())\n             ~~~~^^\n  File \"/U",
+    "emails": [],
+    "names": []
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "test_date": "2026-02-11T10:08:27.470636",
+  "method": "instaloader_logged_in + url_scraping",
+  "ig_account": "johnreza2342",
+  "accounts_tested": [
+    "kayla_itsines",
+    "whitneyysimmons",
+    "drjohnrusin",
+    "soheefit",
+    "mindpumpmedia"
+  ],
+  "profiles": [
+    {
+      "username": "kayla_itsines",
+      "full_name": "KAYLA ITSINES",
+      "bio": "Founder @SWEAT \ud83e\ude77\nMum & wife \ud83d\udc8d\ud83d\udc76\ud83c\udffb\ud83d\udc67\ud83c\udffb\u2028I\u2019ve helped over 12 million women transform their lives\nI can help you too for less than 40 cents a day \ud83d\ude01\u2b07\ufe0f",
+      "emails_from_bio": [],
+      "business_email": null,
+      "business_phone": null,
+      "business_category": "None",
+      "external_url": "http://sweat.com/k/7dayfreetrial",
+      "followers": 15637525,
+      "following": 752,
+      "is_business": true,
+      "is_verified": true,
+      "error": null,
+      "url_emails": [
+        "5ca4fe941aaa063cc28418aec8348686@o4506946402713600.ingest.us.sentry.io"
+      ]
+    },
+    {
+      "username": "whitneyysimmons",
+      "full_name": "Whitney Simmons",
+      "bio": "It\u2019s a beautiful day to be ALIVE \ud83c\udf6d\ud83d\udefc\ud83e\uded0\ud83e\udee7\ud83e\ude75\nTrain with me on @thealiveapp\n\u2063\u2063\u2063\nGymshark & Alani Nu Athlete | code: whitney10\n\ud83d\udc8c teamwhitney@smithsaint.com",
+      "emails_from_bio": [
+        "teamwhitney@smithsaint.com"
+      ],
+      "business_email": null,
+      "business_phone": null,
+      "business_category": null,
+      "external_url": "https://linktr.ee/Whitneyysimmons",
+      "followers": 4026148,
+      "following": 598,
+      "is_business": false,
+      "is_verified": true,
+      "error": null,
+      "url_emails": [
+        "teamwhitney@smithsaint.com"
+      ]
+    },
+    {
+      "username": "drjohnrusin",
+      "full_name": "John Rusin",
+      "bio": "\ud83c\udfc5America\u2019s Top 50 Health & Fitness Expert\n\ud83d\udcc3Founder/CEO Pain-Free Performance\n\ud83d\udc47Get My Book, Join My App, Apply For Coaching",
+      "emails_from_bio": [],
+      "business_email": null,
+      "business_phone": null,
+      "business_category": "Creators & Celebrities",
+      "external_url": "http://train.becomeunbreakable.com/",
+      "followers": 370651,
+      "following": 795,
+      "is_business": true,
+      "is_verified": true,
+      "error": null,
+      "url_emails": [
+        "user@domain.com"
+      ]
+    },
+    {
+      "username": "soheefit",
+      "full_name": "Sohee Carpenter, PhD, CSCS,*D",
+      "bio": "Realistic health and fitness \ud83d\udcaa\ud83e\udd70\u2028\ud83d\udc93@momentumbysohee app \n\ud83d\udc93@allorsomethingpodcast\u2028\ud83d\udc93@pescience\u00a0@runna soheefit\n\ud83d\udc97@adidas athlete",
+      "emails_from_bio": [],
+      "business_email": null,
+      "business_phone": null,
+      "business_category": "None",
+      "external_url": "https://linktr.ee/SoheeFit",
+      "followers": 670213,
+      "following": 470,
+      "is_business": true,
+      "is_verified": true,
+      "error": null,
+      "url_emails": [
+        "info@soheefit.com"
+      ]
+    },
+    {
+      "username": "mindpumpmedia",
+      "full_name": "Mind Pump",
+      "bio": "\ud83c\udf99\ufe0f Top Fitness Podcast | 100M+ Downloads\n\ud83d\udd25 Real fitness advice that actually works\n\ud83c\udfa7 Listen on Spotify, Apple, YouTube\n\ud83d\udc47 Free workout programs & tools",
+      "emails_from_bio": [],
+      "business_email": null,
+      "business_phone": null,
+      "business_category": "None",
+      "external_url": "https://mindpump.komi.io/",
+      "followers": 370972,
+      "following": 1257,
+      "is_business": true,
+      "is_verified": true,
+      "error": null
+    }
+  ],
+  "total_with_email": 4
+}
