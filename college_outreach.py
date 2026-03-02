@@ -34,7 +34,8 @@ from datetime import datetime, timezone
 from dotenv import load_dotenv
 from sendgrid import SendGridAPIClient
 from sendgrid.helpers.mail import (
-    Mail, Email, To, Bcc, Personalization, Content, Category, CustomArg
+    Mail, Email, To, Bcc, Personalization, Content, Category, CustomArg,
+    TrackingSettings, OpenTracking,
 )
 from supabase import create_client
 
@@ -692,6 +693,10 @@ def send_email(to_email, subject, html_content, bcc_email=None,
     message.add_personalization(personalization)
 
     message.add_content(Content('text/html', html_content))
+
+    message.tracking_settings = TrackingSettings(
+        open_tracking=OpenTracking(enable=False),
+    )
 
     # Categories go on the message level for SendGrid analytics
     if categories:
