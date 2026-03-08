@@ -104,13 +104,15 @@ FUND_TYPES = {
         'body': lambda fund_name: f"""\
 <p>Hi,</p>
 
-<p>I'm Jai, founder & CEO of <a href="{VORA['website']}" style="color:#222;">Vora</a>. I'm reaching out because {fund_name}'s focus on digital health and healthcare innovation is directly aligned with what we're building.</p>
+<p>I'm Jai, founder & CEO of <a href="{VORA['website']}" style="color:#222;">Vora Health</a>. I'm reaching out because {fund_name}'s focus on digital health and healthcare innovation is directly aligned with what we're building.</p>
 
-<p>Vora is building the <strong>AI health recommendations system</strong> - the intelligence layer that sits on top of all your health data and tells you exactly what to do to optimize your body. We sync with 500+ wearables (Apple Watch, Whoop, Garmin, and more) and generate fully personalized nutrition, fitness, sleep, and longevity protocols. Think of it as the Netflix recommendation engine, but for your health: the more data we have, the more precise and valuable the recommendations become.</p>
+<p>Vora Health is building the <strong>proactive AI health recommendations system</strong> - the intelligence layer that sits on top of all your health data and tells you exactly what to do to optimize your body. We sync with 500+ wearables (Apple Watch, Whoop, Garmin, and more) and generate fully personalized nutrition, fitness, sleep, and longevity protocols. Think of it as the Netflix recommendation engine, but for your health: the more data we have, the more precise and valuable the recommendations become.</p>
 
-<p>We launched three weeks ago and are already at <strong>311 daily active users</strong> with <strong>103K organic social views</strong> and strong early retention. We're raising a <strong>$2M seed round</strong> and have 2 committed investors. Beyond capital, we're looking for strategic partners - investors who understand the healthcare ecosystem and can help us reach the right enterprise and B2B2C channels where Vora's value is highest.</p>
+<p>We launched three weeks ago and are already at around <strong>300 daily active users</strong> with <strong>~500K organic social views</strong> across our accounts and strong early retention. We're raising a <strong>$2M seed round</strong> and have 2 committed investors. Beyond capital, we're looking for strategic partners - investors who understand the healthcare ecosystem and can help us reach the right enterprise and B2B2C channels where Vora's value is highest.</p>
 
 <p>The long-term vision is a health OS that every person, health system, insurer, and employer uses to drive better outcomes at scale. We believe the data network effects we're building now become a significant moat.</p>
+
+<p>You can read our full investor memo here: <a href="https://luminous-cloak-5c9.notion.site/Vora-Memo-27a73321712380b6958ff7f6b89f0eaf?pvs=74" style="color:#222;">Vora Memo</a></p>
 
 <p>Would you be open to a conversation? Happy to also add you to our biweekly investor update so you can track our momentum. You can <a href="{VORA['calendly']}" style="color:#222;">grab a time here</a> or just reply to this email.</p>"""
     },
@@ -121,13 +123,15 @@ FUND_TYPES = {
         'body': lambda fund_name: f"""\
 <p>Hi,</p>
 
-<p>I'm Jai, founder & CEO of <a href="{VORA['website']}" style="color:#222;">Vora</a>. I'm building what I believe will become the defining <strong>AI health recommendations system</strong> of the next decade, and I wanted to reach out to {fund_name} directly.</p>
+<p>I'm Jai, founder & CEO of <a href="{VORA['website']}" style="color:#222;">Vora Health</a>. I'm building what I believe will become the defining <strong>proactive AI health recommendations system</strong> of the next decade, and I wanted to reach out to {fund_name} directly.</p>
 
-<p>Vora syncs with 500+ wearables (Apple Watch, Whoop, Garmin, and more) and uses AI to generate fully personalized nutrition, fitness, sleep, and longevity plans for each user. The analogy I use: Spotify's discovery algorithm changed how the world listens to music. Vora is doing the same for health - turning raw biometric data into the exact actions each person needs to live better and longer.</p>
+<p>Vora Health syncs with 500+ wearables (Apple Watch, Whoop, Garmin, and more) and uses AI to generate fully personalized nutrition, fitness, sleep, and longevity plans for each user. The analogy I use: Spotify's discovery algorithm changed how the world listens to music. Vora is doing the same for health - turning raw biometric data into the exact actions each person needs to live better and longer.</p>
 
-<p>We launched three weeks ago and are already at <strong>311 daily active users</strong> with <strong>103K organic social views</strong> and strong early retention. We're raising a <strong>$2M seed round</strong> with 2 committed investors already in. The MENA region, with its young mobile-first population, growing wellness culture, and government investment in digital health, is a significant part of our expansion vision.</p>
+<p>We launched three weeks ago and are already at around <strong>300 daily active users</strong> with <strong>~500K organic social views</strong> across our accounts and strong early retention. We're raising a <strong>$2M seed round</strong> with 2 committed investors already in. The MENA region, with its young mobile-first population, growing wellness culture, and government investment in digital health, is a significant part of our expansion vision.</p>
 
 <p>We're looking for investors who can help us move fast, open doors in key markets, and build toward a Series A within 12 to 18 months. The data network effects we're building today become the moat tomorrow.</p>
+
+<p>You can read our full investor memo here: <a href="https://luminous-cloak-5c9.notion.site/Vora-Memo-27a73321712380b6958ff7f6b89f0eaf?pvs=74" style="color:#222;">Vora Memo</a></p>
 
 <p>Would you be open to a quick call? I can also add you to our biweekly investor update so you can track our progress. <a href="{VORA['calendly']}" style="color:#222;">Grab a time here</a> or just reply.</p>"""
     },
@@ -279,7 +283,6 @@ def send_live_outreach(dry_run=False, type_filter=None):
             to_email=contact_email,
             subject=subject,
             html_content=html,
-            bcc_email=BCC_EMAIL,
         )
 
         if status and 200 <= status < 300:
